@@ -1,0 +1,28 @@
+{
+    "alwyzon.net": [],
+    "zappiehost.com": [
+        "lg-nz.zappiehost.com",
+        "lg-za.zappiehost.com"
+    ],
+    "webhorizon.in": [
+        "tyo.lg.webhorizon.in",
+        "waw.lg.webhorizon.in"
+    ],
+    "haendler.it": [
+        "lg.nl.haendler.it"
+    ],
+    "happybeehost.com": [
+        "lg-pl.happybeehost.com"
+    ],
+    "drserver.net": [
+        "lg-dal.ipv4.drserver.net",
+        "lg-dal.ipv6.drserver.net"
+    ],
+    "spryservers.net": [
+        "lg.phx1.spryservers.net",
+        "lg.dal1.spryservers.net"
+    ],
+    "hostmayo.com": [
+        "lg.hostmayo.com"
+    ]
+}
