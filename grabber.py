@@ -47,7 +47,7 @@ for element in folders:
     else:
         files = os.listdir(folder+"/"+element)
         for file in files:
-            if element.endswith(".html") or element.endswith(".json"):
+            if file.endswith(".html") or file.endswith(".json"):
                 parse(folder+"/"+element+"/"+file)
 
 print("Validating")
