@@ -60,5 +60,5 @@ for domain in lg:
         lg[domain].remove(url)
 
 print(f"Saving {default}")
-with open(os.getcwd()+'/'+default, 'w') as f:
+with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(lg, f, indent=4)
