@@ -1,0 +1,63 @@
+{
+    "cometvps.com": [
+        "lg.chi1.cometvps.com",
+        "lg.buf1.cometvps.com"
+    ],
+    "cloudc.one": [
+        "la.lg.cloudc.one"
+    ],
+    "crissic.net": [],
+    "archhosting.net": [],
+    "drserver.net": [
+        "lg-dal.ipv4.drserver.net",
+        "lg-dal.ipv6.drserver.net"
+    ],
+    "controlvm.com": [
+        "lg.my.controlvm.com",
+        "lg.sg.controlvm.com"
+    ],
+    "hostmayo.com": [
+        "lg.hostmayo.com"
+    ],
+    "bacloud.com": [
+        "lg-lt-eu.bacloud.com",
+        "lg-nl-eu.bacloud.com",
+        "lg-chi-us.bacloud.com"
+    ],
+    "serverlogix.net": [],
+    "myservercontrol.com": [
+        "chi01.lg.myservercontrol.com"
+    ],
+    "thestack.net": [],
+    "hosteons.com": [
+        "lg.hosteons.com"
+    ],
+    "qhoster.com": [
+        "lg-us1.qhoster.com",
+        "lg-de.qhoster.com",
+        "lg-fr.qhoster.com"
+    ],
+    "first-root.com": [
+        "lg.first-root.com"
+    ],
+    "hitbegin.net": [],
+    "clouveo.com": [],
+    "ftpit.com": [
+        "losangeles.lg.ftpit.com"
+    ],
+    "iniz.com": [
+        "nyc-us.lg.iniz.com",
+        "ams-nl.lg.iniz.com"
+    ],
+    "ikoula.com": [
+        "lg.de.ikoula.com",
+        "lg.nl.ikoula.com",
+        "lg.sg.ikoula.com",
+        "lg.ikdc1.ikoula.com",
+        "lg.ikdc2.ikoula.com"
+    ],
+    "ceuservers.net": [],
+    "fdcservers.net": [
+        "lg.fdcservers.net"
+    ]
+}

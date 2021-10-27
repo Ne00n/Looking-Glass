@@ -1,0 +1,139 @@
+{
+    "teraswitch.com": [
+        "lg.teraswitch.com",
+        "lg.lax.teraswitch.com"
+    ],
+    "readydedis.com": [
+        "lg.nyc01.readydedis.com",
+        "lg.atl01.readydedis.com",
+        "lg.ger01.readydedis.com",
+        "lg.jax01.readydedis.com"
+    ],
+    "cloudc.one": [
+        "la.lg.cloudc.one"
+    ],
+    "hosteons.com": [
+        "lg.hosteons.com",
+        "lg.ny.hosteons.com",
+        "lg.jax.hosteons.com",
+        "lg.la.hosteons.com",
+        "lg.vegas.hosteons.com"
+    ],
+    "drserver.net": [
+        "lg-dal.ipv4.drserver.net",
+        "lg-dal.ipv6.drserver.net"
+    ],
+    "ssdblaze.com": [
+        "lg-dal.ssdblaze.com"
+    ],
+    "extravm.com": [
+        "dal.lg.extravm.com"
+    ],
+    "hostworld.uk": [],
+    "powerfulbox.co.uk": [],
+    "quickpacket.com": [
+        "lg.lax01.quickpacket.com",
+        "lg.clt01.quickpacket.com",
+        "lg.lax.quickpacket.com",
+        "lg.chi01.quickpacket.com",
+        "lg.clt.quickpacket.com"
+    ],
+    "atcloud.net": [
+        "lg.atcloud.net"
+    ],
+    "prowhost.com": [
+        "lg.prowhost.com"
+    ],
+    "scowebhosting.club": [
+        "lg-nyc.scowebhosting.club"
+    ],
+    "mrvm.net": [
+        "lg-de-fks.mrvm.net",
+        "lg-bg-sof.mrvm.net",
+        "lg-no-san.mrvm.net",
+        "lg-us-kck.mrvm.net",
+        "lg-us-ler.mrvm.net",
+        "lg-au-syd.mrvm.net",
+        "lg-au-per.mrvm.net",
+        "lg-sg-sin.mrvm.net",
+        "lg-us-bei.mrvm.net"
+    ],
+    "scohostings.com": [
+        "lg-nyc.scohostings.com"
+    ],
+    "nexril.net": [
+        "lg.nexril.net"
+    ],
+    "flowvps.com": [],
+    "clouveo.com": [],
+    "liteserver.nl": [
+        "lg-dro.liteserver.nl"
+    ],
+    "vikinglayer.com": [
+        "lg.dal.vikinglayer.com"
+    ],
+    "knownhost.com": [
+        "lg.atl.knownhost.com"
+    ],
+    "khanwebhost.com": [],
+    "getwebhosting.co.uk": [
+        "lg-fin.getwebhosting.co.uk"
+    ],
+    "tmthosting.net": [
+        "lg-dal.tmthosting.net",
+        "lg-sea.tmthosting.net",
+        "lg-lon.tmthosting.net"
+    ],
+    "cspacehostings.com": [
+        "lg.cspacehostings.com"
+    ],
+    "artnet.pl": [
+        "lg.artnet.pl"
+    ],
+    "skylonhost.com": [
+        "lg.skylonhost.com"
+    ],
+    "hostmayo.com": [
+        "lg.hostmayo.com"
+    ],
+    "x4b.net": [
+        "lg.x4b.net"
+    ],
+    "alwyzon.com": [],
+    "alwyzon.net": [],
+    "webhorizon.in": [
+        "lax.lg.webhorizon.in",
+        "nyc.lg.webhorizon.in",
+        "zrh.lg.webhorizon.in",
+        "dro.lg.webhorizon.in",
+        "tyo.lg.webhorizon.in",
+        "ams.lg.webhorizon.in"
+    ],
+    "ultravps.eu": [
+        "lg.ams.nl.ultravps.eu",
+        "lg.kiv.md.ultravps.eu",
+        "lg.dus.de.ultravps.eu",
+        "lg.dal.us.ultravps.eu",
+        "lg.lon.uk.ultravps.eu",
+        "lg.lax.us.ultravps.eu",
+        "lg.sqq.lt.ultravps.eu"
+    ],
+    "ownbox.co.uk": [],
+    "webhosting24.com": [
+        "lg.sg.webhosting24.com"
+    ],
+    "hostio.solutions": [
+        "lg.hostio.solutions"
+    ],
+    "first-root.com": [
+        "lg.first-root.com"
+    ],
+    "racknerd.com": [],
+    "sviking.uk": [],
+    "ho-ost.com": [
+        "lg-nc.ho-ost.com"
+    ],
+    "vmhaus.com": [
+        "lg.vmhaus.com"
+    ]
+}
