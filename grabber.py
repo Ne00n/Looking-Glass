@@ -77,7 +77,7 @@ for element,urls in list.items():
     if len(urls) > 0:
         readme += "### "+element+"\n"
         for url in urls:
-            readme += "* ["+url+"]("+url+")\n"
+            readme += "* [http://"+url+"]("+url+")\n"
 
 with open(os.getcwd()+"/README.md", 'w') as f:
     f.write(readme)
