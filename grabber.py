@@ -1,11 +1,11 @@
 import tldextract, requests
-import sys, os, re
+import json, sys, os, re
 
 def parse(file):
     global lg
     with open(file, 'r') as f:
         file = f.read()
-    matches = re.findall("(lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]*)",file, re.MULTILINE | re.DOTALL)
+    matches = re.findall("(lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15})",file, re.MULTILINE | re.DOTALL)
     if matches:
         for match in matches:
             if len(match) > 5:
@@ -30,7 +30,7 @@ if len(sys.argv) == 1:
     print("grabber.py /data/path output.json (optional)")
     sys.exit()
 
-if len(sys.argv) == 2:
+if len(sys.argv) == 3:
     default = sys.argv[2]
 else:
      default = "default.json"
