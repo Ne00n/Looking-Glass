@@ -5,13 +5,16 @@ def parse(file):
     global lg
     with open(file, 'r') as f:
         file = f.read()
-    matches = re.findall("(lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15})",file, re.MULTILINE | re.DOTALL)
-    if matches:
-        for match in matches:
-            if len(match) > 5:
-                domain = tldextract.extract(match).registered_domain
-                if not domain in lg: lg[domain] = []
-                if not match in lg[domain]: lg[domain].append(match)
+    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*\.lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
+    for regex in patterns:
+        matches = re.findall(regex,file, re.MULTILINE | re.DOTALL)
+        if matches:
+            for match in matches:
+                if len(match) > 5:
+                    domain = tldextract.extract(match).registered_domain
+                    if domain == "": continue
+                    if not domain in lg: lg[domain] = []
+                    if not match in lg[domain]: lg[domain].append(match)
 
 def get(url):
     try:
@@ -21,7 +24,6 @@ def get(url):
             return True
         else:
             print(f"Got {request.status_code} dropping {url}")
-            return False
     except Exception as e:
         print(e)
     return False
