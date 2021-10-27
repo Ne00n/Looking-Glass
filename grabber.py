@@ -42,12 +42,12 @@ lg = {}
 
 print(f"Parsing {folder}")
 for element in folders:
-    if element.endswith(".html"):
+    if element.endswith(".html") or element.endswith(".json"):
         parse(folder+"/"+element)
     else:
         files = os.listdir(folder+"/"+element)
         for file in files:
-            if file.endswith(".html"):
+            if element.endswith(".html") or element.endswith(".json"):
                 parse(folder+"/"+element+"/"+file)
 
 print("Validating")
