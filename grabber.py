@@ -55,10 +55,14 @@ for domain in lg:
     for url in lg[domain]:
         response = get("https://"+url)
         if response:
+            lg[domain].remove(url)
+            lg[domain].append("https://"+url)
             continue
-        else:
-            response = get("http://"+url)
-            if response: continue
+        response = get("http://"+url)
+        if response:
+            lg[domain].remove(url)
+            lg[domain].append("http://"+url)
+            continue
         lg[domain].remove(url)
 
 print(f"Saving {default}")
