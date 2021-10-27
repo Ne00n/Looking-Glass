@@ -62,3 +62,22 @@ for domain in lg:
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(lg, f, indent=4)
+
+print("Updating Readme")
+readme = "# Looking-Glass\n"
+list = {}
+files = os.listdir(os.getcwd()+"/data/")
+for file in files:
+    if file.endswith(".json"):
+        with open(os.getcwd()+"/data/"+file) as handle:
+            file = json.loads(handle.read())
+        list = dict(list, **file)
+
+for element,urls in list.items():
+    if len(urls) > 0:
+        readme += "### "+element+"\n"
+        for url in urls:
+            readme += "* ["+url+"]("+url+")\n"
+
+with open(os.getcwd()+"/README.md", 'w') as f:
+    f.write(readme)
