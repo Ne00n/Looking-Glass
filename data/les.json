@@ -4,7 +4,10 @@
         "lg-nz.zappiehost.com",
         "lg-za.zappiehost.com"
     ],
-    "webhorizon.in": [],
+    "webhorizon.in": [
+        "tyo.lg.webhorizon.in",
+        "waw.lg.webhorizon.in"
+    ],
     "haendler.it": [
         "lg.nl.haendler.it"
     ],
