@@ -5,7 +5,7 @@ def parse(file):
     global lg
     with open(file, 'r') as f:
         file = f.read()
-    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*\.lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
+    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*\.lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","lg[a-zA-Z0-9-.]*\.[a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
     for regex in patterns:
         matches = re.findall(regex,file, re.MULTILINE | re.DOTALL)
         if matches:
