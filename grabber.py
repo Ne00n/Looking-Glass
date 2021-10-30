@@ -52,7 +52,7 @@ for element in folders:
 
 print("Validating")
 for domain in lg:
-    for url in lg[domain]:
+    for url in list(lg[domain]):
         response = get("https://"+url)
         if response: continue
         response = get("http://"+url)
