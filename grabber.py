@@ -2,31 +2,33 @@ import tldextract, requests
 import json, sys, os, re
 
 def parse(file):
-    global lg
     with open(file, 'r') as f:
         file = f.read()
+    parseUrls(file)
+
+def parseUrls(html,type="lg"):
+    global data
     patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*\.lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","lg[a-zA-Z0-9-.]*\.[a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
     for regex in patterns:
-        matches = re.findall(regex,file, re.MULTILINE | re.DOTALL)
+        matches = re.findall(regex,html, re.MULTILINE | re.DOTALL)
         if matches:
             for match in matches:
                 if len(match) > 5:
                     domain = tldextract.extract(match).registered_domain
                     if domain == "": continue
-                    if not domain in lg: lg[domain] = []
-                    if not match in lg[domain]: lg[domain].append(match)
+                    if not domain in data[type]: data[type][domain] = []
+                    if not match in data[type][domain]: data[type][domain].append(match)
 
 def get(url):
     try:
         request = requests.get(url,allow_redirects=False,timeout=5)
         if (request.status_code == 200):
             print(f"Got {request.status_code} keeping {url}")
+            parseUrls(request.text,"scrap")
             return True
         else:
             print(f"Got {request.status_code} dropping {url}")
-    except Exception as e:
-        print(e)
-    return False
+    except Exception as e: return False
 
 if len(sys.argv) == 1:
     print("grabber.py /data/path output.json (optional)")
@@ -38,7 +40,7 @@ else:
      default = "default.json"
 folder = sys.argv[1]
 folders = os.listdir(folder)
-lg = {}
+data = {"lg":{},"scrap":{}}
 
 print(f"Parsing {folder}")
 for element in folders:
@@ -51,17 +53,31 @@ for element in folders:
                 parse(folder+"/"+element+"/"+file)
 
 print("Validating")
-for domain in lg:
-    for url in list(lg[domain]):
+for domain in data['lg']:
+    for url in list(data['lg'][domain]):
         response = get("https://"+url)
         if response: continue
         response = get("http://"+url)
         if response: continue
-        lg[domain].remove(url)
+        data['lg'][domain].remove(url)
+
+print("Scrapping")
+for domain in data['scrap']:
+    for url in data['scrap'][domain]:
+        if not domain in data['lg']: data['lg'][domain] = []
+        if url in data['lg'][domain]: continue
+        response = get("https://"+url)
+        if response:
+            data['lg'][domain].append(url)
+            continue
+        response = get("http://"+url)
+        if response:
+            data['lg'][domain].append(url)
+            continue
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
-    json.dump(lg, f, indent=4)
+    json.dump(data['lg'], f, indent=4)
 
 print("Updating Readme")
 readme = "# Looking-Glass\n"
