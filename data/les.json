@@ -1,4 +1,5 @@
 {
+    "drgrog.com": [],
     "alwyzon.net": [],
     "zappiehost.com": [
         "lg-nz.zappiehost.com",
@@ -23,6 +24,7 @@
         "lg.dal1.spryservers.net"
     ],
     "hostmayo.com": [
-        "lg.hostmayo.com"
+        "lg.hostmayo.com",
+        "lgnl.hostmayo.com"
     ]
 }

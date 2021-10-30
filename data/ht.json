@@ -22,7 +22,9 @@
         "lg-dal.ssdblaze.com"
     ],
     "extravm.com": [],
-    "hostworld.uk": [],
+    "hostworld.uk": [
+        "lguk.hostworld.uk"
+    ],
     "powerfulbox.co.uk": [],
     "quickpacket.com": [
         "lg.lax01.quickpacket.com",
@@ -36,6 +38,13 @@
     ],
     "prowhost.com": [
         "lg.prowhost.com"
+    ],
+    "nexusbytes.com": [
+        "lgger.nexusbytes.com",
+        "lgla.nexusbytes.com",
+        "lgny.nexusbytes.com",
+        "lgmel.nexusbytes.com",
+        "lgnl.nexusbytes.com"
     ],
     "scowebhosting.club": [],
     "mrvm.net": [
@@ -60,8 +69,21 @@
     "vikinglayer.com": [
         "lg.dal.vikinglayer.com"
     ],
+    "hostmayo.com": [
+        "lg.hostmayo.com",
+        "lgnl.hostmayo.com"
+    ],
+    "apeweb.uk": [
+        "lg.no.apeweb.uk"
+    ],
     "knownhost.com": [
         "lg.atl.knownhost.com"
+    ],
+    "alphavps.com": [
+        "lgbg.alphavps.com",
+        "lgde.alphavps.com",
+        "lguk.alphavps.com",
+        "lgla.alphavps.com"
     ],
     "khanwebhost.com": [],
     "getwebhosting.co.uk": [],
@@ -79,21 +101,19 @@
     "skylonhost.com": [
         "lg.skylonhost.com"
     ],
-    "hostmayo.com": [
-        "lg.hostmayo.com"
-    ],
     "x4b.net": [
         "lg.x4b.net"
     ],
-    "alwyzon.com": [],
-    "alwyzon.net": [],
     "webhorizon.in": [
+        "waw.lg.webhorizon.in",
         "lax.lg.webhorizon.in",
         "nyc.lg.webhorizon.in",
         "zrh.lg.webhorizon.in",
         "dro.lg.webhorizon.in",
         "tyo.lg.webhorizon.in"
     ],
+    "alwyzon.com": [],
+    "alwyzon.net": [],
     "ultravps.eu": [
         "lg.ams.nl.ultravps.eu",
         "lg.kiv.md.ultravps.eu",
