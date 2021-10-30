@@ -3,12 +3,7 @@
         "lg.teraswitch.com",
         "lg.lax.teraswitch.com"
     ],
-    "readydedis.com": [
-        "lg.nyc01.readydedis.com",
-        "lg.atl01.readydedis.com",
-        "lg.ger01.readydedis.com",
-        "lg.jax01.readydedis.com"
-    ],
+    "readydedis.com": [],
     "cloudc.one": [
         "la.lg.cloudc.one"
     ],
@@ -26,9 +21,7 @@
     "ssdblaze.com": [
         "lg-dal.ssdblaze.com"
     ],
-    "extravm.com": [
-        "dal.lg.extravm.com"
-    ],
+    "extravm.com": [],
     "hostworld.uk": [],
     "powerfulbox.co.uk": [],
     "quickpacket.com": [
@@ -44,23 +37,18 @@
     "prowhost.com": [
         "lg.prowhost.com"
     ],
-    "scowebhosting.club": [
-        "lg-nyc.scowebhosting.club"
-    ],
+    "scowebhosting.club": [],
     "mrvm.net": [
         "lg-de-fks.mrvm.net",
         "lg-bg-sof.mrvm.net",
         "lg-no-san.mrvm.net",
-        "lg-us-kck.mrvm.net",
         "lg-us-ler.mrvm.net",
         "lg-au-syd.mrvm.net",
         "lg-au-per.mrvm.net",
         "lg-sg-sin.mrvm.net",
         "lg-us-bei.mrvm.net"
     ],
-    "scohostings.com": [
-        "lg-nyc.scohostings.com"
-    ],
+    "scohostings.com": [],
     "nexril.net": [
         "lg.nexril.net"
     ],
@@ -76,9 +64,7 @@
         "lg.atl.knownhost.com"
     ],
     "khanwebhost.com": [],
-    "getwebhosting.co.uk": [
-        "lg-fin.getwebhosting.co.uk"
-    ],
+    "getwebhosting.co.uk": [],
     "tmthosting.net": [
         "lg-dal.tmthosting.net",
         "lg-sea.tmthosting.net",
@@ -106,8 +92,7 @@
         "nyc.lg.webhorizon.in",
         "zrh.lg.webhorizon.in",
         "dro.lg.webhorizon.in",
-        "tyo.lg.webhorizon.in",
-        "ams.lg.webhorizon.in"
+        "tyo.lg.webhorizon.in"
     ],
     "ultravps.eu": [
         "lg.ams.nl.ultravps.eu",
@@ -130,9 +115,7 @@
     ],
     "racknerd.com": [],
     "sviking.uk": [],
-    "ho-ost.com": [
-        "lg-nc.ho-ost.com"
-    ],
+    "ho-ost.com": [],
     "vmhaus.com": [
         "lg.vmhaus.com"
     ]

@@ -25,18 +25,12 @@
         "lg-chi-us.bacloud.com"
     ],
     "serverlogix.net": [],
-    "myservercontrol.com": [
-        "chi01.lg.myservercontrol.com"
-    ],
+    "myservercontrol.com": [],
     "thestack.net": [],
     "hosteons.com": [
         "lg.hosteons.com"
     ],
-    "qhoster.com": [
-        "lg-us1.qhoster.com",
-        "lg-de.qhoster.com",
-        "lg-fr.qhoster.com"
-    ],
+    "qhoster.com": [],
     "first-root.com": [
         "lg.first-root.com"
     ],
@@ -45,10 +39,7 @@
     "ftpit.com": [
         "losangeles.lg.ftpit.com"
     ],
-    "iniz.com": [
-        "nyc-us.lg.iniz.com",
-        "ams-nl.lg.iniz.com"
-    ],
+    "iniz.com": [],
     "ikoula.com": [
         "lg.de.ikoula.com",
         "lg.nl.ikoula.com",

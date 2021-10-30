@@ -1,7 +1,5 @@
 {
-    "hosterlabs.net": [
-        "canada.lg.hosterlabs.net"
-    ],
+    "hosterlabs.net": [],
     "psychz.net": [
         "lg.lax.psychz.net",
         "lg.sao.psychz.net",
@@ -39,17 +37,13 @@
         "lg-no-san.mrvm.net",
         "lg-au-syd.mrvm.net",
         "lg-sg-sin.mrvm.net",
-        "lg-us-bei.mrvm.net",
-        "lg-us-las.mrvm.net"
+        "lg-us-bei.mrvm.net"
     ],
     "leveloneservers.com": [
         "dal.lg.leveloneservers.com"
     ],
     "ovh.net": [
-        "lg.ovh.net",
-        "uk1.lg.ovh.net",
-        "us2.lg.ovh.net",
-        "sin1.lg.ovh.net"
+        "lg.ovh.net"
     ],
     "tragicservers.com": [
         "chi.lg.tragicservers.com",
@@ -67,7 +61,6 @@
     ],
     "racknerd.com": [
         "lg-dal.racknerd.com",
-        "lg-lax05.racknerd.com",
         "lg-sj.racknerd.com",
         "lg-sea.racknerd.com",
         "lg-chi.racknerd.com",
@@ -78,9 +71,7 @@
         "lg-ams.racknerd.com"
     ],
     "haendler.it": [
-        "lg.nl.haendler.it",
-        "lg.nl1.haendler.it",
-        "lg.fra2.haendler.it"
+        "lg.nl.haendler.it"
     ],
     "bacloud.com": [
         "lg-chi-us.bacloud.com",
@@ -112,9 +103,7 @@
     "liteserver.nl": [
         "lg-dro.liteserver.nl"
     ],
-    "websound.co.uk": [
-        "lg.nl.websound.co.uk"
-    ],
+    "websound.co.uk": [],
     "mnx.io": [
         "lg.chi.mnx.io"
     ],
@@ -149,15 +138,12 @@
         "lg.lon.hosthatch.com"
     ],
     "alwyzon.com": [],
-    "anynode.net": [
-        "lg.mia.anynode.net"
-    ],
+    "anynode.net": [],
     "ftpit.com": [
         "losangeles.lg.ftpit.com",
         "atlanta.lg.ftpit.com",
         "dallas.lg.ftpit.com",
         "fremont.lg.ftpit.com",
-        "buffalo.lg.ftpit.com",
         "lg.atlanta.ftpit.com"
     ],
     "nlnog.net": [],
@@ -168,9 +154,7 @@
         "lg.la.ramnode.com"
     ],
     "vmhaus.com": [
-        "lg.rbx.vmhaus.com",
-        "lg.vmhaus.com",
-        "lg.lax.vmhaus.com"
+        "lg.vmhaus.com"
     ],
     "fognet.ch": [
         "lg.fmt.fognet.ch",
@@ -182,7 +166,6 @@
     ],
     "webhorizon.in": [
         "tyo.lg.webhorizon.in",
-        "ams.lg.webhorizon.in",
         "sgp-b.lg.webhorizon.in",
         "mum.lg.webhorizon.in",
         "lax.lg.webhorizon.in",
@@ -191,7 +174,6 @@
         "sgp-c.lg.webhorizon.in",
         "zrh.lg.webhorizon.in",
         "dro.lg.webhorizon.in",
-        "mia.lg.webhorizon.in",
         "hkg.lg.webhorizon.in"
     ],
     "x4b.net": [
@@ -206,11 +188,7 @@
     "terrahost.no": [
         "lg.terrahost.no"
     ],
-    "hiformance.net": [
-        "lg.losangeles.ca.hiformance.net",
-        "lg.chicago.il.hiformance.net",
-        "lg.atlanta.ga.hiformance.net"
-    ],
+    "hiformance.net": [],
     "hyperexpert.com": [],
     "ultravps.eu": [
         "lg.ams.nl.ultravps.eu",
@@ -222,11 +200,7 @@
         "lg.sqq.lt.ultravps.eu",
         "lg.ultravps.eu"
     ],
-    "cloudxtiny.com": [
-        "lg.uth.us.cloudxtiny.com",
-        "lg.rdng.uk.cloudxtiny.com",
-        "lg.nue.de.cloudxtiny.com"
-    ],
+    "cloudxtiny.com": [],
     "justhost.ru": [
         "lg.justhost.ru",
         "lg-rtcom.justhost.ru",
@@ -261,9 +235,7 @@
     "loveservers.com": [
         "lg.loveservers.com"
     ],
-    "clouveo.com": [
-        "lg.lax.clouveo.com"
-    ],
+    "clouveo.com": [],
     "virmach.com": [
         "la.lg.virmach.com",
         "ny.lg.virmach.com",
@@ -283,9 +255,7 @@
         "lg.chi2.tnahosting.net"
     ],
     "serverum.com": [],
-    "nodeblade.com": [
-        "lg.nj.nodeblade.com"
-    ],
+    "nodeblade.com": [],
     "selectel.ru": [
         "lg.selectel.ru"
     ],
@@ -297,9 +267,7 @@
     "harmony-solutions.de": [
         "lg.harmony-solutions.de"
     ],
-    "piohost.co.uk": [
-        "lg-wig.piohost.co.uk"
-    ],
+    "piohost.co.uk": [],
     "active-servers.com": [
         "lg.active-servers.com"
     ],
@@ -307,9 +275,7 @@
         "lg-dal.ipv4.drserver.net",
         "lg-dal.ipv6.drserver.net"
     ],
-    "ho-ost.com": [
-        "lg-ch.ho-ost.com"
-    ],
+    "ho-ost.com": [],
     "mycustomhosting.net": [],
     "obhost.org": [
         "lg-po.obhost.org",
@@ -327,9 +293,7 @@
         "lg.atl.colocrossing.com",
         "lg.sj.colocrossing.com"
     ],
-    "shockhosting.net": [
-        "lg.nj.shockhosting.net"
-    ],
+    "shockhosting.net": [],
     "happybeehost.com": [
         "lg.happybeehost.com",
         "lg-uk.happybeehost.com",
@@ -354,12 +318,7 @@
         "hkg.lg.v.ps"
     ],
     "archhosting.net": [],
-    "readydedis.com": [
-        "lg.jax01.readydedis.com",
-        "lg.nyc01.readydedis.com",
-        "lg.atl01.readydedis.com",
-        "lg.ger01.readydedis.com"
-    ],
+    "readydedis.com": [],
     "webhosting24.com": [
         "lg.sg.webhosting24.com",
         "lg.muc.webhosting24.com",
@@ -383,7 +342,6 @@
         "lg.ams.hostigger.com"
     ],
     "dignusdata.center": [
-        "lg.uk.dignusdata.center",
         "lg.be.dignusdata.center"
     ],
     "hostmayo.com": [
@@ -407,13 +365,8 @@
     "quantumcore.com.au": [
         "lg.quantumcore.com.au"
     ],
-    "zeptovm.com": [
-        "us-iad01.lg.zeptovm.com",
-        "ru-khv01.lg.zeptovm.com"
-    ],
-    "hostfav.com": [
-        "lg.ny.hostfav.com"
-    ],
+    "zeptovm.com": [],
+    "hostfav.com": [],
     "onvirt.de": [],
     "afterburst.com": [
         "de.lg.afterburst.com"
@@ -421,9 +374,7 @@
     "dediserve.com": [
         "lg.dediserve.com"
     ],
-    "getwebhosting.co.uk": [
-        "lg-fin.getwebhosting.co.uk"
-    ],
+    "getwebhosting.co.uk": [],
     "as53340.net": [
         "lg.las1.as53340.net"
     ],
@@ -431,10 +382,7 @@
         "hke.lg.hosthongkong.net",
         "hkp.lg.hosthongkong.net"
     ],
-    "rzdhosting.com": [
-        "va.lg.network.rzdhosting.com",
-        "uk.lg.network.rzdhosting.com"
-    ],
+    "rzdhosting.com": [],
     "he.net": [
         "lg.he.net"
     ],
@@ -442,19 +390,12 @@
     "emix.net.ae": [
         "lg.emix.net.ae"
     ],
-    "justvps.online": [
-        "sg.lg.justvps.online"
-    ],
+    "justvps.online": [],
     "hostus.us": [
         "lg.hostus.us"
     ],
-    "pumpcloud.net": [
-        "lg-bhs.pumpcloud.net",
-        "lg-waw.pumpcloud.net"
-    ],
-    "letbox.com": [
-        "lg.dal.letbox.com"
-    ],
+    "pumpcloud.net": [],
+    "letbox.com": [],
     "isplevel.com": [
         "lg-ua.isplevel.com",
         "lg-ru.isplevel.com",
@@ -470,21 +411,14 @@
         "lg.lax.teraswitch.com"
     ],
     "indovirtue.com": [],
-    "hostcontrolcenter.com": [
-        "lg.dc02.hostcontrolcenter.com"
-    ],
+    "hostcontrolcenter.com": [],
     "extravm.com": [
-        "vin.lg.extravm.com",
-        "gra.lg.extravm.com",
-        "lon.lg.extravm.com",
         "sgp.lg.extravm.com"
     ],
     "skylonhost.com": [
         "lg.skylonhost.com"
     ],
-    "hostclean.net": [
-        "lg-orange.hostclean.net"
-    ],
+    "hostclean.net": [],
     "smartconnect.id": [],
     "citynethost.com": [
         "lg.ist.citynethost.com",
@@ -497,14 +431,9 @@
         "lg.time4vps.com"
     ],
     "bestcloud.cz": [],
-    "gdbi.pw": [
-        "lg-mia.gdbi.pw",
-        "lg-ldn.gdbi.pw"
-    ],
+    "gdbi.pw": [],
     "iwfhosting.net": [],
-    "budgetnode.net": [
-        "ogd.lg.budgetnode.net"
-    ],
+    "budgetnode.net": [],
     "as42708.net": [],
     "illkx.tk": [],
     "hostslim.nl": [],
@@ -524,16 +453,13 @@
     ],
     "letbox.net": [
         "lg.nj.letbox.net",
-        "lg.la.letbox.net",
-        "lg.dl.letbox.net"
+        "lg.la.letbox.net"
     ],
     "clouvider.net": [],
     "viridweb.com": [
         "lg-nl.viridweb.com"
     ],
-    "rackhost.co": [
-        "lg-nl.rackhost.co"
-    ],
+    "rackhost.co": [],
     "maxkvm.net": [
         "lg.sin.maxkvm.net",
         "lg.lax.maxkvm.net",
@@ -541,23 +467,13 @@
         "lg.nyc.maxkvm.net",
         "lg.ams.maxkvm.net"
     ],
-    "freerangecloud.com": [
-        "van.lg.freerangecloud.com",
-        "fmt.lg.freerangecloud.com",
-        "osl.lg.freerangecloud.com"
-    ],
+    "freerangecloud.com": [],
     "enterprisehostingserver.com": [],
     "vps2day.com": [
         "lg-ro.vps2day.com"
     ],
-    "nyavm.com": [
-        "c3-sjc.lg.nyavm.com",
-        "c3-lax.lg.nyavm.com"
-    ],
-    "quadhost.net": [
-        "lg-var-bg.quadhost.net",
-        "lg-tai-sg.quadhost.net"
-    ],
+    "nyavm.com": [],
+    "quadhost.net": [],
     "comnet.com.tr": [
         "lg.comnet.com.tr"
     ],
@@ -591,24 +507,16 @@
         "lg-milano.prometeus.net",
         "lg-netherlands.prometeus.net"
     ],
-    "vortexnode.com": [
-        "lg.ny.vortexnode.com",
-        "lg.nj.vortexnode.com"
-    ],
+    "vortexnode.com": [],
     "lunarvps.com": [],
     "mzunguix.ml": [],
     "mordinateur.com": [],
     "incrediblevps.com": [],
-    "serverhand.com": [
-        "lg.dal.serverhand.com",
-        "lg.mia.serverhand.com"
-    ],
+    "serverhand.com": [],
     "de-cix.net": [
         "lg.de-cix.net"
     ],
-    "hosterion.net": [
-        "cluj.lg.hosterion.net"
-    ],
+    "hosterion.net": [],
     "hosterion.com": [
         "lg.buc.hosterion.com",
         "lg.lon.hosterion.com",
@@ -617,9 +525,7 @@
     ],
     "central.so": [],
     "spetsnazhost.com": [],
-    "devcapsule.com": [
-        "lg.ams.devcapsule.com"
-    ],
+    "devcapsule.com": [],
     "as57695.net": [],
     "binarylane.cloud": [],
     "as212647.net": [],
@@ -656,9 +562,7 @@
     "knownhost.com": [
         "lg.atl.knownhost.com"
     ],
-    "lonethost.com": [
-        "switzerland.lg.lonethost.com"
-    ],
+    "lonethost.com": [],
     "servermania.com": [
         "lg.dfw1.servermania.com",
         "lg.ams1.servermania.com",
@@ -674,21 +578,18 @@
         "lg.alexhost.com"
     ],
     "plox.host": [
-        "lg.dal.plox.host"
+        "lg.dal.plox.host",
+        "lg.nyc.plox.host"
     ],
     "fulltimehosting.net": [
         "lg.fulltimehosting.net"
     ],
-    "zare.com": [
-        "ldn.lg.zare.com"
-    ],
+    "zare.com": [],
     "sinavps.ch": [
         "lg.zug.sinavps.ch"
     ],
     "nodeserv.com": [],
-    "tunevps.com": [
-        "lg-la.tunevps.com"
-    ],
+    "tunevps.com": [],
     "gthost.com": [],
     "impactvps.com": [
         "lg-sea.impactvps.com",
@@ -707,14 +608,10 @@
     ],
     "inspirevm.net": [],
     "dedibyte.com": [],
-    "nodion.com": [
-        "lg.lon1.nodion.com"
-    ],
+    "nodion.com": [],
     "firevps.net": [],
     "alwyzon.net": [],
-    "bigpowerhosting.com": [
-        "lg.miami.bigpowerhosting.com"
-    ],
+    "bigpowerhosting.com": [],
     "nickyzai.com": [],
     "hostvds.com": [
         "lg.hostvds.com"
@@ -740,9 +637,7 @@
     "hostmem.com": [
         "la-qn.lg.hostmem.com"
     ],
-    "syn.ltd.uk": [
-        "sg.lg.syn.ltd.uk"
-    ],
+    "syn.ltd.uk": [],
     "stockservers.com": [],
     "hostry.com": [
         "lg-us1.hostry.com",
@@ -764,9 +659,7 @@
     ],
     "exabytes.com": [],
     "hostfactor.eu": [],
-    "vpsname.com": [
-        "synatiq.lg.vpsname.com"
-    ],
+    "vpsname.com": [],
     "sldc.pl": [
         "lg.sldc.pl"
     ],
@@ -786,13 +679,9 @@
     "as212934.net": [
         "lg.yyz.as212934.net"
     ],
-    "subnetlabs.net": [
-        "sea.lg.subnetlabs.net"
-    ],
+    "subnetlabs.net": [],
     "serverviking.com": [],
-    "nodejungle.com": [
-        "dallas.lg.nodejungle.com"
-    ],
+    "nodejungle.com": [],
     "php-friends.de": [
         "lg.php-friends.de"
     ],
@@ -813,7 +702,6 @@
     "qhoster.com": [],
     "misaka.io": [],
     "cheapwindowsvps.com": [
-        "buf.lg.cheapwindowsvps.com",
         "lao.lg.cheapwindowsvps.com",
         "chi.lg.cheapwindowsvps.com",
         "bg.lg.cheapwindowsvps.com",
@@ -833,17 +721,12 @@
     "toshost.com": [],
     "gigsgigscloud.com": [],
     "hosting.com": [],
-    "dranzel.net": [
-        "mum.lg.dranzel.net"
-    ],
+    "dranzel.net": [],
     "2sync.org": [
         "lg.2sync.org",
-        "kr.lg.2sync.org",
-        "jp.lg.2sync.org"
+        "kr.lg.2sync.org"
     ],
-    "cramhost.com": [
-        "ny.lg.cramhost.com"
-    ],
+    "cramhost.com": [],
     "linovus.ca": [],
     "cloudieweb.com": []
 }
