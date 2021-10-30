@@ -8,7 +8,7 @@ def parse(file):
 
 def parseUrls(html,type="lg"):
     global data
-    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*\.lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","lg[a-zA-Z0-9-.]*\.[a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
+    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*[\.|-]lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","lg[a-zA-Z0-9-.]*\.[a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
     for regex in patterns:
         matches = re.findall(regex,html, re.MULTILINE | re.DOTALL)
         if matches:
