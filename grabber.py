@@ -62,7 +62,7 @@ for domain in data['lg']:
         data['lg'][domain].remove(url)
 
 print("Scrapping")
-for domain in data['scrap']:
+for domain in list(data['scrap']):
     for url in data['scrap'][domain]:
         if not domain in data['lg']: data['lg'][domain] = []
         if url in data['lg'][domain]: continue
