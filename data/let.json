@@ -127,9 +127,7 @@
         "lg-nz.zappiehost.com",
         "lg-za.zappiehost.com"
     ],
-    "ionswitch.com": [
-        "lg.sea.ionswitch.com"
-    ],
+    "ionswitch.com": [],
     "as396071.net": [],
     "nexusbytes.com": [
         "lgger.nexusbytes.com",
@@ -284,7 +282,10 @@
         "lg.chi.tnahosting.net",
         "lg.chi2.tnahosting.net"
     ],
-    "serverum.com": [],
+    "serverum.com": [
+        "ru-lg.serverum.com",
+        "lv-lg.serverum.com"
+    ],
     "nodeblade.com": [],
     "selectel.ru": [
         "lg.selectel.ru"
@@ -326,14 +327,28 @@
         "lg.nyc.colocrossing.com",
         "lg.sea.colocrossing.com"
     ],
-    "shockhosting.net": [],
+    "shockhosting.net": [
+        "la-lg.shockhosting.net",
+        "uk-lg.shockhosting.net",
+        "sg-lg.shockhosting.net",
+        "nj-lg.shockhosting.net",
+        "nl-lg.shockhosting.net",
+        "wc-lg.shockhosting.net",
+        "tx-lg.shockhosting.net",
+        "fl-lg.shockhosting.net",
+        "au-lg.shockhosting.net",
+        "co-lg.shockhosting.net",
+        "jp-lg.shockhosting.net"
+    ],
     "happybeehost.com": [
         "lg.happybeehost.com",
         "lg-uk.happybeehost.com",
         "lg-pl.happybeehost.com"
     ],
     "veesp.com": [
-        "lg.veesp.com"
+        "lg.veesp.com",
+        "lv-lg.veesp.com",
+        "ru-lg.veesp.com"
     ],
     "hostio.solutions": [
         "lg.hostio.solutions"
@@ -370,7 +385,11 @@
     ],
     "cycloneservers.net": [],
     "colorhost.de": [],
-    "gomach5.com": [],
+    "gomach5.com": [
+        "la-lg.gomach5.com",
+        "la-lg.v4.gomach5.com",
+        "la-lg.v6.gomach5.com"
+    ],
     "hostigger.com": [
         "lg.us.hostigger.com",
         "lg.nl.hostigger.com",
@@ -442,7 +461,20 @@
     ],
     "justvps.online": [],
     "hostus.us": [
-        "lg.hostus.us"
+        "lg.hostus.us",
+        "ams-lg.hostus.us",
+        "lon-lg.hostus.us",
+        "hk-lg.hostus.us",
+        "syd-lg.hostus.us",
+        "la-lg.hostus.us",
+        "dal-lg.hostus.us",
+        "sgp-lg.hostus.us",
+        "atl-lg.hostus.us",
+        "clt-lg.hostus.us",
+        "dal02-lg.hostus.us",
+        "la02-lg.hostus.us",
+        "la03-lg.hostus.us",
+        "wdc-lg.hostus.us"
     ],
     "pumpcloud.net": [],
     "letbox.com": [],
@@ -460,7 +492,10 @@
         "lg.teraswitch.com",
         "lg.lax.teraswitch.com"
     ],
-    "indovirtue.com": [],
+    "indovirtue.com": [
+        "lasvegas-lg.indovirtue.com",
+        "us-lg.indovirtue.com"
+    ],
     "hostcontrolcenter.com": [],
     "extravm.com": [
         "sgp.lg.extravm.com"
@@ -497,7 +532,12 @@
         "lg-nl.incognet.io"
     ],
     "ransomit.com.au": [
-        "lg.ransomit.com.au"
+        "lg.ransomit.com.au",
+        "tokyo-lg.ransomit.com.au",
+        "hongkong-lg.ransomit.com.au",
+        "singapore-lg.ransomit.com.au",
+        "sydney-lg.ransomit.com.au",
+        "brisbane-lg.ransomit.com.au"
     ],
     "signaltransmitter.de": [
         "lg.signaltransmitter.de"
@@ -597,8 +637,15 @@
     "spetsnazhost.com": [],
     "devcapsule.com": [],
     "as57695.net": [],
-    "binarylane.cloud": [],
-    "as212647.net": [],
+    "binarylane.cloud": [
+        "per-lg.binarylane.cloud",
+        "bne-lg.binarylane.cloud",
+        "mel-lg.binarylane.cloud",
+        "syd-lg.binarylane.cloud"
+    ],
+    "as212647.net": [
+        "tpa-lg.as212647.net"
+    ],
     "hostnamaste.com": [
         "lg-fr.hostnamaste.com",
         "lg-in.hostnamaste.com",
@@ -669,8 +716,8 @@
         "lg.alexhost.com"
     ],
     "plox.host": [
-        "lg.dal.plox.host",
-        "lg.nyc.plox.host"
+        "lg.nyc.plox.host",
+        "lg.dal.plox.host"
     ],
     "fulltimehosting.net": [
         "lg.fulltimehosting.net"
@@ -836,6 +883,7 @@
     "dranzel.net": [],
     "2sync.org": [
         "lg.2sync.org",
+        "kr.lg.2sync.org",
         "jp.lg.2sync.org",
         "hkp.lg.2sync.org"
     ],
@@ -858,6 +906,7 @@
     "rascom.ru": [
         "lg.rascom.ru"
     ],
+    "binarylane.com.au": [],
     "1pwh.uk": [
         "lg.1pwh.uk"
     ]
