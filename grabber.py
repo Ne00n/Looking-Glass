@@ -20,7 +20,7 @@ def parseUrls(html,type="lg"):
                     if not match in data[type][domain]: data[type][domain][match] = []
 
 def parseIPs(ip,html):
-    ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})(<|\")",html, re.MULTILINE | re.DOTALL)
+    ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}).*?(<|\")",html, re.MULTILINE | re.DOTALL)
     for entry in ipv4s:
         if entry[0] != ip: return {"ipv4":entry[0]}
     return False
