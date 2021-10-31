@@ -1,4 +1,5 @@
 {
+    "drgrog.com": [],
     "hosterlabs.net": [],
     "psychz.net": [
         "lg.lax.psychz.net",
@@ -78,11 +79,13 @@
         "lg-lt-eu.bacloud.com",
         "lg-nl-eu.bacloud.com"
     ],
+    "inceptionhosting.com": [],
     "quickpacket.com": [
         "lg.clt01.quickpacket.com",
         "lg.lax01.quickpacket.com",
         "lg.lax.quickpacket.com",
-        "lg.clt.quickpacket.com"
+        "lg.clt.quickpacket.com",
+        "lg.chi01.quickpacket.com"
     ],
     "ssdblaze.com": [
         "lg-dal.ssdblaze.com",
@@ -96,6 +99,7 @@
         "lg.ikdc1.ikoula.com",
         "lg.ikdc2.ikoula.com"
     ],
+    "primahost.info": [],
     "luxnetwork.eu": [
         "lg.luxnetwork.eu"
     ],
@@ -127,6 +131,17 @@
         "lg.sea.ionswitch.com"
     ],
     "as396071.net": [],
+    "nexusbytes.com": [
+        "lgger.nexusbytes.com",
+        "lgnl.nexusbytes.com",
+        "lgla.nexusbytes.com",
+        "lgsg.nexusbytes.com",
+        "lgjp.nexusbytes.com",
+        "lguk.nexusbytes.com",
+        "lgny.nexusbytes.com",
+        "lgmel.nexusbytes.com",
+        "lgmi.nexusbytes.com"
+    ],
     "hosthatch.com": [
         "lg.lax.hosthatch.com",
         "lg.sto.hosthatch.com",
@@ -151,7 +166,8 @@
         "lg.nyc.ramnode.com",
         "lg.nl.ramnode.com",
         "lg.atl.ramnode.com",
-        "lg.la.ramnode.com"
+        "lg.la.ramnode.com",
+        "lg.sea.ramnode.com"
     ],
     "vmhaus.com": [
         "lg.vmhaus.com"
@@ -211,7 +227,20 @@
         "lg-nsk.justhost.ru",
         "lg-dtln.justhost.ru"
     ],
-    "hostworld.uk": [],
+    "hostworld.uk": [
+        "lguk.hostworld.uk",
+        "lgmh.hostworld.uk",
+        "lgch.hostworld.uk",
+        "lguk2.hostworld.uk",
+        "lgla.hostworld.uk",
+        "lgny.hostworld.uk"
+    ],
+    "serverkeren.com": [
+        "lgid.serverkeren.com",
+        "lgsg.serverkeren.com",
+        "lgeusa.serverkeren.com",
+        "lguk.serverkeren.com"
+    ],
     "hostens.eu": [],
     "leonhosting.net": [],
     "dedicontrol.com": [
@@ -222,7 +251,8 @@
         "lg.dal.dedicontrol.com",
         "lg.dc01.dedicontrol.com",
         "lg.den.dedicontrol.com",
-        "lg.atl.dedicontrol.com"
+        "lg.atl.dedicontrol.com",
+        "lg.dc04.dedicontrol.com"
     ],
     "first-root.com": [
         "lg.first-root.com"
@@ -279,7 +309,8 @@
     "mycustomhosting.net": [],
     "obhost.org": [
         "lg-po.obhost.org",
-        "lg-de.obhost.org"
+        "lg-de.obhost.org",
+        "lg-ca.obhost.org"
     ],
     "naranja.tech": [
         "lg.naranja.tech"
@@ -291,7 +322,9 @@
         "lg.buf.colocrossing.com",
         "lg.dal.colocrossing.com",
         "lg.atl.colocrossing.com",
-        "lg.sj.colocrossing.com"
+        "lg.sj.colocrossing.com",
+        "lg.nyc.colocrossing.com",
+        "lg.sea.colocrossing.com"
     ],
     "shockhosting.net": [],
     "happybeehost.com": [
@@ -329,6 +362,12 @@
     "nexril.net": [
         "lg.nexril.net"
     ],
+    "alphavps.bg": [
+        "lgbg.alphavps.bg",
+        "lguk.alphavps.bg",
+        "lgde.alphavps.bg",
+        "lgla.alphavps.bg"
+    ],
     "cycloneservers.net": [],
     "colorhost.de": [],
     "gomach5.com": [],
@@ -345,11 +384,16 @@
         "lg.be.dignusdata.center"
     ],
     "hostmayo.com": [
-        "lg.hostmayo.com"
+        "lg.hostmayo.com",
+        "lgnl.hostmayo.com"
     ],
     "core-backbone.com": [
         "lg.core-backbone.com",
-        "fra.lg.core-backbone.com"
+        "fra.lg.core-backbone.com",
+        "nbg.lg.core-backbone.com",
+        "sin.lg.core-backbone.com",
+        "ams.lg.core-backbone.com",
+        "nyk.lg.core-backbone.com"
     ],
     "apeweb.uk": [
         "lg.no.apeweb.uk"
@@ -377,6 +421,12 @@
     "getwebhosting.co.uk": [],
     "as53340.net": [
         "lg.las1.as53340.net"
+    ],
+    "alphavps.com": [
+        "lgbg.alphavps.com",
+        "lgde.alphavps.com",
+        "lguk.alphavps.com",
+        "lgla.alphavps.com"
     ],
     "hosthongkong.net": [
         "hke.lg.hosthongkong.net",
@@ -416,9 +466,13 @@
         "sgp.lg.extravm.com"
     ],
     "skylonhost.com": [
-        "lg.skylonhost.com"
+        "lg.skylonhost.com",
+        "lg-v4.prg.skylonhost.com",
+        "lg-v6.prg.skylonhost.com",
+        "lg.prg.skylonhost.com"
     ],
     "hostclean.net": [],
+    "lgood.com.au": [],
     "smartconnect.id": [],
     "citynethost.com": [
         "lg.ist.citynethost.com",
@@ -453,7 +507,8 @@
     ],
     "letbox.net": [
         "lg.nj.letbox.net",
-        "lg.la.letbox.net"
+        "lg.la.letbox.net",
+        "lg.dl.letbox.net"
     ],
     "clouvider.net": [],
     "viridweb.com": [
@@ -472,6 +527,9 @@
     "vps2day.com": [
         "lg-ro.vps2day.com"
     ],
+    "ucdavis.edu": [
+        "lgbtqia.ucdavis.edu"
+    ],
     "nyavm.com": [],
     "quadhost.net": [],
     "comnet.com.tr": [
@@ -481,7 +539,8 @@
         "lg.artnet.pl"
     ],
     "expertvm.com": [
-        "lg.expertvm.com"
+        "lg.expertvm.com",
+        "lg2.expertvm.com"
     ],
     "misaka.one": [
         "us-iad01.lg.misaka.one"
@@ -489,7 +548,12 @@
     "providerservice.com": [
         "lg.ams.nl.providerservice.com",
         "lg.dal.us.providerservice.com",
-        "lg.providerservice.com"
+        "lg.providerservice.com",
+        "lg.kiv.md.providerservice.com",
+        "lg.dus.de.providerservice.com",
+        "lg.lon.uk.providerservice.com",
+        "lg.lax.us.providerservice.com",
+        "lg.sqq.lt.providerservice.com"
     ],
     "spartanhost.net": [
         "lg.sea.spartanhost.net",
@@ -511,6 +575,10 @@
     "lunarvps.com": [],
     "mzunguix.ml": [],
     "mordinateur.com": [],
+    "greencloudvps.com": [
+        "lgvn.greencloudvps.com",
+        "lgnl.greencloudvps.com"
+    ],
     "incrediblevps.com": [],
     "serverhand.com": [],
     "de-cix.net": [
@@ -521,7 +589,9 @@
         "lg.buc.hosterion.com",
         "lg.lon.hosterion.com",
         "lg.ams.hosterion.com",
-        "lg.clj.hosterion.com"
+        "lg.clj.hosterion.com",
+        "lg.dal.hosterion.com",
+        "lg.fre.hosterion.com"
     ],
     "central.so": [],
     "spetsnazhost.com": [],
@@ -531,9 +601,14 @@
     "as212647.net": [],
     "hostnamaste.com": [
         "lg-fr.hostnamaste.com",
-        "lg-in.hostnamaste.com"
+        "lg-in.hostnamaste.com",
+        "lg-dl.hostnamaste.com",
+        "lg-ru.hostnamaste.com",
+        "lg-ca.hostnamaste.com"
     ],
-    "hostingbot.net": [],
+    "hostingbot.net": [
+        "lglax.hostingbot.net"
+    ],
     "swedendedicated.com": [
         "lg.swedendedicated.com"
     ],
@@ -543,15 +618,28 @@
     "10vpn.net": [
         "lg.10vpn.net"
     ],
+    "catalysthost.com": [],
     "friendhosting.net": [
         "lg-bg.friendhosting.net"
     ],
     "ginernet.com": [
-        "lg.ginernet.com"
+        "lg.ginernet.com",
+        "telxius.lg.ginernet.com",
+        "gtt.lg.ginernet.com",
+        "telia.lg.ginernet.com"
     ],
     "xenspec.com": [
         "lg.xenspec.com",
-        "chi.lg.xenspec.com"
+        "chi.lg.xenspec.com",
+        "la.lg.xenspec.com",
+        "sjc.lg.xenspec.com"
+    ],
+    "hostdochost.i.ng": [],
+    "hostdoc.co.uk": [],
+    "NexusBytes.com": [
+        "lgsg.NexusBytes.com",
+        "lgmi.NexusBytes.com",
+        "lguk.NexusBytes.com"
     ],
     "first-colo.net": [
         "lg.first-colo.net"
@@ -568,7 +656,10 @@
         "lg.ams1.servermania.com",
         "lg.akl1.servermania.com",
         "lg.lax2.servermania.com",
-        "lg.buf1.servermania.com"
+        "lg.buf1.servermania.com",
+        "lg.ewr1.servermania.com",
+        "lg.lax1.servermania.com",
+        "lg.yul2.servermania.com"
     ],
     "hostmaze.com": [],
     "iamtelephone.com": [],
@@ -583,6 +674,9 @@
     ],
     "fulltimehosting.net": [
         "lg.fulltimehosting.net"
+    ],
+    "vpsgod.com": [
+        "lgnl.vpsgod.com"
     ],
     "zare.com": [],
     "sinavps.ch": [
@@ -625,7 +719,10 @@
     ],
     "exabytes.sg": [],
     "controlvm.com": [
-        "lg.sg.controlvm.com"
+        "lg.sg.controlvm.com",
+        "lg.my.controlvm.com",
+        "lg.la.controlvm.com",
+        "lg.de.controlvm.com"
     ],
     "deinserverhost.de": [
         "lg.deinserverhost.de"
@@ -654,6 +751,7 @@
     "reliablehostingservices.net": [
         "lg.reliablehostingservices.net"
     ],
+    "fbcdn.net": [],
     "ip-projects.de": [
         "lg.ip-projects.de"
     ],
@@ -663,6 +761,7 @@
     "sldc.pl": [
         "lg.sldc.pl"
     ],
+    "telus.com": [],
     "iamcirium.com": [],
     "synlinq.de": [
         "lg.synlinq.de"
@@ -699,6 +798,7 @@
     "purevoltage.net": [
         "lg.nyc.purevoltage.net"
     ],
+    "nexcesscdn.net": [],
     "qhoster.com": [],
     "misaka.io": [],
     "cheapwindowsvps.com": [
@@ -709,7 +809,16 @@
         "sg.lg.cheapwindowsvps.com"
     ],
     "cheapwindows.com": [
-        "lg.la.cheapwindows.com"
+        "lg.la.cheapwindows.com",
+        "lg.buf.cheapwindows.com",
+        "lg.chi.cheapwindows.com",
+        "lg.dal.cheapwindows.com",
+        "lg.gb.cheapwindows.com",
+        "lg.bg.cheapwindows.com",
+        "lg.fr.cheapwindows.com",
+        "lg.sg.cheapwindows.com",
+        "lg.lao.cheapwindows.com",
+        "lg.uk.cheapwindows.com"
     ],
     "store-host.com": [],
     "gcore.lu": [
@@ -719,14 +828,37 @@
         "lg.yisp.nl"
     ],
     "toshost.com": [],
+    "github.io": [
+        "lgs.github.io"
+    ],
     "gigsgigscloud.com": [],
     "hosting.com": [],
     "dranzel.net": [],
     "2sync.org": [
         "lg.2sync.org",
-        "kr.lg.2sync.org"
+        "jp.lg.2sync.org",
+        "hkp.lg.2sync.org"
     ],
+    "ito.org.tr": [],
     "cramhost.com": [],
+    "sbcglobal.net": [],
+    "att.net": [],
     "linovus.ca": [],
-    "cloudieweb.com": []
+    "cloudieweb.com": [],
+    "retn.net": [],
+    "telia.net": [
+        "lg.telia.net"
+    ],
+    "obit.ru": [
+        "lg.obit.ru"
+    ],
+    "runnet.ru": [
+        "lg.runnet.ru"
+    ],
+    "rascom.ru": [
+        "lg.rascom.ru"
+    ],
+    "1pwh.uk": [
+        "lg.1pwh.uk"
+    ]
 }

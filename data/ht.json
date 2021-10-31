@@ -23,7 +23,12 @@
     ],
     "extravm.com": [],
     "hostworld.uk": [
-        "lguk.hostworld.uk"
+        "lguk.hostworld.uk",
+        "lgmh.hostworld.uk",
+        "lgch.hostworld.uk",
+        "lguk2.hostworld.uk",
+        "lgla.hostworld.uk",
+        "lgny.hostworld.uk"
     ],
     "powerfulbox.co.uk": [],
     "quickpacket.com": [
@@ -37,14 +42,29 @@
         "lg.atcloud.net"
     ],
     "prowhost.com": [
-        "lg.prowhost.com"
+        "lg.prowhost.com",
+        "lg.oregon.prowhost.com",
+        "lg.ohio.prowhost.com",
+        "lg.virginia.prowhost.com",
+        "lg.singapore.prowhost.com",
+        "lg.tokyo.prowhost.com",
+        "lg.seoul.prowhost.com",
+        "lg.london.prowhost.com",
+        "lg.frankfurt.prowhost.com",
+        "lg.paris.prowhost.com",
+        "lg.ireland.prowhost.com",
+        "lg.sydney.prowhost.com"
     ],
     "nexusbytes.com": [
         "lgger.nexusbytes.com",
         "lgla.nexusbytes.com",
         "lgny.nexusbytes.com",
         "lgmel.nexusbytes.com",
-        "lgnl.nexusbytes.com"
+        "lgnl.nexusbytes.com",
+        "lgmi.nexusbytes.com",
+        "lguk.nexusbytes.com",
+        "lgsg.nexusbytes.com",
+        "lgjp.nexusbytes.com"
     ],
     "scowebhosting.club": [],
     "mrvm.net": [
@@ -99,7 +119,10 @@
         "lg.artnet.pl"
     ],
     "skylonhost.com": [
-        "lg.skylonhost.com"
+        "lg.skylonhost.com",
+        "lg-v4.prg.skylonhost.com",
+        "lg-v6.prg.skylonhost.com",
+        "lg.prg.skylonhost.com"
     ],
     "x4b.net": [
         "lg.x4b.net"
@@ -125,7 +148,11 @@
     ],
     "ownbox.co.uk": [],
     "webhosting24.com": [
-        "lg.sg.webhosting24.com"
+        "lg.sg.webhosting24.com",
+        "lg.muc.webhosting24.com",
+        "lg.lax.webhosting24.com",
+        "lg.jp.webhosting24.com",
+        "lg.au.webhosting24.com"
     ],
     "hostio.solutions": [
         "lg.hostio.solutions"
@@ -138,5 +165,11 @@
     "ho-ost.com": [],
     "vmhaus.com": [
         "lg.vmhaus.com"
+    ],
+    "alphavps.bg": [
+        "lgbg.alphavps.bg",
+        "lgde.alphavps.bg",
+        "lguk.alphavps.bg",
+        "lgla.alphavps.bg"
     ]
 }

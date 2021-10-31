@@ -14,7 +14,9 @@
     ],
     "controlvm.com": [
         "lg.my.controlvm.com",
-        "lg.sg.controlvm.com"
+        "lg.sg.controlvm.com",
+        "lg.la.controlvm.com",
+        "lg.de.controlvm.com"
     ],
     "hostmayo.com": [
         "lg.hostmayo.com",
@@ -51,5 +53,9 @@
     "ceuservers.net": [],
     "fdcservers.net": [
         "lg.fdcservers.net"
+    ],
+    "as20278.net": [
+        "lg.chi1.as20278.net",
+        "lg.buf1.as20278.net"
     ]
 }
