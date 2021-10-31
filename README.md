@@ -100,7 +100,15 @@
 * [lg.x4b.net](http://lg.x4b.net)
 ### webhorizon.in
 * [tyo.lg.webhorizon.in](http://tyo.lg.webhorizon.in)
+* [sgp-b.lg.webhorizon.in](http://sgp-b.lg.webhorizon.in)
+* [mum.lg.webhorizon.in](http://mum.lg.webhorizon.in)
+* [lax.lg.webhorizon.in](http://lax.lg.webhorizon.in)
+* [nyc.lg.webhorizon.in](http://nyc.lg.webhorizon.in)
 * [waw.lg.webhorizon.in](http://waw.lg.webhorizon.in)
+* [sgp-c.lg.webhorizon.in](http://sgp-c.lg.webhorizon.in)
+* [zrh.lg.webhorizon.in](http://zrh.lg.webhorizon.in)
+* [dro.lg.webhorizon.in](http://dro.lg.webhorizon.in)
+* [hkg.lg.webhorizon.in](http://hkg.lg.webhorizon.in)
 ### ultravps.eu
 * [lg.ams.nl.ultravps.eu](http://lg.ams.nl.ultravps.eu)
 * [lg.dus.de.ultravps.eu](http://lg.dus.de.ultravps.eu)
@@ -321,6 +329,8 @@
 * [co-lg.shockhosting.net](http://co-lg.shockhosting.net)
 * [jp-lg.shockhosting.net](http://jp-lg.shockhosting.net)
 ### happybeehost.com
+* [lg.happybeehost.com](http://lg.happybeehost.com)
+* [lg-uk.happybeehost.com](http://lg-uk.happybeehost.com)
 * [lg-pl.happybeehost.com](http://lg-pl.happybeehost.com)
 ### veesp.com
 * [lg.veesp.com](http://lg.veesp.com)
