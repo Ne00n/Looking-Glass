@@ -1,5 +1,6 @@
 import tldextract, requests
-import json, sys, os, re
+from random import randint
+import json, time, sys, os, re
 
 def parse(file):
     with open(file, 'r') as f:
@@ -26,21 +27,26 @@ def parseIPs(ip,html):
     return False
 
 def get(url):
-    try:
-        request = requests.get(url,allow_redirects=False,timeout=5)
-        parseUrls(request.text,"scrap")
-        if (request.status_code == 200):
-            if len(request.text) < 90:
-                print(f"HTML to short {len(request.text)}, dropping {url}")
-                return False
-            if "window.location.replace" in request.text:
-                print(f"Found Javascript redirect, dropping {url}")
-                return False
-            print(f"Got {request.status_code} keeping {url}")
-            return request.text
-        else:
-            print(f"Got {request.status_code} dropping {url}")
-    except Exception as e: return False
+    for run in range(3):
+        try:
+            request = requests.get(url,allow_redirects=False,timeout=5)
+            parseUrls(request.text,"scrap")
+            if (request.status_code == 200):
+                if len(request.text) < 90:
+                    print(f"HTML to short {len(request.text)}, dropping {url}")
+                    return False
+                if "window.location.replace" in request.text:
+                    print(f"Found Javascript redirect, dropping {url}")
+                    return False
+                print(f"Got {request.status_code} keeping {url}")
+                return request.text
+            else:
+                print(f"Got {request.status_code} dropping {url}")
+        except Exception as e:
+            print(f"Retrying {url}")
+            time.sleep(randint(1,3))
+            continue
+    return False
 
 if len(sys.argv) == 1:
     print("grabber.py /data/path output.json (optional)")
