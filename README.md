@@ -23,10 +23,10 @@
 ### hostworld.uk
 * [lguk.hostworld.uk](http://lguk.hostworld.uk)
 * [lgmh.hostworld.uk](http://lgmh.hostworld.uk)
-* [lgch.hostworld.uk](http://lgch.hostworld.uk)
 * [lguk2.hostworld.uk](http://lguk2.hostworld.uk)
 * [lgla.hostworld.uk](http://lgla.hostworld.uk)
 * [lgny.hostworld.uk](http://lgny.hostworld.uk)
+* [lgch.hostworld.uk](http://lgch.hostworld.uk)
 ### quickpacket.com
 * [lg.clt01.quickpacket.com](http://lg.clt01.quickpacket.com)
 * [lg.lax01.quickpacket.com](http://lg.lax01.quickpacket.com)
@@ -216,6 +216,8 @@
 ### zappiehost.com
 * [lg-nz.zappiehost.com](http://lg-nz.zappiehost.com)
 * [lg-za.zappiehost.com](http://lg-za.zappiehost.com)
+### ionswitch.com
+* [lg.sea.ionswitch.com](http://lg.sea.ionswitch.com)
 ### hosthatch.com
 * [lg.lax.hosthatch.com](http://lg.lax.hosthatch.com)
 * [lg.sto.hosthatch.com](http://lg.sto.hosthatch.com)
@@ -380,7 +382,6 @@
 ### emix.net.ae
 * [lg.emix.net.ae](http://lg.emix.net.ae)
 ### hostus.us
-* [lg.hostus.us](http://lg.hostus.us)
 * [ams-lg.hostus.us](http://ams-lg.hostus.us)
 * [lon-lg.hostus.us](http://lon-lg.hostus.us)
 * [hk-lg.hostus.us](http://hk-lg.hostus.us)
@@ -537,8 +538,8 @@
 ### alexhost.com
 * [lg.alexhost.com](http://lg.alexhost.com)
 ### plox.host
-* [lg.nyc.plox.host](http://lg.nyc.plox.host)
 * [lg.dal.plox.host](http://lg.dal.plox.host)
+* [lg.nyc.plox.host](http://lg.nyc.plox.host)
 ### fulltimehosting.net
 * [lg.fulltimehosting.net](http://lg.fulltimehosting.net)
 ### vpsgod.com
@@ -574,8 +575,6 @@
 * [lg.reliablehostingservices.net](http://lg.reliablehostingservices.net)
 ### ip-projects.de
 * [lg.ip-projects.de](http://lg.ip-projects.de)
-### sldc.pl
-* [lg.sldc.pl](http://lg.sldc.pl)
 ### synlinq.de
 * [lg.synlinq.de](http://lg.synlinq.de)
 ### albahost.net
@@ -619,11 +618,6 @@
 * [lg.yisp.nl](http://lg.yisp.nl)
 ### github.io
 * [lgs.github.io](http://lgs.github.io)
-### 2sync.org
-* [lg.2sync.org](http://lg.2sync.org)
-* [kr.lg.2sync.org](http://kr.lg.2sync.org)
-* [jp.lg.2sync.org](http://jp.lg.2sync.org)
-* [hkp.lg.2sync.org](http://hkp.lg.2sync.org)
 ### telia.net
 * [lg.telia.net](http://lg.telia.net)
 ### obit.ru

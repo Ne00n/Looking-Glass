@@ -127,7 +127,9 @@
         "lg-nz.zappiehost.com",
         "lg-za.zappiehost.com"
     ],
-    "ionswitch.com": [],
+    "ionswitch.com": [
+        "lg.sea.ionswitch.com"
+    ],
     "as396071.net": [],
     "nexusbytes.com": [
         "lgger.nexusbytes.com",
@@ -228,10 +230,10 @@
     "hostworld.uk": [
         "lguk.hostworld.uk",
         "lgmh.hostworld.uk",
-        "lgch.hostworld.uk",
         "lguk2.hostworld.uk",
         "lgla.hostworld.uk",
-        "lgny.hostworld.uk"
+        "lgny.hostworld.uk",
+        "lgch.hostworld.uk"
     ],
     "serverkeren.com": [
         "lgid.serverkeren.com",
@@ -461,7 +463,6 @@
     ],
     "justvps.online": [],
     "hostus.us": [
-        "lg.hostus.us",
         "ams-lg.hostus.us",
         "lon-lg.hostus.us",
         "hk-lg.hostus.us",
@@ -716,8 +717,8 @@
         "lg.alexhost.com"
     ],
     "plox.host": [
-        "lg.nyc.plox.host",
-        "lg.dal.plox.host"
+        "lg.dal.plox.host",
+        "lg.nyc.plox.host"
     ],
     "fulltimehosting.net": [
         "lg.fulltimehosting.net"
@@ -805,9 +806,7 @@
     "exabytes.com": [],
     "hostfactor.eu": [],
     "vpsname.com": [],
-    "sldc.pl": [
-        "lg.sldc.pl"
-    ],
+    "sldc.pl": [],
     "telus.com": [],
     "iamcirium.com": [],
     "synlinq.de": [
@@ -881,12 +880,7 @@
     "gigsgigscloud.com": [],
     "hosting.com": [],
     "dranzel.net": [],
-    "2sync.org": [
-        "lg.2sync.org",
-        "kr.lg.2sync.org",
-        "jp.lg.2sync.org",
-        "hkp.lg.2sync.org"
-    ],
+    "2sync.org": [],
     "ito.org.tr": [],
     "cramhost.com": [],
     "sbcglobal.net": [],

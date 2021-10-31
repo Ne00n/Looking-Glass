@@ -10,9 +10,9 @@
     "hosteons.com": [
         "lg.hosteons.com",
         "lg.ny.hosteons.com",
-        "lg.jax.hosteons.com",
         "lg.la.hosteons.com",
-        "lg.vegas.hosteons.com"
+        "lg.vegas.hosteons.com",
+        "lg.jax.hosteons.com"
     ],
     "drserver.net": [
         "lg-dal.ipv4.drserver.net",
@@ -25,10 +25,10 @@
     "hostworld.uk": [
         "lguk.hostworld.uk",
         "lgmh.hostworld.uk",
-        "lgch.hostworld.uk",
         "lguk2.hostworld.uk",
         "lgla.hostworld.uk",
-        "lgny.hostworld.uk"
+        "lgny.hostworld.uk",
+        "lgch.hostworld.uk"
     ],
     "powerfulbox.co.uk": [],
     "quickpacket.com": [
