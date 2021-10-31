@@ -19,9 +19,10 @@ def parseUrls(html,type="lg"):
                     if not domain in data[type]: data[type][domain] = {}
                     if not match in data[type][domain]: data[type][domain][match] = []
 
-def parseIPs(html):
+def parseIPs(ip,html):
     ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})(<|\")",html, re.MULTILINE | re.DOTALL)
-    if len(ipv4s) == 2 or len(ipv4s) == 4: return {"ipv4":ipv4s[0][0]}
+    for entry in ipv4s:
+        if entry[0] != ip: return {"ipv4":entry[0]}
     return False
 
 def get(url):
@@ -53,6 +54,13 @@ folder = sys.argv[1]
 folders = os.listdir(folder)
 data = {"lg":{},"scrap":{}}
 
+print("Getting current IP")
+request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
+if request.status_code == 200:
+    ip = request.text
+else:
+    exit("Could not fetch IP")
+
 print(f"Parsing {folder}")
 for element in folders:
     if element.endswith(".html") or element.endswith(".json"):
@@ -68,12 +76,12 @@ for domain in data['lg']:
     for url in list(data['lg'][domain]):
         response = get("https://"+url)
         if response:
-            ips = parseIPs(response)
+            ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
         response = get("http://"+url)
         if response:
-            ips = parseIPs(response)
+            ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
         del data['lg'][domain][url]
@@ -86,13 +94,13 @@ for domain in list(data['scrap']):
         response = get("https://"+url)
         if response:
             data['lg'][domain][url] = []
-            ips = parseIPs(response)
+            ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
         response = get("http://"+url)
         if response:
             data['lg'][domain][url] = []
-            ips = parseIPs(response)
+            ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
 
