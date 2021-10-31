@@ -27,6 +27,9 @@ def get(url):
             if len(request.text) < 90:
                 print(f"HTML to short {len(request.text)}, dropping {url}")
                 return False
+            if not "<input" in request.text:
+                print(f"No Input field found, dropping {curl}")
+                return False
             print(f"Got {request.status_code} keeping {url}")
             return True
         else:
