@@ -20,8 +20,8 @@ def parseUrls(html,type="lg"):
                     if not match in data[type][domain]: data[type][domain][match] = []
 
 def parseIPs(html):
-    ipv4s = re.findall("[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}",html, re.MULTILINE | re.DOTALL)
-    if len(ipv4s) == 2 or len(ipv4s) == 7: return {"ipv4":ipv4s[0]}
+    ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})(<|\")",html, re.MULTILINE | re.DOTALL)
+    if len(ipv4s) == 2 or len(ipv4s) == 4: return {"ipv4":ipv4s[0][0]}
     return False
 
 def get(url):
@@ -80,7 +80,7 @@ for domain in data['lg']:
 
 print("Scrapping")
 for domain in list(data['scrap']):
-    for url in data['scrap'][domain]:
+    for url in list(data['scrap'][domain]):
         if not domain in data['lg']: data['lg'][domain] = {}
         if url in data['lg'][domain]: continue
         response = get("https://"+url)
@@ -96,12 +96,11 @@ for domain in list(data['scrap']):
             if ips: data['lg'][domain][url] = ips
             continue
 
+for domain,details in list(data['lg'].items()):
+    if not details: del data['lg'][domain]
+
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
-    json.dump(data['lg'], f, indent=4)
-
-print(f"Saving everything.json")
-with open(os.getcwd()+'/data/everything.json', 'w') as f:
     json.dump(data['lg'], f, indent=4)
 
 print("Updating Readme")
@@ -119,6 +118,10 @@ for element,urls in list.items():
         readme += "### "+element+"\n"
         for url in urls:
             readme += "* ["+url+"](http://"+url+")\n"
+
+print(f"Saving everything.json")
+with open(os.getcwd()+'/data/everything.json', 'w') as f:
+    json.dump(data['lg'], f, indent=4)
 
 with open(os.getcwd()+"/README.md", 'w') as f:
     f.write(readme)
