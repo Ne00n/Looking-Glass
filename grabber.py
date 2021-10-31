@@ -1,5 +1,4 @@
 import tldextract, requests
-from random import randint
 import json, time, sys, os, re
 
 def parse(file):
@@ -27,9 +26,9 @@ def parseIPs(ip,html):
     return False
 
 def get(url):
-    for run in range(3):
+    for run in range(2):
         try:
-            request = requests.get(url,allow_redirects=False,timeout=5)
+            request = requests.get(url,allow_redirects=False,timeout=3)
             parseUrls(request.text,"scrap")
             if (request.status_code == 200):
                 if len(request.text) < 90:
@@ -42,10 +41,12 @@ def get(url):
                 return request.text
             else:
                 print(f"Got {request.status_code} dropping {url}")
+                return False
+        except requests.ConnectionError:
+            print(f"Retrying {url} got connection error")
         except Exception as e:
-            print(f"Retrying {url}")
-            time.sleep(randint(1,3))
-            continue
+            print(f"Retrying {url} got {e}")
+        time.sleep(0.5)
     return False
 
 if len(sys.argv) == 1:
