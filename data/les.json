@@ -1,30 +1,50 @@
 {
-    "drgrog.com": [],
-    "alwyzon.net": [],
-    "zappiehost.com": [
-        "lg-nz.zappiehost.com",
-        "lg-za.zappiehost.com"
-    ],
-    "webhorizon.in": [
-        "tyo.lg.webhorizon.in",
-        "waw.lg.webhorizon.in"
-    ],
-    "haendler.it": [
-        "lg.nl.haendler.it"
-    ],
-    "happybeehost.com": [
-        "lg-pl.happybeehost.com"
-    ],
-    "drserver.net": [
-        "lg-dal.ipv4.drserver.net",
-        "lg-dal.ipv6.drserver.net"
-    ],
-    "spryservers.net": [
-        "lg.phx1.spryservers.net",
-        "lg.dal1.spryservers.net"
-    ],
-    "hostmayo.com": [
-        "lg.hostmayo.com",
-        "lgnl.hostmayo.com"
-    ]
+    "zappiehost.com": {
+        "lg-nz.zappiehost.com": {
+            "ipv4": "185.99.133.234"
+        },
+        "lg-za.zappiehost.com": {
+            "ipv4": "169.239.128.25"
+        }
+    },
+    "webhorizon.in": {
+        "tyo.lg.webhorizon.in": {
+            "ipv4": "41.216.180.13"
+        },
+        "waw.lg.webhorizon.in": {
+            "ipv4": "41.216.186.10"
+        }
+    },
+    "haendler.it": {
+        "lg.nl.haendler.it": {
+            "ipv4": "80.78.132.86"
+        }
+    },
+    "happybeehost.com": {
+        "lg-pl.happybeehost.com": {
+            "ipv4": "147.135.198.0"
+        }
+    },
+    "drserver.net": {
+        "lg-dal.ipv4.drserver.net": {
+            "ipv4": "192.138.210.63"
+        },
+        "lg-dal.ipv6.drserver.net": []
+    },
+    "spryservers.net": {
+        "lg.phx1.spryservers.net": {
+            "ipv4": "204.10.89.135"
+        },
+        "lg.dal1.spryservers.net": {
+            "ipv4": "23.130.96.20"
+        }
+    },
+    "hostmayo.com": {
+        "lg.hostmayo.com": {
+            "ipv4": "92.118.61.21"
+        },
+        "lgnl.hostmayo.com": {
+            "ipv4": "169.239.130.2"
+        }
+    }
 }
