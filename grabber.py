@@ -27,8 +27,8 @@ def get(url):
             if len(request.text) < 90:
                 print(f"HTML to short {len(request.text)}, dropping {url}")
                 return False
-            if not "<input" in request.text:
-                print(f"No Input field found, dropping {curl}")
+            if "window.location.replace" in request.text:
+                print(f"Found Javascript redirect, dropping {url}")
                 return False
             print(f"Got {request.status_code} keeping {url}")
             return True
