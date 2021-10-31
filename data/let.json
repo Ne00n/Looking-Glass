@@ -450,14 +450,30 @@
         }
     },
     "justhost.ru": {
-        "lg.justhost.ru": [],
-        "lg-rtcom.justhost.ru": [],
-        "lg-adman.justhost.ru": [],
-        "lg-prgrs.justhost.ru": [],
-        "lg-nskttk.justhost.ru": [],
-        "lg-iqdata.justhost.ru": [],
-        "lg-nsk.justhost.ru": [],
-        "lg-dtln.justhost.ru": []
+        "lg.justhost.ru": {
+            "ipv4": "46.17.40.85"
+        },
+        "lg-rtcom.justhost.ru": {
+            "ipv4": "176.32.32.133"
+        },
+        "lg-adman.justhost.ru": {
+            "ipv4": "46.29.162.89"
+        },
+        "lg-prgrs.justhost.ru": {
+            "ipv4": "212.60.5.88"
+        },
+        "lg-nskttk.justhost.ru": {
+            "ipv4": "193.38.50.142"
+        },
+        "lg-iqdata.justhost.ru": {
+            "ipv4": "194.87.68.192"
+        },
+        "lg-nsk.justhost.ru": {
+            "ipv4": "46.29.162.89"
+        },
+        "lg-dtln.justhost.ru": {
+            "ipv4": "46.17.40.85"
+        }
     },
     "hostworld.uk": {
         "lguk.hostworld.uk": {
@@ -538,7 +554,9 @@
         }
     },
     "virmach.com": {
-        "la.lg.virmach.com": [],
+        "la.lg.virmach.com": {
+            "ipv4": "107.172.246.38"
+        },
         "ny.lg.virmach.com": {
             "ipv4": "192.227.227.194"
         },
@@ -1002,6 +1020,9 @@
     "citynethost.com": {
         "lg.ist.citynethost.com": {
             "ipv4": "185.65.204.169"
+        },
+        "lg.cai.citynethost.com": {
+            "ipv4": "196.46.188.3"
         }
     },
     "kloud.net.bd": {
@@ -1495,7 +1516,7 @@
     },
     "vpscheap.net": {
         "lg.vpscheap.net": {
-            "ipv4": "162.158.92.78"
+            "ipv4": "162.158.94.192"
         }
     },
     "purevoltage.net": {
