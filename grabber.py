@@ -23,6 +23,9 @@ def get(url):
     try:
         request = requests.get(url,allow_redirects=False,timeout=5)
         if (request.status_code == 200):
+            if len(request.text) < 200:
+                print(f"HTML to short {len(request.text)}, dropping {url}")
+                return False
             print(f"Got {request.status_code} keeping {url}")
             parseUrls(request.text,"scrap")
             return True
