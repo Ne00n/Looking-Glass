@@ -100,6 +100,10 @@ print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data['lg'], f, indent=4)
 
+print(f"Saving everything.json")
+with open(os.getcwd()+'/data/everything.json', 'w') as f:
+    json.dump(data['lg'], f, indent=4)
+
 print("Updating Readme")
 readme = "# Looking-Glass\n"
 list = {}
