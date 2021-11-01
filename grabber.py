@@ -21,9 +21,11 @@ def parseUrls(html,type="lg"):
 
 def parseIPs(ip,html):
     ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")",html, re.MULTILINE | re.DOTALL)
+    response = {"ipv4":[]}
     for entry in ipv4s:
-        if entry[0] != ip: return {"ipv4":entry[0]}
-    return False
+        if entry[0] != ip: response['ipv4'].append(entry[0])
+    response['ipv4'] = list(set(response['ipv4']))
+    return response
 
 def get(url):
     for run in range(2):
