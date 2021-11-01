@@ -9,7 +9,7 @@ results = {}
 for index, row in enumerate(rows):
     if index % 2 == 0:
         provider = rows[index+1].text
-        link = "https://looking.house" + list(row.links)[0]
+        link = "looking.house" + list(row.links)[0]
         if not provider in results: results[provider] = {}
         ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})",row.text, re.MULTILINE | re.DOTALL)
         if not link in results[provider]: results[provider][link] = {"ipv4":ipv4s[0]}
