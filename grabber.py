@@ -136,7 +136,7 @@ for element,urls in list.items():
 
 print(f"Saving everything.json")
 with open(os.getcwd()+'/data/everything.json', 'w') as f:
-    json.dump(data['lg'], f, indent=4)
+    json.dump(list, f, indent=4)
 
 with open(os.getcwd()+"/README.md", 'w') as f:
     f.write(readme)
