@@ -140,6 +140,16 @@ for domain in list(data['scrap']):
 for domain,details in list(data['lg'].items()):
     if not details: del data['lg'][domain]
 
+print("Filter double IP's")
+for domain, details in data['lg'].items():
+    once = []
+    for url,ips in list(details.items()):
+        for ip in list(ips['ipv4']):
+            if ip in once:
+                del data['lg'][domain][url]
+                continue
+            once.append(ip)
+
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data['lg'], f, indent=4)
