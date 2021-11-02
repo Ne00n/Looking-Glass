@@ -22,17 +22,23 @@ def parseUrls(html,type="lg"):
             if not result in data[type][domain]: data[type][domain][result] = []
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
-def parseLinks(html,type="lg"):
+def parseLinks(html,domain,type="lg"):
     global data
     html = HTML(html=html)
     tags = ['datacenters','data-centers','datacenter']
     if html.links:
         for link in html.links:
             if any(element in link  for element in tags):
-                domain = tldextract.extract(link).registered_domain
                 if not domain in data[type]: data[type][domain] = {}
-                if not link in data[type][domain]: data[type][domain][link.replace("https://","").replace("http://","")] = []
-                print("Found",link)
+                if domain in link:
+                    url = link
+                else:
+                    if link.startswith("/"):
+                        url = domain + link
+                    else:
+                        url = domain + "/" + link
+                if not link in data[type][domain]: data[type][domain][url.replace("https://","").replace("http://","")] = []
+                print("Found",url)
 
 def isPrivate(ip):
     #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
@@ -113,7 +119,7 @@ for domain in direct:
     response = get(domain)
     if response:
         parseUrls(response)
-        parseLinks(response)
+        parseLinks(response,domain)
 
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
