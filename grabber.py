@@ -98,7 +98,7 @@ else:
      default = "default.json"
 folder = sys.argv[1]
 folders = os.listdir(folder)
-data,direct = {"lg":{},"scrap":{}},[]
+data,direct,ignore = {"lg":{},"scrap":{}},[],[]
 
 print("Getting current IP")
 request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
@@ -123,20 +123,27 @@ for domain in direct:
     if response:
         parseUrls(response)
         parseLinks(response,domain)
+        continue
+    ignore.add(domain)
 
 for domain in data['lg']:
+    if domain in ignore: continue
     for url in list(data['lg'][domain]):
+        if url in ignore: continue
         response = get(url,domain)
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
+        ignore.add(url)
         del data['lg'][domain][url]
 
 print("Scrapping")
 for domain in list(data['scrap']):
+    if domain in ignore: continue
     for url in list(data['scrap'][domain]):
+        if url in ignore: continue
         if not domain in data['lg']: data['lg'][domain] = {}
         if url in data['lg'][domain]: continue
         response = get(url,domain)
