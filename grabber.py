@@ -19,12 +19,21 @@ def parseUrls(html,type="lg"):
             if not result in data[type][domain]: data[type][domain][result] = []
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
+def isPrivate(ip):
+    #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
+     priv_lo = re.compile("^127\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
+     priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
+     priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
+     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
+     return (priv_lo.match(ip) or priv_24.match(ip) or priv_20.match(ip) or priv_16.match(ip))
+
 def parseIPs(ip,html):
     ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")",html, re.MULTILINE | re.DOTALL)
     yourIP = re.findall("(Your IP Address|My IP):.*?>([\d.]+)<",html, re.MULTILINE | re.DOTALL)
     response = {"ipv4":[]}
     for entry in ipv4s:
         if yourIP and yourIP[0][1] == entry[0]: continue
+        if isPrivate(entry[0]): continue
         if entry[0] == ip: continue
         response['ipv4'].append(entry[0])
     response['ipv4'] = list(set(response['ipv4']))
