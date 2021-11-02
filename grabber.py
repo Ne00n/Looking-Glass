@@ -2,6 +2,7 @@ from requests_html import HTML
 import json, time, sys, os, re
 import tldextract, requests
 
+lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
 
 def parse(file):
     with open(file, 'r') as f:
@@ -9,8 +10,8 @@ def parse(file):
     parseUrls(file)
 
 def parseUrls(html,type="lg"):
-    global data,direct
-    matches = re.findall("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)",html, re.MULTILINE | re.DOTALL)
+    global data,direct,lookingRegex
+    matches = lookingRegex.findall(html, re.MULTILINE | re.DOTALL)
     if matches:
         for match in matches:
             result = "".join(match)
