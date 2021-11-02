@@ -63,11 +63,11 @@ def parseIPs(ip,html):
 def get(url,domain):
     for run in range(4):
         try:
+            if run > 1: time.sleep(0.5)
             prefix = "https://" if run % 2 == 0 else "http://"
             request = requests.get(prefix+url,allow_redirects=True,timeout=3)
             if domain not in request.url:
                 print(f"Got redirected to different domain {url} vs {request.url}")
-                time.sleep(0.5)
                 continue
             parseUrls(request.text,"scrap")
             if (request.status_code == 200):
@@ -86,7 +86,6 @@ def get(url,domain):
             print(f"Retrying {request.url} got connection error")
         except Exception as e:
             print(f"Retrying {request.url} got {e}")
-        time.sleep(0.5)
     return False
 
 if len(sys.argv) == 1:
