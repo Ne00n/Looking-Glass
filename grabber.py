@@ -33,7 +33,7 @@ def parseUrls(html,type="lg"):
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
 def parseLinks(html,domain,type="lg"):
-    global data
+    global data,tagged
     html = HTML(html=html)
     tags = ['datacenters','data-centers','datacenter']
     if html.links:
@@ -47,7 +47,9 @@ def parseLinks(html,domain,type="lg"):
                         url = domain + link
                     else:
                         url = domain + "/" + link
-                if not link in data[type][domain]: data[type][domain][url.replace("https://","").replace("http://","")] = []
+                if not link in data[type][domain]:
+                    data[type][domain][url] = []
+                    tagged.append(url)
                 print("Found",url)
 
 def isPrivate(ip):
@@ -72,7 +74,10 @@ def get(url,domain):
     for run in range(4):
         try:
             if run > 1: time.sleep(0.5)
-            prefix = "https://" if run % 2 == 0 else "http://"
+            if not "http" in url:
+                prefix = "https://" if run % 2 == 0 else "http://"
+            else:
+                prefix = ""
             request = requests.get(prefix+url,allow_redirects=True,timeout=3)
             if domain.lower() not in request.url.lower():
                 print(f"Got redirected to different domain {url} vs {request.url}")
@@ -106,7 +111,7 @@ else:
      default = "default.json"
 folder = sys.argv[1]
 folders = os.listdir(folder)
-data,direct,ignore = {"lg":{},"scrap":{}},[],[]
+data,direct,ignore,tagged = {"lg":{},"scrap":{}},[],[],[]
 
 print("Getting current IP")
 request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
@@ -139,7 +144,10 @@ for domain in data['lg']:
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
-            if ips: data['lg'][domain][url] = ips
+            if ips:
+                data['lg'][domain][url] = ips
+            elif url in tagged:
+                del data['lg'][domain][url]
             continue
         del data['lg'][domain][url]
 
@@ -152,7 +160,10 @@ for domain in list(data['scrap']):
         if response:
             data['lg'][domain][url] = []
             ips = parseIPs(ip,response)
-            if ips: data['lg'][domain][url] = ips
+            if ips:
+                data['lg'][domain][url] = ips
+            elif url in tagged:
+                del data['lg'][domain][url]
             continue
 
 for domain,details in list(data['lg'].items()):
