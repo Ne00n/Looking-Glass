@@ -11,12 +11,13 @@ def parseUrls(html,type="lg"):
     matches = re.findall("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)",html, re.MULTILINE | re.DOTALL)
     if matches:
         for match in matches:
-            match = "".join(match)
-            domain = tldextract.extract(match).registered_domain
+            result = "".join(match)
+            domain = tldextract.extract(result).registered_domain
             if domain == "": continue
-            if match.endswith("."): match = match[:len(match) -2]
+            if result.endswith("."): result = result[:len(result) -2]
             if not domain in data[type]: data[type][domain] = {}
-            if not match in data[type][domain]: data[type][domain][match] = []
+            if not result in data[type][domain]: data[type][domain][result] = []
+            if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
 def parseIPs(ip,html):
     ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")",html, re.MULTILINE | re.DOTALL)
