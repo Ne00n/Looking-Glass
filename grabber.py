@@ -83,9 +83,9 @@ def get(url,domain):
                 print(f"Got {request.status_code} dropping {request.url}")
                 continue
         except requests.ConnectionError:
-            print(f"Retrying {request.url} got connection error")
+            print(f"Retrying {prefix+url} got connection error")
         except Exception as e:
-            print(f"Retrying {request.url} got {e}")
+            print(f"Retrying {prefix+url} got {e}")
     return False
 
 if len(sys.argv) == 1:
@@ -124,7 +124,7 @@ for domain in direct:
         parseUrls(response)
         parseLinks(response,domain)
         continue
-    ignore.add(domain)
+    ignore.append(domain)
 
 for domain in data['lg']:
     if domain in ignore: continue
@@ -136,7 +136,7 @@ for domain in data['lg']:
             ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
-        ignore.add(url)
+        ignore.append(url)
         del data['lg'][domain][url]
 
 print("Scrapping")
@@ -160,11 +160,12 @@ print("Filter double IP's")
 for domain, details in data['lg'].items():
     once = []
     for url,ips in list(details.items()):
-        for ip in list(ips['ipv4']):
-            if ip in once:
-                del data['lg'][domain][url]
-                continue
-            once.append(ip)
+        if ips and ips['ipv4']:
+            for ip in list(ips['ipv4']):
+                if ip in once:
+                    del data['lg'][domain][url]
+                    continue
+                once.append(ip)
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
