@@ -1,326 +1,531 @@
 {
     "teraswitch.com": {
-        "lg.teraswitch.com": [],
-        "lg.lax.teraswitch.com": []
+        "lg.teraswitch.com": {
+            "ipv4": []
+        },
+        "lg.lax.teraswitch.com": {
+            "ipv4": []
+        }
     },
     "cloudc.one": {
         "la.lg.cloudc.one": {
-            "ipv4": "173.82.220.148"
+            "ipv4": [
+                "173.82.220.148"
+            ]
         }
     },
     "hosteons.com": {
-        "lg.hosteons.com": [],
+        "lg.hosteons.com": {
+            "ipv4": []
+        },
         "lg.ny.hosteons.com": {
-            "ipv4": "45.128.73.2"
+            "ipv4": [
+                "45.128.73.2"
+            ]
         },
         "lg.jax.hosteons.com": {
-            "ipv4": "103.114.161.10"
+            "ipv4": [
+                "103.114.161.10"
+            ]
         },
         "lg.la.hosteons.com": {
-            "ipv4": "185.149.23.201"
+            "ipv4": [
+                "185.149.23.201"
+            ]
         },
         "lg.vegas.hosteons.com": {
-            "ipv4": "103.114.162.10"
+            "ipv4": [
+                "103.114.162.10"
+            ]
         }
     },
     "drserver.net": {
         "lg-dal.ipv4.drserver.net": {
-            "ipv4": "192.138.210.63"
+            "ipv4": [
+                "192.138.210.63"
+            ]
         },
-        "lg-dal.ipv6.drserver.net": []
+        "lg-dal.ipv6.drserver.net": {
+            "ipv4": []
+        }
     },
     "ssdblaze.com": {
         "lg-dal.ssdblaze.com": {
-            "ipv4": "50.2.217.106"
+            "ipv4": [
+                "50.2.217.106"
+            ]
         }
     },
     "hostworld.uk": {
         "lguk.hostworld.uk": {
-            "ipv4": "5.181.124.254"
+            "ipv4": [
+                "5.181.124.254"
+            ]
         },
         "lgmh.hostworld.uk": {
-            "ipv4": "109.169.10.169"
+            "ipv4": [
+                "109.169.10.169"
+            ]
         },
         "lguk2.hostworld.uk": {
-            "ipv4": "51.195.168.65"
+            "ipv4": [
+                "51.195.168.65"
+            ]
         },
         "lgla.hostworld.uk": {
-            "ipv4": "23.237.72.171"
+            "ipv4": [
+                "23.237.72.171"
+            ]
         },
         "lgny.hostworld.uk": {
-            "ipv4": "191.96.196.147"
+            "ipv4": [
+                "191.96.196.147"
+            ]
         },
         "lgch.hostworld.uk": {
-            "ipv4": "23.237.136.188"
+            "ipv4": [
+                "23.237.136.188"
+            ]
         }
     },
     "quickpacket.com": {
         "lg.lax01.quickpacket.com": {
-            "ipv4": "45.43.223.2"
+            "ipv4": [
+                "45.43.223.2"
+            ]
         },
         "lg.clt01.quickpacket.com": {
-            "ipv4": "64.187.224.4"
+            "ipv4": [
+                "64.187.224.4"
+            ]
         },
         "lg.lax.quickpacket.com": {
-            "ipv4": "45.43.223.2"
+            "ipv4": [
+                "45.43.223.2"
+            ]
         },
         "lg.chi01.quickpacket.com": {
-            "ipv4": "64.187.239.14"
+            "ipv4": [
+                "64.187.239.14"
+            ]
         },
         "lg.clt.quickpacket.com": {
-            "ipv4": "64.187.224.4"
+            "ipv4": [
+                "64.187.224.4"
+            ]
         }
     },
     "atcloud.net": {
-        "lg.atcloud.net": []
+        "lg.atcloud.net": {
+            "ipv4": []
+        }
     },
     "prowhost.com": {
-        "lg.prowhost.com": [],
+        "lg.prowhost.com": {
+            "ipv4": []
+        },
         "lg.oregon.prowhost.com": {
-            "ipv4": "34.214.89.213"
+            "ipv4": [
+                "34.214.89.213"
+            ]
         },
         "lg.ohio.prowhost.com": {
-            "ipv4": "52.14.253.49"
+            "ipv4": [
+                "52.14.253.49"
+            ]
         },
         "lg.virginia.prowhost.com": {
-            "ipv4": "23.23.192.206"
+            "ipv4": [
+                "23.23.192.206"
+            ]
         },
         "lg.singapore.prowhost.com": {
-            "ipv4": "54.255.74.163"
+            "ipv4": [
+                "54.255.74.163"
+            ]
         },
         "lg.tokyo.prowhost.com": {
-            "ipv4": "18.177.199.243"
+            "ipv4": [
+                "18.177.199.243"
+            ]
         },
         "lg.seoul.prowhost.com": {
-            "ipv4": "3.37.142.76"
+            "ipv4": [
+                "3.37.142.76"
+            ]
         },
         "lg.london.prowhost.com": {
-            "ipv4": "18.169.33.2"
+            "ipv4": [
+                "18.169.33.2"
+            ]
         },
-        "lg.frankfurt.prowhost.com": [],
+        "lg.frankfurt.prowhost.com": {
+            "ipv4": []
+        },
         "lg.paris.prowhost.com": {
-            "ipv4": "13.37.149.32"
+            "ipv4": [
+                "13.37.149.32"
+            ]
         },
         "lg.ireland.prowhost.com": {
-            "ipv4": "52.210.31.23"
+            "ipv4": [
+                "52.210.31.23"
+            ]
         },
         "lg.sydney.prowhost.com": {
-            "ipv4": "54.206.199.218"
+            "ipv4": [
+                "54.206.199.218"
+            ]
         }
     },
     "nexusbytes.com": {
         "lgger.nexusbytes.com": {
-            "ipv4": "46.4.199.225"
+            "ipv4": [
+                "46.4.199.225"
+            ]
         },
         "lgla.nexusbytes.com": {
-            "ipv4": "158.51.84.9"
+            "ipv4": [
+                "158.51.84.9"
+            ]
         },
         "lgny.nexusbytes.com": {
-            "ipv4": "139.64.237.237"
+            "ipv4": [
+                "139.64.237.237"
+            ]
         },
         "lgmel.nexusbytes.com": {
-            "ipv4": "64.112.56.10"
+            "ipv4": [
+                "64.112.56.10"
+            ]
         },
         "lgnl.nexusbytes.com": {
-            "ipv4": "136.175.201.201"
+            "ipv4": [
+                "136.175.201.201"
+            ]
         },
         "lgmi.nexusbytes.com": {
-            "ipv4": "158.51.87.9"
+            "ipv4": [
+                "158.51.87.9"
+            ]
         },
         "lguk.nexusbytes.com": {
-            "ipv4": "45.147.54.2"
+            "ipv4": [
+                "45.147.54.2"
+            ]
         },
         "lgsg.nexusbytes.com": {
-            "ipv4": "139.64.239.2"
+            "ipv4": [
+                "139.64.239.2"
+            ]
         },
         "lgjp.nexusbytes.com": {
-            "ipv4": "139.64.236.64"
+            "ipv4": [
+                "139.64.236.64"
+            ]
         }
     },
     "mrvm.net": {
         "lg-de-fks.mrvm.net": {
-            "ipv4": "88.198.69.215"
+            "ipv4": [
+                "88.198.69.215"
+            ]
         },
         "lg-bg-sof.mrvm.net": {
-            "ipv4": "82.118.227.155"
+            "ipv4": [
+                "82.118.227.155"
+            ]
         },
         "lg-no-san.mrvm.net": {
-            "ipv4": "185.125.171.200"
+            "ipv4": [
+                "185.125.171.200"
+            ]
         },
         "lg-us-ler.mrvm.net": {
-            "ipv4": "23.92.221.19"
+            "ipv4": [
+                "23.92.221.19"
+            ]
         },
         "lg-au-syd.mrvm.net": {
-            "ipv4": "103.25.58.141"
+            "ipv4": [
+                "103.25.58.141"
+            ]
         },
         "lg-au-per.mrvm.net": {
-            "ipv4": "45.248.78.75"
+            "ipv4": [
+                "45.248.78.75"
+            ]
         },
         "lg-sg-sin.mrvm.net": {
-            "ipv4": "103.216.223.11"
+            "ipv4": [
+                "103.216.223.11"
+            ]
         },
         "lg-us-bei.mrvm.net": {
-            "ipv4": "208.73.20.91"
+            "ipv4": [
+                "208.73.20.91"
+            ]
         }
     },
     "nexril.net": {
         "lg.nexril.net": {
-            "ipv4": "161.129.152.2"
+            "ipv4": [
+                "161.129.152.2"
+            ]
         }
     },
     "liteserver.nl": {
         "lg-dro.liteserver.nl": {
-            "ipv4": "185.31.172.235"
+            "ipv4": [
+                "185.31.172.235"
+            ]
         }
     },
     "vikinglayer.com": {
         "lg.dal.vikinglayer.com": {
-            "ipv4": "192.138.210.63"
+            "ipv4": [
+                "192.138.210.63"
+            ]
         }
     },
     "hostmayo.com": {
         "lg.hostmayo.com": {
-            "ipv4": "92.118.61.21"
+            "ipv4": [
+                "92.118.61.21"
+            ]
         },
         "lgnl.hostmayo.com": {
-            "ipv4": "169.239.130.2"
+            "ipv4": [
+                "169.239.130.2"
+            ]
         }
     },
     "apeweb.uk": {
-        "lg.no.apeweb.uk": []
+        "lg.no.apeweb.uk": {
+            "ipv4": []
+        }
     },
     "knownhost.com": {
         "lg.atl.knownhost.com": {
-            "ipv4": "170.249.238.168"
+            "ipv4": [
+                "170.249.238.168"
+            ]
         }
     },
     "alphavps.com": {
         "lgbg.alphavps.com": {
-            "ipv4": "79.124.7.8"
+            "ipv4": [
+                "79.124.7.8"
+            ]
         },
         "lgde.alphavps.com": {
-            "ipv4": "194.35.12.68"
+            "ipv4": [
+                "194.35.12.68"
+            ]
         },
         "lguk.alphavps.com": {
-            "ipv4": "130.185.251.6"
+            "ipv4": [
+                "130.185.251.6"
+            ]
         },
         "lgla.alphavps.com": {
-            "ipv4": "85.190.230.3"
+            "ipv4": [
+                "85.190.230.3"
+            ]
+        }
+    },
+    "khanwebhost.com": {
+        "aulg.khanwebhost.com": {
+            "ipv4": [
+                "139.99.190.146"
+            ]
+        },
+        "uslg.khanwebhost.com": {
+            "ipv4": [
+                "207.32.216.45"
+            ]
+        },
+        "frlg.khanwebhost.com": {
+            "ipv4": [
+                "164.132.150.235"
+            ]
+        },
+        "kansaslg.khanwebhost.com": {
+            "ipv4": [
+                "162.251.121.200"
+            ]
         }
     },
     "tmthosting.net": {
         "lg-dal.tmthosting.net": {
-            "ipv4": "45.34.12.147"
+            "ipv4": [
+                "45.34.12.147"
+            ]
         },
         "lg-sea.tmthosting.net": {
-            "ipv4": "172.83.155.148"
+            "ipv4": [
+                "172.83.155.148"
+            ]
         },
         "lg-lon.tmthosting.net": {
-            "ipv4": "89.34.96.98"
+            "ipv4": [
+                "89.34.96.98"
+            ]
         }
     },
     "cspacehostings.com": {
-        "lg.cspacehostings.com": []
+        "lg.cspacehostings.com": {
+            "ipv4": []
+        }
     },
     "artnet.pl": {
-        "lg.artnet.pl": []
-    },
-    "skylonhost.com": {
-        "lg.skylonhost.com": [],
-        "lg-v4.prg.skylonhost.com": [],
-        "lg-v6.prg.skylonhost.com": [],
-        "lg.prg.skylonhost.com": []
+        "lg.artnet.pl": {
+            "ipv4": []
+        }
     },
     "x4b.net": {
         "lg.x4b.net": {
-            "ipv4": "103.77.224.2"
+            "ipv4": [
+                "103.77.224.2"
+            ]
         }
     },
     "webhorizon.in": {
         "waw.lg.webhorizon.in": {
-            "ipv4": "41.216.186.10"
+            "ipv4": [
+                "41.216.186.10"
+            ]
         },
         "lax.lg.webhorizon.in": {
-            "ipv4": "199.87.210.186"
+            "ipv4": [
+                "199.87.210.186"
+            ]
         },
         "nyc.lg.webhorizon.in": {
-            "ipv4": "107.161.50.42"
+            "ipv4": [
+                "107.161.50.42"
+            ]
         },
         "zrh.lg.webhorizon.in": {
-            "ipv4": "45.91.92.191"
+            "ipv4": [
+                "45.91.92.191"
+            ]
         },
         "dro.lg.webhorizon.in": {
-            "ipv4": "185.213.175.206"
+            "ipv4": [
+                "185.213.175.206"
+            ]
         },
         "tyo.lg.webhorizon.in": {
-            "ipv4": "41.216.180.13"
+            "ipv4": [
+                "41.216.180.13"
+            ]
         }
     },
     "ultravps.eu": {
         "lg.ams.nl.ultravps.eu": {
-            "ipv4": "185.45.112.15"
+            "ipv4": [
+                "185.45.112.15"
+            ]
         },
         "lg.kiv.md.ultravps.eu": {
-            "ipv4": "185.177.151.4"
+            "ipv4": [
+                "185.177.151.4"
+            ]
         },
         "lg.dus.de.ultravps.eu": {
-            "ipv4": "130.255.76.147"
+            "ipv4": [
+                "130.255.76.147"
+            ]
         },
         "lg.dal.us.ultravps.eu": {
-            "ipv4": "172.107.84.6"
+            "ipv4": [
+                "172.107.84.6"
+            ]
         },
         "lg.lon.uk.ultravps.eu": {
-            "ipv4": "185.177.148.4"
+            "ipv4": [
+                "185.177.148.4"
+            ]
         },
         "lg.lax.us.ultravps.eu": {
-            "ipv4": "69.12.89.3"
+            "ipv4": [
+                "69.12.89.3"
+            ]
         },
         "lg.sqq.lt.ultravps.eu": {
-            "ipv4": "185.177.150.4"
+            "ipv4": [
+                "185.177.150.4"
+            ]
         }
     },
     "webhosting24.com": {
         "lg.sg.webhosting24.com": {
-            "ipv4": "84.33.16.2"
+            "ipv4": [
+                "84.33.16.2"
+            ]
         },
         "lg.muc.webhosting24.com": {
-            "ipv4": "194.39.205.4"
+            "ipv4": [
+                "194.39.205.4"
+            ]
         },
         "lg.lax.webhosting24.com": {
-            "ipv4": "84.33.244.2"
+            "ipv4": [
+                "84.33.244.2"
+            ]
         },
         "lg.jp.webhosting24.com": {
-            "ipv4": "84.33.12.2"
+            "ipv4": [
+                "84.33.12.2"
+            ]
         },
         "lg.au.webhosting24.com": {
-            "ipv4": "84.33.15.2"
+            "ipv4": [
+                "84.33.15.2"
+            ]
         }
     },
     "hostio.solutions": {
         "lg.hostio.solutions": {
-            "ipv4": "45.151.157.200"
+            "ipv4": [
+                "45.151.157.200"
+            ]
         }
     },
     "first-root.com": {
         "lg.first-root.com": {
-            "ipv4": "91.228.52.15"
+            "ipv4": [
+                "91.228.52.15"
+            ]
         }
     },
     "vmhaus.com": {
         "lg.vmhaus.com": {
-            "ipv4": "185.214.69.46"
+            "ipv4": [
+                "103.105.49.34",
+                "185.214.69.46"
+            ]
         }
     },
     "alphavps.bg": {
         "lgbg.alphavps.bg": {
-            "ipv4": "79.124.7.8"
+            "ipv4": [
+                "79.124.7.8"
+            ]
         },
         "lgde.alphavps.bg": {
-            "ipv4": "194.35.12.68"
+            "ipv4": [
+                "194.35.12.68"
+            ]
         },
         "lguk.alphavps.bg": {
-            "ipv4": "130.185.251.6"
+            "ipv4": [
+                "130.185.251.6"
+            ]
         },
-        "lgla.alphavps.bg": []
+        "lgla.alphavps.bg": {
+            "ipv4": []
+        }
     }
 }

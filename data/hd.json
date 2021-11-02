@@ -1,95 +1,145 @@
 {
     "cometvps.com": {
         "lg.chi1.cometvps.com": {
-            "ipv4": "167.88.10.4"
+            "ipv4": [
+                "167.88.10.4"
+            ]
         },
         "lg.buf1.cometvps.com": {
-            "ipv4": "96.9.249.58"
+            "ipv4": [
+                "96.9.249.58"
+            ]
         }
     },
     "cloudc.one": {
         "la.lg.cloudc.one": {
-            "ipv4": "173.82.220.148"
+            "ipv4": [
+                "173.82.220.148"
+            ]
         }
     },
     "drserver.net": {
         "lg-dal.ipv4.drserver.net": {
-            "ipv4": "192.138.210.63"
+            "ipv4": [
+                "192.138.210.63"
+            ]
         },
-        "lg-dal.ipv6.drserver.net": []
+        "lg-dal.ipv6.drserver.net": {
+            "ipv4": []
+        }
     },
     "controlvm.com": {
         "lg.my.controlvm.com": {
-            "ipv4": "103.241.150.129"
+            "ipv4": [
+                "103.241.150.129"
+            ]
         },
         "lg.sg.controlvm.com": {
-            "ipv4": "103.47.155.102"
+            "ipv4": [
+                "103.47.155.102"
+            ]
         },
         "lg.la.controlvm.com": {
-            "ipv4": "98.143.148.61"
+            "ipv4": [
+                "98.143.148.61"
+            ]
         },
         "lg.de.controlvm.com": {
-            "ipv4": "176.9.204.22"
+            "ipv4": [
+                "176.9.204.22"
+            ]
         }
     },
     "hostmayo.com": {
         "lg.hostmayo.com": {
-            "ipv4": "92.118.61.21"
+            "ipv4": [
+                "92.118.61.21"
+            ]
         },
         "lgnl.hostmayo.com": {
-            "ipv4": "169.239.130.2"
+            "ipv4": [
+                "169.239.130.2"
+            ]
         }
     },
     "bacloud.com": {
         "lg-lt-eu.bacloud.com": {
-            "ipv4": "185.25.50.85"
+            "ipv4": [
+                "185.25.50.85"
+            ]
         },
         "lg-nl-eu.bacloud.com": {
-            "ipv4": "88.119.171.50"
+            "ipv4": [
+                "88.119.171.50"
+            ]
         },
         "lg-chi-us.bacloud.com": {
-            "ipv4": "88.119.175.50"
+            "ipv4": [
+                "88.119.175.50"
+            ]
         }
     },
     "hosteons.com": {
-        "lg.hosteons.com": []
+        "lg.hosteons.com": {
+            "ipv4": []
+        }
     },
     "first-root.com": {
         "lg.first-root.com": {
-            "ipv4": "91.228.52.15"
+            "ipv4": [
+                "91.228.52.15"
+            ]
         }
     },
     "ftpit.com": {
         "losangeles.lg.ftpit.com": {
-            "ipv4": "198.52.245.10"
+            "ipv4": [
+                "198.52.245.10"
+            ]
         }
     },
     "ikoula.com": {
         "lg.de.ikoula.com": {
-            "ipv4": "154.46.204.109"
+            "ipv4": [
+                "154.46.204.109"
+            ]
         },
         "lg.nl.ikoula.com": {
-            "ipv4": "154.59.112.94"
+            "ipv4": [
+                "154.59.112.94"
+            ]
         },
         "lg.sg.ikoula.com": {
-            "ipv4": "203.126.224.11"
+            "ipv4": [
+                "203.126.224.11"
+            ]
         },
         "lg.ikdc1.ikoula.com": {
-            "ipv4": "178.170.68.42"
+            "ipv4": [
+                "178.170.68.42"
+            ]
         },
         "lg.ikdc2.ikoula.com": {
-            "ipv4": "109.238.6.164"
+            "ipv4": [
+                "109.238.6.164"
+            ]
         }
     },
     "fdcservers.net": {
-        "lg.fdcservers.net": []
+        "lg.fdcservers.net": {
+            "ipv4": []
+        }
     },
     "as20278.net": {
         "lg.chi1.as20278.net": {
-            "ipv4": "167.88.10.4"
+            "ipv4": [
+                "167.88.10.4"
+            ]
         },
         "lg.buf1.as20278.net": {
-            "ipv4": "96.9.249.58"
+            "ipv4": [
+                "96.9.249.58"
+            ]
         }
     }
 }

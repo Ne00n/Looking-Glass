@@ -30,6 +30,7 @@
 * [lg.lax01.quickpacket.com](http://lg.lax01.quickpacket.com)
 * [lg.lax.quickpacket.com](http://lg.lax.quickpacket.com)
 * [lg.clt.quickpacket.com](http://lg.clt.quickpacket.com)
+* [lg.lax.quickpacket.co](http://lg.lax.quickpacket.co)
 * [lg.chi01.quickpacket.com](http://lg.chi01.quickpacket.com)
 ### atcloud.net
 * [lg.atcloud.net](http://lg.atcloud.net)
@@ -83,6 +84,11 @@
 * [lgde.alphavps.com](http://lgde.alphavps.com)
 * [lguk.alphavps.com](http://lguk.alphavps.com)
 * [lgla.alphavps.com](http://lgla.alphavps.com)
+### khanwebhost.com
+* [kansaslg.khanwebhost.com](http://kansaslg.khanwebhost.com)
+* [uslg.khanwebhost.com](http://uslg.khanwebhost.com)
+* [frlg.khanwebhost.com](http://frlg.khanwebhost.com)
+* [aulg.khanwebhost.com](http://aulg.khanwebhost.com)
 ### tmthosting.net
 * [lg-dal.tmthosting.net](http://lg-dal.tmthosting.net)
 * [lg-sea.tmthosting.net](http://lg-sea.tmthosting.net)
@@ -91,11 +97,6 @@
 * [lg.cspacehostings.com](http://lg.cspacehostings.com)
 ### artnet.pl
 * [lg.artnet.pl](http://lg.artnet.pl)
-### skylonhost.com
-* [lg.skylonhost.com](http://lg.skylonhost.com)
-* [lg-v4.prg.skylonhost.com](http://lg-v4.prg.skylonhost.com)
-* [lg-v6.prg.skylonhost.com](http://lg-v6.prg.skylonhost.com)
-* [lg.prg.skylonhost.com](http://lg.prg.skylonhost.com)
 ### x4b.net
 * [lg.x4b.net](http://lg.x4b.net)
 ### webhorizon.in
@@ -785,6 +786,8 @@
 * [lg-ams.racknerd.com](http://lg-ams.racknerd.com)
 ### haendler.it
 * [lg.nl.haendler.it](http://lg.nl.haendler.it)
+### xethost.com
+* [lookingglass.xethost.com](http://lookingglass.xethost.com)
 ### luxnetwork.eu
 * [lg.luxnetwork.eu](http://lg.luxnetwork.eu)
 ### mnx.io
@@ -931,8 +934,8 @@
 ### dignusdata.center
 * [lg.be.dignusdata.center](http://lg.be.dignusdata.center)
 ### core-backbone.com
-* [lg.core-backbone.com](http://lg.core-backbone.com)
 * [fra.lg.core-backbone.com](http://fra.lg.core-backbone.com)
+* [lg.core-backbone.com](http://lg.core-backbone.com)
 * [nbg.lg.core-backbone.com](http://nbg.lg.core-backbone.com)
 * [sin.lg.core-backbone.com](http://sin.lg.core-backbone.com)
 * [ams.lg.core-backbone.com](http://ams.lg.core-backbone.com)
@@ -987,6 +990,8 @@
 * [us-lg.indovirtue.com](http://us-lg.indovirtue.com)
 ### extravm.com
 * [sgp.lg.extravm.com](http://sgp.lg.extravm.com)
+### reelgood.com.au
+* [reelgood.com.au](http://reelgood.com.au)
 ### citynethost.com
 * [lg.ist.citynethost.com](http://lg.ist.citynethost.com)
 * [lg.cai.citynethost.com](http://lg.cai.citynethost.com)
@@ -998,10 +1003,12 @@
 * [lg-fin.incognet.io](http://lg-fin.incognet.io)
 * [lg-nl.incognet.io](http://lg-nl.incognet.io)
 ### ransomit.com.au
-* [lg.ransomit.com.au](http://lg.ransomit.com.au)
 * [tokyo-lg.ransomit.com.au](http://tokyo-lg.ransomit.com.au)
+* [lg.ransomit.com.au](http://lg.ransomit.com.au)
 * [hongkong-lg.ransomit.com.au](http://hongkong-lg.ransomit.com.au)
 * [singapore-lg.ransomit.com.au](http://singapore-lg.ransomit.com.au)
+* [tokyo-lg.ransomit.com.au.](http://tokyo-lg.ransomit.com.au.)
+* [lg.ransomit.com.au.](http://lg.ransomit.com.au.)
 * [sydney-lg.ransomit.com.au](http://sydney-lg.ransomit.com.au)
 * [brisbane-lg.ransomit.com.au](http://brisbane-lg.ransomit.com.au)
 ### signaltransmitter.de
@@ -1053,9 +1060,13 @@
 ### prometeus.net
 * [lg-milano.prometeus.net](http://lg-milano.prometeus.net)
 * [lg-netherlands.prometeus.net](http://lg-netherlands.prometeus.net)
+### pccwglobal.com
+* [lookingglass.pccwglobal.com](http://lookingglass.pccwglobal.com)
 ### greencloudvps.com
 * [lgvn.greencloudvps.com](http://lgvn.greencloudvps.com)
 * [lgnl.greencloudvps.com](http://lgnl.greencloudvps.com)
+### cloudxtiny.co.uk
+* [looking-glass.cloudxtiny.co.uk](http://looking-glass.cloudxtiny.co.uk)
 ### de-cix.net
 * [lg.de-cix.net](http://lg.de-cix.net)
 ### hosterion.com
@@ -1065,6 +1076,8 @@
 * [lg.clj.hosterion.com](http://lg.clj.hosterion.com)
 * [lg.dal.hosterion.com](http://lg.dal.hosterion.com)
 * [lg.fre.hosterion.com](http://lg.fre.hosterion.com)
+### central.so
+* [dal-lg.central.so](http://dal-lg.central.so)
 ### binarylane.cloud
 * [per-lg.binarylane.cloud](http://per-lg.binarylane.cloud)
 * [bne-lg.binarylane.cloud](http://bne-lg.binarylane.cloud)
@@ -1094,8 +1107,8 @@
 * [gtt.lg.ginernet.com](http://gtt.lg.ginernet.com)
 * [telia.lg.ginernet.com](http://telia.lg.ginernet.com)
 ### xenspec.com
-* [lg.xenspec.com](http://lg.xenspec.com)
 * [chi.lg.xenspec.com](http://chi.lg.xenspec.com)
+* [lg.xenspec.com](http://lg.xenspec.com)
 * [la.lg.xenspec.com](http://la.lg.xenspec.com)
 * [sjc.lg.xenspec.com](http://sjc.lg.xenspec.com)
 ### NexusBytes.com
@@ -1136,6 +1149,7 @@
 * [lg.onepoundwebhosting.co.uk](http://lg.onepoundwebhosting.co.uk)
 ### netcup.net
 * [lg.netcup.net](http://lg.netcup.net)
+* [lookingglass.netcup.net](http://lookingglass.netcup.net)
 ### hostvds.com
 * [lg.hostvds.com](http://lg.hostvds.com)
 ### centerhop.com
@@ -1149,6 +1163,8 @@
 ### hostry.com
 * [lg-us1.hostry.com](http://lg-us1.hostry.com)
 * [lg-nl1.hostry.com](http://lg-nl1.hostry.com)
+### centurylink.com
+* [lookingglass.centurylink.com](http://lookingglass.centurylink.com)
 ### topnet.ua
 * [lg.topnet.ua](http://lg.topnet.ua)
 ### reliablehostingservices.net
@@ -1197,7 +1213,10 @@
 ### yisp.nl
 * [lg.yisp.nl](http://lg.yisp.nl)
 ### github.io
+* [mgalgs.github.io](http://mgalgs.github.io)
 * [lgs.github.io](http://lgs.github.io)
+### quickpacket.co
+* [lg.lax.quickpacket.co](http://lg.lax.quickpacket.co)
 ### telia.net
 * [lg.telia.net](http://lg.telia.net)
 ### obit.ru
