@@ -161,7 +161,7 @@ for domain, details in data['lg'].items():
     for url,ips in list(details.items()):
         if ips and ips['ipv4']:
             for ip in list(ips['ipv4']):
-                if ip in once:
+                if ip in once and url in data['lg'][domain]:
                     del data['lg'][domain][url]
                     continue
                 once.append(ip)
