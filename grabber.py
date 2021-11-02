@@ -66,25 +66,26 @@ def get(url,domain):
             prefix = "https://" if run % 2 == 0 else "http://"
             request = requests.get(prefix+url,allow_redirects=True,timeout=3)
             if domain not in request.url:
+                print(f"Got redirected to different domain {url} vs {request.url}")
                 time.sleep(0.5)
                 continue
             parseUrls(request.text,"scrap")
             if (request.status_code == 200):
                 if len(request.text) < 90:
-                    print(f"HTML to short {len(request.text)}, dropping {prefix+url}")
+                    print(f"HTML to short {len(request.text)}, dropping {request.url}")
                     continue
                 if "window.location.replace" in request.text:
-                    print(f"Found Javascript redirect, dropping {prefix+url}")
+                    print(f"Found Javascript redirect, dropping {request.url}")
                     return False
-                print(f"Got {request.status_code} keeping {prefix+url}")
+                print(f"Got {request.status_code} keeping {request.url}")
                 return request.text
             else:
-                print(f"Got {request.status_code} dropping {prefix+url}")
+                print(f"Got {request.status_code} dropping {request.url}")
                 continue
         except requests.ConnectionError:
-            print(f"Retrying {prefix+url} got connection error")
+            print(f"Retrying {request.url} got connection error")
         except Exception as e:
-            print(f"Retrying {prefix+url} got {e}")
+            print(f"Retrying {request.url} got {e}")
         time.sleep(0.5)
     return False
 
