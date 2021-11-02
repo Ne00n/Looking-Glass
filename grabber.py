@@ -28,26 +28,27 @@ def parseIPs(ip,html):
     return response
 
 def get(url):
-    for run in range(2):
+    for run in range(4):
         try:
-            request = requests.get(url,allow_redirects=False,timeout=3)
+            prefix = "https://" if run % 2 == 0 else "http://"
+            request = requests.get(prefix+url,allow_redirects=False,timeout=3)
             parseUrls(request.text,"scrap")
             if (request.status_code == 200):
                 if len(request.text) < 90:
-                    print(f"HTML to short {len(request.text)}, dropping {url}")
+                    print(f"HTML to short {len(request.text)}, dropping {prefix+url}")
                     return False
                 if "window.location.replace" in request.text:
-                    print(f"Found Javascript redirect, dropping {url}")
+                    print(f"Found Javascript redirect, dropping {prefix+url}")
                     return False
-                print(f"Got {request.status_code} keeping {url}")
+                print(f"Got {request.status_code} keeping {prefix+url}")
                 return request.text
             else:
-                print(f"Got {request.status_code} dropping {url}")
+                print(f"Got {request.status_code} dropping {prefix+url}")
                 return False
         except requests.ConnectionError:
-            print(f"Retrying {url} got connection error")
+            print(f"Retrying {prefix+url} got connection error")
         except Exception as e:
-            print(f"Retrying {url} got {e}")
+            print(f"Retrying {prefix+url} got {e}")
         time.sleep(0.5)
     return False
 
@@ -83,12 +84,7 @@ for element in folders:
 print("Validating")
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
-        response = get("https://"+url)
-        if response:
-            ips = parseIPs(ip,response)
-            if ips: data['lg'][domain][url] = ips
-            continue
-        response = get("http://"+url)
+        response = get(url)
         if response:
             ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
@@ -100,13 +96,7 @@ for domain in list(data['scrap']):
     for url in list(data['scrap'][domain]):
         if not domain in data['lg']: data['lg'][domain] = {}
         if url in data['lg'][domain]: continue
-        response = get("https://"+url)
-        if response:
-            data['lg'][domain][url] = []
-            ips = parseIPs(ip,response)
-            if ips: data['lg'][domain][url] = ips
-            continue
-        response = get("http://"+url)
+        response = get(url)
         if response:
             data['lg'][domain][url] = []
             ips = parseIPs(ip,response)
