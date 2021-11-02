@@ -14,6 +14,7 @@ def parseUrls(html,type="lg"):
             match = "".join(match)
             domain = tldextract.extract(match).registered_domain
             if domain == "": continue
+            if match.endswith("."): match = match[:len(match) -2]
             if not domain in data[type]: data[type][domain] = {}
             if not match in data[type][domain]: data[type][domain][match] = []
 
