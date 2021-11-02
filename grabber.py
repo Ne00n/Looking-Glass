@@ -77,7 +77,7 @@ def get(url):
                 return request.text
             else:
                 print(f"Got {request.status_code} dropping {prefix+url}")
-                return False
+                continue
         except requests.ConnectionError:
             print(f"Retrying {prefix+url} got connection error")
         except Exception as e:
