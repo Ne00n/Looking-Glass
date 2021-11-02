@@ -22,7 +22,7 @@ readme = "# Looking-Glass\n"
 list = {}
 files = os.listdir(os.getcwd()+"/data/")
 for file in files:
-    if file.endswith(".json"):
+    if file.endswith(".json") and not "everything" in file:
         with open(os.getcwd()+"/data/"+file) as handle:
             file = json.loads(handle.read())
         list = dict(list, **file)
