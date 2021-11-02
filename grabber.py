@@ -1,5 +1,7 @@
-import tldextract, requests
+from requests_html import HTML
 import json, time, sys, os, re
+import tldextract, requests
+
 
 def parse(file):
     with open(file, 'r') as f:
@@ -7,17 +9,30 @@ def parse(file):
     parseUrls(file)
 
 def parseUrls(html,type="lg"):
-    global data
+    global data,direct
     matches = re.findall("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)",html, re.MULTILINE | re.DOTALL)
     if matches:
         for match in matches:
             result = "".join(match)
             domain = tldextract.extract(result).registered_domain
+            if not domain in direct: direct.append(domain)
             if domain == "": continue
             if result.endswith("."): result = result[:len(result) -2]
             if not domain in data[type]: data[type][domain] = {}
             if not result in data[type][domain]: data[type][domain][result] = []
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
+
+def parseLinks(html,type="lg"):
+    global data
+    html = HTML(html=html)
+    tags = ['datacenters','data-centers','datacenter']
+    if html.links:
+        for link in html.links:
+            if any(element in link  for element in tags):
+                domain = tldextract.extract(link).registered_domain
+                if not domain in data[type]: data[type][domain] = {}
+                if not link in data[type][domain]: data[type][domain][link.replace("https://","").replace("http://","")] = []
+                print("Found",link)
 
 def isPrivate(ip):
     #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
@@ -74,7 +89,7 @@ else:
      default = "default.json"
 folder = sys.argv[1]
 folders = os.listdir(folder)
-data = {"lg":{},"scrap":{}}
+data,direct = {"lg":{},"scrap":{}},[]
 
 print("Getting current IP")
 request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
@@ -94,10 +109,17 @@ for element in folders:
                 parse(folder+"/"+element+"/"+file)
 
 print("Validating")
+for domain in direct:
+    response = get(domain)
+    if response:
+        parseUrls(response)
+        parseLinks(response)
+
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
         response = get(url)
         if response:
+            parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
