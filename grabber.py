@@ -14,12 +14,16 @@ def parseUrls(html,type="lg"):
     if matches:
         for match in matches:
             result = "".join(match)
+            if result in ignore:
+                print(f"Skipping {result}")
+                continue
             domain = tldextract.extract(result).registered_domain
             if not domain in direct: direct.append(domain)
             if domain == "": continue
             if result.endswith("."): result = result[:len(result) -2]
             if not domain in data[type]: data[type][domain] = {}
             if not result in data[type][domain]: data[type][domain][result] = []
+            ignore.append(result)
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
 def parseLinks(html,domain,type="lg"):
@@ -124,26 +128,20 @@ for domain in direct:
         parseUrls(response)
         parseLinks(response,domain)
         continue
-    ignore.append(domain)
 
 for domain in data['lg']:
-    if domain in ignore: continue
     for url in list(data['lg'][domain]):
-        if url in ignore: continue
         response = get(url,domain)
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
             if ips: data['lg'][domain][url] = ips
             continue
-        ignore.append(url)
         del data['lg'][domain][url]
 
 print("Scrapping")
 for domain in list(data['scrap']):
-    if domain in ignore: continue
     for url in list(data['scrap'][domain]):
-        if url in ignore: continue
         if not domain in data['lg']: data['lg'][domain] = {}
         if url in data['lg'][domain]: continue
         response = get(url,domain)
