@@ -60,11 +60,14 @@ def parseIPs(ip,html):
     response['ipv4'] = list(set(response['ipv4']))
     return response
 
-def get(url):
+def get(url,domain):
     for run in range(4):
         try:
             prefix = "https://" if run % 2 == 0 else "http://"
-            request = requests.get(prefix+url,allow_redirects=False,timeout=3)
+            request = requests.get(prefix+url,allow_redirects=True,timeout=3)
+            if domain not in request.url:
+                time.sleep(0.5)
+                continue
             parseUrls(request.text,"scrap")
             if (request.status_code == 200):
                 if len(request.text) < 90:
@@ -116,14 +119,14 @@ for element in folders:
 
 print("Validating")
 for domain in direct:
-    response = get(domain)
+    response = get(domain,domain)
     if response:
         parseUrls(response)
         parseLinks(response,domain)
 
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
-        response = get(url)
+        response = get(url,domain)
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
@@ -136,7 +139,7 @@ for domain in list(data['scrap']):
     for url in list(data['scrap'][domain]):
         if not domain in data['lg']: data['lg'][domain] = {}
         if url in data['lg'][domain]: continue
-        response = get(url)
+        response = get(url,domain)
         if response:
             data['lg'][domain][url] = []
             ips = parseIPs(ip,response)
