@@ -74,7 +74,7 @@ def get(url,domain):
             if run > 1: time.sleep(0.5)
             prefix = "https://" if run % 2 == 0 else "http://"
             request = requests.get(prefix+url,allow_redirects=True,timeout=3)
-            if domain not in request.url:
+            if domain.lower() not in request.url.lower():
                 print(f"Got redirected to different domain {url} vs {request.url}")
                 continue
             parseUrls(request.text,"scrap")
