@@ -8,16 +8,14 @@ def parse(file):
 
 def parseUrls(html,type="lg"):
     global data
-    patterns = ["lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","[a-zA-Z0-9-.]*[\.|-]lg[\.|-][a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}","lg[a-zA-Z0-9-.]*\.[a-zA-Z0-9-.]*\.[a-zA-Z0-9]{2,15}"]
-    for regex in patterns:
-        matches = re.findall(regex,html, re.MULTILINE | re.DOTALL)
-        if matches:
-            for match in matches:
-                if len(match) > 5:
-                    domain = tldextract.extract(match).registered_domain
-                    if domain == "": continue
-                    if not domain in data[type]: data[type][domain] = {}
-                    if not match in data[type][domain]: data[type][domain][match] = []
+    matches = re.findall("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)",html, re.MULTILINE | re.DOTALL)
+    if matches:
+        for match in matches:
+            match = "".join(match)
+            domain = tldextract.extract(match).registered_domain
+            if domain == "": continue
+            if not domain in data[type]: data[type][domain] = {}
+            if not match in data[type][domain]: data[type][domain][match] = []
 
 def parseIPs(ip,html):
     ipv4s = re.findall("([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")",html, re.MULTILINE | re.DOTALL)
