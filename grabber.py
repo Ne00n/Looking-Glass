@@ -36,7 +36,7 @@ def get(url):
             if (request.status_code == 200):
                 if len(request.text) < 90:
                     print(f"HTML to short {len(request.text)}, dropping {prefix+url}")
-                    return False
+                    continue
                 if "window.location.replace" in request.text:
                     print(f"Found Javascript redirect, dropping {prefix+url}")
                     return False
