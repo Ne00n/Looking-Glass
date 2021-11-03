@@ -791,13 +791,13 @@
 * [lg-ny.racknerd.com](http://lg-ny.racknerd.com)
 * [lg-ash.racknerd.com](http://lg-ash.racknerd.com)
 * [lg-ams.racknerd.com](http://lg-ams.racknerd.com)
-* [racknerd.com/london-datacenter](http://racknerd.com/london-datacenter)
-* [racknerd.com/utah-datacenter](http://racknerd.com/utah-datacenter)
-* [racknerd.com/tampa-datacenter](http://racknerd.com/tampa-datacenter)
-* [racknerd.com/montreal-datacenter](http://racknerd.com/montreal-datacenter)
 * [racknerd.com/los-angeles-dc02-datacenter](http://racknerd.com/los-angeles-dc02-datacenter)
 * [racknerd.com/miami-datacenter](http://racknerd.com/miami-datacenter)
+* [racknerd.com/montreal-datacenter](http://racknerd.com/montreal-datacenter)
+* [racknerd.com/tampa-datacenter](http://racknerd.com/tampa-datacenter)
 * [racknerd.com/new-york-datacenter](http://racknerd.com/new-york-datacenter)
+* [racknerd.com/utah-datacenter](http://racknerd.com/utah-datacenter)
+* [racknerd.com/london-datacenter](http://racknerd.com/london-datacenter)
 ### haendler.it
 * [lg.nl.haendler.it](http://lg.nl.haendler.it)
 ### xethost.com
@@ -1142,8 +1142,8 @@
 * [lg-dl.hostnamaste.com](http://lg-dl.hostnamaste.com)
 * [lg-ru.hostnamaste.com](http://lg-ru.hostnamaste.com)
 * [lg-ca.hostnamaste.com](http://lg-ca.hostnamaste.com)
-* [https://www.hostnamaste.com/datacenter-jacksonville.php](http://https://www.hostnamaste.com/datacenter-jacksonville.php)
 * [https://www.hostnamaste.com/datacenter-losangeles.php](http://https://www.hostnamaste.com/datacenter-losangeles.php)
+* [https://www.hostnamaste.com/datacenter-jacksonville.php](http://https://www.hostnamaste.com/datacenter-jacksonville.php)
 ### hostingbot.net
 * [lglax.hostingbot.net](http://lglax.hostingbot.net)
 ### swedendedicated.com
@@ -1278,9 +1278,6 @@
 ### github.io
 * [mgalgs.github.io](http://mgalgs.github.io)
 * [lgs.github.io](http://lgs.github.io)
-### 2sync.org
-* [kr.lg.2sync.org](http://kr.lg.2sync.org)
-* [lg.2sync.org](http://lg.2sync.org)
 ### ito.org.tr
 * [bilgibankasi.ito.org.tr](http://bilgibankasi.ito.org.tr)
 ### telia.net

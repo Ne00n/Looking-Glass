@@ -3250,26 +3250,6 @@
                 "23.94.101.88"
             ]
         },
-        "racknerd.com/london-datacenter": {
-            "ipv4": [
-                "89.34.96.1"
-            ]
-        },
-        "racknerd.com/utah-datacenter": {
-            "ipv4": [
-                "64.140.171.145"
-            ]
-        },
-        "racknerd.com/tampa-datacenter": {
-            "ipv4": [
-                "209.216.90.1"
-            ]
-        },
-        "racknerd.com/montreal-datacenter": {
-            "ipv4": [
-                "104.227.97.6"
-            ]
-        },
         "racknerd.com/los-angeles-dc02-datacenter": {
             "ipv4": [
                 "204.13.154.3"
@@ -3280,9 +3260,29 @@
                 "192.155.106.1"
             ]
         },
+        "racknerd.com/montreal-datacenter": {
+            "ipv4": [
+                "104.227.97.6"
+            ]
+        },
+        "racknerd.com/tampa-datacenter": {
+            "ipv4": [
+                "209.216.90.1"
+            ]
+        },
         "racknerd.com/new-york-datacenter": {
             "ipv4": [
                 "69.58.3.171"
+            ]
+        },
+        "racknerd.com/utah-datacenter": {
+            "ipv4": [
+                "64.140.171.145"
+            ]
+        },
+        "racknerd.com/london-datacenter": {
+            "ipv4": [
+                "89.34.96.1"
             ]
         }
     },
@@ -4489,8 +4489,8 @@
     "spartanhost.net": {
         "lg.sea.spartanhost.net": {
             "ipv4": [
-                "104.218.232.78",
                 "104.37.29.141",
+                "104.218.232.78",
                 "104.218.235.74"
             ]
         },
@@ -4676,16 +4676,14 @@
                 "198.50.214.138"
             ]
         },
-        "https://www.hostnamaste.com/datacenter-jacksonville.php": {
-            "ipv4": [
-                "23.239.84.23",
-                "162.158.82.8"
-            ]
-        },
         "https://www.hostnamaste.com/datacenter-losangeles.php": {
             "ipv4": [
-                "69.12.87.19",
-                "162.158.83.176"
+                "69.12.87.19"
+            ]
+        },
+        "https://www.hostnamaste.com/datacenter-jacksonville.php": {
+            "ipv4": [
+                "23.239.84.23"
             ]
         }
     },
@@ -4919,9 +4917,9 @@
         },
         "impactvps.com/datacenter.html": {
             "ipv4": [
+                "110.120.88.5",
                 "107.155.106.130",
-                "155.168.65.3",
-                "110.120.88.5"
+                "155.168.65.3"
             ]
         }
     },
@@ -5115,10 +5113,6 @@
     "github.io": {
         "mgalgs.github.io": [],
         "lgs.github.io": []
-    },
-    "2sync.org": {
-        "kr.lg.2sync.org": [],
-        "lg.2sync.org": []
     },
     "ito.org.tr": {
         "bilgibankasi.ito.org.tr": []
