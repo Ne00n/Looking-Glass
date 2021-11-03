@@ -34,7 +34,7 @@ def scrap():
 
 def parseUrls(html,type="lg"):
     global data,direct,lookingRegex
-    matches = lookingRegex.findall(html, re.MULTILINE | re.DOTALL)
+    matches = lookingRegex.findall(html, re.DOTALL)
     if matches:
         for match in matches:
             result = "".join(match)
@@ -75,7 +75,7 @@ def isPrivate(ip):
 
 def parseIPs(ip,html):
     global ipRegex
-    ipv4s = ipRegex.findall(html, re.MULTILINE | re.DOTALL)
+    ipv4s = ipRegex.findall(html, re.DOTALL)
     yourIP = re.findall("(Your IP Address|My IP):.*?>\s?([\d.]+)<",html, re.MULTILINE | re.DOTALL)
     response = {"ipv4":[]}
     if len(ipv4s) > 30: return response
