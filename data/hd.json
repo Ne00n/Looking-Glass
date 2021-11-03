@@ -82,6 +82,31 @@
     "hosteons.com": {
         "lg.hosteons.com": {
             "ipv4": []
+        },
+        "lg.la.hosteons.com": {
+            "ipv4": [
+                "185.149.23.201"
+            ]
+        },
+        "lg.ny.hosteons.com": {
+            "ipv4": [
+                "45.128.73.2"
+            ]
+        },
+        "lg.jax.hosteons.com": {
+            "ipv4": [
+                "103.114.161.10"
+            ]
+        },
+        "lg.vegas.hosteons.com": {
+            "ipv4": [
+                "103.114.162.10"
+            ]
+        },
+        "lg.dal.hosteons.com": {
+            "ipv4": [
+                "213.59.127.10"
+            ]
         }
     },
     "first-root.com": {
@@ -128,6 +153,18 @@
     "fdcservers.net": {
         "lg.fdcservers.net": {
             "ipv4": []
+        }
+    },
+    "nexeon.com": {
+        "lg.chi1.nexeon.com": {
+            "ipv4": [
+                "167.88.10.4"
+            ]
+        },
+        "lg.buf1.nexeon.com": {
+            "ipv4": [
+                "96.9.249.58"
+            ]
         }
     },
     "as20278.net": {

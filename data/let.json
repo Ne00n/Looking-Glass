@@ -99,9 +99,7 @@
         }
     },
     "iix.net.id": {
-        "lg.iix.net.id": {
-            "ipv4": []
-        }
+        "lg.iix.net.id": []
     },
     "mrvm.net": {
         "lg-bg-sof.mrvm.net": {
@@ -153,9 +151,7 @@
         }
     },
     "ovh.net": {
-        "lg.ovh.net": {
-            "ipv4": []
-        }
+        "lg.ovh.net": []
     },
     "tragicservers.com": {
         "chi.lg.tragicservers.com": {
@@ -171,11 +167,6 @@
         "lax.lg.tragicservers.com": {
             "ipv4": [
                 "207.126.165.13"
-            ]
-        },
-        "lg.chi.tragicservers.com": {
-            "ipv4": [
-                "167.160.173.7"
             ]
         },
         "fremont.lg.tragicservers.com": {
@@ -243,6 +234,41 @@
             "ipv4": [
                 "23.94.101.88"
             ]
+        },
+        "racknerd.com/london-datacenter": {
+            "ipv4": [
+                "89.34.96.1"
+            ]
+        },
+        "racknerd.com/utah-datacenter": {
+            "ipv4": [
+                "64.140.171.145"
+            ]
+        },
+        "racknerd.com/tampa-datacenter": {
+            "ipv4": [
+                "209.216.90.1"
+            ]
+        },
+        "racknerd.com/montreal-datacenter": {
+            "ipv4": [
+                "104.227.97.6"
+            ]
+        },
+        "racknerd.com/los-angeles-dc02-datacenter": {
+            "ipv4": [
+                "204.13.154.3"
+            ]
+        },
+        "racknerd.com/miami-datacenter": {
+            "ipv4": [
+                "192.155.106.1"
+            ]
+        },
+        "racknerd.com/new-york-datacenter": {
+            "ipv4": [
+                "69.58.3.171"
+            ]
         }
     },
     "haendler.it": {
@@ -286,19 +312,6 @@
             "ipv4": [
                 "45.43.223.2"
             ]
-        },
-        "lg.lax.quickpacket.com": {
-            "ipv4": [
-                "45.43.223.2"
-            ]
-        },
-        "lg.clt.quickpacket.com": {
-            "ipv4": [
-                "64.187.224.4"
-            ]
-        },
-        "lg.lax.quickpacket.co": {
-            "ipv4": []
         },
         "lg.chi01.quickpacket.com": {
             "ipv4": [
@@ -351,9 +364,7 @@
         }
     },
     "luxnetwork.eu": {
-        "lg.luxnetwork.eu": {
-            "ipv4": []
-        }
+        "lg.luxnetwork.eu": []
     },
     "liteserver.nl": {
         "lg-dro.liteserver.nl": {
@@ -370,9 +381,7 @@
         }
     },
     "hosteons.com": {
-        "lg.hosteons.com": {
-            "ipv4": []
-        },
+        "lg.hosteons.com": [],
         "lg.ny.hosteons.com": {
             "ipv4": [
                 "45.128.73.2"
@@ -534,12 +543,10 @@
             "ipv4": [
                 "66.55.69.9"
             ]
-        },
-        "lg.atlanta.ftpit.com": {
-            "ipv4": [
-                "66.55.64.34"
-            ]
         }
+    },
+    "nlnog.net": {
+        "lg.ring.nlnog.net": []
     },
     "ramnode.com": {
         "lg.nyc.ramnode.com": {
@@ -571,8 +578,8 @@
     "vmhaus.com": {
         "lg.vmhaus.com": {
             "ipv4": [
-                "185.214.69.46",
-                "103.105.49.34"
+                "103.105.49.34",
+                "185.214.69.46"
             ]
         }
     },
@@ -660,9 +667,7 @@
         }
     },
     "ttk.ru": {
-        "lg.ttk.ru": {
-            "ipv4": []
-        }
+        "lg.ttk.ru": []
     },
     "cloudc.one": {
         "la.lg.cloudc.one": {
@@ -677,6 +682,9 @@
                 "185.181.61.25"
             ]
         }
+    },
+    "hyperexpert.com": {
+        "lg.hyperexpert.com": []
     },
     "ultravps.eu": {
         "lg.ams.nl.ultravps.eu": {
@@ -713,11 +721,6 @@
             "ipv4": [
                 "185.177.150.4"
             ]
-        },
-        "lg.ultravps.eu": {
-            "ipv4": [
-                "130.255.76.147"
-            ]
         }
     },
     "justhost.ru": {
@@ -750,16 +753,6 @@
             "ipv4": [
                 "194.87.68.192"
             ]
-        },
-        "lg-nsk.justhost.ru": {
-            "ipv4": [
-                "46.29.162.89"
-            ]
-        },
-        "lg-dtln.justhost.ru": {
-            "ipv4": [
-                "46.17.40.85"
-            ]
         }
     },
     "hostworld.uk": {
@@ -771,6 +764,11 @@
         "lgmh.hostworld.uk": {
             "ipv4": [
                 "109.169.10.169"
+            ]
+        },
+        "lgch.hostworld.uk": {
+            "ipv4": [
+                "23.237.136.188"
             ]
         },
         "lguk2.hostworld.uk": {
@@ -786,11 +784,6 @@
         "lgny.hostworld.uk": {
             "ipv4": [
                 "191.96.196.147"
-            ]
-        },
-        "lgch.hostworld.uk": {
-            "ipv4": [
-                "23.237.136.188"
             ]
         }
     },
@@ -842,11 +835,6 @@
                 "185.161.69.26"
             ]
         },
-        "lg.dc01.dedicontrol.com": {
-            "ipv4": [
-                "194.180.179.242"
-            ]
-        },
         "lg.den.dedicontrol.com": {
             "ipv4": [
                 "172.81.40.35"
@@ -855,11 +843,6 @@
         "lg.atl.dedicontrol.com": {
             "ipv4": [
                 "45.9.15.195"
-            ]
-        },
-        "lg.dc04.dedicontrol.com": {
-            "ipv4": [
-                "194.180.179.242"
             ]
         }
     },
@@ -885,6 +868,7 @@
         }
     },
     "virmach.com": {
+        "lg.virmach.com": [],
         "la.lg.virmach.com": {
             "ipv4": [
                 "107.172.246.38"
@@ -943,11 +927,6 @@
             "ipv4": [
                 "158.51.98.2"
             ]
-        },
-        "lg.chi2.tnahosting.net": {
-            "ipv4": [
-                "158.51.98.2"
-            ]
         }
     },
     "serverum.com": {
@@ -963,9 +942,7 @@
         }
     },
     "selectel.ru": {
-        "lg.selectel.ru": {
-            "ipv4": []
-        }
+        "lg.selectel.ru": []
     },
     "vstoike.ru": {
         "lg.vstoike.ru": {
@@ -994,14 +971,7 @@
                 "192.138.210.63"
             ]
         },
-        "lg-dal.ipv6.drserver.net": {
-            "ipv4": []
-        },
-        "lg-dal.ipv4.drserver.net.": {
-            "ipv4": [
-                "192.138.210.63"
-            ]
-        }
+        "lg-dal.ipv6.drserver.net": []
     },
     "obhost.org": {
         "lg-po.obhost.org": {
@@ -1136,11 +1106,6 @@
             "ipv4": [
                 "54.38.76.70"
             ]
-        },
-        "lg-pl.happybeehost.com": {
-            "ipv4": [
-                "147.135.198.0"
-            ]
         }
     },
     "veesp.com": {
@@ -1171,6 +1136,13 @@
         "lg.hostens.com": {
             "ipv4": [
                 "109.235.69.33"
+            ]
+        }
+    },
+    "dataideas.com": {
+        "looking.dataideas.com": {
+            "ipv4": [
+                "38.81.163.2"
             ]
         }
     },
@@ -1261,22 +1233,10 @@
                 "194.35.12.68"
             ]
         },
-        "lgla.alphavps.bg": {
-            "ipv4": []
-        }
+        "lgla.alphavps.bg": []
     },
     "gomach5.com": {
         "la-lg.gomach5.com": {
-            "ipv4": [
-                "104.216.118.203"
-            ]
-        },
-        "la-lg.v4.gomach5.com": {
-            "ipv4": [
-                "104.216.118.203"
-            ]
-        },
-        "la-lg.v6.gomach5.com": {
             "ipv4": [
                 "104.216.118.203"
             ]
@@ -1293,36 +1253,14 @@
                 "185.229.243.131"
             ]
         },
-        "lg.chi.hostigger.com": {
-            "ipv4": [
-                "185.202.172.4"
-            ]
-        },
-        "lg-us.hostigger.com": {
-            "ipv4": [
-                "185.202.172.4"
-            ]
-        },
-        "lg-nl.hostigger.com": {
-            "ipv4": [
-                "185.229.243.131"
-            ]
-        },
-        "lg-tr.hostigger.com": {
+        "lg.tr.hostigger.com": {
             "ipv4": [
                 "185.219.135.57"
-            ]
-        },
-        "lg.ams.hostigger.com": {
-            "ipv4": [
-                "185.229.243.131"
             ]
         }
     },
     "dignusdata.center": {
-        "lg.be.dignusdata.center": {
-            "ipv4": []
-        }
+        "lg.be.dignusdata.center": []
     },
     "hostmayo.com": {
         "lg.hostmayo.com": {
@@ -1347,11 +1285,6 @@
                 "83.142.85.226"
             ]
         },
-        "nbg.lg.core-backbone.com": {
-            "ipv4": [
-                "83.142.85.226"
-            ]
-        },
         "sin.lg.core-backbone.com": {
             "ipv4": [
                 "195.138.250.11"
@@ -1369,9 +1302,7 @@
         }
     },
     "apeweb.uk": {
-        "lg.no.apeweb.uk": {
-            "ipv4": []
-        }
+        "lg.no.apeweb.uk": []
     },
     "advancedserverdns.com": {
         "lg-portugal.advancedserverdns.com": {
@@ -1468,14 +1399,10 @@
         }
     },
     "he.net": {
-        "lg.he.net": {
-            "ipv4": []
-        }
+        "lg.he.net": []
     },
     "emix.net.ae": {
-        "lg.emix.net.ae": {
-            "ipv4": []
-        }
+        "lg.emix.net.ae": []
     },
     "hostus.us": {
         "ams-lg.hostus.us": {
@@ -1587,17 +1514,11 @@
         }
     },
     "teraswitch.com": {
-        "lg.teraswitch.com": {
-            "ipv4": []
-        },
-        "lg.lax.teraswitch.com": {
-            "ipv4": []
-        }
+        "lg.teraswitch.com": [],
+        "lg.lax.teraswitch.com": []
     },
     "indovirtue.com": {
-        "lasvegas-lg.indovirtue.com": {
-            "ipv4": []
-        },
+        "lasvegas-lg.indovirtue.com": [],
         "us-lg.indovirtue.com": {
             "ipv4": [
                 "104.161.32.32"
@@ -1605,16 +1526,45 @@
         }
     },
     "extravm.com": {
+        "vin.lg.extravm.com": {
+            "ipv4": [
+                "147.135.118.181"
+            ]
+        },
+        "bhs.lg.extravm.com": {
+            "ipv4": [
+                "142.44.222.123"
+            ]
+        },
+        "gra.lg.extravm.com": {
+            "ipv4": [
+                "178.33.9.17"
+            ]
+        },
+        "dal.lg.extravm.com": {
+            "ipv4": [
+                "23.29.125.123"
+            ]
+        },
+        "lon.lg.extravm.com": {
+            "ipv4": [
+                "54.38.210.17"
+            ]
+        },
         "sgp.lg.extravm.com": {
             "ipv4": [
                 "139.99.38.99"
             ]
         }
     },
+    "skylonhost.com": {
+        "lg.skylonhost.com": [],
+        "lg-v4.prg.skylonhost.com": [],
+        "lg-v6.prg.skylonhost.com": [],
+        "lg.prg.skylonhost.com": []
+    },
     "reelgood.com.au": {
-        "reelgood.com.au": {
-            "ipv4": []
-        }
+        "reelgood.com.au": []
     },
     "citynethost.com": {
         "lg.ist.citynethost.com": {
@@ -1629,9 +1579,7 @@
         }
     },
     "kloud.net.bd": {
-        "lg.kloud.net.bd": {
-            "ipv4": []
-        }
+        "lg.kloud.net.bd": []
     },
     "time4vps.com": {
         "lg.time4vps.com": {
@@ -1695,16 +1643,6 @@
                 "103.216.223.62"
             ]
         },
-        "tokyo-lg.ransomit.com.au.": {
-            "ipv4": [
-                "180.149.230.11"
-            ]
-        },
-        "lg.ransomit.com.au.": {
-            "ipv4": [
-                "103.25.56.1"
-            ]
-        },
         "sydney-lg.ransomit.com.au": {
             "ipv4": [
                 "103.25.58.100"
@@ -1724,9 +1662,7 @@
         }
     },
     "accelerated.de": {
-        "lg.accelerated.de": {
-            "ipv4": []
-        }
+        "lg.accelerated.de": []
     },
     "letbox.net": {
         "lg.nj.letbox.net": {
@@ -1779,6 +1715,53 @@
             ]
         }
     },
+    "freerangecloud.com": {
+        "yvr01.lg.freerangecloud.com": {
+            "ipv4": [
+                "104.218.61.164"
+            ]
+        },
+        "ywg01.lg.freerangecloud.com": {
+            "ipv4": [
+                "23.133.64.25"
+            ]
+        },
+        "yyz01.lg.freerangecloud.com": {
+            "ipv4": [
+                "103.144.177.41"
+            ]
+        },
+        "yhz01.lg.freerangecloud.com": {
+            "ipv4": [
+                "23.191.80.34"
+            ]
+        },
+        "sjc01.lg.freerangecloud.com": {
+            "ipv4": [
+                "103.144.176.216"
+            ]
+        },
+        "iad01.lg.freerangecloud.com": {
+            "ipv4": [
+                "23.152.224.179"
+            ]
+        },
+        "mci01.lg.freerangecloud.com": {
+            "ipv4": [
+                "23.152.226.2"
+            ]
+        },
+        "ams01.lg.freerangecloud.com": {
+            "ipv4": [
+                "206.83.40.24"
+            ]
+        },
+        "trf01.lg.freerangecloud.com": {
+            "ipv4": [
+                "206.83.41.78"
+            ]
+        }
+    },
     "vps2day.com": {
         "lg-ro.vps2day.com": {
             "ipv4": [
@@ -1787,9 +1770,7 @@
         }
     },
     "ucdavis.edu": {
-        "lgbtqia.ucdavis.edu": {
-            "ipv4": []
-        }
+        "lgbtqia.ucdavis.edu": []
     },
     "comnet.com.tr": {
         "lg.comnet.com.tr": {
@@ -1799,9 +1780,7 @@
         }
     },
     "artnet.pl": {
-        "lg.artnet.pl": {
-            "ipv4": []
-        }
+        "lg.artnet.pl": []
     },
     "expertvm.com": {
         "lg.expertvm.com": {
@@ -1841,11 +1820,6 @@
         "lg.kiv.md.providerservice.com": {
             "ipv4": [
                 "185.177.151.4"
-            ]
-        },
-        "lg.dus.de.providerservice.com": {
-            "ipv4": [
-                "130.255.76.147"
             ]
         },
         "lg.lon.uk.providerservice.com": {
@@ -1923,8 +1897,13 @@
         }
     },
     "pccwglobal.com": {
-        "lookingglass.pccwglobal.com": {
-            "ipv4": []
+        "lookingglass.pccwglobal.com": []
+    },
+    "lunarvps.com": {
+        "lg.sw.lunarvps.com": {
+            "ipv4": [
+                "179.43.149.160"
+            ]
         }
     },
     "greencloudvps.com": {
@@ -1948,9 +1927,7 @@
         }
     },
     "de-cix.net": {
-        "lg.de-cix.net": {
-            "ipv4": []
-        }
+        "lg.de-cix.net": []
     },
     "hosterion.com": {
         "lg.buc.hosterion.com": {
@@ -1992,6 +1969,11 @@
         }
     },
     "binarylane.cloud": {
+        "lg.binarylane.cloud": {
+            "ipv4": [
+                "103.1.187.96"
+            ]
+        },
         "per-lg.binarylane.cloud": {
             "ipv4": [
                 "203.29.240.49"
@@ -2005,11 +1987,6 @@
         "mel-lg.binarylane.cloud": {
             "ipv4": [
                 "45.124.55.30"
-            ]
-        },
-        "syd-lg.binarylane.cloud": {
-            "ipv4": [
-                "103.1.187.96"
             ]
         }
     },
@@ -2045,6 +2022,18 @@
             "ipv4": [
                 "198.50.214.138"
             ]
+        },
+        "https://www.hostnamaste.com/datacenter-jacksonville.php": {
+            "ipv4": [
+                "23.239.84.23",
+                "162.158.82.8"
+            ]
+        },
+        "https://www.hostnamaste.com/datacenter-losangeles.php": {
+            "ipv4": [
+                "69.12.87.19",
+                "162.158.83.176"
+            ]
         }
     },
     "hostingbot.net": {
@@ -2069,9 +2058,7 @@
         }
     },
     "10vpn.net": {
-        "lg.10vpn.net": {
-            "ipv4": []
-        }
+        "lg.10vpn.net": []
     },
     "friendhosting.net": {
         "lg-bg.friendhosting.net": {
@@ -2108,9 +2095,7 @@
                 "23.160.192.3"
             ]
         },
-        "lg.xenspec.com": {
-            "ipv4": []
-        },
+        "lg.xenspec.com": [],
         "la.lg.xenspec.com": {
             "ipv4": [
                 "158.51.96.3"
@@ -2157,6 +2142,23 @@
         "lg.atl.knownhost.com": {
             "ipv4": [
                 "170.249.238.168"
+            ]
+        }
+    },
+    "lonethost.com": {
+        "canada.lg.lonethost.com": {
+            "ipv4": [
+                "66.70.216.112"
+            ]
+        },
+        "uk.lg.lonethost.com": {
+            "ipv4": [
+                "79.143.87.7"
+            ]
+        },
+        "germany.lg.lonethost.com": {
+            "ipv4": [
+                "178.63.172.5"
             ]
         }
     },
@@ -2222,9 +2224,7 @@
         }
     },
     "fulltimehosting.net": {
-        "lg.fulltimehosting.net": {
-            "ipv4": []
-        }
+        "lg.fulltimehosting.net": []
     },
     "vpsgod.com": {
         "lgnl.vpsgod.com": {
@@ -2255,12 +2255,17 @@
             "ipv4": [
                 "172.110.9.39"
             ]
+        },
+        "impactvps.com/datacenter.html": {
+            "ipv4": [
+                "107.155.106.130",
+                "155.168.65.3",
+                "110.120.88.5"
+            ]
         }
     },
     "as3280.net": {
-        "lg.as3280.net": {
-            "ipv4": []
-        }
+        "lg.as3280.net": []
     },
     "onepoundwebhosting.co.uk": {
         "lg.onepoundwebhosting.co.uk": {
@@ -2270,12 +2275,11 @@
         }
     },
     "netcup.net": {
-        "lg.netcup.net": {
-            "ipv4": []
-        },
-        "lookingglass.netcup.net": {
-            "ipv4": []
-        }
+        "lg.netcup.net": [],
+        "lookingglass.netcup.net": []
+    },
+    "firevps.net": {
+        "lg.firevps.net": []
     },
     "hostvds.com": {
         "lg.hostvds.com": {
@@ -2285,9 +2289,7 @@
         }
     },
     "fdcservers.net": {
-        "lg-sin.fdcservers.net": {
-            "ipv4": []
-        }
+        "lg-sin.fdcservers.net": []
     },
     "centerhop.com": {
         "lg-sg.centerhop.com": {
@@ -2352,9 +2354,7 @@
         }
     },
     "centurylink.com": {
-        "lookingglass.centurylink.com": {
-            "ipv4": []
-        }
+        "lookingglass.centurylink.com": []
     },
     "as20278.net": {
         "lg.chi1.as20278.net": {
@@ -2369,9 +2369,7 @@
         }
     },
     "topnet.ua": {
-        "lg.topnet.ua": {
-            "ipv4": []
-        }
+        "lg.topnet.ua": []
     },
     "reliablehostingservices.net": {
         "lg.reliablehostingservices.net": {
@@ -2388,9 +2386,7 @@
         }
     },
     "synlinq.de": {
-        "lg.synlinq.de": {
-            "ipv4": []
-        }
+        "lg.synlinq.de": []
     },
     "albahost.net": {
         "lg.albahost.net": {
@@ -2428,14 +2424,10 @@
         }
     },
     "sprintdatacenter.pl": {
-        "lg.sprintdatacenter.pl": {
-            "ipv4": []
-        }
+        "lg.sprintdatacenter.pl": []
     },
     "leasewebstatus.com": {
-        "lg.leasewebstatus.com": {
-            "ipv4": []
-        }
+        "lg.leasewebstatus.com": []
     },
     "vpscheap.net": {
         "lg.vpscheap.net": {
@@ -2445,9 +2437,7 @@
         }
     },
     "purevoltage.net": {
-        "lg.nyc.purevoltage.net": {
-            "ipv4": []
-        }
+        "lg.nyc.purevoltage.net": []
     },
     "cheapwindowsvps.com": {
         "lao.lg.cheapwindowsvps.com": {
@@ -2477,36 +2467,16 @@
         }
     },
     "cheapwindows.com": {
-        "lg.la.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.buf.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.chi.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.dal.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.gb.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.bg.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.fr.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.sg.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.lao.cheapwindows.com": {
-            "ipv4": []
-        },
-        "lg.uk.cheapwindows.com": {
-            "ipv4": []
-        }
+        "lg.la.cheapwindows.com": [],
+        "lg.buf.cheapwindows.com": [],
+        "lg.chi.cheapwindows.com": [],
+        "lg.dal.cheapwindows.com": [],
+        "lg.gb.cheapwindows.com": [],
+        "lg.bg.cheapwindows.com": [],
+        "lg.fr.cheapwindows.com": [],
+        "lg.sg.cheapwindows.com": [],
+        "lg.lao.cheapwindows.com": [],
+        "lg.uk.cheapwindows.com": []
     },
     "gcore.lu": {
         "lg.gcore.lu": {
@@ -2516,47 +2486,45 @@
         }
     },
     "yisp.nl": {
-        "lg.yisp.nl": {
-            "ipv4": []
-        }
+        "lg.yisp.nl": []
     },
     "github.io": {
-        "mgalgs.github.io": {
-            "ipv4": []
-        },
-        "lgs.github.io": {
-            "ipv4": []
-        }
+        "mgalgs.github.io": [],
+        "lgs.github.io": []
     },
-    "quickpacket.co": {
-        "lg.lax.quickpacket.co": {
-            "ipv4": []
-        }
+    "2sync.org": {
+        "kr.lg.2sync.org": [],
+        "lg.2sync.org": []
+    },
+    "ito.org.tr": {
+        "bilgibankasi.ito.org.tr": []
     },
     "telia.net": {
-        "lg.telia.net": {
-            "ipv4": []
-        }
+        "lg.telia.net": []
     },
     "obit.ru": {
-        "lg.obit.ru": {
-            "ipv4": []
-        }
+        "lg.obit.ru": []
     },
     "runnet.ru": {
-        "lg.runnet.ru": {
-            "ipv4": []
-        }
+        "lg.runnet.ru": []
     },
     "rascom.ru": {
-        "lg.rascom.ru": {
-            "ipv4": []
-        }
+        "lg.rascom.ru": []
     },
     "1pwh.uk": {
         "lg.1pwh.uk": {
             "ipv4": [
                 "5.2.16.5"
+            ]
+        }
+    },
+    "twelve99.net": {
+        "lg.twelve99.net": []
+    },
+    "virtualhosts.de": {
+        "lg.lax.us.virtualhosts.de": {
+            "ipv4": [
+                "69.12.89.3"
             ]
         }
     }

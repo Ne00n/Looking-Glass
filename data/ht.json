@@ -37,6 +37,11 @@
             "ipv4": [
                 "103.114.162.10"
             ]
+        },
+        "lg.dal.hosteons.com": {
+            "ipv4": [
+                "213.59.127.10"
+            ]
         }
     },
     "drserver.net": {
@@ -62,14 +67,9 @@
                 "5.181.124.254"
             ]
         },
-        "lgmh.hostworld.uk": {
+        "lgch.hostworld.uk": {
             "ipv4": [
-                "109.169.10.169"
-            ]
-        },
-        "lguk2.hostworld.uk": {
-            "ipv4": [
-                "51.195.168.65"
+                "23.237.136.188"
             ]
         },
         "lgla.hostworld.uk": {
@@ -82,9 +82,14 @@
                 "191.96.196.147"
             ]
         },
-        "lgch.hostworld.uk": {
+        "lgmh.hostworld.uk": {
             "ipv4": [
-                "23.237.136.188"
+                "109.169.10.169"
+            ]
+        },
+        "lguk2.hostworld.uk": {
+            "ipv4": [
+                "51.195.168.65"
             ]
         }
     },
@@ -99,19 +104,9 @@
                 "64.187.224.4"
             ]
         },
-        "lg.lax.quickpacket.com": {
-            "ipv4": [
-                "45.43.223.2"
-            ]
-        },
         "lg.chi01.quickpacket.com": {
             "ipv4": [
                 "64.187.239.14"
-            ]
-        },
-        "lg.clt.quickpacket.com": {
-            "ipv4": [
-                "64.187.224.4"
             ]
         }
     },
@@ -127,11 +122,6 @@
         "lg.oregon.prowhost.com": {
             "ipv4": [
                 "34.214.89.213"
-            ]
-        },
-        "lg.ohio.prowhost.com": {
-            "ipv4": [
-                "52.14.253.49"
             ]
         },
         "lg.virginia.prowhost.com": {
@@ -279,6 +269,9 @@
             "ipv4": [
                 "185.31.172.235"
             ]
+        },
+        "liteserver.nl/datacenters/": {
+            "ipv4": []
         }
     },
     "vikinglayer.com": {
