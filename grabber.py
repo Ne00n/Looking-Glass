@@ -78,7 +78,7 @@ def parseIPs(ip,html):
     ipv4s = ipRegex.findall(html, re.MULTILINE | re.DOTALL)
     yourIP = re.findall("(Your IP Address|My IP):.*?>\s?([\d.]+)<",html, re.MULTILINE | re.DOTALL)
     response = {"ipv4":[]}
-    if len(ipv4s) > 10: return response
+    if len(ipv4s) > 30: return response
     for entry in ipv4s:
         if yourIP and yourIP[0][1] == entry[0]: continue
         if isPrivate(entry[0]): continue
