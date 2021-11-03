@@ -14,15 +14,31 @@ def parse(file):
         file = f.read()
     parseUrls(file)
 
+def scrap():
+    global data
+    print("Scrapping")
+    for domain in list(data['scrap']):
+        for url in list(data['scrap'][domain]):
+            if not domain in data['lg']: data['lg'][domain] = {}
+            if url in data['lg'][domain]: continue
+            response = get(url,domain)
+            if response:
+                data['lg'][domain][url] = []
+                ips = parseIPs(ip,response)
+                if ips['ipv4']:
+                    data['lg'][domain][url] = ips
+                elif url in tagged:
+                    del data['lg'][domain][url]
+                continue
+            del data['scrap'][domain][url]
+
 def parseUrls(html,type="lg"):
     global data,direct,lookingRegex
     matches = lookingRegex.findall(html, re.MULTILINE | re.DOTALL)
     if matches:
         for match in matches:
             result = "".join(match)
-            if result in ignore:
-                print(f"Skipping {result}")
-                continue
+            if result in ignore: continue
             domain = tldextract.extract(result).registered_domain
             if not domain in direct: direct.append(domain)
             if domain == "": continue
@@ -79,7 +95,7 @@ def get(url,domain):
                 prefix = "https://" if run % 2 == 0 else "http://"
             else:
                 prefix = ""
-            request = requests.get(prefix+url,allow_redirects=True,timeout=3)
+            request = requests.get(prefix+url,allow_redirects=True,timeout=6)
             if domain.lower() not in request.url.lower():
                 print(f"Got redirected to different domain {url} vs {request.url}")
                 continue
@@ -132,40 +148,29 @@ for element in folders:
                 parse(folder+"/"+element+"/"+file)
 
 print("Validating")
-for domain in direct:
-    response = get(domain,domain)
-    if response:
-        parseUrls(response)
-        parseLinks(response,domain)
-        continue
-
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
         response = get(url,domain)
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
-            if ips:
+            if ips['ipv4']:
                 data['lg'][domain][url] = ips
             elif url in tagged:
                 del data['lg'][domain][url]
             continue
         del data['lg'][domain][url]
 
-print("Scrapping")
-for domain in list(data['scrap']):
-    for url in list(data['scrap'][domain]):
-        if not domain in data['lg']: data['lg'][domain] = {}
-        if url in data['lg'][domain]: continue
-        response = get(url,domain)
-        if response:
-            data['lg'][domain][url] = []
-            ips = parseIPs(ip,response)
-            if ips:
-                data['lg'][domain][url] = ips
-            elif url in tagged:
-                del data['lg'][domain][url]
-            continue
+scrap()
+
+for domain in direct:
+    response = get(domain,domain)
+    if response:
+        parseUrls(response,"scrap")
+        parseLinks(response,domain,"scrap")
+        continue
+
+scrap()
 
 for domain,details in list(data['lg'].items()):
     if not details: del data['lg'][domain]
