@@ -190,7 +190,7 @@ print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data['lg'], f, indent=4)
 
-print("Updating Readme")
+print("Merging files")
 readme = "# Looking-Glass\n"
 list = {}
 files = os.listdir(os.getcwd()+"/data/")
@@ -198,8 +198,13 @@ for file in files:
     if file.endswith(".json") and not "everything" in file:
         with open(os.getcwd()+"/data/"+file) as handle:
             file = json.loads(handle.read())
-        list = dict(list, **file)
+        for domain,details in file.items():
+            if not domain in list: list[domain] = {}
+            for url,ips in details.items():
+                if not url in list[domain]: list[domain][url] = {}
+                list[domain][url] = ips
 
+print("Updating Readme")
 for element,urls in list.items():
     if len(urls) > 0:
         readme += "### "+element+"\n"

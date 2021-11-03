@@ -25,7 +25,11 @@ for file in files:
     if file.endswith(".json") and not "everything" in file:
         with open(os.getcwd()+"/data/"+file) as handle:
             file = json.loads(handle.read())
-        list = dict(list, **file)
+        for domain,details in file.items():
+            if not domain in list: list[domain] = {}
+            for url,ips in details.items():
+                if not url in list[domain]: list[domain][url] = {}
+                list[domain][url] = ips
 
 for element,urls in list.items():
     if len(urls) > 0:
