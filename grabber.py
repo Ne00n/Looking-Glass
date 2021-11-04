@@ -190,8 +190,8 @@ for domain,details in list(data['lg'].items()):
     if not details: del data['lg'][domain]
 
 print("Filter double IP's")
+once = []
 for domain, details in data['lg'].items():
-    once = []
     for url,ips in list(details.items()):
         if ips and ips['ipv4']:
             for ip in list(ips['ipv4']):
