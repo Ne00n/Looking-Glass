@@ -4,6 +4,7 @@ import tldextract, requests
 
 lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
 ipRegex = re.compile('([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")')
+ip6Regex = re.compile('([\da-f]{4}:[\da-f]{1,4}:[\d\w:]{1,})')
 priv_lo = re.compile("^127\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
 priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
 priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
@@ -62,7 +63,7 @@ def parseLinks(html,domain,type="lg"):
         for link in html.links:
             if any(element in link  for element in tags):
                 if not domain in data[type]: data[type][domain] = {}
-                if domain in link:
+                if domain in link or "http" in link:
                     url = link
                 else:
                     if link.startswith("/"):
@@ -82,15 +83,22 @@ def isPrivate(ip):
 def parseIPs(ip,html):
     global ipRegex
     ipv4s = ipRegex.findall(html, re.DOTALL)
-    yourIP = re.findall("(Your IP Address|My IP):.*?>\s?([\d.]+)<",html, re.MULTILINE | re.DOTALL)
-    response = {"ipv4":[]}
-    if len(ipv4s) > 30: return response
+    ipv6s = ip6Regex.findall(html, re.DOTALL)
+    yourIP = re.findall("(Your IP Address|My IP):.*?([\d.]+)\s?<",html, re.MULTILINE | re.DOTALL)
+    yourIPv6 = re.findall("(Your IP Address|My IP):.*?([\da-f]{4}:[\da-f]{1,4}:[\d\w:]{1,})\s?<",html, re.IGNORECASE | re.DOTALL)
+    response = {"ipv4":[],"ipv6":[]}
     for entry in ipv4s:
+        if len(ipv4s) > 30: break
         if yourIP and yourIP[0][1] == entry[0]: continue
         if isPrivate(entry[0]): continue
         if entry[0] == ip: continue
         response['ipv4'].append(entry[0])
+    for entry in ipv6s:
+        if yourIPv6 and yourIPv6[0][1] == entry: continue
+        if len(ipv6s) > 30: break
+        response['ipv6'].append(entry)
     response['ipv4'] = list(set(response['ipv4']))
+    response['ipv6'] = list(set(response['ipv6']))
     return response
 
 def get(url,domain):
