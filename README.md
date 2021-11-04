@@ -157,6 +157,14 @@
 * [racknerd.com/utah-datacenter](http://racknerd.com/utah-datacenter)
 * [racknerd.com/london-datacenter](http://racknerd.com/london-datacenter)
 * [racknerd.com/los-angeles-dc02-datacenter](http://racknerd.com/los-angeles-dc02-datacenter)
+* [racknerd.com/san-jose-datacenter](http://racknerd.com/san-jose-datacenter)
+* [racknerd.com/chicago-datacenter](http://racknerd.com/chicago-datacenter)
+* [racknerd.com/new-jersey-datacenter](http://racknerd.com/new-jersey-datacenter)
+* [racknerd.com/amsterdam-datacenter](http://racknerd.com/amsterdam-datacenter)
+* [racknerd.com/seattle-datacenter](http://racknerd.com/seattle-datacenter)
+* [racknerd.com/ashburn-datacenter](http://racknerd.com/ashburn-datacenter)
+* [racknerd.com/dallas-datacenter](http://racknerd.com/dallas-datacenter)
+* [racknerd.com/atlanta-datacenter](http://racknerd.com/atlanta-datacenter)
 ### vmhaus.com
 * [lg.vmhaus.com](http://lg.vmhaus.com)
 ### alphavps.bg
@@ -1123,6 +1131,7 @@
 ### greencloudvps.com
 * [lgvn.greencloudvps.com](http://lgvn.greencloudvps.com)
 * [lgnl.greencloudvps.com](http://lgnl.greencloudvps.com)
+* [https://greencloudvps.com/data-centers.php](http://https://greencloudvps.com/data-centers.php)
 * [lgga.greencloudvps.com](http://lgga.greencloudvps.com)
 ### cloudxtiny.co.uk
 * [looking-glass.cloudxtiny.co.uk](http://looking-glass.cloudxtiny.co.uk)
@@ -1355,8 +1364,6 @@
 * [lg.finalhosting.cz](http://lg.finalhosting.cz)
 ### mechanicweb.com
 * [mechanicweb.com/datacenters.php](http://mechanicweb.com/datacenters.php)
-### alwyzon.net
-* [lg.vie.alwyzon.net](http://lg.vie.alwyzon.net)
 ### hostbrew.com
 * [lg.la1.hostbrew.com](http://lg.la1.hostbrew.com)
 ### fullvpsserver.com

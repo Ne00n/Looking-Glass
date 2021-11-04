@@ -1,16 +1,19 @@
 {
-    "alwyzon.net": {
-        "lg.vie.alwyzon.net": []
-    },
     "zappiehost.com": {
         "lg-nz.zappiehost.com": {
             "ipv4": [
                 "185.99.133.234"
+            ],
+            "ipv6": [
+                "2a06:1280:bee1::dea:234"
             ]
         },
         "lg-za.zappiehost.com": {
             "ipv4": [
                 "169.239.128.25"
+            ],
+            "ipv6": [
+                "2c0f:f530::d00:286"
             ]
         }
     },
@@ -18,11 +21,17 @@
         "tyo.lg.webhorizon.in": {
             "ipv4": [
                 "41.216.180.13"
+            ],
+            "ipv6": [
+                "2a06:c3c0:3:117a:0000:0000:0000:0001"
             ]
         },
         "waw.lg.webhorizon.in": {
             "ipv4": [
                 "41.216.186.10"
+            ],
+            "ipv6": [
+                "2a03:cfc0:803f:0a8d:0000:0000:0000:0001"
             ]
         }
     },
@@ -30,6 +39,9 @@
         "lg.nl.haendler.it": {
             "ipv4": [
                 "80.78.132.86"
+            ],
+            "ipv6": [
+                "2a0d:2146:2404::100c"
             ]
         }
     },
@@ -37,28 +49,34 @@
         "lg-pl.happybeehost.com": {
             "ipv4": [
                 "147.135.198.0"
-            ]
+            ],
+            "ipv6": []
         }
     },
     "drserver.net": {
         "lg-dal.ipv4.drserver.net": {
             "ipv4": [
                 "192.138.210.63"
-            ]
+            ],
+            "ipv6": []
         },
-        "lg-dal.ipv6.drserver.net": {
-            "ipv4": []
-        }
+        "lg-dal.ipv6.drserver.net": []
     },
     "spryservers.net": {
         "lg.phx1.spryservers.net": {
             "ipv4": [
                 "204.10.89.135"
+            ],
+            "ipv6": [
+                "2602:fe6b:1010:305a::7284"
             ]
         },
         "lg.dal1.spryservers.net": {
             "ipv4": [
                 "23.130.96.20"
+            ],
+            "ipv6": [
+                "2602:fe6b:0:11::e47a"
             ]
         }
     },
@@ -66,11 +84,177 @@
         "lg.hostmayo.com": {
             "ipv4": [
                 "92.118.61.21"
-            ]
+            ],
+            "ipv6": []
         },
         "lgnl.hostmayo.com": {
             "ipv4": [
                 "169.239.130.2"
+            ],
+            "ipv6": []
+        }
+    },
+    "racknerd.com": {
+        "racknerd.com/utah-datacenter": {
+            "ipv4": [
+                "64.140.171.145"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/san-jose-datacenter": {
+            "ipv4": [
+                "192.210.207.88"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/chicago-datacenter": {
+            "ipv4": [
+                "198.23.228.15"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/montreal-datacenter": {
+            "ipv4": [
+                "104.227.97.6"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/los-angeles-dc02-datacenter": {
+            "ipv4": [
+                "204.13.154.3"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/miami-datacenter": {
+            "ipv4": [
+                "192.155.106.1"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/new-jersey-datacenter": {
+            "ipv4": [
+                "192.3.165.30"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/new-york-datacenter": {
+            "ipv4": [
+                "69.58.3.171"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/london-datacenter": {
+            "ipv4": [
+                "89.34.96.1"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/amsterdam-datacenter": {
+            "ipv4": [
+                "23.94.101.88"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/seattle-datacenter": {
+            "ipv4": [
+                "192.3.253.2"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/ashburn-datacenter": {
+            "ipv4": [
+                "107.173.166.10"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/dallas-datacenter": {
+            "ipv4": [
+                "198.23.249.100"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/tampa-datacenter": {
+            "ipv4": [
+                "209.216.90.1"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/atlanta-datacenter": {
+            "ipv4": [
+                "107.173.164.160"
+            ],
+            "ipv6": []
+        }
+    },
+    "greencloudvps.com": {
+        "https://greencloudvps.com/data-centers.php": {
+            "ipv4": [
+                "199.241.143.254",
+                "212.83.44.9",
+                "45.34.12.147",
+                "103.199.17.252",
+                "172.106.7.194",
+                "46.182.111.246",
+                "69.12.66.26",
+                "94.229.65.150",
+                "185.94.189.162",
+                "45.119.201.6",
+                "199.102.44.80",
+                "23.226.128.10",
+                "64.44.162.14",
+                "203.96.236.37",
+                "96.9.249.58",
+                "173.44.32.10",
+                "89.238.129.146",
+                "155.254.16.14",
+                "94.156.35.72",
+                "103.254.153.18",
+                "185.45.12.22",
+                "103.121.210.3",
+                "167.88.10.4",
+                "70.39.65.252",
+                "104.254.93.54",
+                "103.232.84.1",
+                "66.154.97.183",
+                "69.61.74.53",
+                "216.244.83.34"
+            ],
+            "ipv6": [
+                "2604:6600:2000:38::3",
+                "2607:fcd0:100:db08::1",
+                "2602:ffc8:5:1::2",
+                "2607:f7a0:5:3::1",
+                "2605:6c80:0:3::2",
+                "2602:ffc8:2:102::2",
+                "2a00:f48:2000:101f:212:83:44:9",
+                "2606:6080:1001::1",
+                "2607:fcd0:ccc0:1000::2",
+                "2607:1a00:0:1a::1",
+                "2606:18c0:1::1",
+                "2607:ff48:0:a:b:c:d:666",
+                "2403:fbc0:1000::1",
+                "2001:7f8:1::a505:8073:2",
+                "2602:ffc8:1::2",
+                "2604:6600:2002:4::1531:a1e7",
+                "2a04:9dc0:0:8d::1"
+            ]
+        }
+    },
+    "server24.eu": {
+        "lg.server24.eu": {
+            "ipv4": [
+                "5.4.6.6"
+            ],
+            "ipv6": []
+        }
+    },
+    "server24.net": {
+        "lg.server24.net": {
+            "ipv4": [
+                "84.33.37.101"
+            ],
+            "ipv6": [
+                "2001:1a38:37:0:44b:74ff:fe00:d"
             ]
         }
     }
