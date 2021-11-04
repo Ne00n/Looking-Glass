@@ -3,11 +3,17 @@
         "lg.chi1.cometvps.com": {
             "ipv4": [
                 "167.88.10.4"
+            ],
+            "ipv6": [
+                "2602:ffc8:1::2"
             ]
         },
         "lg.buf1.cometvps.com": {
             "ipv4": [
                 "96.9.249.58"
+            ],
+            "ipv6": [
+                "2602:ffc8:2:102::2"
             ]
         }
     },
@@ -15,6 +21,9 @@
         "la.lg.cloudc.one": {
             "ipv4": [
                 "173.82.220.148"
+            ],
+            "ipv6": [
+                "2607:f130:0:ef::2"
             ]
         }
     },
@@ -22,90 +31,117 @@
         "lg-dal.ipv4.drserver.net": {
             "ipv4": [
                 "192.138.210.63"
-            ]
+            ],
+            "ipv6": []
         },
-        "lg-dal.ipv6.drserver.net": {
-            "ipv4": []
-        }
+        "lg-dal.ipv6.drserver.net": []
     },
     "controlvm.com": {
         "lg.my.controlvm.com": {
             "ipv4": [
                 "103.241.150.129"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.sg.controlvm.com": {
             "ipv4": [
                 "103.47.155.102"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.la.controlvm.com": {
             "ipv4": [
                 "98.143.148.61"
+            ],
+            "ipv6": [
+                "2607:fcd0:0:33:1234:1234:1201:f9"
             ]
         },
         "lg.de.controlvm.com": {
             "ipv4": [
                 "176.9.204.22"
-            ]
+            ],
+            "ipv6": []
         }
     },
     "hostmayo.com": {
         "lg.hostmayo.com": {
             "ipv4": [
                 "92.118.61.21"
-            ]
+            ],
+            "ipv6": []
         },
         "lgnl.hostmayo.com": {
             "ipv4": [
                 "169.239.130.2"
-            ]
+            ],
+            "ipv6": []
         }
     },
     "bacloud.com": {
         "lg-lt-eu.bacloud.com": {
             "ipv4": [
                 "185.25.50.85"
+            ],
+            "ipv6": [
+                "2a04:2180:0:1::1629:27e7"
             ]
         },
         "lg-nl-eu.bacloud.com": {
             "ipv4": [
                 "88.119.171.50"
+            ],
+            "ipv6": [
+                "2a04:2181:c011:1::693f:68b3"
             ]
         },
         "lg-chi-us.bacloud.com": {
             "ipv4": [
                 "88.119.175.50"
+            ],
+            "ipv6": [
+                "2a04:2181:c010:1::913f:ae3d"
             ]
         }
     },
     "hosteons.com": {
-        "lg.hosteons.com": {
-            "ipv4": []
-        },
+        "lg.hosteons.com": [],
         "lg.la.hosteons.com": {
             "ipv4": [
                 "185.149.23.201"
+            ],
+            "ipv6": [
+                "2402:d0c0:2:238b::1"
             ]
         },
         "lg.ny.hosteons.com": {
             "ipv4": [
                 "45.128.73.2"
+            ],
+            "ipv6": [
+                "2402:d0c0:3:1fd::1"
             ]
         },
         "lg.jax.hosteons.com": {
             "ipv4": [
                 "103.114.161.10"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.vegas.hosteons.com": {
             "ipv4": [
                 "103.114.162.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:5:b1::2"
             ]
         },
         "lg.dal.hosteons.com": {
             "ipv4": [
                 "213.59.127.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:6:5ec::1"
             ]
         }
     },
@@ -113,6 +149,9 @@
         "lg.first-root.com": {
             "ipv4": [
                 "91.228.52.15"
+            ],
+            "ipv6": [
+                "2001:67c:12a0::14"
             ]
         }
     },
@@ -120,6 +159,23 @@
         "losangeles.lg.ftpit.com": {
             "ipv4": [
                 "198.52.245.10"
+            ],
+            "ipv6": []
+        }
+    },
+    "iniz.com": {
+        "lg.iniz.com": {
+            "ipv4": [
+                "107.161.173.2",
+                "45.43.64.64",
+                "162.217.248.2",
+                "185.53.130.2"
+            ],
+            "ipv6": [
+                "2a07:9944:20:a::2",
+                "2a02:2ca0:64:ee::2",
+                "2a07:9944:40:1a::2",
+                "2a05:9f44:2a05:1a::b36:db6"
             ]
         }
     },
@@ -127,55 +183,72 @@
         "lg.de.ikoula.com": {
             "ipv4": [
                 "154.46.204.109"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.nl.ikoula.com": {
             "ipv4": [
                 "154.59.112.94"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.sg.ikoula.com": {
             "ipv4": [
                 "203.126.224.11"
-            ]
+            ],
+            "ipv6": []
         },
         "lg.ikdc1.ikoula.com": {
             "ipv4": [
                 "178.170.68.42"
+            ],
+            "ipv6": [
+                "2a00:c70:1:178:170:68:42:1"
             ]
         },
         "lg.ikdc2.ikoula.com": {
             "ipv4": [
                 "109.238.6.164"
-            ]
+            ],
+            "ipv6": []
         }
     },
     "fdcservers.net": {
-        "lg.fdcservers.net": {
-            "ipv4": []
+        "lg.fdcservers.net": []
+    },
+    "as20278.net": {
+        "lg.chi1.as20278.net": {
+            "ipv4": [
+                "167.88.10.4"
+            ],
+            "ipv6": [
+                "2602:ffc8:1::2"
+            ]
+        },
+        "lg.buf1.as20278.net": {
+            "ipv4": [
+                "96.9.249.58"
+            ],
+            "ipv6": [
+                "2602:ffc8:2:102::2"
+            ]
         }
     },
     "nexeon.com": {
         "lg.chi1.nexeon.com": {
             "ipv4": [
                 "167.88.10.4"
+            ],
+            "ipv6": [
+                "2602:ffc8:1::2"
             ]
         },
         "lg.buf1.nexeon.com": {
             "ipv4": [
                 "96.9.249.58"
-            ]
-        }
-    },
-    "as20278.net": {
-        "lg.chi1.as20278.net": {
-            "ipv4": [
-                "167.88.10.4"
-            ]
-        },
-        "lg.buf1.as20278.net": {
-            "ipv4": [
-                "96.9.249.58"
+            ],
+            "ipv6": [
+                "2602:ffc8:2:102::2"
             ]
         }
     }

@@ -150,6 +150,8 @@
 * [atlanta.lg.ftpit.com](http://atlanta.lg.ftpit.com)
 * [dallas.lg.ftpit.com](http://dallas.lg.ftpit.com)
 * [fremont.lg.ftpit.com](http://fremont.lg.ftpit.com)
+### iniz.com
+* [lg.iniz.com](http://lg.iniz.com)
 ### ikoula.com
 * [lg.de.ikoula.com](http://lg.de.ikoula.com)
 * [lg.nl.ikoula.com](http://lg.nl.ikoula.com)
@@ -159,12 +161,12 @@
 ### fdcservers.net
 * [lg.fdcservers.net](http://lg.fdcservers.net)
 * [lg-sin.fdcservers.net](http://lg-sin.fdcservers.net)
-### nexeon.com
-* [lg.chi1.nexeon.com](http://lg.chi1.nexeon.com)
-* [lg.buf1.nexeon.com](http://lg.buf1.nexeon.com)
 ### as20278.net
 * [lg.chi1.as20278.net](http://lg.chi1.as20278.net)
 * [lg.buf1.as20278.net](http://lg.buf1.as20278.net)
+### nexeon.com
+* [lg.chi1.nexeon.com](http://lg.chi1.nexeon.com)
+* [lg.buf1.nexeon.com](http://lg.buf1.nexeon.com)
 ### G-Core Labs
 * [looking.house/point.php?id=300](http://looking.house/point.php?id=300)
 * [looking.house/point.php?id=166](http://looking.house/point.php?id=166)
@@ -1391,8 +1393,6 @@
 * [lg.sofia.profitserver.ru](http://lg.sofia.profitserver.ru)
 * [lg.secaucus.profitserver.ru](http://lg.secaucus.profitserver.ru)
 * [lg.singapore.profitserver.ru](http://lg.singapore.profitserver.ru)
-### iniz.com
-* [lg.iniz.com](http://lg.iniz.com)
 ### vmium.com
 * [lg-it.vmium.com](http://lg-it.vmium.com)
 * [lg-nl.vmium.com](http://lg-nl.vmium.com)
