@@ -33,7 +33,13 @@ def scrap():
             del data['scrap'][domain][url]
 
 def parseUrls(html,type="lg"):
-    global data,direct,lookingRegex
+    global lookingRegex, ignore, direct, data
+    parse = HTML(html=html)
+    if parse.links:
+        for link in parse.links:
+            if "cart" in link or "order" in link:
+                domain = tldextract.extract(link).registered_domain
+                if not domain in direct: direct.append(domain)
     matches = lookingRegex.findall(html, re.DOTALL)
     if matches:
         for match in matches:
@@ -51,7 +57,7 @@ def parseUrls(html,type="lg"):
 def parseLinks(html,domain,type="lg"):
     global data,tagged
     html = HTML(html=html)
-    tags = ['datacenters','data-centers','datacenter']
+    tags = ['datacenters','data-centers','datacenter','Looking Glass']
     if html.links:
         for link in html.links:
             if any(element in link  for element in tags):
