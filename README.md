@@ -798,6 +798,7 @@
 * [racknerd.com/los-angeles-dc02-datacenter](http://racknerd.com/los-angeles-dc02-datacenter)
 * [racknerd.com/montreal-datacenter](http://racknerd.com/montreal-datacenter)
 * [racknerd.com/new-york-datacenter](http://racknerd.com/new-york-datacenter)
+* [lg-lax02.racknerd.com](http://lg-lax02.racknerd.com)
 ### haendler.it
 * [lg.nl.haendler.it](http://lg.nl.haendler.it)
 ### xethost.com
