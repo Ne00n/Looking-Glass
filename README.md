@@ -159,12 +159,12 @@
 * [racknerd.com/los-angeles-dc02-datacenter](http://racknerd.com/los-angeles-dc02-datacenter)
 * [racknerd.com/san-jose-datacenter](http://racknerd.com/san-jose-datacenter)
 * [racknerd.com/chicago-datacenter](http://racknerd.com/chicago-datacenter)
-* [racknerd.com/new-jersey-datacenter](http://racknerd.com/new-jersey-datacenter)
 * [racknerd.com/amsterdam-datacenter](http://racknerd.com/amsterdam-datacenter)
-* [racknerd.com/seattle-datacenter](http://racknerd.com/seattle-datacenter)
-* [racknerd.com/ashburn-datacenter](http://racknerd.com/ashburn-datacenter)
-* [racknerd.com/dallas-datacenter](http://racknerd.com/dallas-datacenter)
 * [racknerd.com/atlanta-datacenter](http://racknerd.com/atlanta-datacenter)
+* [racknerd.com/seattle-datacenter](http://racknerd.com/seattle-datacenter)
+* [racknerd.com/new-jersey-datacenter](http://racknerd.com/new-jersey-datacenter)
+* [racknerd.com/dallas-datacenter](http://racknerd.com/dallas-datacenter)
+* [racknerd.com/ashburn-datacenter](http://racknerd.com/ashburn-datacenter)
 ### vmhaus.com
 * [lg.vmhaus.com](http://lg.vmhaus.com)
 ### alphavps.bg
