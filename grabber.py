@@ -62,6 +62,7 @@ def parseLinks(html,domain,type="lg"):
     if html.links:
         for link in html.links:
             if any(element in link  for element in tags):
+                if link.endswith(".test"): continue
                 if not domain in data[type]: data[type][domain] = {}
                 if domain in link or "http" in link:
                     url = link
