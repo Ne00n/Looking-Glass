@@ -630,6 +630,18 @@
             ]
         }
     },
+    "alwyzon.com": {
+        "alwyzon.com/en/lg/vie": {
+            "ipv4": [
+                "31.14.17.6",
+                "86.106.182.189"
+            ],
+            "ipv6": [
+                "2a0d:f301::6",
+                "2a0d:f302:106::6"
+            ]
+        }
+    },
     "ultravps.eu": {
         "lg.ams.nl.ultravps.eu": {
             "ipv4": [
@@ -811,9 +823,27 @@
             ],
             "ipv6": []
         },
+        "racknerd.com/montreal-datacenter": {
+            "ipv4": [
+                "104.227.97.6"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/london-datacenter": {
+            "ipv4": [
+                "89.34.96.1"
+            ],
+            "ipv6": []
+        },
         "racknerd.com/new-york-datacenter": {
             "ipv4": [
                 "69.58.3.171"
+            ],
+            "ipv6": []
+        },
+        "racknerd.com/utah-datacenter": {
+            "ipv4": [
+                "64.140.171.145"
             ],
             "ipv6": []
         },
@@ -828,35 +858,17 @@
                 "192.155.106.1"
             ],
             "ipv6": []
-        },
-        "racknerd.com/montreal-datacenter": {
-            "ipv4": [
-                "104.227.97.6"
-            ],
-            "ipv6": []
-        },
-        "racknerd.com/utah-datacenter": {
-            "ipv4": [
-                "64.140.171.145"
-            ],
-            "ipv6": []
-        },
-        "racknerd.com/london-datacenter": {
-            "ipv4": [
-                "89.34.96.1"
-            ],
-            "ipv6": []
         }
     },
     "vmhaus.com": {
         "lg.vmhaus.com": {
             "ipv4": [
-                "185.214.69.46",
-                "103.105.49.34"
+                "103.105.49.34",
+                "185.214.69.46"
             ],
             "ipv6": [
-                "2a06:82c2:0:88::1",
-                "2402:28c0:2:310::1"
+                "2402:28c0:2:310::1",
+                "2a06:82c2:0:88::1"
             ]
         }
     },
