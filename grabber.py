@@ -58,9 +58,11 @@ def parseUrls(html,type="lg"):
 def parseLinks(html,domain,type="lg"):
     global data,tagged
     html = HTML(html=html)
+    ignore = ['foxbusiness.com']
     tags = ['datacenters','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
     if html.links:
         for link in html.links:
+            if any(element in link  for element in ignore): continue
             if any(element in link  for element in tags):
                 if link.endswith(".test"): continue
                 if not domain in data[type]: data[type][domain] = {}
