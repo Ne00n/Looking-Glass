@@ -2,6 +2,7 @@ from requests_html import HTML
 import json, time, sys, os, re
 import tldextract, requests
 
+tags = ['datacenters','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
 lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
 ipRegex = re.compile('([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")')
 ip6Regex = re.compile('([\da-f]{4}:[\da-f]{1,4}:[\d\w:]{1,})')
@@ -34,19 +35,31 @@ def scrap():
             del data['scrap'][domain][url]
 
 def parseUrls(html,type="lg"):
-    global lookingRegex, ignore, direct, data
+    global lookingRegex, ignore, direct, data, tags
+    skip = ['entry/register','entry/signin','/discussion/','/profile/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com']
+    onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual']
     parse = HTML(html=html)
     if parse.links:
         for link in parse.links:
-            if "cart" in link or "order" in link:
-                domain = tldextract.extract(link).registered_domain
+            if link in ignore: continue
+            if link == "/": continue
+            if any(tag in link for tag in skip): continue
+            ignore.append(link)
+            domain = tldextract.extract(link).registered_domain
+            if domain == "": continue
+            if any(element in link  for element in onlyDirect) or any(element in link  for element in tags):
                 if not domain in direct: direct.append(domain)
+            if any(element in link  for element in tags):
+                if not domain in data[type]: data[type][domain] = {}
+                if not link in data[type][domain]: data[type][domain][link] = []
+                tagged.append(link)
     matches = lookingRegex.findall(html, re.DOTALL)
     if matches:
         for match in matches:
             result = "".join(match)
             if result in ignore: continue
             domain = tldextract.extract(result).registered_domain
+            if domain == "": continue
             if not domain in direct: direct.append(domain)
             if domain == "": continue
             if result.endswith("."): result = result[:len(result) -2]
@@ -56,15 +69,13 @@ def parseUrls(html,type="lg"):
             if match[0]: data[type][domain][result.replace(match[0],"")] = []
 
 def parseLinks(html,domain,type="lg"):
-    global data,tagged
+    global data,tagged,tags
     html = HTML(html=html)
     ignore = ['foxbusiness.com']
-    tags = ['datacenters','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
     if html.links:
         for link in html.links:
-            if any(element in link  for element in ignore): continue
+            if link in ignore: continue
             if any(element in link  for element in tags):
-                if link.endswith(".test"): continue
                 if not domain in data[type]: data[type][domain] = {}
                 if domain in link or "http" in link:
                     url = link
@@ -105,13 +116,16 @@ def parseIPs(ip,html):
     return response
 
 def get(url,domain):
+    if url.lower().endswith((".test", ".zip", ".bin",".png",".jpg",".dat",".pdf",".gz",".data",".img",".mb")): return False
     for run in range(4):
         try:
             if run > 1: time.sleep(0.5)
+            if url.startswith("//"): url = url.replace("//","")
             if not "http" in url:
                 prefix = "https://" if run % 2 == 0 else "http://"
             else:
                 prefix = ""
+            print(f"Getting {prefix+url}")
             request = requests.get(prefix+url,allow_redirects=True,timeout=6)
             if domain.lower() not in request.url.lower():
                 print(f"Got redirected to different domain {url} vs {request.url}")
