@@ -1405,6 +1405,8 @@
 * [lg.finalhosting.cz](http://lg.finalhosting.cz)
 ### mechanicweb.com
 * [mechanicweb.com/datacenters.php](http://mechanicweb.com/datacenters.php)
+### servarica.com
+* [https://ping.servarica.com](http://https://ping.servarica.com)
 ### hostbrew.com
 * [lg.la1.hostbrew.com](http://lg.la1.hostbrew.com)
 ### fullvpsserver.com
