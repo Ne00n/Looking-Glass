@@ -4026,14 +4026,6 @@
             "ipv6": []
         }
     },
-    "woocommerce.com": {
-        "https://woocommerce.com/document/woocommerce-shipping-and-tax/woocommerce-shipping/": {
-            "ipv4": [
-                "192.0.96.246"
-            ],
-            "ipv6": []
-        }
-    },
     "synlinq.de": {
         "lg.synlinq.de": []
     },

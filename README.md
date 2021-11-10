@@ -1586,8 +1586,6 @@
 * [http://lg.ip-projects.de](http://http://lg.ip-projects.de)
 ### digitaltrends.com
 * [https://www.digitaltrends.com/dtdeals/lg-32-inch-ultragear-qhd-gaming-monitor-deal-walmart-november-2021/](http://https://www.digitaltrends.com/dtdeals/lg-32-inch-ultragear-qhd-gaming-monitor-deal-walmart-november-2021/)
-### woocommerce.com
-* [https://woocommerce.com/document/woocommerce-shipping-and-tax/woocommerce-shipping/](http://https://woocommerce.com/document/woocommerce-shipping-and-tax/woocommerce-shipping/)
 ### synlinq.de
 * [lg.synlinq.de](http://lg.synlinq.de)
 ### albahost.net
