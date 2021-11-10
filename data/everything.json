@@ -1013,9 +1013,7 @@
         "lg-v6.prg.skylonhost.com": [],
         "lg.prg.skylonhost.com": [],
         "https://lg.skylonhost.com/lg/": {
-            "ipv4": [
-                "0.0.0.0"
-            ],
+            "ipv4": [],
             "ipv6": []
         }
     },
@@ -8852,14 +8850,6 @@
         "lg.netcup.net": [],
         "lookingglass.netcup.net": []
     },
-    "inwi.ma": {
-        "https://www.inwi.ma/entreprises/datacenter-inwi": {
-            "ipv4": [
-                "0.0.0.0"
-            ],
-            "ipv6": []
-        }
-    },
     "firevps.net": {
         "lg.firevps.net": []
     },
@@ -9038,15 +9028,6 @@
             "ipv6": [
                 "2a0a:51c0:0:2::2"
             ]
-        }
-    },
-    "slickdeals.net": {
-        "slickdeals.net/f/15385093-harry-potter-a-pop-up-guide-to-hogwarts-hardcover-22-78-free-shipping?prop=rcmid-2d58a57cb7f8057d30c53015126d9914": {
-            "ipv4": [
-                "79.236.154.0",
-                "104.126.37.140"
-            ],
-            "ipv6": []
         }
     },
     "digitaltrends.com": {
@@ -10025,17 +10006,6 @@
             "ipv6": []
         }
     },
-    "guardicore.com": {
-        "https://www.guardicore.com/blog/stopping-ransomware-with-segmentation/": {
-            "ipv4": [
-                "104.126.37.119",
-                "79.236.154.0",
-                "71.31.108.0",
-                "92.122.153.142"
-            ],
-            "ipv6": []
-        }
-    },
     "as212806.net": {
         "lg.as212806.net": []
     },
@@ -10165,15 +10135,6 @@
     },
     "vikhost.com": {
         "lg.vikhost.com": []
-    },
-    "foxbusiness.com": {
-        "https://www.foxbusiness.com/lifestyle/consumers-hit-surge-out-of-stock-messages-holiday-shopping": {
-            "ipv4": [
-                "2.17.100.134",
-                "79.236.154.0"
-            ],
-            "ipv6": []
-        }
     },
     "colocationamerica.com": {
         "https://www.colocationamerica.com/how-does-ping-work": {

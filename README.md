@@ -1538,8 +1538,6 @@
 ### netcup.net
 * [lg.netcup.net](http://lg.netcup.net)
 * [lookingglass.netcup.net](http://lookingglass.netcup.net)
-### inwi.ma
-* [https://www.inwi.ma/entreprises/datacenter-inwi](http://https://www.inwi.ma/entreprises/datacenter-inwi)
 ### firevps.net
 * [lg.firevps.net](http://lg.firevps.net)
 ### hostzealot.com
@@ -1586,8 +1584,6 @@
 * [baehost.com/en-int/empresa/datacenter](http://baehost.com/en-int/empresa/datacenter)
 ### ip-projects.de
 * [http://lg.ip-projects.de](http://http://lg.ip-projects.de)
-### slickdeals.net
-* [slickdeals.net/f/15385093-harry-potter-a-pop-up-guide-to-hogwarts-hardcover-22-78-free-shipping?prop=rcmid-2d58a57cb7f8057d30c53015126d9914](http://slickdeals.net/f/15385093-harry-potter-a-pop-up-guide-to-hogwarts-hardcover-22-78-free-shipping?prop=rcmid-2d58a57cb7f8057d30c53015126d9914)
 ### digitaltrends.com
 * [https://www.digitaltrends.com/dtdeals/lg-32-inch-ultragear-qhd-gaming-monitor-deal-walmart-november-2021/](http://https://www.digitaltrends.com/dtdeals/lg-32-inch-ultragear-qhd-gaming-monitor-deal-walmart-november-2021/)
 ### woocommerce.com
@@ -1831,8 +1827,6 @@
 * [gb.lg.pq.hosting](http://gb.lg.pq.hosting)
 ### purevoltage.com
 * [purevoltage.com/datacenter-locations.php](http://purevoltage.com/datacenter-locations.php)
-### guardicore.com
-* [https://www.guardicore.com/blog/stopping-ransomware-with-segmentation/](http://https://www.guardicore.com/blog/stopping-ransomware-with-segmentation/)
 ### as212806.net
 * [lg.as212806.net](http://lg.as212806.net)
 ### nazwa.pl
@@ -1868,8 +1862,6 @@
 * [lg.fitvps.com](http://lg.fitvps.com)
 ### vikhost.com
 * [lg.vikhost.com](http://lg.vikhost.com)
-### foxbusiness.com
-* [https://www.foxbusiness.com/lifestyle/consumers-hit-surge-out-of-stock-messages-holiday-shopping](http://https://www.foxbusiness.com/lifestyle/consumers-hit-surge-out-of-stock-messages-holiday-shopping)
 ### colocationamerica.com
 * [https://www.colocationamerica.com/how-does-ping-work](http://https://www.colocationamerica.com/how-does-ping-work)
 ### serverdeals.com

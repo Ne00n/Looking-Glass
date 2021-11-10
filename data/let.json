@@ -2689,9 +2689,7 @@
     "skylonhost.com": {
         "lg.skylonhost.com": [],
         "https://lg.skylonhost.com/lg/": {
-            "ipv4": [
-                "0.0.0.0"
-            ],
+            "ipv4": [],
             "ipv6": []
         },
         "lg-v4.prg.skylonhost.com": [],
@@ -3796,14 +3794,6 @@
     "netcup.net": {
         "lg.netcup.net": [],
         "lookingglass.netcup.net": []
-    },
-    "inwi.ma": {
-        "https://www.inwi.ma/entreprises/datacenter-inwi": {
-            "ipv4": [
-                "0.0.0.0"
-            ],
-            "ipv6": []
-        }
     },
     "firevps.net": {
         "lg.firevps.net": []
