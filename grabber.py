@@ -36,8 +36,9 @@ def scrap():
 
 def parseUrls(html,type="lg"):
     global lookingRegex, ignore, direct, data, tags
-    skip = ['entry/register','entry/signin','/discussion/','/profile/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com']
-    onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual']
+    skip = ['entry/register','entry/signin','/discussion/','/profile/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com',
+    'twitter.com','linkedin.com']
+    onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual','cloud','compute','dedicated','ryzen']
     parse = HTML(html=html)
     if parse.links:
         for link in parse.links:
@@ -47,9 +48,10 @@ def parseUrls(html,type="lg"):
             ignore.append(link)
             domain = tldextract.extract(link).registered_domain
             if domain == "": continue
-            if any(element in link  for element in onlyDirect) or any(element in link  for element in tags):
+            if any(element in link  for element in onlyDirect):
                 if not domain in direct: direct.append(domain)
-            if any(element in link  for element in tags):
+            #in link but should not be in domain
+            if any(element in link  for element in tags) and not any(element in domain  for element in tags):
                 if not domain in data[type]: data[type][domain] = {}
                 if not link in data[type][domain]: data[type][domain][link] = []
                 tagged.append(link)
@@ -116,7 +118,7 @@ def parseIPs(ip,html):
     return response
 
 def get(url,domain):
-    if url.lower().endswith((".test", ".zip", ".bin",".png",".jpg",".dat",".pdf",".gz",".data",".img",".mb")): return False
+    if url.lower().endswith((".test", ".zip", ".bin",".png",".jpg",".dat",".pdf",".gz",".data",".img",".mb",".db")): return False
     for run in range(4):
         try:
             if run > 1: time.sleep(0.5)
@@ -168,8 +170,9 @@ if request.status_code == 200:
 else:
     exit("Could not fetch IP")
 
+print(f"Total folders {len(folders)}")
 print(f"Parsing {folder}")
-for element in folders:
+for index, element in enumerate(folders):
     if element.endswith(".html") or element.endswith(".json"):
         parse(folder+"/"+element)
     else:
@@ -177,6 +180,7 @@ for element in folders:
         for file in files:
             if file.endswith(".html") or file.endswith(".json"):
                 parse(folder+"/"+element+"/"+file)
+    print(f"Done {index} of {len(folders)}")
 
 print("Validating")
 for domain in data['lg']:
