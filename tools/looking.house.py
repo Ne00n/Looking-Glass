@@ -1,4 +1,8 @@
+import sys, os
+sys.path.append(os.getcwd().replace("/tools",""))
+
 from requests_html import HTMLSession
+from Class.base import Base
 import json, re, os
 
 html = HTMLSession()
@@ -18,29 +22,16 @@ for index, row in enumerate(rows):
 with open(os.getcwd()+'/data/looking.json', 'w') as f:
     json.dump(results, f, indent=4)
 
-print("Updating Readme")
-readme = "# Looking-Glass\n"
-list = {}
-files = os.listdir(os.getcwd()+"/data/")
-for file in files:
-    if file.endswith(".json") and not "everything" in file:
-        with open(os.getcwd()+"/data/"+file) as handle:
-            file = json.loads(handle.read())
-        for domain,details in file.items():
-            if not domain in list: list[domain] = {}
-            for url,ips in details.items():
-                if not url in list[domain]: list[domain][url] = {}
-                list[domain][url] = ips
+print("Merging files")
+list = Base.merge()
 
-for element,urls in list.items():
-    if len(urls) > 0:
-        readme += "### "+element+"\n"
-        for url in urls:
-            readme += "* ["+url+"](http://"+url+")\n"
+print("Updating Readme")
+readme = Base.readme(list)
+
+print("Saving Readme")
+with open(os.getcwd()+"/README.md", 'w') as f:
+    f.write(readme)
 
 print(f"Saving everything.json")
 with open(os.getcwd()+'/data/everything.json', 'w') as f:
     json.dump(list, f, indent=4)
-
-with open(os.getcwd()+"/README.md", 'w') as f:
-    f.write(readme)

@@ -26,3 +26,12 @@ class Base():
                             if not list[domain][url]['ipv4'] and not list[domain][url]['ipv6']:
                                 del list[domain][url]
         return list
+
+    def readme(list):
+        readme = "# Looking-Glass\n"
+        for element,urls in list.items():
+            if len(urls) > 0:
+                readme += "### "+element+"\n"
+                for url in urls:
+                    readme += "* ["+url+"](http://"+url+")\n"
+        return readme

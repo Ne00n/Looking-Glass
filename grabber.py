@@ -227,19 +227,15 @@ with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data['lg'], f, indent=4)
 
 print("Merging files")
-readme = "# Looking-Glass\n"
 list = Base.merge()
 
 print("Updating Readme")
-for element,urls in list.items():
-    if len(urls) > 0:
-        readme += "### "+element+"\n"
-        for url in urls:
-            readme += "* ["+url+"](http://"+url+")\n"
+readme = Base.readme(list)
+
+print("Saving Readme")
+with open(os.getcwd()+"/README.md", 'w') as f:
+    f.write(readme)
 
 print(f"Saving everything.json")
 with open(os.getcwd()+'/data/everything.json', 'w') as f:
     json.dump(list, f, indent=4)
-
-with open(os.getcwd()+"/README.md", 'w') as f:
-    f.write(readme)
