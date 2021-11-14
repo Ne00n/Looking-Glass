@@ -1278,21 +1278,45 @@
         }
     },
     "linode.com": {
-        "speedtest.fremont.linode.com": {
+        "speedtest.toronto1.linode.com": {
             "ipv4": [
-                "50.116.14.9"
-            ],
-            "ipv6": []
-        },
-        "speedtest.atlanta.linode.com": {
-            "ipv4": [
-                "50.116.39.117"
+                "172.105.30.21"
             ],
             "ipv6": []
         },
         "speedtest.frankfurt.linode.com": {
             "ipv4": [
                 "139.162.130.8"
+            ],
+            "ipv6": []
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": [
+                "172.105.174.7"
+            ],
+            "ipv6": []
+        },
+        "speedtest.fremont.linode.com": {
+            "ipv4": [
+                "50.116.14.9"
+            ],
+            "ipv6": []
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": [
+                "50.116.57.237"
+            ],
+            "ipv6": []
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": [
+                "139.162.23.4"
+            ],
+            "ipv6": []
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": [
+                "176.58.107.39"
             ],
             "ipv6": []
         },
@@ -1314,41 +1338,17 @@
             ],
             "ipv6": []
         },
-        "speedtest.syd1.linode.com": {
+        "speedtest.atlanta.linode.com": {
             "ipv4": [
-                "172.105.174.7"
-            ],
-            "ipv6": []
-        },
-        "speedtest.singapore.linode.com": {
-            "ipv4": [
-                "139.162.23.4"
-            ],
-            "ipv6": []
-        },
-        "speedtest.london.linode.com": {
-            "ipv4": [
-                "176.58.107.39"
-            ],
-            "ipv6": []
-        },
-        "speedtest.newark.linode.com": {
-            "ipv4": [
-                "50.116.57.237"
-            ],
-            "ipv6": []
-        },
-        "speedtest.toronto1.linode.com": {
-            "ipv4": [
-                "172.105.30.21"
+                "50.116.39.117"
             ],
             "ipv6": []
         }
     },
     "buyvm.net": {
-        "speedtest.lv.buyvm.net": {
+        "speedtest.lu.buyvm.net": {
             "ipv4": [
-                "209.141.56.135"
+                "104.244.76.191"
             ],
             "ipv6": []
         },
@@ -1358,9 +1358,9 @@
             ],
             "ipv6": []
         },
-        "speedtest.lu.buyvm.net": {
+        "speedtest.lv.buyvm.net": {
             "ipv4": [
-                "104.244.76.191"
+                "209.141.56.135"
             ],
             "ipv6": []
         },
@@ -1397,6 +1397,18 @@
         }
     },
     "digitalocean.com": {
+        "speedtest-tor1.digitalocean.com": {
+            "ipv4": [
+                "159.203.57.38"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc1.digitalocean.com": {
+            "ipv4": [
+                "165.227.194.167"
+            ],
+            "ipv6": []
+        },
         "speedtest-blr1.digitalocean.com": {
             "ipv4": [
                 "139.59.80.215"
@@ -1409,9 +1421,27 @@
             ],
             "ipv6": []
         },
-        "speedtest-nyc1.digitalocean.com": {
+        "speedtest-lon1.digitalocean.com": {
             "ipv4": [
-                "165.227.194.167"
+                "46.101.44.214"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sfo3.digitalocean.com": {
+            "ipv4": [
+                "64.227.96.24"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc3.digitalocean.com": {
+            "ipv4": [
+                "174.138.51.137"
+            ],
+            "ipv6": []
+        },
+        "speedtest-ams2.digitalocean.com": {
+            "ipv4": [
+                "188.226.175.227"
             ],
             "ipv6": []
         },
@@ -1427,27 +1457,9 @@
             ],
             "ipv6": []
         },
-        "speedtest-tor1.digitalocean.com": {
-            "ipv4": [
-                "159.203.57.38"
-            ],
-            "ipv6": []
-        },
         "speedtest-sfo1.digitalocean.com": {
             "ipv4": [
                 "107.170.223.15"
-            ],
-            "ipv6": []
-        },
-        "speedtest-sfo3.digitalocean.com": {
-            "ipv4": [
-                "64.227.96.24"
-            ],
-            "ipv6": []
-        },
-        "speedtest-ams2.digitalocean.com": {
-            "ipv4": [
-                "188.226.175.227"
             ],
             "ipv6": []
         },
@@ -1457,21 +1469,55 @@
             ],
             "ipv6": []
         },
-        "speedtest-lon1.digitalocean.com": {
-            "ipv4": [
-                "46.101.44.214"
-            ],
-            "ipv6": []
-        },
         "speedtest-nyc2.digitalocean.com": {
             "ipv4": [
                 "192.241.184.88"
             ],
             "ipv6": []
-        },
-        "speedtest-nyc3.digitalocean.com": {
+        }
+    },
+    "ovh.net": {
+        "rbx.proof.ovh.net": {
             "ipv4": [
-                "174.138.51.137"
+                "152.228.221.228"
+            ],
+            "ipv6": []
+        },
+        "sbg.proof.ovh.net": {
+            "ipv4": [
+                "51.91.75.40"
+            ],
+            "ipv6": []
+        },
+        "gra.proof.ovh.net": {
+            "ipv4": [
+                "141.94.30.145"
+            ],
+            "ipv6": []
+        },
+        "lg.ovh.net": {
+            "ipv4": [],
+            "ipv6": []
+        }
+    },
+    "ovh.us": {
+        "vin.proof.ovh.us": {
+            "ipv4": [
+                "135.148.100.133"
+            ],
+            "ipv6": []
+        },
+        "hil.proof.ovh.us": {
+            "ipv4": [
+                "51.81.154.196"
+            ],
+            "ipv6": []
+        }
+    },
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
+            "ipv4": [
+                "51.222.154.207"
             ],
             "ipv6": []
         }
@@ -9092,12 +9138,6 @@
     },
     "devoteam.com": {
         "belgium.devoteam.com": {
-            "ipv4": [],
-            "ipv6": []
-        }
-    },
-    "ovh.net": {
-        "lg.ovh.net": {
             "ipv4": [],
             "ipv6": []
         }

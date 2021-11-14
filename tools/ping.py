@@ -32,7 +32,7 @@ for file in files:
     for link in links:
         response = html.get(link)
         for target in response.html.absolute_links:
-            if "speedtest" in target:
+            if "speedtest" in target or "proof" in target:
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
