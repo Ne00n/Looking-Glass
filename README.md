@@ -220,6 +220,40 @@
 ### nexeon.com
 * [lg.chi1.nexeon.com](http://lg.chi1.nexeon.com)
 * [lg.buf1.nexeon.com](http://lg.buf1.nexeon.com)
+### linode.com
+* [speedtest.fremont.linode.com](http://speedtest.fremont.linode.com)
+* [speedtest.atlanta.linode.com](http://speedtest.atlanta.linode.com)
+* [speedtest.frankfurt.linode.com](http://speedtest.frankfurt.linode.com)
+* [speedtest.dallas.linode.com](http://speedtest.dallas.linode.com)
+* [speedtest.mumbai1.linode.com](http://speedtest.mumbai1.linode.com)
+* [speedtest.tokyo2.linode.com](http://speedtest.tokyo2.linode.com)
+* [speedtest.syd1.linode.com](http://speedtest.syd1.linode.com)
+* [speedtest.singapore.linode.com](http://speedtest.singapore.linode.com)
+* [speedtest.london.linode.com](http://speedtest.london.linode.com)
+* [speedtest.newark.linode.com](http://speedtest.newark.linode.com)
+* [speedtest.toronto1.linode.com](http://speedtest.toronto1.linode.com)
+### buyvm.net
+* [speedtest.lv.buyvm.net](http://speedtest.lv.buyvm.net)
+* [speedtest.ny.buyvm.net](http://speedtest.ny.buyvm.net)
+* [speedtest.lu.buyvm.net](http://speedtest.lu.buyvm.net)
+* [speedtest.mia.buyvm.net](http://speedtest.mia.buyvm.net)
+* [https://speedtest.lv.buyvm.net](http://https://speedtest.lv.buyvm.net)
+* [https://buyvm.net/new-jersey-datacenter/](http://https://buyvm.net/new-jersey-datacenter/)
+* [https://speedtest.mia.buyvm.net](http://https://speedtest.mia.buyvm.net)
+### digitalocean.com
+* [speedtest-blr1.digitalocean.com](http://speedtest-blr1.digitalocean.com)
+* [speedtest-fra1.digitalocean.com](http://speedtest-fra1.digitalocean.com)
+* [speedtest-nyc1.digitalocean.com](http://speedtest-nyc1.digitalocean.com)
+* [speedtest-sgp1.digitalocean.com](http://speedtest-sgp1.digitalocean.com)
+* [speedtest-ams3.digitalocean.com](http://speedtest-ams3.digitalocean.com)
+* [speedtest-tor1.digitalocean.com](http://speedtest-tor1.digitalocean.com)
+* [speedtest-sfo1.digitalocean.com](http://speedtest-sfo1.digitalocean.com)
+* [speedtest-sfo3.digitalocean.com](http://speedtest-sfo3.digitalocean.com)
+* [speedtest-ams2.digitalocean.com](http://speedtest-ams2.digitalocean.com)
+* [speedtest-sfo2.digitalocean.com](http://speedtest-sfo2.digitalocean.com)
+* [speedtest-lon1.digitalocean.com](http://speedtest-lon1.digitalocean.com)
+* [speedtest-nyc2.digitalocean.com](http://speedtest-nyc2.digitalocean.com)
+* [speedtest-nyc3.digitalocean.com](http://speedtest-nyc3.digitalocean.com)
 ### G-Core Labs
 * [looking.house/point.php?id=300](http://looking.house/point.php?id=300)
 * [looking.house/point.php?id=166](http://looking.house/point.php?id=166)
@@ -938,10 +972,6 @@
 * [www.oneilonline.com/ourdatacenter-status.php?city=Montreal](http://www.oneilonline.com/ourdatacenter-status.php?city=Montreal)
 * [www.oneilonline.com/ourdatacenter-status.php?city=New York](http://www.oneilonline.com/ourdatacenter-status.php?city=New York)
 * [www.oneilonline.com/ourdatacenter-status.php?city=Miami](http://www.oneilonline.com/ourdatacenter-status.php?city=Miami)
-### buyvm.net
-* [https://speedtest.lv.buyvm.net](http://https://speedtest.lv.buyvm.net)
-* [https://buyvm.net/new-jersey-datacenter/](http://https://buyvm.net/new-jersey-datacenter/)
-* [https://speedtest.mia.buyvm.net](http://https://speedtest.mia.buyvm.net)
 ### dedicontrol.com
 * [http://lg.dc03.dedicontrol.com/](http://http://lg.dc03.dedicontrol.com/)
 * [http://lg.dal.dedicontrol.com/](http://http://lg.dal.dedicontrol.com/)
@@ -1253,7 +1283,6 @@
 * [https://lglax.hostingbot.net](http://https://lglax.hostingbot.net)
 ### swedendedicated.com
 * [http://lg.swedendedicated.com](http://http://lg.swedendedicated.com)
-### gcorelabs.com
 ### 10vpn.net
 * [lg.10vpn.net](http://lg.10vpn.net)
 ### friendhosting.net
@@ -1408,7 +1437,6 @@
 * [lg.sg.cheapwindows.com](http://lg.sg.cheapwindows.com)
 * [lg.lao.cheapwindows.com](http://lg.lao.cheapwindows.com)
 * [lg.uk.cheapwindows.com](http://lg.uk.cheapwindows.com)
-### gcore.lu
 ### yisp.nl
 * [lg.yisp.nl](http://lg.yisp.nl)
 ### github.io
@@ -1470,10 +1498,8 @@
 * [lg.atw.co.hu](http://lg.atw.co.hu)
 ### hivane.net
 * [lg.hivane.net](http://lg.hivane.net)
-### man-da.de
 ### freifunk.net
 * [lg.hamburg.freifunk.net](http://lg.hamburg.freifunk.net)
-### fullsave.net
 ### edxnetwork.eu
 * [alghero.edxnetwork.eu](http://alghero.edxnetwork.eu)
 * [olginate.edxnetwork.eu](http://olginate.edxnetwork.eu)
@@ -1619,7 +1645,6 @@
 * [mechanicweb.com/datacenters.php](http://mechanicweb.com/datacenters.php)
 ### gmhost.hosting
 * [http://lg.gmhost.hosting/](http://http://lg.gmhost.hosting/)
-### aquanx.com
 ### melbicom.ru
 * [melbicom.ru/datacenter/](http://melbicom.ru/datacenter/)
 ### hostingchecker.com

@@ -1277,6 +1277,205 @@
             ]
         }
     },
+    "linode.com": {
+        "speedtest.fremont.linode.com": {
+            "ipv4": [
+                "50.116.14.9"
+            ],
+            "ipv6": []
+        },
+        "speedtest.atlanta.linode.com": {
+            "ipv4": [
+                "50.116.39.117"
+            ],
+            "ipv6": []
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": [
+                "139.162.130.8"
+            ],
+            "ipv6": []
+        },
+        "speedtest.dallas.linode.com": {
+            "ipv4": [
+                "50.116.25.154"
+            ],
+            "ipv6": []
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": [
+                "172.105.33.31"
+            ],
+            "ipv6": []
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": [
+                "139.162.65.37"
+            ],
+            "ipv6": []
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": [
+                "172.105.174.7"
+            ],
+            "ipv6": []
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": [
+                "139.162.23.4"
+            ],
+            "ipv6": []
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": [
+                "176.58.107.39"
+            ],
+            "ipv6": []
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": [
+                "50.116.57.237"
+            ],
+            "ipv6": []
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": [
+                "172.105.30.21"
+            ],
+            "ipv6": []
+        }
+    },
+    "buyvm.net": {
+        "speedtest.lv.buyvm.net": {
+            "ipv4": [
+                "209.141.56.135"
+            ],
+            "ipv6": []
+        },
+        "speedtest.ny.buyvm.net": {
+            "ipv4": [
+                "198.98.53.31"
+            ],
+            "ipv6": []
+        },
+        "speedtest.lu.buyvm.net": {
+            "ipv4": [
+                "104.244.76.191"
+            ],
+            "ipv6": []
+        },
+        "speedtest.mia.buyvm.net": {
+            "ipv4": [
+                "198.251.82.2"
+            ],
+            "ipv6": []
+        },
+        "https://speedtest.lv.buyvm.net": {
+            "ipv4": [
+                "198.251.86.22",
+                "198.251.80.221"
+            ],
+            "ipv6": [
+                "2605:6400:0020:0078::1"
+            ]
+        },
+        "https://buyvm.net/new-jersey-datacenter/": {
+            "ipv4": [
+                "198.251.81.1"
+            ],
+            "ipv6": [
+                "2605:6400:10:53::1"
+            ]
+        },
+        "https://speedtest.mia.buyvm.net": {
+            "ipv4": [
+                "45.61.191.250"
+            ],
+            "ipv6": [
+                "2605:6400:0040::250"
+            ]
+        }
+    },
+    "digitalocean.com": {
+        "speedtest-blr1.digitalocean.com": {
+            "ipv4": [
+                "139.59.80.215"
+            ],
+            "ipv6": []
+        },
+        "speedtest-fra1.digitalocean.com": {
+            "ipv4": [
+                "46.101.218.147"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc1.digitalocean.com": {
+            "ipv4": [
+                "165.227.194.167"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sgp1.digitalocean.com": {
+            "ipv4": [
+                "159.89.192.182"
+            ],
+            "ipv6": []
+        },
+        "speedtest-ams3.digitalocean.com": {
+            "ipv4": [
+                "178.62.216.76"
+            ],
+            "ipv6": []
+        },
+        "speedtest-tor1.digitalocean.com": {
+            "ipv4": [
+                "159.203.57.38"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sfo1.digitalocean.com": {
+            "ipv4": [
+                "107.170.223.15"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sfo3.digitalocean.com": {
+            "ipv4": [
+                "64.227.96.24"
+            ],
+            "ipv6": []
+        },
+        "speedtest-ams2.digitalocean.com": {
+            "ipv4": [
+                "188.226.175.227"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sfo2.digitalocean.com": {
+            "ipv4": [
+                "165.227.29.84"
+            ],
+            "ipv6": []
+        },
+        "speedtest-lon1.digitalocean.com": {
+            "ipv4": [
+                "46.101.44.214"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc2.digitalocean.com": {
+            "ipv4": [
+                "192.241.184.88"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc3.digitalocean.com": {
+            "ipv4": [
+                "174.138.51.137"
+            ],
+            "ipv6": []
+        }
+    },
     "G-Core Labs": {
         "looking.house/point.php?id=300": {
             "ipv4": [
@@ -5240,36 +5439,6 @@
                 "173.44.32.10"
             ],
             "ipv6": []
-        }
-    },
-    "buyvm.net": {
-        "https://speedtest.lv.buyvm.net": {
-            "ipv4": [
-                "198.251.86.22",
-                "209.141.56.135",
-                "198.251.80.221"
-            ],
-            "ipv6": [
-                "2605:6400:0020:0078::1"
-            ]
-        },
-        "https://buyvm.net/new-jersey-datacenter/": {
-            "ipv4": [
-                "198.251.81.1",
-                "198.98.53.31"
-            ],
-            "ipv6": [
-                "2605:6400:10:53::1"
-            ]
-        },
-        "https://speedtest.mia.buyvm.net": {
-            "ipv4": [
-                "45.61.191.250",
-                "198.251.82.2"
-            ],
-            "ipv6": [
-                "2605:6400:0040::250"
-            ]
         }
     },
     "dedicontrol.com": {
