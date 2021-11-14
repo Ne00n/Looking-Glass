@@ -1254,7 +1254,6 @@
 ### swedendedicated.com
 * [http://lg.swedendedicated.com](http://http://lg.swedendedicated.com)
 ### gcorelabs.com
-* [http://lg.gcorelabs.com/](http://http://lg.gcorelabs.com/)
 ### 10vpn.net
 * [lg.10vpn.net](http://lg.10vpn.net)
 ### friendhosting.net
@@ -1410,7 +1409,6 @@
 * [lg.lao.cheapwindows.com](http://lg.lao.cheapwindows.com)
 * [lg.uk.cheapwindows.com](http://lg.uk.cheapwindows.com)
 ### gcore.lu
-* [https://lg.gcore.lu/](http://https://lg.gcore.lu/)
 ### yisp.nl
 * [lg.yisp.nl](http://lg.yisp.nl)
 ### github.io
@@ -1472,8 +1470,10 @@
 * [lg.atw.co.hu](http://lg.atw.co.hu)
 ### hivane.net
 * [lg.hivane.net](http://lg.hivane.net)
+### man-da.de
 ### freifunk.net
 * [lg.hamburg.freifunk.net](http://lg.hamburg.freifunk.net)
+### fullsave.net
 ### edxnetwork.eu
 * [alghero.edxnetwork.eu](http://alghero.edxnetwork.eu)
 * [olginate.edxnetwork.eu](http://olginate.edxnetwork.eu)
@@ -1620,7 +1620,6 @@
 ### gmhost.hosting
 * [http://lg.gmhost.hosting/](http://http://lg.gmhost.hosting/)
 ### aquanx.com
-* [aquanx.com/lookingglass.php](http://aquanx.com/lookingglass.php)
 ### melbicom.ru
 * [melbicom.ru/datacenter/](http://melbicom.ru/datacenter/)
 ### hostingchecker.com

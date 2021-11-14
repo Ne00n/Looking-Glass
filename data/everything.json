@@ -7096,14 +7096,7 @@
             ]
         }
     },
-    "gcorelabs.com": {
-        "http://lg.gcorelabs.com/": {
-            "ipv4": [
-                "8.8.8.8"
-            ],
-            "ipv6": []
-        }
-    },
+    "gcorelabs.com": {},
     "10vpn.net": {
         "lg.10vpn.net": {
             "ipv4": [],
@@ -7852,14 +7845,7 @@
             "ipv6": []
         }
     },
-    "gcore.lu": {
-        "https://lg.gcore.lu/": {
-            "ipv4": [
-                "8.8.8.8"
-            ],
-            "ipv6": []
-        }
-    },
+    "gcore.lu": {},
     "yisp.nl": {
         "lg.yisp.nl": {
             "ipv4": [],
@@ -8810,14 +8796,7 @@
             ]
         }
     },
-    "aquanx.com": {
-        "aquanx.com/lookingglass.php": {
-            "ipv4": [
-                "8.8.8.8"
-            ],
-            "ipv6": []
-        }
-    },
+    "aquanx.com": {},
     "melbicom.ru": {
         "melbicom.ru/datacenter/": {
             "ipv4": [

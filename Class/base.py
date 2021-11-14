@@ -3,6 +3,7 @@ import json, os
 class Base():
 
     def merge():
+        ignore = ["8.8.8.8"]
         list,once = {},{}
         files = os.listdir(os.getcwd()+"/data/")
         for file in files:
@@ -17,10 +18,12 @@ class Base():
                         if ips:
                             for ip in ips['ipv4']:
                                 if ip in once[domain]: continue
+                                if ip in ignore: continue
                                 if not ip in list[domain][url]['ipv4']: list[domain][url]['ipv4'].append(ip)
                                 once[domain].append(ip)
                             for ip in ips['ipv6']:
                                 if ip in once[domain]: continue
+                                if ip in ignore: continue
                                 if not ip in list[domain][url]['ipv6']: list[domain][url]['ipv6'].append(ip)
                                 once[domain].append(ip)
                             if not list[domain][url]['ipv4'] and not list[domain][url]['ipv6']:

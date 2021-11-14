@@ -178,9 +178,10 @@ for index, element in enumerate(folders):
         parse(folder+"/"+element)
     else:
         files = os.listdir(folder+"/"+element)
-        for file in files:
+        for findex, file in enumerate(files):
             if file.endswith(".html") or file.endswith(".json"):
                 parse(folder+"/"+element+"/"+file)
+                print(f"Done {findex} of {len(files)}")
     print(f"Done {index} of {len(folders)}")
 
 print("Validating")
@@ -207,20 +208,6 @@ for domain in direct:
         continue
 
 scrap()
-
-for domain,details in list(data['lg'].items()):
-    if not details: del data['lg'][domain]
-
-print("Filter double IP's")
-for domain, details in data['lg'].items():
-    once = []
-    for url,ips in list(details.items()):
-        if ips and ips['ipv4']:
-            for ip in list(ips['ipv4']):
-                if ip in once and url in data['lg'][domain]:
-                    del data['lg'][domain][url]
-                    continue
-                once.append(ip)
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
