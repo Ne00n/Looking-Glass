@@ -23,6 +23,13 @@ if request.status_code == 200:
 else:
     exit("Could not fetch IP")
 
+with open(os.getcwd()+"/tools/countries.json") as handle:
+    countriesRaw = json.loads(handle.read())
+
+countries = []
+for iso,country in countriesRaw.items():
+    countries.append(f"{iso.lower()}.")
+
 data = {}
 tags = ['speedtest','proof','lg']
 html = HTMLSession()
@@ -34,7 +41,7 @@ for file in files:
         response = html.get(link)
         for target in response.html.absolute_links:
             print(f"Checking {target}")
-            if any(element in target  for element in tags):
+            if any(element in target for element in tags) or any(target.replace("https://","").startswith(element) for element in countries):
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
