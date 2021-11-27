@@ -52,11 +52,12 @@ print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data, f, indent=4)
 
+Core = Base()
 print("Merging files")
-list = Base.merge()
+list = Core.merge()
 
 print("Updating Readme")
-readme = Base.readme(list)
+readme = Core.readme(list)
 
 print("Saving Readme")
 with open(os.getcwd()+"/README.md", 'w') as f:
