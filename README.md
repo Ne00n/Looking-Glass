@@ -321,6 +321,7 @@
 ### KhanWebHost
 * [looking.house/point.php?id=474](http://looking.house/point.php?id=474)
 * [looking.house/point.php?id=326](http://looking.house/point.php?id=326)
+* [looking.house/point.php?id=551](http://looking.house/point.php?id=551)
 * [looking.house/point.php?id=325](http://looking.house/point.php?id=325)
 * [looking.house/point.php?id=413](http://looking.house/point.php?id=413)
 ### BlackHOST
@@ -447,6 +448,10 @@
 * [looking.house/point.php?id=344](http://looking.house/point.php?id=344)
 * [looking.house/point.php?id=216](http://looking.house/point.php?id=216)
 * [looking.house/point.php?id=513](http://looking.house/point.php?id=513)
+### Zappie Host
+* [looking.house/point.php?id=553](http://looking.house/point.php?id=553)
+* [looking.house/point.php?id=491](http://looking.house/point.php?id=491)
+* [looking.house/point.php?id=492](http://looking.house/point.php?id=492)
 ### Hosting International
 * [looking.house/point.php?id=350](http://looking.house/point.php?id=350)
 * [looking.house/point.php?id=349](http://looking.house/point.php?id=349)
@@ -621,7 +626,6 @@
 ### X5X
 * [looking.house/point.php?id=38](http://looking.house/point.php?id=38)
 * [looking.house/point.php?id=512](http://looking.house/point.php?id=512)
-* [looking.house/point.php?id=47](http://looking.house/point.php?id=47)
 * [looking.house/point.php?id=40](http://looking.house/point.php?id=40)
 * [looking.house/point.php?id=203](http://looking.house/point.php?id=203)
 ### HostSailor
@@ -632,9 +636,6 @@
 * [looking.house/point.php?id=488](http://looking.house/point.php?id=488)
 ### Hosting Now
 * [looking.house/point.php?id=345](http://looking.house/point.php?id=345)
-### Zappie Host
-* [looking.house/point.php?id=491](http://looking.house/point.php?id=491)
-* [looking.house/point.php?id=492](http://looking.house/point.php?id=492)
 ### Host4biz
 * [looking.house/point.php?id=119](http://looking.house/point.php?id=119)
 ### IPhoster
