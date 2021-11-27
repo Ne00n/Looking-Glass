@@ -9212,14 +9212,6 @@
             "ipv6": []
         }
     },
-    "hostingchecker.com": {
-        "https://hostingchecker.com/tools/ping/": {
-            "ipv4": [
-                "151.101.129.67"
-            ],
-            "ipv6": []
-        }
-    },
     "fitvps.com": {
         "lg.fitvps.com": {
             "ipv4": [],
