@@ -31,7 +31,7 @@ for iso,country in countriesRaw.items():
     countries.append(f"{iso.lower()}.")
 
 data = {}
-tags = ['speedtest','proof','lg']
+tags = ['speedtest','proof','lg','icmp']
 html = HTMLSession()
 for file in files:
     with open(folder+"/"+file, 'r') as f:
