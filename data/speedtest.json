@@ -1,8 +1,8 @@
 {
     "linode.com": {
-        "speedtest.syd1.linode.com": {
+        "speedtest.fremont.linode.com": {
             "ipv4": [
-                "172.105.174.7"
+                "50.116.14.9"
             ],
             "ipv6": []
         },
@@ -18,21 +18,15 @@
             ],
             "ipv6": []
         },
-        "speedtest.frankfurt.linode.com": {
-            "ipv4": [
-                "139.162.130.8"
-            ],
-            "ipv6": []
-        },
         "speedtest.toronto1.linode.com": {
             "ipv4": [
                 "172.105.30.21"
             ],
             "ipv6": []
         },
-        "speedtest.tokyo2.linode.com": {
+        "speedtest.frankfurt.linode.com": {
             "ipv4": [
-                "139.162.65.37"
+                "139.162.130.8"
             ],
             "ipv6": []
         },
@@ -42,21 +36,9 @@
             ],
             "ipv6": []
         },
-        "speedtest.atlanta.linode.com": {
+        "speedtest.tokyo2.linode.com": {
             "ipv4": [
-                "50.116.39.117"
-            ],
-            "ipv6": []
-        },
-        "speedtest.fremont.linode.com": {
-            "ipv4": [
-                "50.116.14.9"
-            ],
-            "ipv6": []
-        },
-        "speedtest.newark.linode.com": {
-            "ipv4": [
-                "50.116.57.237"
+                "139.162.65.37"
             ],
             "ipv6": []
         },
@@ -65,21 +47,27 @@
                 "139.162.23.4"
             ],
             "ipv6": []
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": [
+                "172.105.174.7"
+            ],
+            "ipv6": []
+        },
+        "speedtest.atlanta.linode.com": {
+            "ipv4": [
+                "50.116.39.117"
+            ],
+            "ipv6": []
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": [
+                "50.116.57.237"
+            ],
+            "ipv6": []
         }
     },
     "buyvm.net": {
-        "speedtest.lv.buyvm.net": {
-            "ipv4": [
-                "209.141.56.135"
-            ],
-            "ipv6": []
-        },
-        "speedtest.mia.buyvm.net": {
-            "ipv4": [
-                "198.251.82.2"
-            ],
-            "ipv6": []
-        },
         "speedtest.lu.buyvm.net": {
             "ipv4": [
                 "104.244.76.191"
@@ -91,15 +79,21 @@
                 "198.98.53.31"
             ],
             "ipv6": []
-        }
-    },
-    "digitalocean.com": {
-        "speedtest-sgp1.digitalocean.com": {
+        },
+        "speedtest.lv.buyvm.net": {
             "ipv4": [
-                "159.89.192.182"
+                "209.141.56.135"
             ],
             "ipv6": []
         },
+        "speedtest.mia.buyvm.net": {
+            "ipv4": [
+                "198.251.82.2"
+            ],
+            "ipv6": []
+        }
+    },
+    "digitalocean.com": {
         "speedtest-nyc1.digitalocean.com": {
             "ipv4": [
                 "165.227.194.167"
@@ -112,21 +106,21 @@
             ],
             "ipv6": []
         },
-        "speedtest-nyc3.digitalocean.com": {
-            "ipv4": [
-                "174.138.51.137"
-            ],
-            "ipv6": []
-        },
         "speedtest-tor1.digitalocean.com": {
             "ipv4": [
                 "159.203.57.38"
             ],
             "ipv6": []
         },
-        "speedtest-nyc2.digitalocean.com": {
+        "speedtest-sgp1.digitalocean.com": {
             "ipv4": [
-                "192.241.184.88"
+                "159.89.192.182"
+            ],
+            "ipv6": []
+        },
+        "speedtest-sfo1.digitalocean.com": {
+            "ipv4": [
+                "107.170.223.15"
             ],
             "ipv6": []
         },
@@ -136,9 +130,27 @@
             ],
             "ipv6": []
         },
+        "speedtest-ams2.digitalocean.com": {
+            "ipv4": [
+                "188.226.175.227"
+            ],
+            "ipv6": []
+        },
         "speedtest-sfo3.digitalocean.com": {
             "ipv4": [
                 "64.227.96.24"
+            ],
+            "ipv6": []
+        },
+        "speedtest-blr1.digitalocean.com": {
+            "ipv4": [
+                "139.59.80.215"
+            ],
+            "ipv6": []
+        },
+        "speedtest-nyc3.digitalocean.com": {
+            "ipv4": [
+                "174.138.51.137"
             ],
             "ipv6": []
         },
@@ -154,40 +166,34 @@
             ],
             "ipv6": []
         },
-        "speedtest-ams2.digitalocean.com": {
+        "speedtest-nyc2.digitalocean.com": {
             "ipv4": [
-                "188.226.175.227"
-            ],
-            "ipv6": []
-        },
-        "speedtest-sfo1.digitalocean.com": {
-            "ipv4": [
-                "107.170.223.15"
-            ],
-            "ipv6": []
-        },
-        "speedtest-blr1.digitalocean.com": {
-            "ipv4": [
-                "139.59.80.215"
+                "192.241.184.88"
             ],
             "ipv6": []
         }
     },
     "ovh.us": {
-        "vin.proof.ovh.us": {
-            "ipv4": [
-                "135.148.100.133"
-            ],
-            "ipv6": []
-        },
         "hil.proof.ovh.us": {
             "ipv4": [
                 "51.81.154.196"
             ],
             "ipv6": []
+        },
+        "vin.proof.ovh.us": {
+            "ipv4": [
+                "135.148.100.133"
+            ],
+            "ipv6": []
         }
     },
     "ovh.net": {
+        "gra.proof.ovh.net": {
+            "ipv4": [
+                "141.94.30.145"
+            ],
+            "ipv6": []
+        },
         "sbg.proof.ovh.net": {
             "ipv4": [
                 "51.91.75.40"
@@ -197,12 +203,6 @@
         "rbx.proof.ovh.net": {
             "ipv4": [
                 "152.228.221.228"
-            ],
-            "ipv6": []
-        },
-        "gra.proof.ovh.net": {
-            "ipv4": [
-                "141.94.30.145"
             ],
             "ipv6": []
         }
@@ -216,18 +216,6 @@
         }
     },
     "ramnode.com": {
-        "lg.sea.ramnode.com": {
-            "ipv4": [
-                "23.226.229.4"
-            ],
-            "ipv6": []
-        },
-        "lg.nl.ramnode.com": {
-            "ipv4": [
-                "176.56.238.3"
-            ],
-            "ipv6": []
-        },
         "lg.la.ramnode.com": {
             "ipv4": [
                 "168.235.72.22"
@@ -240,6 +228,18 @@
             ],
             "ipv6": []
         },
+        "lg.sea.ramnode.com": {
+            "ipv4": [
+                "23.226.229.4"
+            ],
+            "ipv6": []
+        },
+        "lg.nl.ramnode.com": {
+            "ipv4": [
+                "176.56.238.3"
+            ],
+            "ipv6": []
+        },
         "lg.nyc.ramnode.com": {
             "ipv4": [
                 "168.235.89.44"
@@ -248,9 +248,9 @@
         }
     },
     "ultravps.eu": {
-        "lg.lon.uk.ultravps.eu": {
+        "lg.ams.nl.ultravps.eu": {
             "ipv4": [
-                "185.177.148.4"
+                "185.45.112.15"
             ],
             "ipv6": []
         },
@@ -260,15 +260,21 @@
             ],
             "ipv6": []
         },
-        "lg.sqq.lt.ultravps.eu": {
+        "lg.kiv.md.ultravps.eu": {
             "ipv4": [
-                "185.177.150.4"
+                "185.177.151.4"
             ],
             "ipv6": []
         },
-        "lg.dus.de.ultravps.eu": {
+        "lg.lon.uk.ultravps.eu": {
             "ipv4": [
-                "130.255.76.147"
+                "185.177.148.4"
+            ],
+            "ipv6": []
+        },
+        "lg.sqq.lt.ultravps.eu": {
+            "ipv4": [
+                "185.177.150.4"
             ],
             "ipv6": []
         },
@@ -278,23 +284,17 @@
             ],
             "ipv6": []
         },
-        "lg.ams.nl.ultravps.eu": {
+        "lg.dus.de.ultravps.eu": {
             "ipv4": [
-                "185.45.112.15"
-            ],
-            "ipv6": []
-        },
-        "lg.kiv.md.ultravps.eu": {
-            "ipv4": [
-                "185.177.151.4"
+                "130.255.76.147"
             ],
             "ipv6": []
         }
     },
     "iniz.com": {
-        "lon.lg.iniz.com": {
+        "ash.lg.iniz.com": {
             "ipv4": [
-                "45.43.64.64"
+                "107.161.173.2"
             ],
             "ipv6": []
         },
@@ -304,29 +304,23 @@
             ],
             "ipv6": []
         },
+        "lon.lg.iniz.com": {
+            "ipv4": [
+                "45.43.64.64"
+            ],
+            "ipv6": []
+        },
         "la.lg.iniz.com": {
             "ipv4": [
                 "162.217.248.2"
             ],
             "ipv6": []
-        },
-        "ash.lg.iniz.com": {
-            "ipv4": [
-                "107.161.173.2"
-            ],
-            "ipv6": []
         }
     },
     "bluevps.com": {
-        "ams-speedtest.lg.bluevps.com": {
+        "lms-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "5.149.248.189"
-            ],
-            "ipv6": []
-        },
-        "tor-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "5.149.253.19"
+                "185.106.102.1"
             ],
             "ipv6": []
         },
@@ -336,39 +330,9 @@
             ],
             "ipv6": []
         },
-        "syd-speedtest.lg.bluevps.com": {
+        "ams-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "139.99.149.97"
-            ],
-            "ipv6": []
-        },
-        "ash-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "185.33.87.3"
-            ],
-            "ipv6": []
-        },
-        "sgp-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "139.99.68.156"
-            ],
-            "ipv6": []
-        },
-        "tll-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "185.123.53.2"
-            ],
-            "ipv6": []
-        },
-        "sea-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "91.193.19.3"
-            ],
-            "ipv6": []
-        },
-        "lon-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "5.149.250.30"
+                "5.149.248.189"
             ],
             "ipv6": []
         },
@@ -378,15 +342,9 @@
             ],
             "ipv6": []
         },
-        "chi-speedtest.lg.bluevps.com": {
+        "stk-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "185.33.84.62"
-            ],
-            "ipv6": []
-        },
-        "lim-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "54.38.222.82"
+                "79.141.175.162"
             ],
             "ipv6": []
         },
@@ -396,15 +354,21 @@
             ],
             "ipv6": []
         },
-        "hkg-speedtest.lg.bluevps.com": {
+        "tll-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "103.253.40.191"
+                "185.123.53.2"
             ],
             "ipv6": []
         },
-        "lms-speedtest.lg.bluevps.com": {
+        "chi-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "185.106.102.1"
+                "185.33.84.62"
+            ],
+            "ipv6": []
+        },
+        "sgp-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "139.99.68.156"
             ],
             "ipv6": []
         },
@@ -414,9 +378,15 @@
             ],
             "ipv6": []
         },
-        "stk-speedtest.lg.bluevps.com": {
+        "lim-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "79.141.175.162"
+                "54.38.222.82"
+            ],
+            "ipv6": []
+        },
+        "tor-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "5.149.253.19"
             ],
             "ipv6": []
         },
@@ -425,12 +395,42 @@
                 "89.163.138.22"
             ],
             "ipv6": []
+        },
+        "hkg-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "103.253.40.191"
+            ],
+            "ipv6": []
+        },
+        "ash-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "185.33.87.3"
+            ],
+            "ipv6": []
+        },
+        "lon-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "5.149.250.30"
+            ],
+            "ipv6": []
+        },
+        "syd-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "139.99.149.97"
+            ],
+            "ipv6": []
+        },
+        "sea-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "91.193.19.3"
+            ],
+            "ipv6": []
         }
     },
     "hostus.us": {
-        "wdc-lg.hostus.us": {
+        "lon-lg.hostus.us": {
             "ipv4": [
-                "216.189.157.2"
+                "83.143.116.6"
             ],
             "ipv6": []
         },
@@ -440,9 +440,9 @@
             ],
             "ipv6": []
         },
-        "syd-lg.hostus.us": {
+        "clt-lg.hostus.us": {
             "ipv4": [
-                "27.100.36.5"
+                "162.245.216.243"
             ],
             "ipv6": []
         },
@@ -452,21 +452,9 @@
             ],
             "ipv6": []
         },
-        "lon-lg.hostus.us": {
+        "atl-lg.hostus.us": {
             "ipv4": [
-                "83.143.116.6"
-            ],
-            "ipv6": []
-        },
-        "la02-lg.hostus.us": {
-            "ipv4": [
-                "172.106.32.2"
-            ],
-            "ipv6": []
-        },
-        "clt-lg.hostus.us": {
-            "ipv4": [
-                "162.245.216.243"
+                "45.58.56.3"
             ],
             "ipv6": []
         },
@@ -482,9 +470,9 @@
             ],
             "ipv6": []
         },
-        "atl-lg.hostus.us": {
+        "syd-lg.hostus.us": {
             "ipv4": [
-                "45.58.56.3"
+                "27.100.36.5"
             ],
             "ipv6": []
         },
@@ -497,6 +485,18 @@
         "la-lg.hostus.us": {
             "ipv4": [
                 "216.189.149.3"
+            ],
+            "ipv6": []
+        },
+        "la02-lg.hostus.us": {
+            "ipv4": [
+                "172.106.32.2"
+            ],
+            "ipv6": []
+        },
+        "wdc-lg.hostus.us": {
+            "ipv4": [
+                "216.189.157.2"
             ],
             "ipv6": []
         },
@@ -514,9 +514,15 @@
             ],
             "ipv6": []
         },
-        "lg-ua-kyiv.friendhosting.net": {
+        "lg-nl.friendhosting.net": {
             "ipv4": [
-                "185.253.0.2"
+                "91.223.123.7"
+            ],
+            "ipv6": []
+        },
+        "lg-us-la.friendhosting.net": {
+            "ipv4": [
+                "91.90.195.175"
             ],
             "ipv6": []
         },
@@ -526,27 +532,21 @@
             ],
             "ipv6": []
         },
+        "lg-ua-kha.friendhosting.net": {
+            "ipv4": [
+                "195.28.182.106"
+            ],
+            "ipv6": []
+        },
         "lg-us-mia.friendhosting.net": {
             "ipv4": [
                 "193.162.47.2"
             ],
             "ipv6": []
         },
-        "lg-nl.friendhosting.net": {
-            "ipv4": [
-                "91.223.123.7"
-            ],
-            "ipv6": []
-        },
         "lg-cz.friendhosting.net": {
             "ipv4": [
                 "92.118.149.3"
-            ],
-            "ipv6": []
-        },
-        "lg-us-la.friendhosting.net": {
-            "ipv4": [
-                "91.90.195.175"
             ],
             "ipv6": []
         },
@@ -562,9 +562,9 @@
             ],
             "ipv6": []
         },
-        "lg-ua-kha.friendhosting.net": {
+        "lg-ua-kyiv.friendhosting.net": {
             "ipv4": [
-                "195.28.182.106"
+                "185.253.0.2"
             ],
             "ipv6": []
         }
