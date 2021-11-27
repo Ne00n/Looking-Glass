@@ -32,6 +32,7 @@ for iso,country in countriesRaw.items():
 
 data = {}
 tags = ['speedtest','proof','lg','icmp']
+ignore = ['friendhosting']
 html = HTMLSession()
 for file in files:
     with open(folder+"/"+file, 'r') as f:
@@ -41,7 +42,7 @@ for file in files:
         response = html.get(link)
         for target in response.html.absolute_links:
             print(f"Checking {target}")
-            if any(element in target for element in tags) or any(target.replace("https://","").startswith(element) for element in countries):
+            if any(element in target for element in tags) or ( not any(element in target for element in ignore) and  any(target.replace("https://","").startswith(element) for element in countries)):
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
