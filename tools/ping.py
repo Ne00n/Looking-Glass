@@ -24,6 +24,7 @@ else:
     exit("Could not fetch IP")
 
 data = {}
+tags = ['speedtest','proof','lg']
 html = HTMLSession()
 for file in files:
     with open(folder+"/"+file, 'r') as f:
@@ -32,11 +33,16 @@ for file in files:
     for link in links:
         response = html.get(link)
         for target in response.html.absolute_links:
-            if "speedtest" in target or "proof" in target:
+            print(f"Checking {target}")
+            if any(element in target  for element in tags):
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
-                target = socket.gethostbyname(url)
+                try:
+                    target = socket.gethostbyname(url)
+                except Exception as e:
+                    print(f"Could not resolve {url}")
+                    continue
                 if ip == target: continue
                 if not domain in data: data[domain] = {}
                 if not url in data[domain]: data[domain][url] = {"ipv4":[],"ipv6":[]}
