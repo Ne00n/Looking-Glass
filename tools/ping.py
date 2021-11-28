@@ -1,4 +1,4 @@
-import sys, os
+import dns.resolver, sys, os
 sys.path.append(os.getcwd().replace("/tools",""))
 
 from requests_html import HTMLSession
@@ -16,13 +16,6 @@ else:
 folder = sys.argv[1]
 files = os.listdir(folder)
 
-print("Getting current IP")
-request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
-if request.status_code == 200:
-    ip = request.text
-else:
-    exit("Could not fetch IP")
-
 with open(os.getcwd()+"/tools/countries.json") as handle:
     countriesRaw = json.loads(handle.read())
 
@@ -33,6 +26,7 @@ for iso,country in countriesRaw.items():
 data = {}
 tags = ['speedtest','proof','lg','icmp']
 ignore = ['friendhosting','starrydns','frantech']
+resolver = dns.resolver.Resolver()
 html = HTMLSession()
 for file in files:
     with open(folder+"/"+file, 'r') as f:
@@ -46,15 +40,28 @@ for file in files:
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
+                sub = url.replace("https://","").replace("http://","")
+                #IPv4
                 try:
-                    target = socket.gethostbyname(url)
+                    v4s = resolver.resolve(sub , "A")
                 except Exception as e:
-                    print(f"Could not resolve {url}")
+                    print(e)
                     continue
-                if ip == target: continue
+                #IPv6
+                try:
+                    v6s = resolver.resolve(sub , "AAAA")
+                except Exception as e:
+                    print(e)
+                    v6s = []
                 if not domain in data: data[domain] = {}
                 if not url in data[domain]: data[domain][url] = {"ipv4":[],"ipv6":[]}
-                if not target in data[domain][url]['ipv4']: data[domain][url]['ipv4'].append(target)
+                #IPv4
+                for v4 in v4s:
+                    if not v4.to_text() in data[domain][url]['ipv4']: data[domain][url]['ipv4'].append(v4.to_text())
+                #IPv6
+                for v6 in v6s:
+                    if not v6.to_text() in data[domain][url]['ipv6']: data[domain][url]['ipv6'].append(v6.to_text())
+
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
