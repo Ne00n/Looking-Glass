@@ -1839,6 +1839,9 @@
 * [belgium.devoteam.com](http://belgium.devoteam.com)
 ### shinjiru.com.my
 * [lg.shinjiru.com.my](http://lg.shinjiru.com.my)
+### aws
+* [http://ec2-reachability.amazonaws.com](http://http://ec2-reachability.amazonaws.com)
+* [http://ipv6.ec2-reachability.amazonaws.com/](http://http://ipv6.ec2-reachability.amazonaws.com/)
 ### hostbrew.com
 * [lg.la1.hostbrew.com](http://lg.la1.hostbrew.com)
 ### fullvpsserver.com

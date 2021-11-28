@@ -10029,6 +10029,79 @@
             "ipv6": {}
         }
     },
+    "aws": {
+        "http://ec2-reachability.amazonaws.com": {
+            "ipv4": {
+                "3.80.0.0": "Ashburn, United States",
+                "68.66.113.112": "Ashburn, United States",
+                "15.181.176.161": "Ashburn, United States",
+                "15.181.192.183": "Ashburn, United States",
+                "72.41.10.180": "Ashburn, United States",
+                "15.181.98.141": "Ashburn, United States",
+                "64.187.131.1": "Ashburn, United States",
+                "15.181.161.232": "Ashburn, United States",
+                "15.181.144.146": "Ashburn, United States",
+                "3.12.0.0": "Columbus, United States",
+                "13.52.0.0": "San Jose, United States",
+                "18.236.0.0": "Boardman, United States",
+                "15.181.17.111": "Boardman, United States",
+                "15.220.16.151": "Boardman, United States",
+                "15.253.0.254": "Boardman, United States",
+                "15.220.0.197": "Boardman, United States",
+                "3.96.0.0": "Montreal, Canada",
+                "15.228.0.0": "S\u00e3o Paulo, Brazil",
+                "3.248.0.0": "Dublin, Ireland",
+                "3.64.0.0": "Frankfurt am Main, Germany",
+                "3.8.0.0": "London, United Kingdom",
+                "15.160.0.0": "Milan, Italy",
+                "13.36.0.0": "Paris, France",
+                "13.48.0.0": "Stockholm, Sweden",
+                "13.245.0.253": "Cape Town, South Africa",
+                "15.184.0.253": "Bahrain",
+                "3.112.0.0": "Tokyo, Japan",
+                "3.34.0.0": "Incheon, South Korea",
+                "13.208.32.253": "Osaka, Japan",
+                "3.0.0.9": "Singapore, Singapore",
+                "3.24.0.0": "Sydney, Australia",
+                "3.6.0.0": "Mumbai, India",
+                "16.162.0.253": "Hong Kong",
+                "108.136.157.181": "Jakarta, Indonesia",
+                "52.80.5.207": "Beijing, China",
+                "52.82.0.253": "China"
+            },
+            "ipv6": {}
+        },
+        "http://ipv6.ec2-reachability.amazonaws.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2600:1f18:2fe:900::ec2": "Ashburn, United States",
+                "2600:1f16:c01:4000::ec2": "Columbus, United States",
+                "2600:1f1c:f64:3200::ec2": "San Jose, United States",
+                "2600:1f14:84a:b000::ec2": "Boardman, United States",
+                "2600:1f1f:6ea:3d00::ec2": "Boardman, United States",
+                "2406:da11:e6b:8100::ec2": "Cape Town, South Africa",
+                "2406:da1e:fca:1600::ec2": "China",
+                "2406:da19:d6c:f600::ec2": "Jakarta, Indonesia",
+                "2406:da1a:ddd:7400::ec2": "Mumbai, India",
+                "2406:da16:730:7300::ec2": "Osaka, Japan",
+                "2406:da12:128:d200::ec2": "Incheon, South Korea",
+                "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
+                "2406:da1c:16:9000::ec2": "Sydney, Australia",
+                "2406:da14:295:300::ec2": "Tokyo, Japan",
+                "2600:1f11:b15:2000::ec2": "Montreal, Canada",
+                "2a05:d014:4e3:5000::ec2": "Frankfurt am Main, Germany",
+                "2a05:d018:3c:6000::ec2": "Dublin, Ireland",
+                "2a05:d01c:810:8100::ec2": "London, United Kingdom",
+                "2a05:d01a:c2d:7500::ec2": "Milan, Italy",
+                "2a05:d012:3:c000::ec2": "Paris, France",
+                "2a05:d016:35:4100::ec2": "Stockholm, Sweden",
+                "2a05:d01e:5f1:8a00::ec2": "Bahrain",
+                "2600:1f1e:99e:9f00::ec2": "S\u00e3o Paulo, Brazil",
+                "2400:7fc0:8286:b300::ec2": "Beijing, China",
+                "2404:c2c0:8d06:1f00::ec2": "Ningxia Hui Autonomous Region, China"
+            }
+        }
+    },
     "hostbrew.com": {
         "lg.la1.hostbrew.com": {
             "ipv4": {
