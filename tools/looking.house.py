@@ -22,11 +22,12 @@ for index, row in enumerate(rows):
 with open(os.getcwd()+'/data/looking.json', 'w') as f:
     json.dump(results, f, indent=4)
 
+Core = Base()
 print("Merging files")
-list = Base.merge()
+list = Core.merge()
 
 print("Updating Readme")
-readme = Base.readme(list)
+readme = Core.readme(list)
 
 print("Saving Readme")
 with open(os.getcwd()+"/README.md", 'w') as f:
