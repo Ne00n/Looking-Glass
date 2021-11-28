@@ -32,7 +32,7 @@ for iso,country in countriesRaw.items():
 
 data = {}
 tags = ['speedtest','proof','lg','icmp']
-ignore = ['friendhosting']
+ignore = ['friendhosting','starrydns','frantech']
 html = HTMLSession()
 for file in files:
     with open(folder+"/"+file, 'r') as f:
