@@ -619,12 +619,7 @@
             "ipv6": {}
         }
     },
-    "cspacehostings.com": {
-        "lg.cspacehostings.com": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
+    "cspacehostings.com": {},
     "artnet.pl": {
         "lg.artnet.pl": {
             "ipv4": {},
@@ -3759,6 +3754,12 @@
                 "2a09:7c44::10a2": "Meppel, Netherlands"
             }
         },
+        "looking.house/point.php?id=554": {
+            "ipv4": {
+                "146.19.170.34": "Moldova"
+            },
+            "ipv6": {}
+        },
         "looking.house/point.php?id=186": {
             "ipv4": {
                 "45.67.230.12": "Moscow, Russia"
@@ -5938,6 +5939,36 @@
                 "38.75.136.10": "Los Angeles, United States"
             },
             "ipv6": {}
+        },
+        "lg-nyc.gthost.com": {
+            "ipv4": {},
+            "ipv6": {
+                "2604:86c0:3000::166": "New York, United States"
+            }
+        },
+        "lg-scl.gthost.com": {
+            "ipv4": {},
+            "ipv6": {
+                "2604:86c0:6000::166": "Santa Clara, United States"
+            }
+        },
+        "lg-sea.gthost.com": {
+            "ipv4": {},
+            "ipv6": {
+                "2604:86c0:5000::166": "Seattle, United States"
+            }
+        },
+        "lg-mtl.gthost.com": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fec3:100::166": "Montreal, Canada"
+            }
+        },
+        "lg-lon.gthost.com": {
+            "ipv4": {},
+            "ipv6": {
+                "2604:86c0:f300::166": "London, United Kingdom"
+            }
         }
     },
     "spryservers.net": {
@@ -6178,6 +6209,14 @@
             "ipv6": {
                 "2c0f:f530::d00:286": "Seychelles"
             }
+        },
+        "https://lg-cl.zappiehost.com": {
+            "ipv4": {
+                "216.73.159.15": "Valdivia, Chile"
+            },
+            "ipv6": {
+                "2a06:a006:d1d1::105": "Valdivia, Chile"
+            }
         }
     },
     "ionswitch.com": {
@@ -6225,6 +6264,46 @@
             },
             "ipv6": {
                 "2a0c:9a40:1030::20": "Frankfurt am Main, Germany"
+            }
+        },
+        "http://lg.lon.fognet.ch/": {
+            "ipv4": {
+                "45.134.88.20": "United Kingdom"
+            },
+            "ipv6": {
+                "2a0c:9a40:1031::20": "Switzerland"
+            }
+        },
+        "http://lg.zrh.fognet.ch/": {
+            "ipv4": {
+                "193.148.250.20": "Switzerland"
+            },
+            "ipv6": {
+                "2a0c:9a40:1050::20": "Switzerland"
+            }
+        },
+        "http://lg.mci.fognet.ch/": {
+            "ipv4": {
+                "193.148.251.20": "Switzerland"
+            },
+            "ipv6": {
+                "2a0c:9a40:1009::20": "Switzerland"
+            }
+        },
+        "http://lg.ams.fognet.ch/": {
+            "ipv4": {
+                "193.148.248.20": "Amsterdam, Netherlands"
+            },
+            "ipv6": {
+                "2a0c:9a40:1070::20": "Amsterdam, Netherlands"
+            }
+        },
+        "http://lg.bcn.fognet.ch/": {
+            "ipv4": {
+                "45.134.91.20": "Barcelona, Spain"
+            },
+            "ipv6": {
+                "2a0c:9a40:1080::20": "Barcelona, Spain"
             }
         }
     },
@@ -7373,6 +7452,12 @@
         "lg.kloud.net.bd": {
             "ipv4": {},
             "ipv6": {}
+        },
+        "http://lg.kloud.net.bd/lg/": {
+            "ipv4": {
+                "103.146.221.19": "Bangladesh"
+            },
+            "ipv6": {}
         }
     },
     "citynethost.com": {
@@ -7655,6 +7740,19 @@
             "ipv6": {
                 "2602:fed2:fe0:269::1": "Canada"
             }
+        },
+        "yhz01.lg.freerangecloud.com": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "freerangecloud.com/lookingglass.php": {
+            "ipv4": {
+                "23.191.80.33": "Halifax, Canada"
+            },
+            "ipv6": {
+                "2602:fe13:fa0::1": "United States",
+                "2602:fc1c:fa0::1": "Canada"
+            }
         }
     },
     "vultr.com": {
@@ -7816,6 +7914,14 @@
             },
             "ipv6": {
                 "2a0b:ee80:0:2:176:10:125:4": "Switzerland"
+            }
+        },
+        "http://lg-ee.vps2day.com": {
+            "ipv4": {
+                "45.11.183.10": "Tallinn, Estonia"
+            },
+            "ipv6": {
+                "2a0b:7140:1:100:45:11:183:10": "Germany"
             }
         }
     },
@@ -8758,12 +8864,7 @@
             }
         }
     },
-    "topnet.ua": {
-        "lg.topnet.ua": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
+    "topnet.ua": {},
     "reliablehostingservices.net": {
         "http://lg.reliablehostingservices.net/": {
             "ipv4": {
@@ -8850,18 +8951,8 @@
             }
         }
     },
-    "sprintdatacenter.pl": {
-        "lg.sprintdatacenter.pl": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
-    "leasewebstatus.com": {
-        "lg.leasewebstatus.com": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
+    "sprintdatacenter.pl": {},
+    "leasewebstatus.com": {},
     "check-host.net": {
         "https://check-host.net/check-ping": {
             "ipv4": {
@@ -9122,12 +9213,7 @@
             "ipv6": {}
         }
     },
-    "moratelindo.co.id": {
-        "lg.moratelindo.co.id": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
+    "moratelindo.co.id": {},
     "obit.ru": {
         "lg.obit.ru": {
             "ipv4": {},
@@ -9138,14 +9224,13 @@
         "lg.telia.net": {
             "ipv4": {},
             "ipv6": {}
-        }
-    },
-    "runnet.ru": {
-        "lg.runnet.ru": {
+        },
+        "looking-glass.telia.net": {
             "ipv4": {},
             "ipv6": {}
         }
     },
+    "runnet.ru": {},
     "rascom.ru": {
         "lg.rascom.ru": {
             "ipv4": {},
@@ -9391,6 +9476,12 @@
         "digitalfyre.com/looking-glass/": {
             "ipv4": {
                 "181.214.181.120": "Ashburn, United States"
+            },
+            "ipv6": {}
+        },
+        "https://www.digitalfyre.com/looking-glass/": {
+            "ipv4": {
+                "34.74.87.147": "North Charleston, United States"
             },
             "ipv6": {}
         }
@@ -10343,6 +10434,5782 @@
             "ipv6": {
                 "2a0d:c740:1c:1::dfa:c4f7": "United States"
             }
+        }
+    },
+    "ipinsight.io": {},
+    "intibu.com": {
+        "http://lg.intibu.com": {
+            "ipv4": {
+                "213.238.165.12": "Istanbul, Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "balifiber.id": {},
+    "faraso.org": {
+        "lg.faraso.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "multinet24.pl": {},
+    "m-m-networks.net": {},
+    "apc.sg": {
+        "lg.apc.sg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "qoxy.com": {
+        "http://lg.qoxy.com": {
+            "ipv4": {
+                "103.23.77.7": "Singapore"
+            },
+            "ipv6": {}
+        }
+    },
+    "frickelnog.net": {
+        "lg.frickelnog.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cat.net": {},
+    "mercycloud.com": {
+        "lg.mercycloud.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as45040.net": {},
+    "nusantara.net.id": {
+        "lg.nusantara.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "maxnoc.com": {},
+    "aapt.com.au": {
+        "looking-glass.aapt.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "a2b-internet.com": {
+        "lg.a2b-internet.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "fratec.net": {
+        "lg.fratec.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "itsbrasil.net": {
+        "lg.itsbrasil.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bytes.ua": {
+        "http://lg.bytes.ua": {
+            "ipv4": {
+                "91.238.104.6": "Vinnytsia, Ukraine"
+            },
+            "ipv6": {}
+        }
+    },
+    "serversnv.com": {},
+    "dtag.de": {},
+    "as26370.net": {},
+    "link11.de": {},
+    "sbp.net.id": {
+        "http://lg.sbp.net.id": {
+            "ipv4": {
+                "27.131.3.230": "Bandung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "vivezatelecom.com.br": {},
+    "mindwebs.org": {},
+    "forceline.net": {
+        "lg.forceline.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "epix.net.pl": {
+        "lg.epix.net.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "natcoweb.com": {},
+    "isoc.org.il": {},
+    "itn.net.id": {},
+    "6project.org": {
+        "lg.6project.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "globenet.net": {
+        "lg.globenet.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "conectrj.com.br": {
+        "lg.conectrj.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "warnahost.net": {
+        "http://lg.warnahost.net/": {
+            "ipv4": {
+                "103.157.146.2": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "t-cix.net": {},
+    "shana.sg": {},
+    "icm.edu.pl": {},
+    "pentanet.com.au": {
+        "lg.pentanet.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "xfernet.net": {},
+    "host-palace.com": {
+        "lg.host-palace.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as44222.net": {
+        "https://lg.as44222.net/": {
+            "ipv4": {
+                "185.83.212.22": "Viana do Castelo, Portugal"
+            },
+            "ipv6": {}
+        }
+    },
+    "tunnelbroker.com.au": {},
+    "speedplusisp.net": {
+        "lg.speedplusisp.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "petrus.com.pl": {},
+    "linservers.com": {},
+    "futureweb.be": {
+        "lg.futureweb.be": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "isp.kh.ua": {
+        "lg.isp.kh.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "intratelecom.net.br": {},
+    "as211486.net": {
+        "lg.as211486.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nkm.net.id": {},
+    "cninternet.com.br": {},
+    "blueskysystems.co.uk": {},
+    "les.net": {
+        "lg.les.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "afibraitupeva.com.br": {
+        "lg.afibraitupeva.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "basnetbd.com": {
+        "lg.basnetbd.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "vs-ix.net": {},
+    "jbmnet.net.br": {},
+    "centauricom.com": {},
+    "meritnet.cz": {},
+    "sify.net": {},
+    "winstri.net": {
+        "https://lg.winstri.net": {
+            "ipv4": {
+                "14.1.30.123": "Chicago, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "as268952.net": {},
+    "ripe.net": {
+        "https://stat.ripe.net/widget/looking-glass": {
+            "ipv4": {
+                "021.11.24.52": "n/a"
+            },
+            "ipv6": {}
+        }
+    },
+    "valor.ua": {},
+    "binaryracks.com": {
+        "http://lg.ldn.binaryracks.com": {
+            "ipv4": {
+                "185.65.207.42": "London, United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
+    "nixbd.net": {},
+    "pionier.net.pl": {},
+    "as8758.net": {
+        "lookingglass.as8758.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gtu.net.ua": {},
+    "ttc.kz": {},
+    "tsingyao.pub": {},
+    "as199283.net": {},
+    "webbyinternet.com.br": {},
+    "plim.net.br": {},
+    "imcloud.tw": {
+        "https://lg.imcloud.tw": {
+            "ipv4": {
+                "103.246.218.1": "Taiwan"
+            },
+            "ipv6": {}
+        }
+    },
+    "dflash.com.br": {
+        "lg.dflash.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as212987.org": {},
+    "mts.ie": {
+        "lg.mts.ie": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sarkor.uz": {},
+    "sh.com.tr": {
+        "https://ping.sh.com.tr": {
+            "ipv4": {
+                "77.92.155.66": "Turkey"
+            },
+            "ipv6": {
+                "2a02:26b0:8000:b::2": "Turkey"
+            }
+        }
+    },
+    "ansluten.net": {
+        "lg.ansluten.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "semaphore.net": {},
+    "digitalnetmg.com.br": {},
+    "extremebb.net": {},
+    "speed-ix.net": {},
+    "verd.net.id": {},
+    "glpr.it": {},
+    "on.net": {
+        "looking-glass.internode.on.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "digtec.net.br": {},
+    "dimensione.com": {
+        "lg.dimensione.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as42455.net": {
+        "lg.as42455.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as15469.net": {},
+    "as42695.net": {
+        "lg.as42695.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "madnet.ro": {},
+    "as35908.net": {
+        "lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "lax-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "iad-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "phx-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "waw-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "hkg-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "sin-lg.as35908.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "eth-services.de": {
+        "lg.eth-services.de": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "https://www.eth-services.de/datacenter/": {
+            "ipv4": {
+                "45.86.125.132": "Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "upnetweb.com.br": {},
+    "argon.sg": {
+        "http://lg.argon.sg/": {
+            "ipv4": {
+                "45.64.97.73": "Kampong Changi, Singapore"
+            },
+            "ipv6": {}
+        }
+    },
+    "sliqua.net": {},
+    "fairyhosting.com": {
+        "https://lg.fairyhosting.com/en/": {
+            "ipv4": {
+                "185.155.98.79": "Estonia"
+            },
+            "ipv6": {}
+        },
+        "lg2.fairyhosting.com": {
+            "ipv4": {
+                "185.155.97.2": "Estonia"
+            },
+            "ipv6": {}
+        }
+    },
+    "neocarrier.com": {
+        "http://lg.neocarrier.com/": {
+            "ipv4": {
+                "217.146.49.18": "Switzerland"
+            },
+            "ipv6": {}
+        }
+    },
+    "hobynet.com.br": {},
+    "owentis.com": {
+        "lg.owentis.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mtw.ru": {
+        "lg.mtw.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rtcomm.ru": {
+        "lg.rtcomm.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "supernetes.com.br": {
+        "http://lg.supernetes.com.br": {
+            "ipv4": {
+                "189.91.156.9": "S\u00e3o Mateus, Brazil"
+            },
+            "ipv6": {
+                "2804:2050:5a8e:3e9::1": "Brazil"
+            }
+        }
+    },
+    "clouditidc.com": {},
+    "internetsahibi.net": {
+        "http://lg.internetsahibi.net": {
+            "ipv4": {
+                "185.172.146.9": "Istanbul, Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "as396071.net": {},
+    "opentransit.net": {},
+    "primalinknet.com": {
+        "lg.primalinknet.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pgnet.com.br": {
+        "lg.pgnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "flextel.net.br": {
+        "lg.flextel.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nlayer.net": {},
+    "kit.edu": {
+        "lg.scc.kit.edu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rdfnet.com.br": {},
+    "208814.de": {
+        "https://lg.208814.de": {
+            "ipv4": {
+                "193.138.81.164": "Germany"
+            },
+            "ipv6": {
+                "2a0f:5707:aa16::164:1": "Lingen, Germany"
+            }
+        }
+    },
+    "rgfi.net": {
+        "https://lg.rgfi.net/": {
+            "ipv4": {
+                "185.33.216.65": "Remscheid, Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "cloudxchange.id": {
+        "lg.cloudxchange.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cogentco.com": {},
+    "hopus.net": {
+        "lg.hopus.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gldn.net": {
+        "lg.gldn.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "transroute.net": {},
+    "baztel.co.uk": {
+        "https://www.baztel.co.uk/looking-glass/": {
+            "ipv4": {
+                "3.6.0.1": "Mumbai, India"
+            },
+            "ipv6": {}
+        }
+    },
+    "red-ix.ru": {
+        "lg.red-ix.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rhnet.is": {},
+    "gemnet.mn": {},
+    "acessodf.net": {
+        "lg.acessodf.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "chronos.com.tr": {
+        "http://lg.chronos.com.tr": {
+            "ipv4": {
+                "185.122.39.66": "Istanbul, Turkey"
+            },
+            "ipv6": {
+                "2a06:7243:0:4:d21e:e5f0:4593:2cb2": "Istanbul, Turkey"
+            }
+        }
+    },
+    "interaus.com.au": {},
+    "campus-rv.net": {
+        "lg.campus-rv.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "heg.com": {
+        "lg.core.heg.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cerberus.net.uk": {},
+    "as57265.net": {},
+    "as49432.net": {
+        "lg.as49432.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "towerstream.com": {},
+    "sr-ix.asia": {
+        "lg.sr-ix.asia": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ferenz.com.br": {},
+    "as8681.net": {},
+    "servperso.net": {},
+    "unwiredltd.com": {},
+    "saix.at": {},
+    "under.net.ua": {
+        "lg.under.net.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as61081.net": {},
+    "sg.gs": {},
+    "itsystems.ua": {},
+    "netcologne.de": {
+        "plg.netcologne.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ett.com.ua": {},
+    "packet.stream": {},
+    "as43646.net": {},
+    "rftelecom.net.br": {},
+    "mmd.net.id": {},
+    "lideri.net.br": {
+        "lg.lideri.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "estrelarweb.com.br": {},
+    "scip.es": {},
+    "biztelecom.ro": {
+        "lg.biztelecom.ro": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mrnet.mb.ca": {
+        "lg.mrnet.mb.ca": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sahelisp.et": {},
+    "elitedigital.com.br": {},
+    "xpress.ltd": {
+        "lg.xpress.ltd": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "andra.net.br": {},
+    "docler.net": {},
+    "rackplace.de": {
+        "lg.rackplace.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netia.pl": {
+        "lg.netia.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "simtelecom.net.br": {},
+    "airexpress.net.ua": {},
+    "omantel.om": {
+        "lookingglass.omantel.om": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mtu.ru": {
+        "lg.mtu.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "corelink.io": {},
+    "orbyta.com": {
+        "lg.orbyta.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "web4u.cz": {
+        "lg.web4u.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ucom.am": {
+        "lg.ucom.am": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "polsri.ac.id": {
+        "lg.polsri.ac.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ix.ro": {},
+    "wiscnet.net": {
+        "lg.wiscnet.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "n-ix.net": {
+        "lg.n-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nordu.net": {
+        "lg.nordu.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "strexp.net": {},
+    "beotel.net": {
+        "lg.beotel.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "piter-ix.eu": {},
+    "as42579.net": {
+        "lg.as42579.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "adnettelecom.ro": {},
+    "qonnected.net": {
+        "lg.qonnected.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as211562.net": {
+        "lg.as211562.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "openitgroup.com.br": {
+        "lg.openitgroup.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sprint.net": {},
+    "as250.net": {},
+    "proc.ru": {},
+    "co.ge": {
+        "lg.co.ge": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ydea.com": {},
+    "angonix.net": {
+        "lg.angonix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "naive.network": {
+        "lg.naive.network": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "superonline.net": {
+        "lg.superonline.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "novafibratelecom.com.br": {},
+    "infotec.psi.br": {},
+    "vix.at": {},
+    "explorerbarretos.com.br": {},
+    "bbtower.ad.jp": {
+        "lg01.colo01.bbtower.ad.jp": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as37271.fyi": {},
+    "bitsnet.id": {
+        "lg.bitsnet.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "wdstelecom.com.br": {},
+    "dminet.com.br": {},
+    "as207887.net": {},
+    "as28929.net": {
+        "lg.as28929.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cabase.org.ar": {
+        "looking.cabase.org.ar": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "siddhinetworks.net": {},
+    "netserv.ro": {},
+    "hanastar.net.id": {
+        "lg.hanastar.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "skylink.net.in": {},
+    "as211876.net": {},
+    "aarnet.edu.au": {
+        "lg.aarnet.edu.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bsccl.com": {
+        "http://rslg.bsccl.com": {
+            "ipv4": {
+                "103.16.152.8": "Bangladesh"
+            },
+            "ipv6": {}
+        }
+    },
+    "kopnet.pl": {},
+    "lig16.com": {},
+    "kaznix.kz": {},
+    "as38173.com": {
+        "lg.as38173.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "veracitynetworks.com": {
+        "lg.veracitynetworks.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "palapamedia.net.id": {},
+    "aanetworks.org": {},
+    "nixi.in": {
+        "lg.nixi.in": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as210985.net": {},
+    "unifynetsol.com": {},
+    "as133072.net": {},
+    "cablenet-as.net": {},
+    "seflow.it": {},
+    "hpntelecom.com.br": {},
+    "asiannetworkbd.net": {},
+    "wrix.org": {},
+    "speedwebtelecom.com": {
+        "lg.speedwebtelecom.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "routeix.net": {},
+    "linx.net": {},
+    "as211244.net": {},
+    "sabay.com": {
+        "lg.sabay.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "m-online.net": {
+        "lg.m-online.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "wirehive.net": {
+        "lg.wirehive.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cittatelecom.com.br": {},
+    "wowrack.co.id": {
+        "lg.wowrack.co.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as328112.net": {
+        "lg.as328112.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as11404.net": {},
+    "ix.kw": {
+        "lg.ix.kw": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jos.net.id": {},
+    "tellcorpce.com.br": {
+        "lg.tellcorpce.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "speedwebtelecom.net.br": {},
+    "twix.net": {},
+    "ispnet.net": {},
+    "juntotelecom.com.br": {
+        "lg.juntotelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netnod.se": {
+        "lg.netnod.se": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "eletronet.com": {},
+    "nortenettelecom.com.br": {},
+    "serverion.com": {
+        "lg.serverion.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netwt.com.br": {
+        "lg.netwt.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "goetel.net": {
+        "lg.goetel.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "licson.net": {
+        "lg.licson.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "arcolink.it": {
+        "lg.arcolink.it": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as209097.net": {
+        "lg.as209097.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as208122.net": {},
+    "orbitel.com.br": {},
+    "dyjix.eu": {},
+    "etop.pl": {
+        "lg.etop.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mastertel.ru": {
+        "lg.mastertel.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as29608.net": {},
+    "dts-online.net": {
+        "lg.dts-online.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "athamedia.net": {},
+    "midways-network.org": {
+        "lg.midways-network.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "lshiy.net": {},
+    "infortec.net.br": {},
+    "syringanetworks.net": {},
+    "elcat.kg": {
+        "lg.elcat.kg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nsspl.com.au": {
+        "http://lg.nsspl.com.au": {
+            "ipv4": {
+                "103.134.225.254": "Townsville, Australia"
+            },
+            "ipv6": {}
+        }
+    },
+    "alootelecom.com.br": {
+        "lg.alootelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as1820.net": {},
+    "vDome.net": {},
+    "55pbx.com.br": {
+        "lg.55pbx.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "adeli.biz": {},
+    "squidtelecom.com.br": {},
+    "cubitel.ru": {},
+    "as397444.net": {
+        "lg.as397444.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cloudwebservices.nl": {
+        "lg.cloudwebservices.nl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "3tsystems.net": {},
+    "megaport.al": {},
+    "biznetnetworks.com": {},
+    "enxadahost.com": {
+        "lg.enxadahost.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "linkedlakes.com": {},
+    "lexxadata.net.id": {
+        "http://lg.lexxadata.net.id": {
+            "ipv4": {
+                "103.144.147.150": "Tulungagung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "synterra.ru": {},
+    "617a.net": {},
+    "spectraip.net": {
+        "lg.spectraip.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as206479.net": {
+        "lg.as206479.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "okbprogress.ru": {
+        "lg.okbprogress.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "na0.ru": {},
+    "as6412.net": {},
+    "andymillar.net": {},
+    "aiso.net": {
+        "http://lg.aiso.net": {
+            "ipv4": {
+                "205.153.119.207": "United States"
+            },
+            "ipv6": {}
+        },
+        "lg.aiso.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as3257.net": {},
+    "telerys.net": {
+        "lg.telerys.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "miran.ru": {},
+    "glosindo.net.id": {
+        "http://lg.glosindo.net.id/": {
+            "ipv4": {
+                "103.134.222.18": "Sleman, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "reasonnet.com": {},
+    "linkey.ru": {},
+    "as207803.net": {
+        "http://lg.as207803.net": {
+            "ipv4": {
+                "185.224.145.66": "Delft, Netherlands"
+            },
+            "ipv6": {
+                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, Netherlands"
+            }
+        }
+    },
+    "as59890.net": {
+        "lg.as59890.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "megafon.ru": {
+        "lg.megafon.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as203146.net": {},
+    "westlink.net.br": {
+        "lg.westlink.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rajamitra.co.id": {},
+    "hammy.network": {},
+    "posttechnologies.lu": {
+        "lg.posttechnologies.lu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "windstreamcommunication.net": {},
+    "openx.com.br": {
+        "lg.openx.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "afriqnetworks.co.ke": {},
+    "netvisiontelecom.ro": {
+        "lg.netvisiontelecom.ro": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "vtc.vn": {},
+    "mnc.pl": {
+        "lg.mnc.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "maxiweb.com.br": {
+        "lg.maxiweb.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ptspb.net": {},
+    "enw.com.br": {},
+    "dcsi.net.au": {},
+    "acessoline.net.br": {},
+    "connect.psi.br": {},
+    "azmagroup.ir": {},
+    "dtln.ru": {
+        "ixlg-en.dtln.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "lg-en.dtln.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "teknosos.com.tr": {},
+    "whdfibra.com.br": {},
+    "opticfusion.net": {},
+    "as51745.net": {
+        "http://lg.as51745.net": {
+            "ipv4": {
+                "45.145.80.42": "Austria"
+            },
+            "ipv6": {
+                "2a0e:46c3:300::1": "Germany"
+            }
+        }
+    },
+    "itk-rus.ru": {},
+    "vetorial.com": {
+        "lg.vetorial.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "servinga.com": {},
+    "sts.kz": {
+        "lg-ix.sts.kz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "intercol.com.br": {},
+    "tatacommunications.com": {},
+    "ek-media.nl": {
+        "lg.ek-media.nl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pch.net": {
+        "https://www.pch.net/tools/looking_glass": {
+            "ipv4": {
+                "255.255.255.0": "n/a"
+            },
+            "ipv6": {}
+        }
+    },
+    "overthewire.com.au": {
+        "lg.overthewire.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gcn.bg": {},
+    "primexm.com": {
+        "http://lg01-ty3.primexm.com": {
+            "ipv4": {
+                "103.40.209.8": "Hong Kong"
+            },
+            "ipv6": {}
+        },
+        "http://lg01-ld4.primexm.com": {
+            "ipv4": {
+                "185.97.160.8": "Cyprus"
+            },
+            "ipv6": {}
+        },
+        "lg01-sg1.primexm.com": {
+            "ipv4": {
+                "103.156.251.8": "Singapore"
+            },
+            "ipv6": {}
+        }
+    },
+    "nettrust.nz": {
+        "lg.nettrust.nz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "atom86.net": {
+        "lg.atom86.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as64457.com": {},
+    "ppns.ac.id": {},
+    "as328137.net": {
+        "lg.as328137.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dreamserver.ro": {},
+    "ascenty.com": {},
+    "mikeit.com.au": {},
+    "rinex.org.rw": {
+        "lg.rinex.org.rw": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sbb.rs": {
+        "lg.sbb.rs": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "homenoc.ad.jp": {},
+    "lonap.net": {},
+    "greenlan.pl": {
+        "http://lg.greenlan.pl/": {
+            "ipv4": {
+                "185.56.208.2": "Wroclaw, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "iwnet.net.br": {
+        "lg.iwnet.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "updowntelecom.com.br": {},
+    "d2cloud.net": {},
+    "siriustec.it": {},
+    "hosting-telecom.uk": {},
+    "digitalnetms.com.br": {},
+    "softdados.net": {
+        "lg.softdados.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "steelweb.com.br": {},
+    "ultranet.psi.br": {
+        "lg.ultranet.psi.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nls.kz": {
+        "lg.nls.kz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "telenor.net": {
+        "lg.telenor.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "idealhosting.net.tr": {},
+    "pallox.pl": {},
+    "smartcyber.in": {},
+    "active24.cz": {},
+    "firenet.net.au": {},
+    "infortel.net.br": {
+        "lg.infortel.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "integra.net": {},
+    "itpark.su": {},
+    "galacsys.net": {},
+    "tidar.net.id": {},
+    "nettechtele.com": {},
+    "coltel.ru": {},
+    "maxinet.net.br": {},
+    "as213045.net": {
+        "lg.as213045.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as14866.net": {},
+    "pozix.pl": {
+        "lg.pozix.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "fly-telecom.ru": {
+        "lg.fly-telecom.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as204003.net": {
+        "https://lg.as204003.net": {
+            "ipv4": {
+                "31.24.148.107": "Bremen, Germany"
+            },
+            "ipv6": {
+                "2a06:e881:5806:42:4c0:deff:fe2e:5910": "Switzerland"
+            }
+        }
+    },
+    "megawifinet.com.br": {},
+    "cln.net": {},
+    "vadavo.net": {},
+    "afr-ix.com": {},
+    "ipmanager.ir": {},
+    "as47692.net": {
+        "lg.as47692.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "http://lg.as47692.net/tools": {
+            "ipv4": {
+                "146.255.61.34": "Vienna, Austria"
+            },
+            "ipv6": {}
+        }
+    },
+    "cpgnet.com.br": {},
+    "warnetcz.net": {
+        "lg.warnetcz.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cyberlink.ch": {
+        "lg.cyberlink.ch": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mipt.ru": {
+        "lg.mipt.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "yycix.ca": {
+        "lg.yycix.ca": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "interscholz.net": {},
+    "edsi-tech.com": {
+        "https://lg.edsi-tech.com": {
+            "ipv4": {
+                "185.50.189.30": "Switzerland"
+            },
+            "ipv6": {
+                "2a04:c000:ed51:891:30::1": "Switzerland"
+            }
+        }
+    },
+    "parvati.it": {},
+    "hostoweb.com": {
+        "http://lg.hostoweb.com/": {
+            "ipv4": {
+                "154.70.200.10": "Morocco"
+            },
+            "ipv6": {}
+        }
+    },
+    "as.net.id": {},
+    "evio.pl": {
+        "lg.evio.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "telstraglobal.com": {
+        "https://lg.telstraglobal.com/": {
+            "ipv4": {
+                "172.217.16.68": "United States"
+            },
+            "ipv6": {
+                "2a00:1450:4005:800::2004": "Ireland"
+            }
+        }
+    },
+    "as134563.net": {},
+    "uepg.br": {
+        "lg.uepg.br": {
+            "ipv4": {
+                "177.101.22.142": "Brazil"
+            },
+            "ipv6": {
+                "2804:1f04:c000:282::142": "Brazil"
+            }
+        }
+    },
+    "eastlink.ca": {},
+    "lumaserv.com": {
+        "lg.lumaserv.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "zitline.net.id": {
+        "http://lg.zitline.net.id": {
+            "ipv4": {
+                "103.87.228.9": "Banjaran, Indonesia"
+            },
+            "ipv6": {
+                "2400:d940:c000::2": "Indonesia"
+            }
+        }
+    },
+    "as61044.net": {},
+    "onnettelecom.com.br": {
+        "lg.onnettelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rcicommunications.com": {
+        "lg.rcicommunications.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "unpak.ac.id": {},
+    "as211398.net": {
+        "lg.as211398.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gointec.com.br": {
+        "https://lg.gointec.com.br": {
+            "ipv4": {
+                "162.158.91.163": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        },
+        "lg.gointec.com.br": {
+            "ipv4": {
+                "162.158.89.225": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "hostingfuze.net": {},
+    "optus.net.au": {
+        "looking-glass.optus.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sdi.net.id": {
+        "lg.sdi.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hopone.net": {},
+    "bt.net": {
+        "lg.bt.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bix.hu": {},
+    "cesnet.cz": {
+        "lg.cesnet.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rznet.com.br": {},
+    "gblnet.ru": {},
+    "as3399.net": {
+        "lg.as3399.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as35280.net": {
+        "lg.as35280.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "raapid.net": {},
+    "wavecom.ee": {},
+    "netmax.com.tr": {},
+    "netwarebrasil.com.br": {
+        "lg.netwarebrasil.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "united.net.ua": {
+        "lg.united.net.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sgtelecom.com.br": {},
+    "lix.lv": {},
+    "lsy.cn": {},
+    "peering.cz": {},
+    "airwire.ie": {},
+    "tvintel.org": {},
+    "tktelekom.pl": {
+        "lg.tktelekom.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "okay.net.bd": {
+        "lg.okay.net.bd": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "solcon.nl": {},
+    "abica.co.uk": {
+        "http://lg.abica.co.uk": {
+            "ipv4": {
+                "185.146.47.152": "United Kingdom"
+            },
+            "ipv6": {
+                "2a07:4d80:2::1": "United Kingdom"
+            }
+        }
+    },
+    "4vendeta.com": {
+        "http://4vendeta.com/data-center/looking-glass": {
+            "ipv4": {
+                "79.124.56.2": "Bulgaria"
+            },
+            "ipv6": {}
+        }
+    },
+    "hkunicom.com": {},
+    "saicom.io": {},
+    "iinet.net.au": {
+        "looking-glass.iinet.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sobornost.net": {
+        "lg.sobornost.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hwng.net": {},
+    "greekstream.net": {
+        "lg.greekstream.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as53062.net.br": {
+        "lg.as53062.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "heliantis.fr": {},
+    "spnet.net": {},
+    "geant.net": {},
+    "trit.net": {},
+    "netcom.psi.br": {
+        "lg.netcom.psi.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gruponewlife.com.br": {},
+    "iucc.ac.il": {},
+    "balt-ix.net": {
+        "lg.balt-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rr64.com.br": {},
+    "netdirekt.com.tr": {
+        "lg.netdirekt.com.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "clearfly.net": {
+        "lg.clearfly.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "delightfiber.net": {},
+    "netflash.net": {
+        "lg.netflash.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gobler.net": {
+        "lg.gobler.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gbnetwork.my": {
+        "https://lg.gbnetwork.my": {
+            "ipv4": {
+                "103.72.163.221": "Cyberjaya, Malaysia"
+            },
+            "ipv6": {
+                "2403:fd40:1001:a001:1:0:4c10:7bc4": "Malaysia"
+            }
+        }
+    },
+    "zotan.network": {
+        "lg.zotan.network": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "brnet.net.br": {},
+    "as59598.net": {},
+    "altarede.com.br": {
+        "lg.altarede.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "acl.psi.br": {},
+    "prolink.ru": {},
+    "rapidatelecom.com.br": {},
+    "internetworking-atlantic.com": {},
+    "inalan.gr": {
+        "http://lg.inalan.gr/": {
+            "ipv4": {
+                "149.11.120.59": "Greece"
+            },
+            "ipv6": {}
+        },
+        "lg.inalan.gr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sharktech.net": {},
+    "mywebhost.my": {},
+    "sapphire.gi": {},
+    "bhost.net": {},
+    "t-mobile.pl": {},
+    "plusweb.com.tr": {},
+    "bbhost.com.br": {},
+    "redenetprovedor.com.br": {},
+    "netsentra.com": {},
+    "feral.io": {},
+    "avelacom.ru": {},
+    "tzmsk.ru": {
+        "lg.tzmsk.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "digitalwave.net.my": {},
+    "ntt.lt": {
+        "lg.ntt.lt": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "experts.net.br": {
+        "lg.experts.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "vnet.sk": {
+        "lg.vnet.sk": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "idl.com.br": {
+        "lg.idl.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ihome.ru": {
+        "lg.ihome.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as45177.net": {},
+    "allrede.net.br": {},
+    "paetec.net": {},
+    "vodafone.ind.in": {
+        "gurapplg.vodafone.ind.in": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "altecom.net": {},
+    "melonite.co.uk": {},
+    "as2116.net": {
+        "lg.as2116.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gdtelecomunicacoes.com.br": {},
+    "sts.net.id": {},
+    "inetcom.ru": {
+        "lg.inetcom.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mdlink.de": {},
+    "as29075.net": {
+        "lg.as29075.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sartorinternet.com.br": {},
+    "64073.as": {
+        "lg.64073.as": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as204254.net": {
+        "lg.as204254.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dgc.se": {},
+    "sparknet.ro": {
+        "lg.sparknet.ro": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "funet.fi": {
+        "lg.funet.fi": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rise.ph": {
+        "lg.rise.ph": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ix.br": {
+        "lg.ix.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "brta.in": {},
+    "ramtel.ru": {
+        "lg.ramtel.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "koneo.se": {
+        "lg.koneo.se": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "alt.tf": {
+        "lg.alt.tf": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "selectel.com": {
+        "lg.selectel.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as61599.com.br": {},
+    "flex.ru": {
+        "lg.flex.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "earthlinktele.com": {},
+    "alsardfiber.com": {},
+    "coloclue.net": {
+        "birdlg.coloclue.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "lg.coloclue.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "channel-11.net": {},
+    "mao.org": {},
+    "coloau.com.au": {
+        "lg.coloau.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dufibranet.com.br": {},
+    "ninjaserver.co.id": {
+        "https://lg.ninjaserver.co.id/": {
+            "ipv4": {
+                "103.143.170.165": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "gsix.se": {
+        "lg.gsix.se": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "aldm.net.id": {},
+    "sharedband.net": {
+        "lg.sharedband.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bahialink.net.br": {
+        "http://lg.bahialink.net.br": {
+            "ipv4": {
+                "177.85.92.90": "Cama\u00e7ari, Brazil"
+            },
+            "ipv6": {}
+        }
+    },
+    "novi.uz.ua": {},
+    "bytemark.co.uk": {
+        "lg.bytemark.co.uk": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tahoeix.org": {},
+    "axione.fr": {
+        "lg.axione.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ni.ac.rs": {
+        "http://lg.junis.ni.ac.rs": {
+            "ipv4": {
+                "160.99.2.150": "Ni\u0161, Serbia"
+            },
+            "ipv6": {}
+        }
+    },
+    "hti.pl": {
+        "lg.hti.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "arpnetworks.com": {
+        "lg.arpnetworks.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jalanet.co.id": {},
+    "osnetpr.com": {},
+    "267507.net": {},
+    "anindisa.co.id": {},
+    "webcraft.ua": {},
+    "jantechcs.com": {
+        "https://lg.jantechcs.com": {
+            "ipv4": {
+                "155.138.160.218": "Atlanta, United States"
+            },
+            "ipv6": {
+                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "United States"
+            }
+        }
+    },
+    "hostingdunyam.com.tr": {},
+    "as33968.net": {},
+    "wordnet.com.br": {},
+    "broadbandzone.net": {},
+    "brasildigital.net.br": {
+        "lg.brasildigital.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as141776.net": {},
+    "provedorjrnet.com.br": {},
+    "as208627.net": {
+        "lg.as208627.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "onlineco.org": {},
+    "as210833.net": {
+        "lg.as210833.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ip-max.net": {},
+    "telekom.rs": {
+        "lg.telekom.rs": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sixinternet.com.br": {},
+    "padi.net.id": {},
+    "conectsoluction.com.br": {},
+    "ivrnet.com.br": {
+        "lg.ivrnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "powerhost.cl": {},
+    "nmmn.com": {
+        "lg.nmmn.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "networx.bg": {
+        "lg.networx.bg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "conectbm.com.br": {},
+    "fknet.at": {},
+    "as207968.net": {},
+    "sunnyvision.com": {},
+    "acxtelecom.net.br": {},
+    "eurorings.net": {},
+    "ix.nz": {
+        "lg.ix.nz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "iristransport.com": {},
+    "as207176.net": {},
+    "best.net.id": {},
+    "mainonecable.com": {
+        "lg.ngn.mainonecable.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "e-utp.net": {
+        "https://fido.e-utp.net/lg/": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:67c:21ec:1000::a": "Warsaw, Poland"
+            }
+        }
+    },
+    "completel.fr": {},
+    "supernap.it": {
+        "looking-glass.supernap.it": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dewabiz.com": {
+        "lg.dewabiz.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "acme.net.uk": {},
+    "naclick.com.br": {},
+    "tefnettecnologia.com.br": {
+        "lg.tefnettecnologia.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as44136.net": {
+        "https://lg.as44136.net": {
+            "ipv4": {
+                "193.180.18.23": "Sweden"
+            },
+            "ipv6": {
+                "2a02:28f0::35:1": "Sweden"
+            }
+        }
+    },
+    "as201971.net": {},
+    "radiantbd.com": {
+        "http://lg.radiantbd.com/": {
+            "ipv4": {
+                "122.102.32.237": "Bangladesh"
+            },
+            "ipv6": {}
+        }
+    },
+    "indo.net.id": {
+        "http://lg.indo.net.id/": {
+            "ipv4": {
+                "117.54.200.163": "Indonesia",
+                "202.53.251.81": "Jakarta, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "restena.lu": {
+        "lg.restena.lu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "technetnetworks.com.br": {
+        "lg.technetnetworks.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "1asiacom.net": {},
+    "viacast.com.br": {},
+    "theko.net.id": {},
+    "wellbrasil.com": {},
+    "wolke.li": {},
+    "hostmc4free.com": {},
+    "thairen.net.th": {},
+    "topnetms.com.br": {},
+    "joxnet.net": {},
+    "wnet.ua": {},
+    "gmdp.net.id": {},
+    "hahosting.com": {},
+    "host-telecom.com": {},
+    "mysticflare.io": {},
+    "sjnetwork.com.br": {
+        "lg.sjnetwork.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ultratools.com": {},
+    "hellomouse.net": {
+        "lg.hellomouse.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "prisma.net.id": {
+        "http://tool.prisma.net.id/lg/": {
+            "ipv4": {
+                "103.148.3.254": "Tulungagung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "kinghost.net": {},
+    "omnya.co": {},
+    "as43289.net": {
+        "lg.as43289.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "xconnect.cl": {},
+    "hostdime.com": {},
+    "gigafy.com.au": {
+        "lg.gigafy.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "lsc.moe": {},
+    "delta.bg": {},
+    "dijlaisp.com": {},
+    "kapper.net": {
+        "https://lg.kapper.net/": {
+            "ipv4": {
+                "94.136.22.133": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a02:ab8:4::100": "Austria"
+            }
+        }
+    },
+    "wifian.id": {},
+    "as212966.net": {},
+    "fibraplus.com.br": {},
+    "digicom.al": {},
+    "netexpressbrasil.com": {
+        "lg.netexpressbrasil.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cenuta.com": {},
+    "as211869.net": {
+        "lg.as211869.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "wisc.edu": {},
+    "bgp4.pl": {
+        "http://lg.bgp4.pl": {
+            "ipv4": {
+                "195.245.104.4": "Suwa\u0142ki, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "vocusgroup.co.nz": {
+        "lg.vocusgroup.co.nz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "owl.net": {},
+    "as209209.net": {},
+    "as50986.net": {},
+    "as50156.net": {
+        "lg.as50156.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as398328.net": {},
+    "buffalocolo.com": {},
+    "evolink.net": {
+        "lg.evolink.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "perspektivbredband.se": {},
+    "spt.vn": {},
+    "internetten.com.tr": {},
+    "rezopole.net": {},
+    "atrila.net": {},
+    "nranetworks.com": {},
+    "b-ix.net": {
+        "lg.b-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "voicelogic.com.au": {},
+    "as208624.net": {},
+    "dfn.de": {},
+    "infocom.co.id": {
+        "http://lg.infocom.co.id": {
+            "ipv4": {
+                "103.138.14.251": "Palembang, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "arbital.ru": {
+        "lg.arbital.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ars.uz": {},
+    "bgp.exchange": {},
+    "datakeepers.net": {},
+    "tnib.de": {},
+    "as207537.net": {
+        "lg.as207537.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "brascom.net.br": {},
+    "bix.bg": {
+        "lg.bix.bg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "biyort.com": {},
+    "supremebytes.net": {},
+    "mgix.mg": {},
+    "redecompleta.com.br": {},
+    "ispalliance.cz": {},
+    "equinix.com": {},
+    "simeonnetworks.com": {},
+    "hn.cl": {},
+    "entrenaonda.com.br": {},
+    "salnet.wf": {},
+    "extreme-ix.org": {
+        "lg.extreme-ix.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mail.ru": {},
+    "ausnetservers.net.au": {},
+    "uninett.no": {},
+    "startnix.com": {},
+    "sitel.net.pl": {
+        "http://lg.sitel.net.pl/": {
+            "ipv4": {
+                "91.188.97.174": "Krakow, Poland"
+            },
+            "ipv6": {
+                "2a02:2430:1:5::2": "Poland"
+            }
+        }
+    },
+    "ldp.net.id": {
+        "http://lg.ldp.net.id": {
+            "ipv4": {
+                "43.252.105.3": "Banyumas, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "viibe.com.br": {},
+    "verointernet.com.br": {},
+    "hostsailor.com": {},
+    "fibertelecom.com": {},
+    "citydata.net.br": {},
+    "connesi.it": {
+        "lg.connesi.it": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "isp-solutions.net": {},
+    "jgnet.net.br": {
+        "lg.jgnet.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "stellarllc.net": {},
+    "ukrnames.com": {
+        "https://lg.ukrnames.com/": {
+            "ipv4": {
+                "91.231.87.71": "Ukraine"
+            },
+            "ipv6": {}
+        }
+    },
+    "okservers.net": {},
+    "playnet.it": {
+        "lg.playnet.it": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jiex.co.id": {},
+    "itstall.de": {
+        "lookingglass.itstall.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "iu.nl": {},
+    "as51432.net": {},
+    "as42004.net": {},
+    "techpath.com.au": {
+        "lg.techpath.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as13786.net": {
+        "lg.as13786.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "logtel.net.br": {
+        "lg.logtel.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as210616.net": {
+        "lg.as210616.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cttelecom.psi.br": {
+        "lg.cttelecom.psi.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "flagtel.com": {},
+    "ubinetpr.com": {},
+    "hexanet.fr": {},
+    "mm-ix.net": {
+        "lg.mm-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "n4telecom.com.br": {},
+    "enta.net": {
+        "lg.enta.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "corporativa.com.br": {},
+    "gold.net.au": {
+        "lg.gold.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netbarretos.com.br": {},
+    "hstl.lt": {
+        "lg.hstl.lt": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ixsy.org.mx": {},
+    "velder.app": {},
+    "tecnocratica.net": {
+        "https://lg1.tecnocratica.net": {
+            "ipv4": {
+                "31.47.72.202": "Spain"
+            },
+            "ipv6": {
+                "2a01:a940:419:ca::1": "Spain"
+            }
+        }
+    },
+    "emitel.com.br": {},
+    "freetrans.it": {},
+    "as201281.net": {
+        "lg.as201281.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "leonix.net": {
+        "lg.leonix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gbtcloud.io": {},
+    "infowest.net": {
+        "lg.infowest.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ddpo.be": {
+        "lg.ddpo.be": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "americanis.net": {},
+    "connect.rio.br": {},
+    "comvive.es": {
+        "lg.comvive.es": {
+            "ipv4": {
+                "77.81.116.15": "Seville, Spain"
+            },
+            "ipv6": {
+                "2a00:1d70:1::116:15": "Spain"
+            }
+        }
+    },
+    "ixp.net.ng": {
+        "lg.ixp.net.ng": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "skyline.net.id": {
+        "lg.skyline.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "espanix.net": {
+        "lg.espanix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as21351.mq": {},
+    "ua-ix.net.ua": {},
+    "ctbc.com.br": {},
+    "inovanet.net.br": {},
+    "gesitnet.id": {},
+    "ip6.ch": {},
+    "as1836.net": {
+        "lg.ch.as1836.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dataline.ua": {
+        "lg.dataline.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ethtelecom.com.br": {},
+    "as48972.net": {},
+    "kivix.net": {
+        "lg.kivix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mesh.eu": {},
+    "tk-telecom.ru": {},
+    "as262605.net": {},
+    "steveyi.net": {
+        "lg.steveyi.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "madison.network": {
+        "https://speedtest.madison.network/lg/": {
+            "ipv4": {
+                "103.157.198.5": "Malaysia"
+            },
+            "ipv6": {
+                "2001:df5:2a80:10::5555": "Malaysia"
+            }
+        }
+    },
+    "wixnet.com.br": {},
+    "ix.py": {},
+    "fixatelecom.com.br": {},
+    "htc-itc.com.vn": {},
+    "visioninternet.com.br": {},
+    "as210563.net": {
+        "lg.as210563.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "suafibra.com.br": {},
+    "router.net.br": {},
+    "as58299.net": {
+        "lg.as58299.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "novoserve.com": {},
+    "ukgrid.net": {},
+    "pwless.net": {},
+    "fonira.net": {
+        "https://lg.fonira.net": {
+            "ipv4": {
+                "178.251.64.167": "Kramsach, Austria"
+            },
+            "ipv6": {
+                "2a02:1748:f064:160::167": "Austria"
+            }
+        },
+        "https://lg-de.fonira.net": {
+            "ipv4": {
+                "81.169.166.77": "Germany"
+            },
+            "ipv6": {
+                "2a01:238:421d:ec00:5717:78e:3cb4:51fe": "Germany"
+            }
+        },
+        "https://lg-usa.fonira.net": {
+            "ipv4": {
+                "62.151.178.60": "Spain"
+            },
+            "ipv6": {
+                "2607:f1c0:1801:2d::1": "United States"
+            }
+        }
+    },
+    "bitcom.com.br": {},
+    "iq.pl": {},
+    "korcom.co.za": {
+        "lg.korcom.co.za": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mvps.net": {},
+    "terratransit.de": {},
+    "brascloud.com.br": {},
+    "ptp.net.id": {},
+    "as36472.net": {},
+    "rkrtelecom.com.br": {},
+    "topwebtelecom.net.br": {},
+    "amanna.net.id": {},
+    "nexsul.net.br": {
+        "lg.nexsul.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tele2.kz": {},
+    "arrielnet.com.br": {},
+    "its.cz": {
+        "lg.its.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "48ix.net": {
+        "lg.48ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "alastyr.com": {
+        "http://lg.alastyr.com": {
+            "ipv4": {
+                "5.2.80.15": "Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "timstallard.me.uk": {
+        "lg.timstallard.me.uk": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "scrio.com.br": {
+        "lg.scrio.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tbros.net": {
+        "lg.tbros.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "edgeuno.com": {
+        "lg.edgeuno.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tpnet.pl": {
+        "lg.tpnet.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "www.lg.tpnet.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "vivatecnologia.com.br": {},
+    "alionis.net": {},
+    "i4w.pt": {
+        "https://lg.i4w.pt/": {
+            "ipv4": {
+                "185.113.142.41": "Lisbon, Portugal"
+            },
+            "ipv6": {
+                "2a03:0:141::cafe:2:c0de": "Lisbon, Portugal"
+            }
+        }
+    },
+    "citylan.ru": {},
+    "plutex.de": {
+        "https://lg.plutex.de/": {
+            "ipv4": {
+                "31.24.146.69": "Bremen, Germany"
+            },
+            "ipv6": {
+                "2a02:16d0:0:b::2": "Germany"
+            }
+        }
+    },
+    "wortel.co.id": {
+        "lg.wortel.co.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "scaleuptech.com": {},
+    "pitline.net": {},
+    "layersistem.com": {
+        "lg.layersistem.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rax.bg": {},
+    "as213151.net": {
+        "lg.as213151.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "osir.net.br": {
+        "lg.osir.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "webfoco.net": {},
+    "netecom.net.br": {
+        "lg.netecom.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ltn.net.id": {},
+    "datagroup.com.ua": {},
+    "thecore.net.au": {},
+    "sameswireless.fr": {
+        "lg.sameswireless.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as49933.net": {},
+    "jettel.pl": {
+        "http://lg.jettel.pl/": {
+            "ipv4": {
+                "91.241.33.69": "Bielsko-Biala, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "singtel.com": {},
+    "faelix.net": {},
+    "ofis.link": {},
+    "uptecnologia.net.br": {},
+    "androw.eu": {
+        "lg.androw.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as55666.net": {
+        "lg.as55666.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tdc.net": {},
+    "polineo.pl": {
+        "http://lg.polineo.pl/": {
+            "ipv4": {
+                "89.39.108.254": "Szczyrk, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "hostvirtual.com": {},
+    "breedbandnederland.nl": {},
+    "dbn.net.id": {},
+    "upfournet.com.br": {},
+    "argotel.ru": {},
+    "pontedigital.com.br": {},
+    "digiturunc.com": {
+        "lg.digiturunc.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "escapenet.ch": {},
+    "next-gen.ro": {},
+    "hextet.net": {
+        "lg.hextet.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "yipi.com.br": {
+        "http://lg.yipi.com.br/": {
+            "ipv4": {
+                "186.216.194.145": "Rio de Janeiro, Brazil"
+            },
+            "ipv6": {
+                "5054:ff:fe17:fd4c": "n/a"
+            }
+        }
+    },
+    "trinaps.net": {
+        "lg.trinaps.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "port53.io": {},
+    "swissix.ch": {},
+    "as197036.net": {},
+    "volia.com": {},
+    "plusline.net": {
+        "lg.plusline.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "alphanetwork.com.bd": {},
+    "totiig.net": {},
+    "tay.net.tr": {},
+    "provenet.com.br": {
+        "lg.provenet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "turktelekom.com.tr": {
+        "lg.turktelekom.com.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "luna.nl": {},
+    "tvcabo.ao": {},
+    "gin.ru": {
+        "lg.gin.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as211998.net.uk": {},
+    "redew10.net": {},
+    "wow.net.id": {
+        "lg.wow.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "yunta.ru": {},
+    "wixx.com.br": {
+        "lg.wixx.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cnt.ru": {},
+    "activecloud.ru": {},
+    "cxnet.dk": {},
+    "gbonline.com.br": {},
+    "as41000.net": {},
+    "webhane.com.tr": {},
+    "gtanet.ca": {},
+    "wanhouse.net.br": {},
+    "redewt.net": {
+        "https://lg.noc.redewt.net": {
+            "ipv4": {
+                "185.240.251.126": "Portugal"
+            },
+            "ipv6": {
+                "2a03:6420:0:babe::1": "Portugal"
+            }
+        }
+    },
+    "net1c.net": {},
+    "tpgi.com.au": {},
+    "as15435.net": {},
+    "esc.net.au": {},
+    "ccn.net": {},
+    "masterinter.net": {
+        "lg.masterinter.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "globalbyte.net": {},
+    "optitel.com.au": {},
+    "actus-info.pl": {
+        "lg.actus-info.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hgc-intl.com": {},
+    "starttelecom.ru": {},
+    "thinco.es": {
+        "lg.thinco.es": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "fortetelecom.com.br": {},
+    "wmax.cl": {
+        "lookingglass.wmax.cl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as210481.net": {
+        "lg.as210481.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netcintra.com.br": {},
+    "sdv.fr": {
+        "lg.sdv.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "voanet.net.br": {},
+    "inext.cz": {
+        "lg.inext.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "angolacables.co.ao": {
+        "https://lg.angolacables.co.ao/": {
+            "ipv4": {
+                "1.1.1.1": "Australia"
+            },
+            "ipv6": {}
+        }
+    },
+    "eleusi.com": {
+        "lg.eleusi.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "76telecom.com.br": {},
+    "telemac.com.br": {},
+    "central01.net": {},
+    "heinlein-support.de": {
+        "lg.heinlein-support.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "axbyte.net": {
+        "lg.axbyte.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as136431.network": {
+        "lg.as136431.network": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "atlantech.net": {
+        "lg.atlantech.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ixp-guinee.org.gn": {
+        "https://looking.ixp-guinee.org.gn": {
+            "ipv4": {
+                "196.49.64.4": "Guinea"
+            },
+            "ipv6": {}
+        }
+    },
+    "netclient.no": {},
+    "atltelecom.com.br": {},
+    "datafibra.com.br": {
+        "lg.datafibra.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "kater.com.br": {
+        "lg.kater.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jetelecom.com.br": {
+        "lg.jetelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as201333.net": {
+        "lg.as201333.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "byteweb.com.br": {
+        "http://lg.byteweb.com.br": {
+            "ipv4": {
+                "186.193.193.35": "Americana, Brazil"
+            },
+            "ipv6": {
+                "2804:338:0:10::5": "Brazil"
+            }
+        }
+    },
+    "towardex.com": {},
+    "crohma.com.br": {},
+    "redelognet.com.br": {},
+    "as10929.net": {
+        "http://lg.as10929.net": {
+            "ipv4": {
+                "67.212.77.62": "Granby, Canada"
+            },
+            "ipv6": {}
+        }
+    },
+    "cosmonova.net.ua": {
+        "lg.cosmonova.net.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "companycloud.network": {
+        "https://lg.companycloud.network": {
+            "ipv4": {
+                "185.171.47.121": "Fell, Germany"
+            },
+            "ipv6": {
+                "2a0d:1f80:1:122::121": "Germany"
+            }
+        }
+    },
+    "nb.net.tr": {
+        "https://lg.nb.net.tr": {
+            "ipv4": {
+                "89.43.78.4": "Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "serverfield.com.tw": {},
+    "uae-ix.net": {
+        "lg.uae-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "adyl.net.br": {
+        "lg.adyl.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "comfortel.pro": {
+        "lg.comfortel.pro": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "medianeira.com.br": {},
+    "netribas.net.br": {},
+    "xrv.pt": {},
+    "isomedia.com": {
+        "lg.isomedia.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as327849.net": {
+        "lg.as327849.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "giganet.iq": {},
+    "sofia-connect.net": {},
+    "defferrari.com.br": {},
+    "top-ix.org": {
+        "lg.top-ix.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as7819.net": {
+        "lg.as7819.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "miragetecnologia.com.br": {},
+    "opt.nc": {
+        "lookingglass.opt.nc": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "uninet.net.id": {
+        "lg.uninet.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "invitel.net": {
+        "lg.invitel.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ewetel.de": {
+        "lg.ewetel.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as201764.net": {},
+    "as38221.com": {},
+    "fotontele.com": {},
+    "star1.com.br": {},
+    "as51326.net": {
+        "lg.as51326.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "undip.ac.id": {
+        "http://lg.undip.ac.id/": {
+            "ipv4": {
+                "182.255.0.112": "Indonesia"
+            },
+            "ipv6": {
+                "2001:df0:b5:27::2d": "Indonesia"
+            }
+        }
+    },
+    "wind.net.py": {},
+    "infotecms.com.br": {},
+    "transtelco.net": {
+        "lg.transtelco.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "myren.net.my": {},
+    "peer2.com.br": {},
+    "serverhosh.com": {},
+    "hcneti.net.br": {
+        "lg.hcneti.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dcc.ps": {},
+    "netspeed.com.tr": {},
+    "iptp.com": {},
+    "nforce.com": {
+        "lg.nforce.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "triontel.net": {},
+    "arpnet.pl": {
+        "lg.arpnet.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "at-home.ru": {},
+    "as202806.net": {},
+    "zayo.com": {
+        "lg.zayo.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "triolan.net.ua": {
+        "lg.triolan.net.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "alagoinhastelecom.net.br": {
+        "lg.alagoinhastelecom.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rootnetworks.com": {
+        "http://lg.rootnetworks.com": {
+            "ipv4": {
+                "103.211.1.17": "Hong Kong"
+            },
+            "ipv6": {}
+        }
+    },
+    "lintasdata.net.id": {},
+    "redeisp.com.br": {},
+    "as203038.net": {
+        "lg.as203038.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "canaatelecom.com.br": {},
+    "myix.my": {},
+    "giganet.ua": {
+        "lg.giganet.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "anlx.net": {
+        "lg.anlx.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "digires.nl": {},
+    "iw.net.br": {
+        "http://lg.iw.net.br/": {
+            "ipv4": {
+                "187.0.152.26": "S\u00e3o Paulo, Brazil"
+            },
+            "ipv6": {}
+        }
+    },
+    "speakeasy.net": {},
+    "milkywan.fr": {
+        "lg.milkywan.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ams-ix.net": {},
+    "kyivlink.com": {},
+    "crissic.net": {},
+    "meshroom.net": {},
+    "probe-networks.de": {
+        "lg.probe-networks.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "interline.net.br": {},
+    "clara.net": {},
+    "pipenetworks.com": {},
+    "doblernet.com.br": {
+        "lg.doblernet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "genesisadaptive.com": {
+        "lg.genesisadaptive.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "komro.net": {
+        "lg.komro.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "together.ps": {},
+    "level3carrier.com": {
+        "lg.level3carrier.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "marwan.ma": {
+        "lg.marwan.ma": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "balcan-ix.net": {},
+    "peoplefone.com": {
+        "lookingglass.peoplefone.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "digi.net.id": {},
+    "custdc.net": {
+        "lg.custdc.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as212085.eu": {
+        "lg.as212085.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "alanyhq.network": {},
+    "as44574.net": {},
+    "xperience-group.com": {
+        "https://lg.xperience-group.com": {
+            "ipv4": {
+                "85.88.254.100": "Belfast, United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
+    "bahnflow.net": {},
+    "as58511.net": {
+        "lg.as58511.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as48176.net": {},
+    "muntinternet.net": {},
+    "naitways.net": {
+        "lg.naitways.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "wtstelecom.ro": {},
+    "giggl.app": {},
+    "itsec.md": {},
+    "zl.is": {},
+    "as213021.net": {},
+    "servercentral.com": {},
+    "ff-e.net": {
+        "lg.ff-e.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dtel-ix.net": {},
+    "brdrive.net": {
+        "lg.brdrive.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "contato.net": {
+        "lg.contato.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "linkfull.com.br": {
+        "http://lgv6.linkfull.com.br": {
+            "ipv4": {
+                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+            },
+            "ipv6": {
+                "2804:908:300:806::156:218": "Brazil"
+            }
+        }
+    },
+    "as39326.net": {},
+    "gtbatelecom.com.br": {},
+    "a1.net": {},
+    "daticum.com": {},
+    "hrvirtual.com.br": {},
+    "zettagrid.com": {
+        "lg.zettagrid.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jlm.net.id": {
+        "lg.jlm.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "topfibrainternet.com.br": {
+        "lookingglass.topfibrainternet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "caznet.com.au": {},
+    "bignet.ua": {},
+    "wkve.com.br": {
+        "portallgpd.wkve.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "itelecom.ro": {},
+    "upx.com": {
+        "lg.upx.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "amigonet.cz": {
+        "lg.amigonet.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "softlinknet.com": {},
+    "multiplay.pl": {},
+    "fiberdrop.net": {},
+    "telin.co.id": {
+        "lg.telin.co.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "codit.com.tr": {
+        "https://lg.codit.com.tr": {
+            "ipv4": {
+                "193.33.164.254": "Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "acessnet.net": {},
+    "seacomnet.com": {
+        "lg.seacomnet.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tre.se": {
+        "http://lg.tre.se": {
+            "ipv4": {
+                "80.251.201.188": "Arslev, Denmark"
+            },
+            "ipv6": {
+                "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
+            }
+        }
+    },
+    "ifoz.com.br": {},
+    "paiminternet.com.br": {},
+    "infonet-isp.com.br": {},
+    "seecix.net": {
+        "lg.seecix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gcomm.com.au": {},
+    "multi-telekom.pl": {
+        "lg.multi-telekom.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "appnexus.com": {},
+    "urbanaccess.net": {},
+    "anexia-it.com": {},
+    "hostidc.com.br": {},
+    "ateltelecom.com.br": {
+        "lg.ateltelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "zummer.su": {},
+    "tgg.net.id": {
+        "http://lg.tgg.net.id": {
+            "ipv4": {
+                "202.43.115.92": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "savvis.net": {},
+    "as208907.net": {},
+    "as200516.net": {},
+    "oceanix.net.au": {},
+    "sltnet.com.br": {
+        "lg.sltnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netmegalinktelecom.com.br": {
+        "lg.netmegalinktelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "virtualxs.com": {},
+    "datakl.com": {},
+    "netwise.co.uk": {},
+    "dawico.systems": {},
+    "gibir.net.tr": {
+        "lg.gibir.net.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "connectcampos.com.br": {},
+    "linkpontocomrj.com.br": {},
+    "commcorp.net.br": {},
+    "hokinet.com.br": {
+        "lg.hokinet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as42708.net": {},
+    "as3344.net": {},
+    "equinix.com.br": {
+        "lg.equinix.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "iqnet.com": {},
+    "citytelecom.ru": {},
+    "as34681.net": {},
+    "bit.nl": {},
+    "209218.xyz": {},
+    "jmfnetworks.net": {},
+    "cofractal.net": {},
+    "unibit.ru": {
+        "lg.unibit.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "inx.net.za": {
+        "lg.inx.net.za": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nbstelecom.psi.br": {},
+    "saranaindo.com": {},
+    "ipw.com.br": {
+        "lg.ipw.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "datautama.net.id": {
+        "lg.datautama.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mundofibra.com.br": {},
+    "as17830.net": {},
+    "as141057.net": {
+        "lg.as141057.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nexicom.net": {},
+    "incx.net": {
+        "http://lg.mi.incx.net/": {
+            "ipv4": {
+                "38.146.4.164": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "hkserverworks.com": {},
+    "zj.is": {},
+    "netmaxxi.com.br": {},
+    "cedgetec.com": {
+        "lg.cedgetec.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ti.ru": {
+        "lg.ti.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "meganetweb.com.br": {},
+    "pontualtelecomunicacoes.com.br": {},
+    "vescnet.com.br": {},
+    "carambeionline.net.br": {},
+    "naukanet.ru": {
+        "lg.naukanet.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as3326.net": {},
+    "sitsa.com.ar": {},
+    "serverscale.net": {},
+    "evsio0n.com": {
+        "lg.evsio0n.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "datapacket.com": {},
+    "d-ets.com": {
+        "lg.d-ets.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "smile-hosting.fr": {},
+    "dfnbd.net": {
+        "lg.dfnbd.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bitbyte-iq.com": {},
+    "nask.pl": {
+        "lg.nask.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "unsi.net": {
+        "lg.unsi.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as35202.net": {},
+    "networkvoiceanddata.com.au": {},
+    "solnet.ch": {
+        "lg.solnet.ch": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as199571.net": {},
+    "rainternet.com.br": {
+        "lg.rainternet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "blue3.com.br": {},
+    "sumicity.net.br": {},
+    "infraswitch.net": {},
+    "tudointernet.net.br": {},
+    "23media.de": {},
+    "itacell.com": {},
+    "as37721.net": {
+        "lg.as37721.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cdt.cz": {
+        "lg.cdt.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dmit.io": {},
+    "spicelink.net.id": {
+        "lg.spicelink.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jb3.dev": {
+        "lg.jb3.dev": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "superloop.com": {
+        "lg.superloop.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hkix.net": {
+        "http://www.hkix.net/hkix/hkixlg.htm": {
+            "ipv4": {
+                "123.255.88.1": "Hong Kong"
+            },
+            "ipv6": {}
+        }
+    },
+    "peer1.net": {},
+    "adau.net.id": {
+        "lg.adau.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "imfnetwork.com.br": {
+        "https://lg.imfnetwork.com.br": {
+            "ipv4": {
+                "191.5.164.61": "Mar\u00edlia, Brazil"
+            },
+            "ipv6": {
+                "2804:1398:1::164:61": "Brazil"
+            }
+        }
+    },
+    "installnet.com.br": {
+        "lg.installnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "seanet.com.br": {
+        "lg.seanet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "yam.net.id": {
+        "lg.yam.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "smartconnect.net.id": {
+        "https://lg.smartconnect.net.id/": {
+            "ipv4": {
+                "103.83.140.27": "Denpasar, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "spadhausen.com": {
+        "lg.spadhausen.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gtdev.org": {
+        "lg.gtdev.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cyfra.ua": {},
+    "gni.com": {
+        "lg.gni.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hostlink.com.au": {},
+    "theixp.net": {
+        "alice-lg.theixp.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "xtom.com": {},
+    "6thlab.net.pl": {},
+    "as61029.net": {},
+    "hostfav.com": {},
+    "maiqvox.com.br": {},
+    "smile-ixp.net": {},
+    "vk.com": {},
+    "idola.net.id": {
+        "lg.idola.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ipred.com.ar": {},
+    "as20565.net": {
+        "lg.as20565.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "serviciosrosario.com": {},
+    "hostclean.net": {},
+    "azista.net": {},
+    "jio.com": {},
+    "as26320.net": {
+        "lg.as26320.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dedcloud.com": {},
+    "nexim.it": {},
+    "as37497.net": {},
+    "as29423.net": {
+        "lg.as29423.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "stelch.net": {},
+    "encoo.com.au": {
+        "lg.encoo.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as44303.net": {},
+    "retn.net": {},
+    "stellar.tech": {
+        "lg.stellar.tech": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "we-dare.net": {},
+    "datafabrik.de": {},
+    "infonusa.net.id": {},
+    "guaratibacom.com.br": {},
+    "ix.bzh": {
+        "lg.ix.bzh": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mainlab.net": {},
+    "netplay.net.br": {
+        "lg.netplay.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "integrasia.id": {},
+    "cmtelecompe.com.br": {
+        "lg.cmtelecompe.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "inttelekom.com.tr": {},
+    "luglink.net": {},
+    "gigenet.com": {
+        "https://www.gigenet.com/about/datacenter-locations/": {
+            "ipv4": {
+                "199.168.117.38": "United States",
+                "66.55.88.26": "United States",
+                "66.55.82.4": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "ulttk.ru": {},
+    "trueintergateway.com": {},
+    "bdhub.com": {},
+    "azonne.com": {},
+    "giganet.net.py": {},
+    "imedianet.id": {},
+    "as25376.net": {},
+    "netskin.com": {},
+    "mag.net.id": {
+        "http://lg.mag.net.id": {
+            "ipv4": {
+                "103.18.133.251": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "futuredigitalnet.com": {},
+    "fiber7.net.br": {},
+    "glonetwork.com.au": {},
+    "gts.pl": {},
+    "as1403.net": {
+        "http://lg.as1403.net/": {
+            "ipv4": {
+                "96.127.255.94": "Montreal, Canada"
+            },
+            "ipv6": {
+                "2606:6d00:0:99::b1b9": "Montreal, Canada"
+            }
+        }
+    },
+    "mcinfor.com.br": {},
+    "unilogicnetworks.net": {},
+    "vodafone.is": {},
+    "gasatek.co.id": {},
+    "maisnet.com.br": {
+        "http://nsa1.maisnet.com.br/lg/": {
+            "ipv4": {
+                "201.182.166.26": "Santana de Parnaiba, Brazil"
+            },
+            "ipv6": {
+                "2804:4330:8000:a::2": "Brazil"
+            }
+        }
+    },
+    "cbccom.net": {},
+    "agti.co.id": {},
+    "tario.ru": {
+        "lg.tario.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as212783.net": {
+        "lg.as212783.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "kemnet.ke": {
+        "lg.kemnet.ke": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as132808.net.au": {
+        "lg.as132808.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "g3telecompi.com.br": {},
+    "as34288.net": {},
+    "upixnetworks.com": {
+        "lg.upixnetworks.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rix.radom.pl": {
+        "lg.rix.radom.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "interka.pl": {},
+    "ixtelecom.net": {
+        "lg.ixtelecom.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "debiantipp.se": {},
+    "allpointsbroadband.com": {
+        "lg.allpointsbroadband.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "artha.net.id": {},
+    "tel.ru": {
+        "lg.tel.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "launtel.net.au": {
+        "lg.launtel.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "plusnetprovedor.net.br": {},
+    "ntc.net.np": {},
+    "as63031.net": {},
+    "koberturatelecom.com.br": {},
+    "gaertner.de": {},
+    "greenmini.host": {},
+    "najatelecom.com.br": {},
+    "datamossa.io": {
+        "http://looking-glass.datamossa.io": {
+            "ipv4": {
+                "103.126.53.66": "Australia"
+            },
+            "ipv6": {
+                "2404:5c0:153::13:8466:1": "Australia"
+            }
+        }
+    },
+    "indanettelecom.com.br": {},
+    "nerim.net": {},
+    "unesp.br": {},
+    "piter-ix.ru": {
+        "lg.piter-ix.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "kasm.eu": {
+        "lg.kasm.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "neidetelecom.com": {},
+    "battle.net": {},
+    "sentrian.net.au": {
+        "lg.sentrian.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "aapsi.og.ao": {
+        "lg.aapsi.og.ao": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bital.net.br": {},
+    "da-rz.de": {},
+    "vserver.site": {
+        "https://lg-dus.vserver.site/": {
+            "ipv4": {
+                "185.244.27.121": "D\u00fcsseldorf, Germany"
+            },
+            "ipv6": {
+                "2a0f:5707:aa81:ffff:ffff:ffff:448b:b94e": "Lingen, Germany"
+            }
+        }
+    },
+    "ecix.net": {},
+    "netshelter.org": {
+        "lg.services.netshelter.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "seliga.net.br": {},
+    "ggamaur.net": {
+        "lg.ggamaur.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "zgelettronica.com": {
+        "http://lookingglass.zgelettronica.com": {
+            "ipv4": {
+                "149.13.146.41": "Sovizzo, Italy"
+            },
+            "ipv6": {}
+        }
+    },
+    "as30781.net": {},
+    "grupogtd.com": {},
+    "ll-ix.com": {
+        "lg.ll-ix.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "lankabell.com": {},
+    "woomai.net": {},
+    "sid.net.id": {},
+    "creationonlinebd.com": {},
+    "itk.sumy.ua": {},
+    "telefonet.ru": {
+        "lg.telefonet.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as48173.net": {
+        "lg.as48173.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "iranet.ir": {
+        "lg.iranet.ir": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ropnix.com": {
+        "lg.ropnix.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ines.ro": {
+        "lg.ines.ro": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "http://speed.ines.ro/lg": {
+            "ipv4": {
+                "89.149.0.26": "Bucharest, Romania"
+            },
+            "ipv6": {
+                "2a02:2a00::1a": "Romania"
+            }
+        }
+    },
+    "lnptelecom.com.br": {},
+    "topnetbd.com": {},
+    "as204438.net": {},
+    "melbourne.co.uk": {},
+    "hostedbackbone.net": {
+        "lg.hostedbackbone.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "inn.ru": {
+        "lg.inn.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tiangua.com.br": {
+        "lg.tiangua.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "iptp.net": {},
+    "o3bnetworks.net": {
+        "lg.o3bnetworks.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "intnet.io": {
+        "lg.intnet.io": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "onciti.com.br": {},
+    "cirex.ru": {},
+    "telxius.com": {},
+    "apik.co.id": {},
+    "as55803.net.au": {
+        "lg.as55803.net.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "airlinktt.co": {
+        "lg.airlinktt.co": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "evolva.ro": {},
+    "net-rubi.com.br": {},
+    "iveloz.net.br": {},
+    "is1net.net": {
+        "lg.is1net.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "3rox.net": {},
+    "ruhr-cix.net": {
+        "lg.ruhr-cix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "kapteyan.com.tr": {
+        "http://lg.kapteyan.com.tr": {
+            "ipv4": {
+                "213.238.172.3": "Istanbul, Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "colocall.net": {},
+    "vnetso.com": {},
+    "sul.net.br": {},
+    "eivus.com": {},
+    "vcnet.com.br": {
+        "lg.vcnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "su.mt": {},
+    "veloo.com.br": {},
+    "aplitt.net": {
+        "lg.aplitt.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "starnet.md": {
+        "lg.starnet.md": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "it-communicationsltd.co.uk": {
+        "http://lg2.it-communicationsltd.co.uk/": {
+            "ipv4": {
+                "185.131.10.29": "United Kingdom"
+            },
+            "ipv6": {
+                "2a06:dd40:5600::7": "United Kingdom"
+            }
+        }
+    },
+    "najimaliraq.com": {},
+    "jsnetdourados.com.br": {},
+    "nodex.ru": {},
+    "andrexen.net": {},
+    "sdncommunications.com": {},
+    "fibrativainternet.com.br": {},
+    "is74.ru": {
+        "lg.is74.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "area9.com.au": {},
+    "as212582.net": {},
+    "directone.ro": {},
+    "unpad.ac.id": {
+        "lg.unpad.ac.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as20055.net": {
+        "lg.as20055.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as6453.net": {
+        "lg.as6453.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "grnet.gr": {},
+    "as211813.net": {
+        "lg.as211813.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "globalsecurelayer.com": {
+        "lg.globalsecurelayer.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tahtasolusindo.id": {},
+    "airgapped.io": {},
+    "vilanovanet.com": {
+        "https://vilanovanet.com/lg": {
+            "ipv4": {
+                "179.48.14.60": "Recife, Brazil",
+                "186.208.8.2": "Recife, Brazil"
+            },
+            "ipv6": {}
+        }
+    },
+    "mitues.com": {
+        "http://lg.mitues.com": {
+            "ipv4": {
+                "185.220.59.5": "Istanbul, Turkey"
+            },
+            "ipv6": {
+                "2a0c:f587:fffd:13::1": "Turkey"
+            }
+        }
+    },
+    "verizon.com": {
+        "https://enterprise.verizon.com/why-verizon/looking-glass/": {
+            "ipv4": {
+                "12.25.232.1": "United States"
+            },
+            "ipv6": {
+                "2001:67c:7b0::": "Bergen, Norway",
+                "2001:67c:7b0::1": "Bergen, Norway"
+            }
+        }
+    },
+    "unlimitednet.us": {
+        "http://lg.unlimitednet.us": {
+            "ipv4": {
+                "198.134.104.4": "Indianapolis, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "rnp.br": {},
+    "ibselektronics.pl": {},
+    "brasiltecpar.com.br": {
+        "lg.brasiltecpar.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "1-ix.net": {
+        "lg.1-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "forestnet.net.br": {},
+    "as50763.net": {},
+    "riu.edu.ar": {
+        "lg.riu.edu.ar": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "uar.net": {},
+    "anders.ru": {
+        "lg.anders.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "edgevm.com": {
+        "http://lg.edgevm.com/": {
+            "ipv4": {
+                "136.0.16.3": "San Francisco, United States"
+            },
+            "ipv6": {
+                "2607:f358:1a:1::c0dc:84b2": "United States"
+            }
+        }
+    },
+    "ix.asn.au": {
+        "lg.ix.asn.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gtitelecom.net.br": {
+        "lg.gtitelecom.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "optixtransit.eu": {},
+    "gss.global": {},
+    "fullroute.net": {},
+    "voxility.com": {},
+    "supplyframe.com": {},
+    "idegroup.com": {},
+    "zsttk.ru": {
+        "lg.zsttk.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "dbns.net.id": {},
+    "relianceinfo.com": {},
+    "easynet.net": {},
+    "pinspb.ru": {
+        "lg.pinspb.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "milecom.ru": {},
+    "huge-networks.com": {
+        "lg.huge-networks.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mowoe.com": {
+        "lg.mowoe.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "solnode.io": {},
+    "delta-telecom.net": {},
+    "omegatelecom.ua": {
+        "lg.omegatelecom.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "may.network": {},
+    "severen.ru": {},
+    "interconnect.ro": {
+        "http://www.interconnect.ro/date/datacenter/": {
+            "ipv4": {
+                "317.10.88.88": "n/a"
+            },
+            "ipv6": {}
+        }
+    },
+    "sfmix.org": {
+        "lg.sfmix.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "vdsinside.com": {},
+    "unitasglobal.net": {
+        "lg.unitasglobal.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "leaptel.com.au": {},
+    "sebratel.net.br": {
+        "lg.sebratel.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "5v.vc": {},
+    "wirelink.com.br": {},
+    "cloudsingularity.net": {
+        "lg.cloudsingularity.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "redemegasnet.com.br": {},
+    "rt.ru": {
+        "lg.ip.rt.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "prismarede.com.br": {},
+    "ip2.net": {},
+    "ensite.com.br": {
+        "lg.ensite.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as8304.eu": {},
+    "commercialnetworkservices.net": {},
+    "as6908.net": {},
+    "gibtele.com": {
+        "lg.gibtele.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pidginhost.net": {
+        "lg.pidginhost.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rackcentral.com.au": {
+        "lg.rackcentral.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "zhiccc.net": {
+        "lg.zhiccc.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "lg-nrt.zhiccc.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "lg-las.zhiccc.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as55799.net": {},
+    "devclic.net": {},
+    "7n.net.br": {},
+    "omnilance.com": {
+        "http://lg.omnilance.com": {
+            "ipv4": {
+                "185.126.112.24": "Mykolayiv, Ukraine"
+            },
+            "ipv6": {
+                "2a06:c0c0:16::16": "Ukraine"
+            }
+        }
+    },
+    "ja.net": {},
+    "netrouting.net": {
+        "https://lg.netrouting.net/": {
+            "ipv4": {
+                "162.158.91.18": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        },
+        "lg.netrouting.net": {
+            "ipv4": {
+                "162.158.91.116": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "sfnet.com.br": {
+        "lg.sfnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "colt.net": {},
+    "oknetinfor.com.br": {},
+    "indocyber.net.id": {
+        "http://lg.indocyber.net.id": {
+            "ipv4": {
+                "103.31.132.129": "Bogor, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "bignetfoz.com.br": {},
+    "mundowebtelecom.com.br": {},
+    "noc.xin": {},
+    "vpsaliens.com": {},
+    "econnecttelecom.com.br": {},
+    "infomex.pl": {
+        "lg.infomex.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rvr.in": {
+        "lg.rvr.in": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "conectectelecom.com.br": {},
+    "cloudteknologinusantara.co.id": {},
+    "steps-tele.com": {},
+    "vizit-net.com": {
+        "lg.vizit-net.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as32030.net": {
+        "lg.as32030.net": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "http://lg.wi.as32030.net": {
+            "ipv4": {
+                "192.40.141.29": "United States"
+            },
+            "ipv6": {
+                "2620:128:7000::1000": "United States"
+            }
+        },
+        "http://lg.kc.as32030.net": {
+            "ipv4": {
+                "192.40.140.13": "United States"
+            },
+            "ipv6": {
+                "2620:128:7002:1::8ed": "United States"
+            }
+        }
+    },
+    "as131657.net": {},
+    "technet-telecom.net.br": {},
+    "hawetelekom.pl": {},
+    "itgate.net": {},
+    "bboi.net": {},
+    "area51telecom.com.br": {},
+    "auvernix.net": {},
+    "skyinf.net": {},
+    "ittv.com.br": {
+        "lg.ittv.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as196922.net": {},
+    "gigatrans.ua": {},
+    "nerdnet.nl": {},
+    "ix.ks.ua": {
+        "lg.ix.ks.ua": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "faciliti.com.br": {},
+    "ntt.net": {},
+    "igloo.to": {
+        "lg.igloo.to": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "path.net": {
+        "https://lg.path.net": {
+            "ipv4": {
+                "205.220.231.16": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "hostnetworks.com.au": {},
+    "as199071.net": {},
+    "gobcn.ca": {
+        "lg.gobcn.ca": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "stampcyberlan.com.br": {},
+    "copaco.cloud": {
+        "lg.copaco.cloud": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as211350.net": {},
+    "provedorspeednet.com.br": {},
+    "zxinc.org": {},
+    "webair.com": {},
+    "cwseychelles.com": {},
+    "muut.com.br": {},
+    "hostkey.net": {
+        "lg.hostkey.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "foxxprovider.com.br": {
+        "lg.foxxprovider.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "idroot.com": {
+        "https://www.idroot.com/datacenter-network": {
+            "ipv4": {
+                "3.6.0.1": "Mumbai, India"
+            },
+            "ipv6": {}
+        }
+    },
+    "sctv.co.id": {},
+    "hoi.li": {
+        "lg.hoi.li": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "fusedit.com.au": {},
+    "kujtesa.com": {},
+    "grahamedia.net.id": {
+        "http://lg.grahamedia.net.id": {
+            "ipv4": {
+                "117.74.122.3": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "warian.net": {},
+    "ultranet-usa.com": {
+        "lg.ultranet-usa.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "impactotelecom.com": {},
+    "redetjnet.com.br": {
+        "lg.redetjnet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rackspace.com": {},
+    "as393941.net": {},
+    "procloud.ru": {
+        "lg.procloud.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pirxnet.pl": {},
+    "nirvanet.org": {
+        "lg.nirvanet.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "tivi.bg": {},
+    "arc.net.my": {},
+    "brightstarnetwork.net.bd": {},
+    "nonexiste.net": {},
+    "netsg.net.au": {},
+    "as59715.net": {},
+    "sfr.net": {},
+    "jbinfo.com.br": {},
+    "agnetbandalarga.com.br": {},
+    "optimus.com.bd": {},
+    "hostlab.com": {},
+    "maxistelecom.com.br": {
+        "lg.maxistelecom.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "widell.net": {},
+    "regnets.ru": {
+        "lg.regnets.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "microtell.com.br": {},
+    "moji.fr": {
+        "lg.moji.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cloudie.network": {
+        "lg.cloudie.network": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "hqserv.co.il": {
+        "http://vps.hqserv.co.il/lg/": {
+            "ipv4": {
+                "185.191.204.10": "Or Yehuda, Israel"
+            },
+            "ipv6": {
+                "2a0a:1dc0::2": "Israel"
+            }
+        }
+    },
+    "ni.net.tr": {
+        "http://lg.ni.net.tr/": {
+            "ipv4": {
+                "159.253.40.22": "Turkey"
+            },
+            "ipv6": {
+                "2a03:2100::22": "Turkey"
+            }
+        }
+    },
+    "creraltelecom.com.br": {},
+    "infraco.co.za": {},
+    "wtnet.de": {},
+    "as29119.net": {
+        "lg.as29119.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "d-com.pl": {},
+    "edx-net.fr": {},
+    "web4africa.net": {
+        "http://lg.web4africa.net": {
+            "ipv4": {
+                "169.255.59.73": "South Africa"
+            },
+            "ipv6": {
+                "2c0f:f598:0:0:0:0:0:73": "South Africa"
+            }
+        }
+    },
+    "plustelecom.ru": {
+        "lg.plustelecom.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "seabone.net": {},
+    "belwue.de": {
+        "belwue.de/tools/speedtest.html": {
+            "ipv4": {
+                "129.143.4.238": "Bad Herrenalb, Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "untc.net": {},
+    "privex.io": {
+        "lg.privex.io": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "stonynet.com.br": {},
+    "loosetelecom.com.br": {},
+    "brcentral.com.br": {},
+    "fastreturn.net": {},
+    "fiord.ru": {},
+    "unix-solutions.be": {
+        "https://lg.unix-solutions.be": {
+            "ipv4": {
+                "109.68.160.208": "Zaventem, Belgium"
+            },
+            "ipv6": {
+                "2a02:2a08:102::208": "Belgium"
+            }
+        },
+        "https://lg-leu.unix-solutions.be": {
+            "ipv4": {
+                "185.111.204.208": "Machelen, Belgium"
+            },
+            "ipv6": {
+                "2a04:6480:101::208": "Belgium"
+            }
+        }
+    },
+    "as29527.net": {},
+    "zamix.com.br": {},
+    "atrinnet.net": {
+        "http://lg.atrinnet.net": {
+            "ipv4": {
+                "185.229.28.50": "Iran"
+            },
+            "ipv6": {}
+        }
+    },
+    "eneeapp.com": {},
+    "digitalcable.ro": {},
+    "msk-ix.ru": {
+        "http://www.msk-ix.ru/eng/lookingglass.html": {
+            "ipv4": {
+                "195.208.208.32": "Russia"
+            },
+            "ipv6": {}
+        }
+    },
+    "mni.pl": {},
+    "w8telecom.com.br": {},
+    "as16584.net": {
+        "lg.as16584.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "webex.com": {},
+    "digicontrol.com.br": {},
+    "sox.rs": {},
+    "vxroutes.com": {},
+    "bknix.co.th": {
+        "https://bknix.co.th/en/lg": {
+            "ipv4": {
+                "203.159.70.23": "Thailand"
+            },
+            "ipv6": {
+                "2001:deb:0:4070::23": "Thailand"
+            }
+        }
+    },
+    "telic.net.br": {
+        "lg.telic.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ipserverone.com": {
+        "http://lg4.ipserverone.com/": {
+            "ipv4": {
+                "103.197.57.54": "Malaysia"
+            },
+            "ipv6": {}
+        }
+    },
+    "as51468.net": {},
+    "mprr.mp.br": {},
+    "transdata.net.id": {},
+    "beryju.org": {},
+    "nac.net": {},
+    "as211484.net": {
+        "lg.as211484.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "aranet.net.br": {
+        "lg.aranet.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "airtel.in": {},
+    "bgp.ro": {},
+    "abnturbonet.com.br": {},
+    "interip.com.br": {},
+    "as207564.net": {},
+    "certto.com.br": {},
+    "altushost.com": {
+        "https://www.altushost.com/europe-data-centers/": {
+            "ipv4": {
+                "128.127.104.4": "Stockholm, Sweden",
+                "37.46.114.4": "Sofia, Bulgaria",
+                "37.46.115.115": "Belgrade, Serbia",
+                "79.142.67.67": "Netherlands",
+                "79.142.69.9": "Zurich, Switzerland"
+            },
+            "ipv6": {}
+        }
+    },
+    "0l.de": {
+        "lg.0l.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "gigamonster.net": {},
+    "mpline.com.br": {},
+    "virtutel.com.au": {},
+    "twtelecom.net": {},
+    "online.net.br": {
+        "lg.online.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "theipport.com": {},
+    "avantel.ru": {},
+    "mbix.ca": {
+        "lg.mbix.ca": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "primabananen.net": {
+        "lg.primabananen.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rasibintang.net.id": {},
+    "natesales.net": {},
+    "as43810.net": {},
+    "3winfra.com": {},
+    "interlink.to": {},
+    "hkonline.com.bd": {},
+    "sooutelecom.com.br": {},
+    "queryfoundry.net": {},
+    "as207960.net": {
+        "lg.as207960.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "msolinternet.com.br": {},
+    "eunetworks.com": {},
+    "herzacloud.com": {
+        "http://lg-cyber1.herzacloud.com": {
+            "ipv4": {
+                "103.152.118.76": "Indonesia"
+            },
+            "ipv6": {}
+        },
+        "https://lg-ncix.herzacloud.com": {
+            "ipv4": {
+                "103.168.146.146": "Indonesia"
+            },
+            "ipv6": {}
+        },
+        "https://lg-tifa.herzacloud.com": {
+            "ipv4": {
+                "103.160.63.161": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "globalcom.lv": {},
+    "sgix.sg": {},
+    "dedic-center.ru": {},
+    "brasilnet.net.br": {},
+    "uplinktel.com.br": {},
+    "teksavvy.com": {},
+    "data102.com": {},
+    "netrino.co.uk": {},
+    "ninepacket.com": {},
+    "w2i.net.br": {},
+    "as200552.net": {},
+    "as213234.net.tr": {
+        "lg.as213234.net.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netix.net": {
+        "lg.netix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "maxlink-tele.com": {},
+    "wxnz.net": {},
+    "cedrotelecom.com.br": {},
+    "silesnet.net": {
+        "lg.silesnet.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sciuridae.network": {
+        "lg.sciuridae.network": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "opteamax.net": {
+        "lg.opteamax.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as269070.net": {},
+    "rtrw.net.id": {},
+    "cni.net.id": {
+        "lg.cni.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as53597.net": {
+        "lg.as53597.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "acom.net.ua": {},
+    "infotek.net.id": {},
+    "coopercitrus.com.br": {},
+    "interoute.com": {},
+    "linqtelecom.com.br": {},
+    "smartterra.eu": {},
+    "merlin.mb.ca": {
+        "lg2.merlin.mb.ca": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "rnv.net.br": {
+        "lg.rnv.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "jupiterbd.com": {},
+    "rinet.ru": {},
+    "lagos.net.br": {},
+    "1und1.net": {},
+    "online.kz": {},
+    "as23420.net": {},
+    "bcix.de": {
+        "lg.bcix.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "bellmtsdatacentres.com": {},
+    "hkserversolution.com": {},
+    "justg.com": {
+        "lg.justg.com": {
+            "ipv4": {
+                "102.223.74.212": "Seychelles"
+            },
+            "ipv6": {
+                "2a0c:0640:0000:0001:0000:0000:363b:9b95": "Hong Kong"
+            }
+        },
+        "https://rulg.justg.com/": {
+            "ipv4": {
+                "45.150.236.107": "Moscow, Russia"
+            },
+            "ipv6": {}
+        }
+    },
+    "more.net": {},
+    "vodansa.net": {},
+    "as211553.net": {},
+    "ilognet.com.br": {
+        "lg.ilognet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as8423.net": {},
+    "everywan.com": {
+        "lg.everywan.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "globalcrossing.com": {},
+    "cern.ch": {
+        "lg.cern.ch": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "omnix.link": {},
+    "maxihost.com": {
+        "lg.maxihost.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cable.st": {
+        "http://lg.cable.st/": {
+            "ipv4": {
+                "185.250.184.198": "United Kingdom"
+            },
+            "ipv6": {
+                "2a00:dcc7:2202:3e3::4ab6": "Italy"
+            }
+        }
+    },
+    "crimea-com.net": {
+        "lg.crimea-com.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "espacovip.net": {},
+    "grifon.fr": {
+        "lg.grifon.fr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "petrus.pl": {
+        "lg.petrus.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "energy-bg.org": {},
+    "mixp.org": {
+        "lg.mixp.org": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "enpls.org": {},
+    "infomaisnet.com": {},
+    "nix.cz": {},
+    "tek.net.tr": {
+        "lg.tek.net.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "renater.fr": {},
+    "rionetisp.com.br": {},
+    "inovadoranet.com.br": {},
+    "cloudhost.id": {},
+    "invistanet.com.br": {},
+    "azecom.com.br": {},
+    "prolixium.com": {},
+    "ampernet.com.br": {
+        "lg.ampernet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as48646.de": {},
+    "valerianet.com.br": {},
+    "startnet.psi.br": {},
+    "ext-dc.de": {
+        "lg.ext-dc.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "chapal.com": {},
+    "netins.net": {},
+    "minutostelecom.com.br": {},
+    "iptelligent.net": {},
+    "blackfoot.com": {},
+    "cifo.net.id": {
+        "lg.cifo.net.id": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ultrawave.com.br": {
+        "lg.ultrawave.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ti5.com.br": {},
+    "reconn.ru": {},
+    "nixus.es": {},
+    "conectamaisvc.net.br": {},
+    "itandtel.at": {
+        "lg.itandtel.at": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nwt.net.br": {},
+    "conectafibra.com.br": {},
+    "ultranet.biz": {},
+    "ots-net.ru": {},
+    "as8932.net": {
+        "lg.as8932.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ix.km.ua": {},
+    "datahata.by": {
+        "lg.datahata.by": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pnwgp.net": {},
+    "as2110.net": {
+        "lg.as2110.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "grmml.net": {
+        "lg.bb.grmml.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "brasnetinformatica.com.br": {},
+    "massivetelecom.ro": {},
+    "jhstelecom.com.br": {},
+    "maverick.com.pl": {},
+    "as5388.net": {},
+    "citynet.at": {
+        "https://lg.citynet.at/": {
+            "ipv4": {
+                "195.149.216.5": "Hall in Tirol, Austria"
+            },
+            "ipv6": {
+                "2a02:28e8:3:2::21": "Austria"
+            }
+        }
+    },
+    "i-evolve.net": {},
+    "novotelecom.ru": {},
+    "ipiplatform.com": {
+        "lg.ipiplatform.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sunrise.ch": {},
+    "tpix.pl": {
+        "lg.tpix.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ff-en.de": {},
+    "nyiix.net": {
+        "lg.nyiix.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "comcor.ru": {},
+    "foxline.net.id": {},
+    "jump.net.uk": {},
+    "atlex.ru": {},
+    "hlp.net.br": {
+        "http://lg.hlp.net.br": {
+            "ipv4": {
+                "164.163.108.50": "S\u00e3o Paulo, Brazil"
+            },
+            "ipv6": {
+                "2804:404c:1001::2": "Brazil"
+            }
+        }
+    },
+    "supranet.net": {
+        "lg.supranet.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "lhisp.com": {},
+    "netbiostele.com.br": {},
+    "as47787.net": {
+        "https://lg.as47787.net/": {
+            "ipv4": {
+                "185.166.144.242": "Lisbon, Portugal"
+            },
+            "ipv6": {
+                "2a0d:82c0:0:3:5054:ff:fe0b:fd40": "Lisbon, Portugal"
+            }
+        }
+    },
+    "qnax.com.br": {},
+    "pilotfiber.com": {},
+    "jlnetworks.com": {},
+    "sanitytechnology.com.au": {
+        "lg.sanitytechnology.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "complexa.net.br": {},
+    "as8218.eu": {
+        "lg.as8218.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "elointernet.com.br": {
+        "lg.elointernet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as50236.com": {},
+    "emexinternet.com.br": {},
+    "verixi.net": {
+        "lg.verixi.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "i4networks.nl": {
+        "https://lg.i4networks.nl/": {
+            "ipv4": {
+                "195.246.236.60": "Almelo, Netherlands"
+            },
+            "ipv6": {}
+        }
+    },
+    "exatel.pl": {
+        "lg.exatel.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ecotelecom.ru": {
+        "lg.ecotelecom.ru": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "truenetwork.ru": {
+        "http://lg.truenetwork.ru": {
+            "ipv4": {
+                "94.247.111.2": "Novokuznetsk, Russia"
+            },
+            "ipv6": {
+                "2a02:47a0:a::2": "Russia"
+            }
+        },
+        "edge2.lg.truenetwork.ru": {
+            "ipv4": {
+                "185.54.244.2": "Belovo, Russia"
+            },
+            "ipv6": {}
+        }
+    },
+    "argon.co.id": {},
+    "dmctelecom.com.br": {},
+    "liquidweb.com": {
+        "http://lg.liquidweb.com/": {
+            "ipv4": {
+                "67.227.243.243": "United States"
+            },
+            "ipv6": {
+                "2607:fad0:3509:2::": "United States"
+            }
+        }
+    },
+    "fasttrackcomm.net": {
+        "lg.fasttrackcomm.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "k2telecom.net.br": {
+        "lg.k2telecom.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ikadmin.com": {},
+    "as42093.net": {},
+    "telbrax.com.br": {},
+    "lowhosting.io": {
+        "https://lg.lowhosting.io/": {
+            "ipv4": {
+                "45.141.57.99": "Rovigo, Italy"
+            },
+            "ipv6": {
+                "2a0e:b107:dd0::2:e4af:ca53": "Switzerland"
+            }
+        }
+    },
+    "spd.net.tr": {
+        "http://lg.spd.net.tr/": {
+            "ipv4": {
+                "178.20.231.236": "Turkey"
+            },
+            "ipv6": {}
+        }
+    },
+    "ibd.nz": {},
+    "megaport.com": {
+        "lg.megaport.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ptt.br": {},
+    "sandya.net": {
+        "lg.sandya.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "grupoabenet.com.br": {
+        "lg.grupoabenet.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "mnet.bg": {},
+    "vanilla.co.za": {
+        "lg.vanilla.co.za": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netw.fr": {},
+    "pwnet.net.br": {
+        "lg.pwnet.net.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as5580.net": {},
+    "alog.com.br": {
+        "lg.alog.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "giganet.psi.br": {
+        "lg.giganet.psi.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ivi.ru": {},
+    "nitex.cz": {
+        "lg.nitex.cz": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "status.ks.ua": {},
+    "aussiebroadband.com.au": {
+        "lg.aussiebroadband.com.au": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "svwh.net": {},
+    "as59605.net": {
+        "lg.as59605.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nexthop.no": {
+        "http://lg.nexthop.no/": {
+            "ipv4": {
+                "91.90.109.129": "Oslo, Norway",
+                "91.218.184.13": "Norway",
+                "91.218.184.35": "Norway",
+                "91.90.105.249": "Oslo, Norway",
+                "91.90.105.241": "Oslo, Norway"
+            },
+            "ipv6": {}
+        }
+    },
+    "fiberband.net": {},
+    "vocus.com.au": {},
+    "garanntor.com": {},
+    "xelent.ru": {
+        "lg.xelent.ru": {
+            "ipv4": {
+                "46.229.216.70": "Russia"
+            },
+            "ipv6": {
+                "2a01:6520:2:5::2": "Russia"
+            }
+        }
+    },
+    "eletronicabk.com.br": {},
+    "vuetelitalia.it": {},
+    "pico.net.bd": {
+        "lg.pico.net.bd": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "blacknight.ie": {},
+    "keibiins.net": {},
+    "goline.ch": {},
+    "ststelecom.com": {},
+    "pbwcomm.com": {
+        "lg.pbwcomm.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netpremium.net.br": {},
+    "as328391.com": {},
+    "rcn.net": {
+        "lg.rcn.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "xrnet.com.br": {},
+    "adamo.es": {
+        "lg.adamo.es": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "atman.pl": {
+        "lg.atman.pl": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "as213248.online": {},
+    "ntt.net.id": {},
+    "asaptelecom.com.br": {},
+    "as209833.ch": {},
+    "servergurus.de": {
+        "lg.servergurus.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "sunet.se": {
+        "lookingglass.sunet.se": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "grupocg.cl": {
+        "https://lg.grupocg.cl/": {
+            "ipv4": {
+                "177.221.141.8": "Santiago, Chile"
+            },
+            "ipv6": {}
+        }
+    },
+    "mtnbusiness.net": {},
+    "fra.de": {},
+    "layer42.net": {},
+    "ist.de": {},
+    "mrs.de": {},
+    "datacenter.eu": {
+        "lg.datacenter.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "https://www.datacenter.eu/news/f5-networks-completes-volterra-acquisition/": {
+            "ipv4": {
+                "80.92.83.42": "Luxembourg"
+            },
+            "ipv6": {}
+        }
+    },
+    "pmo.de": {},
+    "ham.de": {},
+    "lis.de": {},
+    "muc.de": {},
+    "linxdatacenter.com": {},
+    "mad.de": {},
+    "dus.de": {},
+    "bcn.de": {},
+    "dfw.de": {},
+    "ord.de": {},
+    "nyc.de": {
+        "lg.nyc.de": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "virtualgiga.com.br": {
+        "virtualgiga.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "www.virtualgiga.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        },
+        "central.virtualgiga.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ric.de": {},
+    "whatsapp.com": {},
+    "gixtools.net": {},
+    "itsinternet.net": {},
+    "alwyzon.net": {},
+    "op-sec.us": {
+        "mrlg.op-sec.us": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "nessus.at": {
+        "lg.nessus.at": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "enterzone.net": {},
+    "itdnet.net": {},
+    "neterra.net": {
+        "lg.neterra.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "netissat.bg": {
+        "lg.netissat.bg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "telecoms.bg": {
+        "lg.telecoms.bg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "powernet.bg": {
+        "lg.powernet.bg": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "varna.net": {
+        "lg.varna.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "att.net": {},
+    "above.net": {},
+    "taide.net": {},
+    "sldc.pl": {},
+    "sourceforge.net": {},
+    "oetiker.ch": {},
+    "tmsoft.com.br": {},
+    "oneCorp.eu": {
+        "lg-v4.oneCorp.eu": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "udc.no": {},
+    "3.dk": {
+        "http://lg.3.dk": {
+            "ipv4": {
+                "80.251.195.71": "Stockholm, Sweden"
+            },
+            "ipv6": {
+                "2a02:aa0:0:2d:6612:25ff:fe36:aa6a": "Sweden"
+            }
+        }
+    },
+    "smartconnect.id": {},
+    "bya.ac": {
+        "https://nyc-lg.bya.ac/": {
+            "ipv4": {
+                "185.188.7.6": "New York, United States"
+            },
+            "ipv6": {}
+        },
+        "https://tpa-lg.bya.ac/": {
+            "ipv4": {
+                "185.177.82.72": "Tampa, United States"
+            },
+            "ipv6": {}
+        },
+        "https://dal-lg.bya.ac/": {
+            "ipv4": {
+                "185.208.168.74": "Dallas, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "pilot.org.ua": {},
+    "binarylane.com.au": {},
+    "as32020.net": {},
+    "ibm.com": {},
+    "untc.net.ua": {},
+    "dedic-center.com": {},
+    "mohonmaaf.com": {
+        "lg.mohonmaaf.com": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "pnw-gigapop.net": {
+        "lookingglass.pnw-gigapop.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "cnh.at": {},
+    "m247.ro": {},
+    "domru.ru": {},
+    "spidersweb.pl": {},
+    "washingtonpost.com": {},
+    "mkk.com.tr": {},
+    "as14525.net": {},
+    "korbank.pl": {},
+    "googleusercontent.com": {},
+    "instagram.com": {},
+    "freifunkstattangst.de": {},
+    "estruxture.com": {},
+    "algo.com.pl": {},
+    "fb.me": {},
+    "naquadria.net": {
+        "lg.naquadria.net": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "AS207803.net": {
+        "lg.AS207803.net": {
+            "ipv4": {
+                "185.224.145.66": "Delft, Netherlands"
+            },
+            "ipv6": {
+                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, Netherlands"
+            }
+        }
+    },
+    "wi.com.tr": {
+        "bilgi.wi.com.tr": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "divulgasgs.com.br": {
+        "divulgasgs.com.br": {
+            "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "websquad.co.za": {},
+    "andrewnet.net": {},
+    "ovhcloud.com": {},
+    "google.com": {},
+    "controlcircle.com": {},
+    "1telecom.com.br": {},
+    "tche.br": {},
+    "globaltransit.net": {},
+    "routeservers.org": {},
+    "byteania.com": {},
+    "server24.it": {},
+    "hostingvergelijker.nl": {},
+    "webhosters.nl": {},
+    "serveroffer.lt": {},
+    "trustpilot.com": {},
+    "vcloud.bg": {},
+    "server.ua": {},
+    "fusionconnect.com": {},
+    "sa.net": {},
+    "gigenetcloud.com": {},
+    "minhaconexao.com.br": {},
+    "malaysia-vps.com": {},
+    "rapiddc.pl": {},
+    "infinitelyvirtual.com": {},
+    "dell.com": {},
+    "neterra.cloud": {},
+    "connectyourhosting.com": {},
+    "cloud86.nl": {},
+    "cloud-ix.net": {
+        "lg.cloud-ix.net": {
+            "ipv4": {},
+            "ipv6": {}
         }
     }
 }

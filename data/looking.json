@@ -1088,6 +1088,12 @@
                 "2a09:7c44::10a2"
             ]
         },
+        "looking.house/point.php?id=554": {
+            "ipv4": [
+                "146.19.170.34"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=186": {
             "ipv4": [
                 "45.67.230.12"
