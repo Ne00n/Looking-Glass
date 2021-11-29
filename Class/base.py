@@ -11,7 +11,7 @@ class Base():
             print("Could not find GeoLite2-City.mmdb")
 
     def merge(self):
-        ignore = ["8.8.8.8","198.251.86.22"]
+        ignore = ["8.8.8.8","198.251.86.22","1.1.1.1","4.2.2.2"]
         list,once = {},{}
         files = os.listdir(os.getcwd()+"/data/")
         for file in files:
