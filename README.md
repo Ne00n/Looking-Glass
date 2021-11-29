@@ -1549,8 +1549,6 @@
 * [https://lg.yyz.as212934.net/](http://https://lg.yyz.as212934.net/)
 ### php-friends.de
 * [https://lg.php-friends.de](http://https://lg.php-friends.de)
-### check-host.net
-* [https://check-host.net/check-ping](http://https://check-host.net/check-ping)
 ### crowncloud.net
 * [http://crowncloud.net/datacenters.php](http://http://crowncloud.net/datacenters.php)
 ### vpscheap.net
@@ -2587,8 +2585,6 @@
 * [lg.sdv.fr](http://lg.sdv.fr)
 ### inext.cz
 * [lg.inext.cz](http://lg.inext.cz)
-### angolacables.co.ao
-* [https://lg.angolacables.co.ao/](http://https://lg.angolacables.co.ao/)
 ### eleusi.com
 * [lg.eleusi.com](http://lg.eleusi.com)
 ### heinlein-support.de

@@ -8953,14 +8953,7 @@
     },
     "sprintdatacenter.pl": {},
     "leasewebstatus.com": {},
-    "check-host.net": {
-        "https://check-host.net/check-ping": {
-            "ipv4": {
-                "4.2.2.2": "United States"
-            },
-            "ipv6": {}
-        }
-    },
+    "check-host.net": {},
     "crowncloud.net": {
         "http://crowncloud.net/datacenters.php": {
             "ipv4": {
@@ -13342,14 +13335,7 @@
             "ipv6": {}
         }
     },
-    "angolacables.co.ao": {
-        "https://lg.angolacables.co.ao/": {
-            "ipv4": {
-                "1.1.1.1": "Australia"
-            },
-            "ipv6": {}
-        }
-    },
+    "angolacables.co.ao": {},
     "eleusi.com": {
         "lg.eleusi.com": {
             "ipv4": {},
