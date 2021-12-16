@@ -1,5 +1,5 @@
 import geoip2.database
-import json, os
+import ipaddress, json, os
 
 class Base():
 
@@ -25,6 +25,11 @@ class Base():
                         if not url in list[domain]: list[domain][url] = {"ipv4":{},"ipv6":{}}
                         if ips:
                             for ip in ips['ipv4']:
+                                try:
+                                    ip = ipaddress.ip_address(ip)
+                                except:
+                                    print(f'Dropping {ip}')
+                                    continue
                                 if ip in once[domain]: continue
                                 if ip in ignore: continue
                                 geo = self.geo(ip)
