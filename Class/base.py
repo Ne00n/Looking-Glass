@@ -36,6 +36,7 @@ class Base():
                                 if not ip in list[domain][url]['ipv4']: list[domain][url]['ipv4'][ip] = geo
                                 once[domain].append(ip)
                                 list[domain][url]['ipv4'] = {k: list[domain][url]['ipv4'][k] for k in sorted(list[domain][url]['ipv4'])}
+                                list[domain] = {k: list[domain][k] for k in sorted(list[domain])}
                             for ip in ips['ipv6']:
                                 if ip in once[domain]: continue
                                 if ip in ignore: continue
