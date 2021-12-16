@@ -26,7 +26,7 @@ class Base():
                         if ips:
                             for ip in ips['ipv4']:
                                 try:
-                                    ip = ipaddress.ip_address(ip)
+                                    tmp = ipaddress.ip_address(ip)
                                 except:
                                     print(f'Dropping {ip}')
                                     continue
@@ -35,6 +35,7 @@ class Base():
                                 geo = self.geo(ip)
                                 if not ip in list[domain][url]['ipv4']: list[domain][url]['ipv4'][ip] = geo
                                 once[domain].append(ip)
+                                list[domain][url]['ipv4'] = {k: list[domain][url]['ipv4'][k] for k in sorted(list[domain][url]['ipv4'])}
                             for ip in ips['ipv6']:
                                 if ip in once[domain]: continue
                                 if ip in ignore: continue
