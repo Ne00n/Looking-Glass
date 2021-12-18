@@ -1,4 +1,5 @@
 import geoip2.database
+import unicodedata
 import ipaddress, json, os
 
 class Base():
@@ -52,6 +53,7 @@ class Base():
         try:
             response = self.reader.city(ip)
             geo = f"{response.city.name}, {response.country.name}" if response.city.name else response.country.name
+            geo = unicodedata.normalize('NFKD', geo).encode('ASCII', 'ignore').decode("utf-8") 
         except Exception as e:
             print(f"Skipping geo lookup on {ip}")
         return geo
