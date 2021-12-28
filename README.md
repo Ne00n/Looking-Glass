@@ -823,6 +823,8 @@
 ### NeoServer
 * [looking.house/point.php?id=45](http://looking.house/point.php?id=45)
 * [looking.house/point.php?id=46](http://looking.house/point.php?id=46)
+### AEZA
+* [looking.house/point.php?id=557](http://looking.house/point.php?id=557)
 ### IHC
 * [looking.house/point.php?id=48](http://looking.house/point.php?id=48)
 * [looking.house/point.php?id=49](http://looking.house/point.php?id=49)
