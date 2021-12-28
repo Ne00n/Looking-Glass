@@ -1861,6 +1861,10 @@
 ### breezle.net
 * [lg-it.breezle.net](http://lg-it.breezle.net)
 * [lg-nl.breezle.net](http://lg-nl.breezle.net)
+### gcore
+* [https://lg.gcorelabs.com](http://https://lg.gcorelabs.com)
+### ovh
+* [https://lg.ovh.net](http://https://lg.ovh.net)
 ### intibu.com
 * [http://lg.intibu.com](http://http://lg.intibu.com)
 ### faraso.org
