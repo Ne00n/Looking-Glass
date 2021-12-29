@@ -3,17 +3,20 @@ import urllib.request, subprocess, json, sys, re, os
 sys.path.append(os.getcwd().replace("/tools",""))
 from Class.base import Base
 
-urls = {"gcore":"https://lg.gcorelabs.com","ovh":"https://lg.ovh.net"}
+urls = {"gcore":"https://lg.gcorelabs.com","ovh":"https://lg.ovh.net","meerfarbig":"https://meerblick.io"}
 
 def fetch(url):
-    print(f"Getting {url}")
-    request = urllib.request.urlopen(url, timeout=20)
-    if (request.getcode() == 200):
-        return request.read().decode('utf-8')  
+    try:
+        print(f"Getting {url}")
+        request = urllib.request.urlopen(url, timeout=20)
+        if (request.getcode() == 200):
+            return request.read().decode('utf-8')
+    except:
+        return False
 
 def cmd(command):
-        p = subprocess.run(f"{command}", stdin=None, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
-        return p.stdout.decode('utf-8')
+    p = subprocess.run(f"{command}", stdin=None, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+    return p.stdout.decode('utf-8')
 
 def fingPingable(ip):
     ip = ip.split('.')[:3]
@@ -26,6 +29,7 @@ def fingPingable(ip):
 results = {}
 for provider,url in urls.items():
     html = fetch(url)
+    if html is False: continue
     locations = re.findall('class="hosts"><a id="([a-zA-Z0-9]+)"',html, re.MULTILINE | re.DOTALL)
     locations = set(locations)
     for location in locations:
