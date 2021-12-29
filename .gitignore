@@ -1,3 +1,5 @@
 testdata
 src
 GeoLite2-City.mmdb
+asn.dat
+rib.202*

@@ -10529,6 +10529,38 @@
             "ipv6": {}
         }
     },
+    "OneProvider.com": {
+        "OneProvider.com": {
+            "ipv4": {
+                "156.238.26.1": "France",
+                "185.126.239.1": "Canada",
+                "185.186.79.1": "Copenhagen, Denmark",
+                "185.213.23.1": "Canada",
+                "185.90.61.1": "Oslo, Norway",
+                "37.143.130.1": "Madrid, Spain"
+            },
+            "ipv6": {}
+        }
+    },
+    "Online.net": {
+        "Online.net": {
+            "ipv4": {
+                "151.115.0.1": "Warsaw, Poland",
+                "163.172.208.1": "Amsterdam, Netherlands",
+                "195.154.0.5": "Paris, France",
+                "212.129.0.1": "Gennevilliers, France",
+                "212.47.224.2": "France",
+                "212.83.128.4": "Paris, France",
+                "212.83.160.3": "France",
+                "51.15.0.1": "Haarlem, Netherlands",
+                "51.158.0.8": "Paris, France",
+                "51.158.128.1": "Paris, France",
+                "62.210.0.2": "France",
+                "62.4.0.1": "France"
+            },
+            "ipv6": {}
+        }
+    },
     "ipinsight.io": {},
     "intibu.com": {
         "http://lg.intibu.com": {

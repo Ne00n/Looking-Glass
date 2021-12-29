@@ -1865,6 +1865,10 @@
 * [https://lg.gcorelabs.com](http://https://lg.gcorelabs.com)
 ### ovh
 * [https://lg.ovh.net](http://https://lg.ovh.net)
+### OneProvider.com
+* [OneProvider.com](http://OneProvider.com)
+### Online.net
+* [Online.net](http://Online.net)
 ### intibu.com
 * [http://lg.intibu.com](http://http://lg.intibu.com)
 ### faraso.org
