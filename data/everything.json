@@ -3010,18 +3010,6 @@
         }
     },
     "KhanWebHost": {
-        "looking.house/point.php?id=325": {
-            "ipv4": {
-                "207.32.216.45": "Phoenix, United States"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=326": {
-            "ipv4": {
-                "164.132.150.235": "France"
-            },
-            "ipv6": {}
-        },
         "looking.house/point.php?id=413": {
             "ipv4": {
                 "162.251.121.200": "North Kansas City, United States"
@@ -3031,12 +3019,6 @@
         "looking.house/point.php?id=474": {
             "ipv4": {
                 "139.99.190.146": "Sydney, Australia"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=551": {
-            "ipv4": {
-                "5.180.107.186": "Turkey"
             },
             "ipv6": {}
         }
@@ -3161,6 +3143,14 @@
         "looking.house/point.php?id=415": {
             "ipv4": {
                 "185.55.95.74": "Belgium"
+            },
+            "ipv6": {}
+        }
+    },
+    "Open IT Group": {
+        "looking.house/point.php?id=562": {
+            "ipv4": {
+                "45.227.156.25": "Cabreuva, Brazil"
             },
             "ipv6": {}
         }
@@ -3489,6 +3479,38 @@
         "looking.house/point.php?id=303": {
             "ipv4": {
                 "198.50.214.138": "Canada"
+            },
+            "ipv6": {}
+        }
+    },
+    "IPhoster": {
+        "looking.house/point.php?id=558": {
+            "ipv4": {
+                "54.38.155.132": "France"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=559": {
+            "ipv4": {
+                "137.74.150.56": "France"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=560": {
+            "ipv4": {
+                "51.195.249.116": "France"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=561": {
+            "ipv4": {
+                "51.222.196.32": "Canada"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=88": {
+            "ipv4": {
+                "146.59.30.168": "France"
             },
             "ipv6": {}
         }
@@ -4287,46 +4309,6 @@
             "ipv6": {}
         }
     },
-    "ILLY Hosting": {
-        "looking.house/point.php?id=247": {
-            "ipv4": {
-                "194.5.235.145": "Albania"
-            },
-            "ipv6": {}
-        }
-    },
-    "Intersect.host": {
-        "looking.house/point.php?id=266": {
-            "ipv4": {
-                "194.61.121.2": "Riga, Latvia"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=267": {
-            "ipv4": {
-                "194.61.120.2": "Kyiv, Ukraine"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=268": {
-            "ipv4": {
-                "193.38.55.19": "Meppel, Netherlands"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=269": {
-            "ipv4": {
-                "213.226.100.12": "Chisinau, Moldova"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=270": {
-            "ipv4": {
-                "193.201.126.8": "Moscow, Russia"
-            },
-            "ipv6": {}
-        }
-    },
     "YourServer": {
         "looking.house/point.php?id=20": {
             "ipv4": {
@@ -4371,6 +4353,26 @@
         "looking.house/point.php?id=257": {
             "ipv4": {
                 "103.140.45.195": "Seoul, South Korea"
+            },
+            "ipv6": {}
+        }
+    },
+    "Intersect.host": {
+        "looking.house/point.php?id=268": {
+            "ipv4": {
+                "193.38.55.19": "Meppel, Netherlands"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=269": {
+            "ipv4": {
+                "213.226.100.12": "Chisinau, Moldova"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=270": {
+            "ipv4": {
+                "193.201.126.8": "Moscow, Russia"
             },
             "ipv6": {}
         }
@@ -4793,14 +4795,6 @@
             }
         }
     },
-    "IPhoster": {
-        "looking.house/point.php?id=88": {
-            "ipv4": {
-                "54.38.142.84": "France"
-            },
-            "ipv6": {}
-        }
-    },
     "ProfitServer": {
         "looking.house/point.php?id=139": {
             "ipv4": {
@@ -4852,6 +4846,30 @@
             },
             "ipv6": {
                 "2a00:b700:3::5:193": "Moscow, Russia"
+            }
+        },
+        "looking.house/point.php?id=563": {
+            "ipv4": {
+                "193.124.24.142": "Moscow, Russia"
+            },
+            "ipv6": {
+                "2605:e440::5:1fc": "United States"
+            }
+        },
+        "looking.house/point.php?id=564": {
+            "ipv4": {
+                "45.144.178.220": "Novosibirsk, Russia"
+            },
+            "ipv6": {
+                "2a00:b700:4::4:279": "Moscow, Russia"
+            }
+        },
+        "looking.house/point.php?id=565": {
+            "ipv4": {
+                "194.147.85.59": "Russia"
+            },
+            "ipv6": {
+                "2a00:b700:5::4:3a2": "Novosibirsk, Russia"
             }
         }
     },
@@ -5459,32 +5477,6 @@
             "ipv6": {}
         }
     },
-    "XenSpec": {
-        "looking.house/point.php?id=427": {
-            "ipv4": {
-                "23.160.192.5": "Chicago, United States"
-            },
-            "ipv6": {
-                "2602:fea7:10::5": "United States"
-            }
-        },
-        "looking.house/point.php?id=428": {
-            "ipv4": {
-                "208.86.32.7": "Fremont, United States"
-            },
-            "ipv6": {
-                "2602:fea7:200::d": "United States"
-            }
-        },
-        "looking.house/point.php?id=429": {
-            "ipv4": {
-                "158.51.96.4": "Los Angeles, United States"
-            },
-            "ipv6": {
-                "2602:fea7:100::8a": "United States"
-            }
-        }
-    },
     "hostworld Limited": {
         "looking.house/point.php?id=256": {
             "ipv4": {
@@ -5574,6 +5566,24 @@
             },
             "ipv6": {
                 "2605:fe80:2100:bf03:5::2": "United States"
+            }
+        }
+    },
+    "XenSpec": {
+        "looking.house/point.php?id=427": {
+            "ipv4": {
+                "23.160.192.5": "Chicago, United States"
+            },
+            "ipv6": {
+                "2602:fea7:10::5": "United States"
+            }
+        },
+        "looking.house/point.php?id=428": {
+            "ipv4": {
+                "208.86.32.7": "Fremont, United States"
+            },
+            "ipv6": {
+                "2602:fea7:200::d": "United States"
             }
         }
     },
