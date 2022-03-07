@@ -202,14 +202,12 @@
 * [lg-bg.fdcservers.net](http://lg-bg.fdcservers.net)
 * [lg-chie.fdcservers.net](http://lg-chie.fdcservers.net)
 * [lg-dene.fdcservers.net](http://lg-dene.fdcservers.net)
-* [lg-dme.fdcservers.net](http://lg-dme.fdcservers.net)
 * [lg-dub.fdcservers.net](http://lg-dub.fdcservers.net)
 * [lg-fort.fdcservers.net](http://lg-fort.fdcservers.net)
 * [lg-fra.fdcservers.net](http://lg-fra.fdcservers.net)
 * [lg-hel.fdcservers.net](http://lg-hel.fdcservers.net)
 * [lg-hkg.fdcservers.net](http://lg-hkg.fdcservers.net)
 * [lg-hou.fdcservers.net](http://lg-hou.fdcservers.net)
-* [lg-khv.fdcservers.net](http://lg-khv.fdcservers.net)
 * [lg-kie.fdcservers.net](http://lg-kie.fdcservers.net)
 * [lg-lax.fdcservers.net](http://lg-lax.fdcservers.net)
 * [lg-lim.fdcservers.net](http://lg-lim.fdcservers.net)
@@ -239,18 +237,6 @@
 ### nexeon.com
 * [lg.buf1.nexeon.com](http://lg.buf1.nexeon.com)
 * [lg.chi1.nexeon.com](http://lg.chi1.nexeon.com)
-### linode.com
-* [speedtest.atlanta.linode.com](http://speedtest.atlanta.linode.com)
-* [speedtest.dallas.linode.com](http://speedtest.dallas.linode.com)
-* [speedtest.frankfurt.linode.com](http://speedtest.frankfurt.linode.com)
-* [speedtest.fremont.linode.com](http://speedtest.fremont.linode.com)
-* [speedtest.london.linode.com](http://speedtest.london.linode.com)
-* [speedtest.mumbai1.linode.com](http://speedtest.mumbai1.linode.com)
-* [speedtest.newark.linode.com](http://speedtest.newark.linode.com)
-* [speedtest.singapore.linode.com](http://speedtest.singapore.linode.com)
-* [speedtest.syd1.linode.com](http://speedtest.syd1.linode.com)
-* [speedtest.tokyo2.linode.com](http://speedtest.tokyo2.linode.com)
-* [speedtest.toronto1.linode.com](http://speedtest.toronto1.linode.com)
 ### buyvm.net
 * [https://buyvm.net/new-jersey-datacenter/](http://https://buyvm.net/new-jersey-datacenter/)
 * [https://speedtest.lv.buyvm.net](http://https://speedtest.lv.buyvm.net)
@@ -273,13 +259,13 @@
 * [speedtest-sfo3.digitalocean.com](http://speedtest-sfo3.digitalocean.com)
 * [speedtest-sgp1.digitalocean.com](http://speedtest-sgp1.digitalocean.com)
 * [speedtest-tor1.digitalocean.com](http://speedtest-tor1.digitalocean.com)
+### ovh.ca
+* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### ovh.net
 * [gra.proof.ovh.net](http://gra.proof.ovh.net)
 * [rbx.proof.ovh.net](http://rbx.proof.ovh.net)
 * [sbg.proof.ovh.net](http://sbg.proof.ovh.net)
 * [lg.ovh.net](http://lg.ovh.net)
-### ovh.ca
-* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### ovh.us
 * [hil.proof.ovh.us](http://hil.proof.ovh.us)
 * [vin.proof.ovh.us](http://vin.proof.ovh.us)
@@ -299,7 +285,6 @@
 * [lim-speedtest.lg.bluevps.com](http://lim-speedtest.lg.bluevps.com)
 * [lms-speedtest.lg.bluevps.com](http://lms-speedtest.lg.bluevps.com)
 * [lon-speedtest.lg.bluevps.com](http://lon-speedtest.lg.bluevps.com)
-* [msk-speedtest.lg.bluevps.com](http://msk-speedtest.lg.bluevps.com)
 * [rlz-speedtest.lg.bluevps.com](http://rlz-speedtest.lg.bluevps.com)
 * [sbg-speedtest.lg.bluevps.com](http://sbg-speedtest.lg.bluevps.com)
 * [sea-speedtest.lg.bluevps.com](http://sea-speedtest.lg.bluevps.com)
@@ -418,6 +403,8 @@
 * [tx-lg.shockhosting.net](http://tx-lg.shockhosting.net)
 * [uk-lg.shockhosting.net](http://uk-lg.shockhosting.net)
 * [wc-lg.shockhosting.net](http://wc-lg.shockhosting.net)
+### Cyxym
+* [looking.house/point.php?id=568](http://looking.house/point.php?id=568)
 ### G-Core Labs
 * [looking.house/point.php?id=166](http://looking.house/point.php?id=166)
 * [looking.house/point.php?id=167](http://looking.house/point.php?id=167)
@@ -455,6 +442,18 @@
 * [looking.house/point.php?id=545](http://looking.house/point.php?id=545)
 * [looking.house/point.php?id=546](http://looking.house/point.php?id=546)
 * [looking.house/point.php?id=547](http://looking.house/point.php?id=547)
+### Shock Hosting
+* [looking.house/point.php?id=397](http://looking.house/point.php?id=397)
+* [looking.house/point.php?id=398](http://looking.house/point.php?id=398)
+* [looking.house/point.php?id=399](http://looking.house/point.php?id=399)
+* [looking.house/point.php?id=400](http://looking.house/point.php?id=400)
+* [looking.house/point.php?id=401](http://looking.house/point.php?id=401)
+* [looking.house/point.php?id=402](http://looking.house/point.php?id=402)
+* [looking.house/point.php?id=569](http://looking.house/point.php?id=569)
+* [looking.house/point.php?id=570](http://looking.house/point.php?id=570)
+* [looking.house/point.php?id=571](http://looking.house/point.php?id=571)
+* [looking.house/point.php?id=572](http://looking.house/point.php?id=572)
+* [looking.house/point.php?id=573](http://looking.house/point.php?id=573)
 ### Psychz Networks
 * [looking.house/point.php?id=434](http://looking.house/point.php?id=434)
 * [looking.house/point.php?id=436](http://looking.house/point.php?id=436)
@@ -473,8 +472,11 @@
 * [looking.house/point.php?id=449](http://looking.house/point.php?id=449)
 * [looking.house/point.php?id=450](http://looking.house/point.php?id=450)
 ### KhanWebHost
+* [looking.house/point.php?id=325](http://looking.house/point.php?id=325)
+* [looking.house/point.php?id=326](http://looking.house/point.php?id=326)
 * [looking.house/point.php?id=413](http://looking.house/point.php?id=413)
 * [looking.house/point.php?id=474](http://looking.house/point.php?id=474)
+* [looking.house/point.php?id=551](http://looking.house/point.php?id=551)
 ### BlackHOST
 * [looking.house/point.php?id=311](http://looking.house/point.php?id=311)
 * [looking.house/point.php?id=312](http://looking.house/point.php?id=312)
@@ -508,7 +510,6 @@
 * [looking.house/point.php?id=3](http://looking.house/point.php?id=3)
 * [looking.house/point.php?id=4](http://looking.house/point.php?id=4)
 * [looking.house/point.php?id=5](http://looking.house/point.php?id=5)
-* [looking.house/point.php?id=6](http://looking.house/point.php?id=6)
 * [looking.house/point.php?id=7](http://looking.house/point.php?id=7)
 * [looking.house/point.php?id=8](http://looking.house/point.php?id=8)
 * [looking.house/point.php?id=9](http://looking.house/point.php?id=9)
@@ -625,8 +626,6 @@
 * [looking.house/point.php?id=42](http://looking.house/point.php?id=42)
 * [looking.house/point.php?id=43](http://looking.house/point.php?id=43)
 * [looking.house/point.php?id=44](http://looking.house/point.php?id=44)
-### UGB
-* [looking.house/point.php?id=129](http://looking.house/point.php?id=129)
 ### Hexcore
 * [looking.house/point.php?id=314](http://looking.house/point.php?id=314)
 * [looking.house/point.php?id=36](http://looking.house/point.php?id=36)
@@ -712,16 +711,12 @@
 ### Full VPS Server
 * [looking.house/point.php?id=255](http://looking.house/point.php?id=255)
 * [looking.house/point.php?id=257](http://looking.house/point.php?id=257)
-### Intersect.host
-* [looking.house/point.php?id=268](http://looking.house/point.php?id=268)
-* [looking.house/point.php?id=269](http://looking.house/point.php?id=269)
-* [looking.house/point.php?id=270](http://looking.house/point.php?id=270)
 ### MivoCloud
 * [looking.house/point.php?id=168](http://looking.house/point.php?id=168)
 * [looking.house/point.php?id=207](http://looking.house/point.php?id=207)
 * [looking.house/point.php?id=79](http://looking.house/point.php?id=79)
 * [looking.house/point.php?id=80](http://looking.house/point.php?id=80)
-### ClouDedic
+### MangoHost
 * [looking.house/point.php?id=169](http://looking.house/point.php?id=169)
 ### FOXCLOUD
 * [looking.house/point.php?id=15](http://looking.house/point.php?id=15)
@@ -738,21 +733,13 @@
 * [looking.house/point.php?id=86](http://looking.house/point.php?id=86)
 ### VPSGet
 * [looking.house/point.php?id=347](http://looking.house/point.php?id=347)
-### Shock Hosting
-* [looking.house/point.php?id=397](http://looking.house/point.php?id=397)
-* [looking.house/point.php?id=398](http://looking.house/point.php?id=398)
-* [looking.house/point.php?id=399](http://looking.house/point.php?id=399)
-* [looking.house/point.php?id=400](http://looking.house/point.php?id=400)
-* [looking.house/point.php?id=401](http://looking.house/point.php?id=401)
-* [looking.house/point.php?id=402](http://looking.house/point.php?id=402)
-### xHoster
-* [looking.house/point.php?id=118](http://looking.house/point.php?id=118)
+### Intersect.host
+* [looking.house/point.php?id=268](http://looking.house/point.php?id=268)
 ### Zomro
 * [looking.house/point.php?id=282](http://looking.house/point.php?id=282)
 ### HyperHost
 * [looking.house/point.php?id=31](http://looking.house/point.php?id=31)
 * [looking.house/point.php?id=32](http://looking.house/point.php?id=32)
-* [looking.house/point.php?id=33](http://looking.house/point.php?id=33)
 ### LiteServer B.V.
 * [looking.house/point.php?id=384](http://looking.house/point.php?id=384)
 ### Serv-Tech
@@ -795,6 +782,8 @@
 * [looking.house/point.php?id=345](http://looking.house/point.php?id=345)
 ### Host4biz
 * [looking.house/point.php?id=119](http://looking.house/point.php?id=119)
+### HostWebis
+* [looking.house/point.php?id=566](http://looking.house/point.php?id=566)
 ### ProfitServer
 * [looking.house/point.php?id=139](http://looking.house/point.php?id=139)
 ### HostGlobal
@@ -838,7 +827,6 @@
 ### MultiHOST
 * [looking.house/point.php?id=69](http://looking.house/point.php?id=69)
 ### ISPLevel
-* [looking.house/point.php?id=76](http://looking.house/point.php?id=76)
 * [looking.house/point.php?id=77](http://looking.house/point.php?id=77)
 ### TEAM-HOST
 * [looking.house/point.php?id=85](http://looking.house/point.php?id=85)
@@ -878,6 +866,8 @@
 * [looking.house/point.php?id=490](http://looking.house/point.php?id=490)
 ### ADMAN
 * [looking.house/point.php?id=37](http://looking.house/point.php?id=37)
+### 62yun
+* [looking.house/point.php?id=567](http://looking.house/point.php?id=567)
 ### Legionbox
 * [looking.house/point.php?id=125](http://looking.house/point.php?id=125)
 * [looking.house/point.php?id=126](http://looking.house/point.php?id=126)
@@ -925,6 +915,8 @@
 * [looking.house/point.php?id=408](http://looking.house/point.php?id=408)
 ### Rad Web Hosting
 * [looking.house/point.php?id=387](http://looking.house/point.php?id=387)
+### August Internet
+* [looking.house/point.php?id=574](http://looking.house/point.php?id=574)
 ### SolaDrive
 * [looking.house/point.php?id=262](http://looking.house/point.php?id=262)
 * [looking.house/point.php?id=263](http://looking.house/point.php?id=263)
@@ -985,8 +977,6 @@
 * [looking.house/point.php?id=459](http://looking.house/point.php?id=459)
 ### RouterHosting
 * [looking.house/point.php?id=514](http://looking.house/point.php?id=514)
-### Hostfory
-* [looking.house/point.php?id=71](http://looking.house/point.php?id=71)
 ### NTUP
 * [looking.house/point.php?id=211](http://looking.house/point.php?id=211)
 ### VIKHOST
