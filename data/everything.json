@@ -1578,14 +1578,18 @@
             }
         }
     },
-    "ovh.ca": {
-        "bhs.proof.ovh.ca": {
+    "ovh.us": {
+        "hil.proof.ovh.us": {
             "ipv4": {
-                "51.222.154.207": "Canada"
+                "51.81.154.196": "Hillsboro, United States"
             },
-            "ipv6": {
-                "2607:5300:203:8acf::1": "Canada"
-            }
+            "ipv6": {}
+        },
+        "vin.proof.ovh.us": {
+            "ipv4": {
+                "135.148.100.133": "United States"
+            },
+            "ipv6": {}
         }
     },
     "ovh.net": {
@@ -1618,18 +1622,14 @@
             "ipv6": {}
         }
     },
-    "ovh.us": {
-        "hil.proof.ovh.us": {
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
             "ipv4": {
-                "51.81.154.196": "Hillsboro, United States"
+                "51.222.154.207": "Canada"
             },
-            "ipv6": {}
-        },
-        "vin.proof.ovh.us": {
-            "ipv4": {
-                "135.148.100.133": "United States"
-            },
-            "ipv6": {}
+            "ipv6": {
+                "2607:5300:203:8acf::1": "Canada"
+            }
         }
     },
     "ramnode.com": {
@@ -2187,40 +2187,6 @@
             }
         }
     },
-    "hetzner.com": {
-        "ash.icmp.hetzner.com": {
-            "ipv4": {
-                "5.161.7.195": "United States"
-            },
-            "ipv6": {
-                "2a01:4ff:ef::fa57:1": "Germany"
-            }
-        },
-        "fsn.icmp.hetzner.com": {
-            "ipv4": {
-                "78.46.170.2": "Germany"
-            },
-            "ipv6": {
-                "2a01:4f8:0:a232::2": "Germany"
-            }
-        },
-        "hel.icmp.hetzner.com": {
-            "ipv4": {
-                "95.217.255.81": "Helsinki, Finland"
-            },
-            "ipv6": {
-                "2a01:4f9:0:a010::20": "Germany"
-            }
-        },
-        "nbg.icmp.hetzner.com": {
-            "ipv4": {
-                "88.198.248.254": "Mannheim, Germany"
-            },
-            "ipv6": {
-                "2a01:4f8:0:59ed::2": "Germany"
-            }
-        }
-    },
     "leaseweb.net": {
         "mirror.ams1.nl.leaseweb.net": {
             "ipv4": {
@@ -2571,6 +2537,121 @@
             "ipv6": {
                 "2607:a680:2:1::7476": "United States"
             }
+        }
+    },
+    "freerangecloud.com": {
+        "ams01.lg.freerangecloud.com": {
+            "ipv4": {
+                "206.83.40.24": "Lelystad, Netherlands"
+            },
+            "ipv6": {}
+        },
+        "freerangecloud.com/lookingglass.php": {
+            "ipv4": {
+                "23.191.80.33": "Halifax, Canada"
+            },
+            "ipv6": {
+                "2602:fe13:fa0::1": "United States",
+                "2602:fc1c:fa0::1": "Canada"
+            }
+        },
+        "https://ams01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0f:9400:fa0:15::1": "United Kingdom"
+            }
+        },
+        "https://iad01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2620:13a:c000:6f::1": "United States"
+            }
+        },
+        "https://mci01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fe13:fa0:4::1": "United States"
+            }
+        },
+        "https://sjc01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fed2:fc0:bf::1": "Canada"
+            }
+        },
+        "https://trf01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0f:9400:fb0:32::1": "United Kingdom"
+            }
+        },
+        "https://yvr01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fed2:fb0:19::1": "Canada"
+            }
+        },
+        "https://ywg01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fed2:fe0:269::1": "Canada"
+            }
+        },
+        "https://yyz01.lg.freerangecloud.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:fed2:fa0:8::1": "Canada"
+            }
+        },
+        "iad01.lg.freerangecloud.com": {
+            "ipv4": {
+                "23.152.224.179": "United States"
+            },
+            "ipv6": {}
+        },
+        "mci01.lg.freerangecloud.com": {
+            "ipv4": {
+                "23.152.226.2": "United States"
+            },
+            "ipv6": {}
+        },
+        "sjc01.lg.freerangecloud.com": {
+            "ipv4": {
+                "103.144.176.216": "Canada"
+            },
+            "ipv6": {}
+        },
+        "trf01.lg.freerangecloud.com": {
+            "ipv4": {
+                "206.83.41.78": "Sandefjord, Norway"
+            },
+            "ipv6": {}
+        },
+        "yhz01.lg.freerangecloud.com": {
+            "ipv4": {
+                "23.191.80.34": "Halifax, Canada"
+            },
+            "ipv6": {
+                "2602:fc1c:fa0:1::1": "Canada"
+            }
+        },
+        "yvr01.lg.freerangecloud.com": {
+            "ipv4": {
+                "104.218.61.164": "Canada"
+            },
+            "ipv6": {}
+        },
+        "ywg01.lg.freerangecloud.com": {
+            "ipv4": {
+                "23.133.64.25": "Winnipeg, Canada"
+            },
+            "ipv6": {}
+        },
+        "yyz01.lg.freerangecloud.com": {
+            "ipv4": {
+                "103.144.177.41": "Canada"
+            },
+            "ipv6": {}
         }
     },
     "Cyxym": {
@@ -7634,93 +7715,6 @@
             }
         }
     },
-    "freerangecloud.com": {
-        "freerangecloud.com/lookingglass.php": {
-            "ipv4": {
-                "23.191.80.33": "Halifax, Canada"
-            },
-            "ipv6": {
-                "2602:fe13:fa0::1": "United States",
-                "2602:fc1c:fa0::1": "Canada"
-            }
-        },
-        "https://ams01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "206.83.40.24": "Lelystad, Netherlands"
-            },
-            "ipv6": {
-                "2a0f:9400:fa0:15::1": "United Kingdom"
-            }
-        },
-        "https://iad01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "23.152.224.179": "United States"
-            },
-            "ipv6": {
-                "2620:13a:c000:6f::1": "United States"
-            }
-        },
-        "https://mci01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "23.152.226.2": "United States"
-            },
-            "ipv6": {
-                "2602:fe13:fa0:4::1": "United States"
-            }
-        },
-        "https://sjc01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "103.144.176.216": "Canada"
-            },
-            "ipv6": {
-                "2602:fed2:fc0:bf::1": "Canada"
-            }
-        },
-        "https://trf01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "206.83.41.78": "Sandefjord, Norway"
-            },
-            "ipv6": {
-                "2a0f:9400:fb0:32::1": "United Kingdom"
-            }
-        },
-        "https://yhz01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "23.191.80.34": "Halifax, Canada"
-            },
-            "ipv6": {
-                "2602:fc1c:fa0:1::1": "Canada"
-            }
-        },
-        "https://yvr01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "104.218.61.164": "Canada"
-            },
-            "ipv6": {
-                "2602:fed2:fb0:19::1": "Canada"
-            }
-        },
-        "https://ywg01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "23.133.64.25": "Winnipeg, Canada"
-            },
-            "ipv6": {
-                "2602:fed2:fe0:269::1": "Canada"
-            }
-        },
-        "https://yyz01.lg.freerangecloud.com/": {
-            "ipv4": {
-                "103.144.177.41": "Canada"
-            },
-            "ipv6": {
-                "2602:fed2:fa0:8::1": "Canada"
-            }
-        },
-        "yhz01.lg.freerangecloud.com": {
-            "ipv4": {},
-            "ipv6": {}
-        }
-    },
     "vultr.com": {
         "http://ams-nl-ping.vultr.com": {
             "ipv4": {
@@ -10504,6 +10498,40 @@
             },
             "ipv6": {
                 "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
+            }
+        }
+    },
+    "hetzner.com": {
+        "ash.icmp.hetzner.com": {
+            "ipv4": {
+                "5.161.7.195": "United States"
+            },
+            "ipv6": {
+                "2a01:4ff:ef::fa57:1": "Germany"
+            }
+        },
+        "fsn.icmp.hetzner.com": {
+            "ipv4": {
+                "78.46.170.2": "Germany"
+            },
+            "ipv6": {
+                "2a01:4f8:0:a232::2": "Germany"
+            }
+        },
+        "hel.icmp.hetzner.com": {
+            "ipv4": {
+                "95.217.255.81": "Helsinki, Finland"
+            },
+            "ipv6": {
+                "2a01:4f9:0:a010::20": "Germany"
+            }
+        },
+        "nbg.icmp.hetzner.com": {
+            "ipv4": {
+                "88.198.248.254": "Mannheim, Germany"
+            },
+            "ipv6": {
+                "2a01:4f8:0:59ed::2": "Germany"
             }
         }
     },
