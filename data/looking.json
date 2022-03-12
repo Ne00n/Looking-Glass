@@ -1553,16 +1553,6 @@
             ]
         }
     },
-    "RoboVPS": {
-        "looking.house/point.php?id=53": {
-            "ipv4": [
-                "185.17.121.239"
-            ],
-            "ipv6": [
-                "2a00:c98:2030:b020::129"
-            ]
-        }
-    },
     "Avoro": {
         "looking.house/point.php?id=310": {
             "ipv4": [
@@ -1919,12 +1909,6 @@
         "looking.house/point.php?id=31": {
             "ipv4": [
                 "185.174.173.163"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=32": {
-            "ipv4": [
-                "194.87.190.95"
             ],
             "ipv6": []
         }

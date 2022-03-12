@@ -678,8 +678,6 @@
 * [looking.house/point.php?id=163](http://looking.house/point.php?id=163)
 ### fastpipe.io
 * [looking.house/point.php?id=258](http://looking.house/point.php?id=258)
-### RoboVPS
-* [looking.house/point.php?id=53](http://looking.house/point.php?id=53)
 ### Avoro
 * [looking.house/point.php?id=310](http://looking.house/point.php?id=310)
 ### FullTime Hosting
@@ -754,7 +752,6 @@
 * [looking.house/point.php?id=282](http://looking.house/point.php?id=282)
 ### HyperHost
 * [looking.house/point.php?id=31](http://looking.house/point.php?id=31)
-* [looking.house/point.php?id=32](http://looking.house/point.php?id=32)
 ### LiteServer B.V.
 * [looking.house/point.php?id=384](http://looking.house/point.php?id=384)
 ### Serv-Tech

@@ -4208,16 +4208,6 @@
             }
         }
     },
-    "RoboVPS": {
-        "looking.house/point.php?id=53": {
-            "ipv4": {
-                "185.17.121.239": "Germany"
-            },
-            "ipv6": {
-                "2a00:c98:2030:b020::129": "Germany"
-            }
-        }
-    },
     "Avoro": {
         "looking.house/point.php?id=310": {
             "ipv4": {
@@ -4574,12 +4564,6 @@
         "looking.house/point.php?id=31": {
             "ipv4": {
                 "185.174.173.163": "Amsterdam, Netherlands"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=32": {
-            "ipv4": {
-                "194.87.190.95": "Czechia"
             },
             "ipv6": {}
         }
