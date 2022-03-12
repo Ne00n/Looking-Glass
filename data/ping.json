@@ -1,0 +1,126 @@
+{
+    "linode.com": {
+        "speedtest.newark.linode.com": {
+            "ipv4": [
+                "50.116.57.237"
+            ],
+            "ipv6": [
+                "2600:3c03::f03c:91ff:feae:65e"
+            ]
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": [
+                "139.162.23.4"
+            ],
+            "ipv6": [
+                "2400:8901::f03c:91ff:fe84:541d"
+            ]
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": [
+                "176.58.107.39"
+            ],
+            "ipv6": [
+                "2a01:7e00::f03c:91ff:feae:657"
+            ]
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": [
+                "139.162.130.8"
+            ],
+            "ipv6": [
+                "2a01:7e01::f03c:91ff:fe26:8794"
+            ]
+        },
+        "speedtest.dallas.linode.com": {
+            "ipv4": [
+                "50.116.25.154"
+            ],
+            "ipv6": [
+                "2600:3c00::f03c:91ff:feae:603"
+            ]
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": [
+                "172.105.30.21"
+            ],
+            "ipv6": [
+                "2600:3c04::f03c:91ff:feba:c4f8"
+            ]
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": [
+                "172.105.174.7"
+            ],
+            "ipv6": [
+                "2400:8907::f03c:92ff:fe6e:a16f"
+            ]
+        },
+        "speedtest.atlanta.linode.com": {
+            "ipv4": [
+                "50.116.39.117"
+            ],
+            "ipv6": [
+                "2600:3c02::f03c:91ff:feae:641"
+            ]
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": [
+                "139.162.65.37"
+            ],
+            "ipv6": [
+                "2400:8902::f03c:91ff:fe16:ffaa"
+            ]
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": [
+                "172.105.33.31"
+            ],
+            "ipv6": [
+                "2400:8904::f03c:91ff:fea5:928b"
+            ]
+        },
+        "speedtest.fremont.linode.com": {
+            "ipv4": [
+                "50.116.14.9"
+            ],
+            "ipv6": [
+                "2600:3c01::f03c:91ff:feae:68d"
+            ]
+        }
+    },
+    "hetzner.com": {
+        "nbg.icmp.hetzner.com": {
+            "ipv4": [
+                "88.198.248.254"
+            ],
+            "ipv6": [
+                "2a01:4f8:0:59ed::2"
+            ]
+        },
+        "hel.icmp.hetzner.com": {
+            "ipv4": [
+                "95.217.255.81"
+            ],
+            "ipv6": [
+                "2a01:4f9:0:a010::20"
+            ]
+        },
+        "fsn.icmp.hetzner.com": {
+            "ipv4": [
+                "78.46.170.2"
+            ],
+            "ipv6": [
+                "2a01:4f8:0:a232::2"
+            ]
+        },
+        "ash.icmp.hetzner.com": {
+            "ipv4": [
+                "5.161.7.195"
+            ],
+            "ipv6": [
+                "2a01:4ff:ef::fa57:1"
+            ]
+        }
+    }
+}

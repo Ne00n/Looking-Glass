@@ -2211,6 +2211,14 @@
             "ipv6": {
                 "2a01:4f9:0:a010::20": "Germany"
             }
+        },
+        "nbg.icmp.hetzner.com": {
+            "ipv4": {
+                "88.198.248.254": "Mannheim, Germany"
+            },
+            "ipv6": {
+                "2a01:4f8:0:59ed::2": "Germany"
+            }
         }
     },
     "leaseweb.net": {
@@ -10406,6 +10414,96 @@
             },
             "ipv6": {
                 "2a0d:c740:2c::af:5383": "United States"
+            }
+        }
+    },
+    "linode.com": {
+        "speedtest.atlanta.linode.com": {
+            "ipv4": {
+                "50.116.39.117": "Atlanta, United States"
+            },
+            "ipv6": {
+                "2600:3c02::f03c:91ff:feae:641": "Atlanta, United States"
+            }
+        },
+        "speedtest.dallas.linode.com": {
+            "ipv4": {
+                "50.116.25.154": "Richardson, United States"
+            },
+            "ipv6": {
+                "2600:3c00::f03c:91ff:feae:603": "Richardson, United States"
+            }
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": {
+                "139.162.130.8": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a01:7e01::f03c:91ff:fe26:8794": "Frankfurt am Main, Germany"
+            }
+        },
+        "speedtest.fremont.linode.com": {
+            "ipv4": {
+                "50.116.14.9": "Fremont, United States"
+            },
+            "ipv6": {
+                "2600:3c01::f03c:91ff:feae:68d": "Fremont, United States"
+            }
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": {
+                "176.58.107.39": "London, United Kingdom"
+            },
+            "ipv6": {
+                "2a01:7e00::f03c:91ff:feae:657": "London, United Kingdom"
+            }
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": {
+                "172.105.33.31": "Mumbai, India"
+            },
+            "ipv6": {
+                "2400:8904::f03c:91ff:fea5:928b": "Mumbai, India"
+            }
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": {
+                "50.116.57.237": "Cedar Knolls, United States"
+            },
+            "ipv6": {
+                "2600:3c03::f03c:91ff:feae:65e": "Cedar Knolls, United States"
+            }
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": {
+                "139.162.23.4": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
+            }
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": {
+                "172.105.174.7": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2400:8907::f03c:92ff:fe6e:a16f": "Sydney, Australia"
+            }
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": {
+                "139.162.65.37": "Tokyo, Japan"
+            },
+            "ipv6": {
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
+            }
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": {
+                "172.105.30.21": "Toronto, Canada"
+            },
+            "ipv6": {
+                "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
             }
         }
     },

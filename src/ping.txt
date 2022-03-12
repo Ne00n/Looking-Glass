@@ -1,0 +1,16 @@
+speedtest.newark.linode.com
+speedtest.singapore.linode.com
+speedtest.london.linode.com
+speedtest.frankfurt.linode.com
+speedtest.dallas.linode.com
+speedtest.toronto1.linode.com
+speedtest.syd1.linode.com
+speedtest.atlanta.linode.com
+speedtest.tokyo2.linode.com
+speedtest.mumbai1.linode.com
+speedtest.fremont.linode.com
+
+nbg.icmp.hetzner.com
+hel.icmp.hetzner.com
+fsn.icmp.hetzner.com
+ash.icmp.hetzner.com

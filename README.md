@@ -351,6 +351,7 @@
 * [ash.icmp.hetzner.com](http://ash.icmp.hetzner.com)
 * [fsn.icmp.hetzner.com](http://fsn.icmp.hetzner.com)
 * [hel.icmp.hetzner.com](http://hel.icmp.hetzner.com)
+* [nbg.icmp.hetzner.com](http://nbg.icmp.hetzner.com)
 ### leaseweb.net
 * [mirror.ams1.nl.leaseweb.net](http://mirror.ams1.nl.leaseweb.net)
 * [mirror.dal13.us.leaseweb.net](http://mirror.dal13.us.leaseweb.net)
@@ -1852,6 +1853,18 @@
 ### breezle.net
 * [lg-it.breezle.net](http://lg-it.breezle.net)
 * [lg-nl.breezle.net](http://lg-nl.breezle.net)
+### linode.com
+* [speedtest.atlanta.linode.com](http://speedtest.atlanta.linode.com)
+* [speedtest.dallas.linode.com](http://speedtest.dallas.linode.com)
+* [speedtest.frankfurt.linode.com](http://speedtest.frankfurt.linode.com)
+* [speedtest.fremont.linode.com](http://speedtest.fremont.linode.com)
+* [speedtest.london.linode.com](http://speedtest.london.linode.com)
+* [speedtest.mumbai1.linode.com](http://speedtest.mumbai1.linode.com)
+* [speedtest.newark.linode.com](http://speedtest.newark.linode.com)
+* [speedtest.singapore.linode.com](http://speedtest.singapore.linode.com)
+* [speedtest.syd1.linode.com](http://speedtest.syd1.linode.com)
+* [speedtest.tokyo2.linode.com](http://speedtest.tokyo2.linode.com)
+* [speedtest.toronto1.linode.com](http://speedtest.toronto1.linode.com)
 ### gcore
 * [https://lg.gcorelabs.com](http://https://lg.gcorelabs.com)
 ### ovh
