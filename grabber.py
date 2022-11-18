@@ -24,7 +24,7 @@ def scrap():
         for url in list(data['scrap'][domain]):
             if not domain in data['lg']: data['lg'][domain] = {}
             if url in data['lg'][domain]: continue
-            response = get(url,domain)
+            response,workingURL = get(url,domain)
             if response:
                 data['lg'][domain][url] = []
                 ips = parseIPs(ip,response)
@@ -124,10 +124,10 @@ def get(url,domain):
     print(f"Extension {extension}")
     if extension and not extension[0] in whitelist:
         print(f"Skipping {url} not in whitelist")
-        return False
+        return False,""
     if url.lower().endswith(("1g","10g","lua")): 
         print(f"Skipping {url}")
-        return False
+        return False,""
     for run in range(4):
         try:
             if run > 1: time.sleep(0.5)
@@ -148,9 +148,9 @@ def get(url,domain):
                     continue
                 if "window.location.replace" in request.text:
                     print(f"Found Javascript redirect, dropping {request.url}")
-                    return False
+                    return False,""
                 print(f"Got {request.status_code} keeping {request.url}")
-                return request.text
+                return request.text,request.url
             else:
                 print(f"Got {request.status_code} dropping {request.url}")
                 continue
@@ -158,7 +158,7 @@ def get(url,domain):
             print(f"Retrying {prefix+url} got connection error")
         except Exception as e:
             print(f"Retrying {prefix+url} got {e}")
-    return False
+    return False,""
 
 if len(sys.argv) == 1:
     print("grabber.py /data/path output.json (optional)")
@@ -202,7 +202,7 @@ for index, element in enumerate(folders):
 print("Validating")
 for domain in data['lg']:
     for url in list(data['lg'][domain]):
-        response = get(url,domain)
+        response,workingURL = get(url,domain)
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
