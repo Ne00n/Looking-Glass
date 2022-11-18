@@ -119,7 +119,15 @@ def parseIPs(ip,html):
     return response
 
 def get(url,domain):
-    if url.lower().endswith((".test", ".zip", ".bin",".png",".jpg",".dat",".pdf",".gz",".data",".img",".mb",".db")): return False
+    whitelist = ['.php','.html','.htm']
+    extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",url.lower())
+    print(f"Extension {extension}")
+    if extension and not extension[0] in whitelist:
+        print(f"Skipping {url} not in whitelist")
+        return False
+    if url.lower().endswith(("1g","10g","lua")): 
+        print(f"Skipping {url}")
+        return False
     for run in range(4):
         try:
             if run > 1: time.sleep(0.5)
@@ -164,12 +172,19 @@ folder = sys.argv[1]
 folders = os.listdir(folder)
 data,direct,ignore,tagged = {"lg":{},"scrap":{}},[],[],[]
 
-print("Getting current IP")
-request = requests.get('https://ip.seeip.org/',allow_redirects=False,timeout=5)
+print("Getting current IPv4")
+request = requests.get('https://ip4.seeip.org/',allow_redirects=False,timeout=5)
 if request.status_code == 200:
-    ip = request.text
+    ipv4 = request.text
 else:
-    exit("Could not fetch IP")
+    exit("Could not fetch IPv4")
+
+print("Getting current IPv6")
+request = requests.get('https://ip6.seeip.org/',allow_redirects=False,timeout=5)
+if request.status_code == 200:
+    ipv6 = request.text
+else:
+    exit("Could not fetch IPv6")
 
 print(f"Total folders {len(folders)}")
 print(f"Parsing {folder}")
@@ -191,6 +206,8 @@ for domain in data['lg']:
         if response:
             parseUrls(response,"scrap")
             ips = parseIPs(ip,response)
+            for ip in list(ips):
+                if ip == ipv4 or ip == ipv6: ips.remove(ip)
             if ips['ipv4']:
                 data['lg'][domain][url] = ips
             elif url in tagged:
