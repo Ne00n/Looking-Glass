@@ -27,11 +27,17 @@ def scrap():
             response,workingURL = get(url,domain)
             if response:
                 data['lg'][domain][url] = []
-                ips = parseIPs(ip,response)
-                if ips['ipv4']:
-                    data['lg'][domain][url] = ips
-                elif url in tagged:
+                ips = parseIPs(ipv4,ipv6,response)
+                current = url
+                if url != workingURL:
+                    print(f"Replacing {url} with {workingURL}")
+                    current = workingURL
                     del data['lg'][domain][url]
+                    data['lg'][domain][current] = {}
+                if ips['ipv4']:
+                    data['lg'][domain][current] = ips
+                elif url in tagged:
+                    if current in data['lg'][domain]: del data['lg'][domain][current]
                 continue
             del data['scrap'][domain][url]
 
@@ -40,6 +46,7 @@ def parseUrls(html,type="lg"):
     skip = ['entry/register','entry/signin','/discussion/','/profile/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com',
     'twitter.com','linkedin.com']
     onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual','cloud','compute','dedicated','ryzen']
+    if not html: return False
     parse = HTML(html=html)
     if parse.links:
         for link in parse.links:
@@ -97,7 +104,7 @@ def isPrivate(ip):
     #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
     return (priv_lo.match(ip) or priv_24.match(ip) or priv_20.match(ip) or priv_16.match(ip))
 
-def parseIPs(ip,html):
+def parseIPs(ipv4,ipv6,html):
     global ipRegex
     ipv4s = ipRegex.findall(html, re.DOTALL)
     ipv6s = ip6Regex.findall(html, re.DOTALL)
@@ -108,10 +115,11 @@ def parseIPs(ip,html):
         if len(ipv4s) > 30: break
         if yourIP and yourIP[0][1] == entry[0]: continue
         if isPrivate(entry[0]): continue
-        if entry[0] == ip: continue
+        if entry[0] == ipv4: continue
         response['ipv4'].append(entry[0])
     for entry in ipv6s:
         if yourIPv6 and yourIPv6[0][1] == entry: continue
+        if entry == ipv6: continue
         if len(ipv6s) > 30: break
         response['ipv6'].append(entry)
     response['ipv4'] = list(set(response['ipv4']))
@@ -121,7 +129,6 @@ def parseIPs(ip,html):
 def get(url,domain):
     whitelist = ['.php','.html','.htm']
     extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",url.lower())
-    print(f"Extension {extension}")
     if extension and not extension[0] in whitelist:
         print(f"Skipping {url} not in whitelist")
         return False,""
@@ -141,8 +148,8 @@ def get(url,domain):
             if domain.lower() not in request.url.lower():
                 print(f"Got redirected to different domain {url} vs {request.url}")
                 continue
-            parseUrls(request.text,"scrap")
             if (request.status_code == 200):
+                parseUrls(request.text,"scrap")
                 if len(request.text) < 90:
                     print(f"HTML to short {len(request.text)}, dropping {request.url}")
                     continue
@@ -205,20 +212,25 @@ for domain in data['lg']:
         response,workingURL = get(url,domain)
         if response:
             parseUrls(response,"scrap")
-            ips = parseIPs(ip,response)
-            for ip in list(ips):
-                if ip == ipv4 or ip == ipv6: ips.remove(ip)
-            if ips['ipv4']:
-                data['lg'][domain][url] = ips
-            elif url in tagged:
+            ips = parseIPs(ipv4,ipv6,response)
+            current = url
+            if url != workingURL:
+                print(f"Replacing {url} with {workingURL}")
+                current = workingURL
                 del data['lg'][domain][url]
+                data['lg'][domain][current] = {}
+            if ips['ipv4']:
+                data['lg'][domain][current] = ips
+            elif url in tagged:
+                if current in data['lg'][domain]: del data['lg'][domain][current]
             continue
         del data['lg'][domain][url]
 
 scrap()
 
+print("Parsing")
 for domain in direct:
-    response = get(domain,domain)
+    response,workingURL = get(domain,domain)
     if response:
         parseUrls(response,"scrap")
         parseLinks(response,domain,"scrap")
