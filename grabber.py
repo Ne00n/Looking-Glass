@@ -1,4 +1,3 @@
-from fasttld import FastTLDExtract
 from requests_html import HTML
 from Class.base import Base
 import json, time, sys, os, re
