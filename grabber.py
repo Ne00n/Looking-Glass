@@ -1,3 +1,4 @@
+from fasttld import FastTLDExtract
 from requests_html import HTML
 from Class.base import Base
 import json, time, sys, os, re
@@ -43,7 +44,7 @@ def scrap():
 
 def parseUrls(html,type="lg"):
     global lookingRegex, ignore, direct, data, tags
-    skip = ['entry/register','entry/signin','/discussion/','/profile/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com',
+    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com',
     'twitter.com','linkedin.com']
     onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual','cloud','compute','dedicated','ryzen']
     if not html: return False
@@ -55,6 +56,9 @@ def parseUrls(html,type="lg"):
             if any(tag in link for tag in skip): continue
             ignore.append(link)
             domain = tldextract.extract(link).registered_domain
+            if not domain: 
+                print(f"Adding {link} to skip")
+                skip.append(link)
             if domain == "": continue
             if any(element in link  for element in onlyDirect):
                 if not domain in direct: direct.append(domain)
