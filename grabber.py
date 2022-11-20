@@ -1,7 +1,9 @@
+from tqdm.contrib.concurrent import process_map  # or thread_map
+from Class.grabber import Grabber
 from requests_html import HTML
-from Class.base import Base
 import json, time, sys, os, re
 import tldextract, requests
+from Class.base import Base
 
 tags = ['datacenters','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
 lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
@@ -132,13 +134,15 @@ def parseIPs(ipv4,ipv6,html):
 def get(url,domain):
     whitelist = ['.php','.html','.htm']
     extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",url.lower())
+    print(f"url {url} domain {domain}")
+    print(f"Extension {extension}")
     if extension and not extension[0] in whitelist:
         print(f"Skipping {url} not in whitelist")
         return False,""
     if url.lower().endswith(("1g","10g","lua")): 
         print(f"Skipping {url}")
         return False,""
-    for run in range(4):
+    for run in range(3):
         try:
             if run > 1: time.sleep(0.5)
             if url.startswith("//"): url = url.replace("//","")
@@ -180,7 +184,6 @@ else:
      default = "default.json"
 folder = sys.argv[1]
 folders = os.listdir(folder)
-data,direct,ignore,tagged = {"lg":{},"scrap":{}},[],[],[]
 
 print("Getting current IPv4")
 request = requests.get('https://ip4.seeip.org/',allow_redirects=False,timeout=5)
@@ -197,17 +200,22 @@ else:
     exit("Could not fetch IPv6")
 
 print(f"Total folders {len(folders)}")
-print(f"Parsing {folder}")
-for index, element in enumerate(folders):
-    if element.endswith(".html") or element.endswith(".json"):
-        parse(folder+"/"+element)
-    else:
-        files = os.listdir(folder+"/"+element)
-        for findex, file in enumerate(files):
-            if file.endswith(".html") or file.endswith(".json"):
-                parse(folder+"/"+element+"/"+file)
-                print(f"Done {findex} of {len(files)}")
-    print(f"Done {index} of {len(folders)}")
+crawler = Grabber()
+files = crawler.findFiles(folders,folder)
+results = process_map(crawler.fileToHtml, files, max_workers=4,chunksize=100)
+links = []
+for row in results: links = links + list(row)
+links = list(set(links)) 
+results = process_map(crawler.filterUrls, links, max_workers=4,chunksize=100)
+data,direct,ignore,tagged = {"lg":{},"scrap":{}},[],[],[]
+for result in results:
+    if result:
+        direct = direct + direct
+        tagged = tagged + tagged
+        for domain,urls in result['data']['lg'].items():
+            if not domain in data['lg']: data['lg'][domain] = {}
+            for url in urls:
+                if not url in data['lg'][domain]: data['lg'][domain][url] = []
 
 print("Validating")
 for domain in data['lg']:
