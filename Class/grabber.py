@@ -83,11 +83,12 @@ class Grabber():
                     print("Found",url)
         return data
 
-    def combine(self,results,data={"lg":{},"scrap":{},"direct":[],"tagged":[]}):
+    def combine(self,results,data={"lg":{},"scrap":{},"direct":[],"tagged":[],"ignore":[]}):
         for result in results:
             if result:
                 data['direct'].extend(result['direct'])
                 data['tagged'].extend(result['tagged'])
+                data['ignore'].extend(result['ignore'])
                 for domain,urls in result['data']['lg'].items():
                     if not domain in data['lg']: data['lg'][domain] = {}
                     for url in urls:
@@ -101,6 +102,8 @@ class Grabber():
     def crawl(self,data,ipv4,ipv6,type="lg"):
         for domain in data[type]:
             for url in list(data[type][domain]):
+                if url in data['ignore']: continue
+                data['ignore'].append(url)
                 if type == "scrap":
                     if not domain in data['lg']: data['lg'][domain] = {}
                     if url in data['lg'][domain]: continue 
@@ -109,6 +112,9 @@ class Grabber():
                     if type == "scrap": data['lg'][domain][url] = []
                     if type == "lg":
                         links = self.getLinks(response)
+                        for link in list(links):
+                            if link in data['ignore']: links.remove(link)
+                            data['ignore'].append(link)
                         pool = multiprocessing.Pool(processes=4)
                         results = pool.map(self.filterUrlsScrap, links)
                         data = self.combine(results,data)
@@ -133,7 +139,7 @@ class Grabber():
         return self.filterUrls(link,type="scrap")
 
     def filterUrls(self,link,type="lg",domain=""):
-        data,direct,tagged = {"lg":{},"scrap":{}},[],[]
+        data,direct,tagged,ignore = {"lg":{},"scrap":{},"ignore":[]},[],[],[]
         skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
         'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
         'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com']
@@ -160,7 +166,7 @@ class Grabber():
                 if not domain in data[type]: data[type][domain] = {}
                 if not result in data[type][domain]: data[type][domain][result] = []
                 if match[0]: data[type][domain][result.replace(match[0],"")] = []
-        return {"data":data,"direct":direct,"tagged":tagged}
+        return {"data":data,"direct":direct,"tagged":tagged,"ignore":ignore}
 
     def get(self,url,domain):
         whitelist = ['.php','.html','.htm']
