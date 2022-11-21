@@ -5,7 +5,7 @@ import multiprocessing
 class Grabber():
 
     lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
-    tags = ['datacenters','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
+    tags = ['datacenters','data-center','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
     ipRegex = re.compile('([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")')
     ip6Regex = re.compile('([\da-f]{4}:[\da-f]{1,4}:[\d\w:]{1,})')
     priv_lo = re.compile("^127\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
@@ -78,7 +78,7 @@ class Grabber():
                         else:
                             url = domain + "/" + link
                     if not link in data[type][domain]:
-                        data[type][domain][url] = []
+                        data[type][domain][url] = {}
                         data['tagged'].append(url)
                     print("Found",url)
         return data
@@ -119,13 +119,12 @@ class Grabber():
                         current = workingURL
                         del data['lg'][domain][url]
                         data['lg'][domain][current] = {}
-                    if ips['ipv4']:
+                    if ips['ipv4'] or ips['ipv6']:
                         data['lg'][domain][current] = ips
                     elif url in data['tagged']:
                         if current in data['lg'][domain]: 
                             del data['lg'][domain][current]
                             data['tagged'].remove(url)
-
                     continue
                 del data[type][domain][url]
         return data
@@ -137,8 +136,8 @@ class Grabber():
         data,direct,tagged = {"lg":{},"scrap":{}},[],[]
         skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
         'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
-        'hostingchecker.com','ndtv.com','thedailybeast.com']
-        onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','virtual','cloud','compute','dedicated','ryzen','epyc','xeon','intel','amd']
+        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com']
+        onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','vserver','virtual','cloud','compute','dedicated','ryzen','epyc','xeon','intel','amd']
         if link == "/": return False
         if any(tag in link for tag in skip): return False
         domain = tldextract.extract(link).registered_domain
