@@ -1,189 +1,17 @@
 {
     "alwyzon.net": {},
-    "khanwebhost.com": {},
-    "alphavps.com": {
-        "https://lgbg.alphavps.com/": {
-            "ipv4": [
-                "79.124.7.8"
-            ],
-            "ipv6": [
-                "2a01:8740:1:76f::ea47"
-            ]
-        },
-        "https://lguk.alphavps.com/": {
-            "ipv4": [
-                "130.185.251.6"
-            ],
-            "ipv6": [
-                "2a04:92c7:2:3b2::4"
-            ]
-        },
-        "https://lgde.alphavps.com/": {
-            "ipv4": [
-                "194.35.12.68"
-            ],
-            "ipv6": [
-                "2a01:4f8:d1:7231::49c8"
-            ]
-        },
-        "https://lgny.alphavps.com/": {
-            "ipv4": [
-                "165.140.242.110"
-            ],
-            "ipv6": [
-                "2602:fc16:1:fb::100"
-            ]
-        },
-        "https://lgla.alphavps.com/": {
-            "ipv4": [
-                "165.140.241.183"
-            ],
-            "ipv6": [
-                "2607:f2d8:4012:9::4"
-            ]
-        }
-    },
-    "nexusbytes.com": {
-        "https://lgmel.nexusbytes.com/": {
-            "ipv4": [
-                "64.112.56.10"
-            ],
-            "ipv6": [
-                "2404:f780:000b:0351:0000:0000:0000:0002"
-            ]
-        },
-        "https://lgnl.nexusbytes.com/": {
-            "ipv4": [
-                "136.175.201.201"
-            ],
-            "ipv6": [
-                "2602:fed2:7123:02b5:0000:0000:0000:0001"
-            ]
-        },
-        "https://lguk.nexusbytes.com/": {
-            "ipv4": [
-                "45.147.54.2"
-            ],
-            "ipv6": [
-                "2a04:ff00:0501:0468:0000:0000:0000:0001"
-            ]
-        },
-        "http://lgsg.nexusbytes.com/": {
-            "ipv4": [
-                "139.64.239.2"
-            ],
-            "ipv6": [
-                "2602:fed2:712e:005c:0000:0000:0000:0001"
-            ]
-        },
-        "http://lguk.nexusbytes.com/": {
-            "ipv4": [
-                "45.147.54.2"
-            ],
-            "ipv6": [
-                "2a04:ff00:0501:0468:0000:0000:0000:0001"
-            ]
-        },
-        "https://lgny.nexusbytes.com/": {
-            "ipv4": [
-                "139.64.237.237"
-            ],
-            "ipv6": [
-                "2602:fed2:7709:1cb5:0000:0000:0000:0001"
-            ]
-        },
-        "http://lgla.nexusbytes.com/": {
-            "ipv4": [
-                "158.51.84.9"
-            ],
-            "ipv6": [
-                "2602:fed2:7106:4818:0000:0000:0000:0002"
-            ]
-        },
-        "http://lgjp.nexusbytes.com/": {
-            "ipv4": [
-                "139.64.236.64"
-            ],
-            "ipv6": [
-                "2404:f780:000a:0006:0000:0000:0000:0002"
-            ]
-        },
-        "http://lgmi.nexusbytes.com/": {
-            "ipv4": [
-                "158.51.87.9"
-            ],
-            "ipv6": [
-                "2a04:ff00:0500:0bb7:0000:0000:0000:0001"
-            ]
-        },
-        "http://lgnl.nexusbytes.com/": {
-            "ipv4": [
-                "136.175.201.201"
-            ],
-            "ipv6": [
-                "2602:fed2:7123:02b5:0000:0000:0000:0001"
-            ]
-        },
-        "https://lgmi.nexusbytes.com/": {
-            "ipv4": [
-                "158.51.87.9"
-            ],
-            "ipv6": [
-                "2a04:ff00:0500:0bb7:0000:0000:0000:0001"
-            ]
-        },
-        "https://lgla.nexusbytes.com/": {
-            "ipv4": [
-                "158.51.84.9"
-            ],
-            "ipv6": [
-                "2602:fed2:7106:4818:0000:0000:0000:0002"
-            ]
-        },
-        "https://lgsg.nexusbytes.com/": {
-            "ipv4": [
-                "139.64.239.2"
-            ],
-            "ipv6": [
-                "2602:fed2:712e:005c:0000:0000:0000:0001"
-            ]
-        },
-        "https://lgjp.nexusbytes.com/": {
-            "ipv4": [
-                "139.64.236.64"
-            ],
-            "ipv6": [
-                "2404:f780:000a:0006:0000:0000:0000:0002"
-            ]
-        }
-    },
-    "commander1.com": {},
-    "happybeehost.com": {
-        "https://lg-uk.happybeehost.com/": {
-            "ipv4": [
-                "54.38.76.70"
-            ],
-            "ipv6": []
-        },
-        "https://lg-pl.happybeehost.com/": {
-            "ipv4": [
-                "147.135.198.0"
-            ],
-            "ipv6": []
-        },
-        "https://lg-fr.happybeehost.com/": {
-            "ipv4": [
-                "92.222.150.36"
-            ],
-            "ipv6": []
-        }
-    },
-    "xenspec.com": {},
-    "apac-tools.ovh": {
-        "http://speedtest-syd.apac-tools.ovh/files/": {},
-        "http://speedtest-sgp.apac-tools.ovh/files/": {}
-    },
+    "hetzner.com": {},
+    "glesys.com": {},
+    "hostsolutions.ro": {},
     "maxkvm.net": {
+        "http://lg.sin.maxkvm.net/": {
+            "ipv4": [
+                "103.171.26.10"
+            ],
+            "ipv6": [
+                "2606:62c0:8001::10"
+            ]
+        },
         "http://lg.dfw.maxkvm.net/": {
             "ipv4": [
                 "172.111.2.10"
@@ -208,46 +36,12 @@
                 "2606:62c0:1001::10"
             ]
         },
-        "http://lg.sin.maxkvm.net/": {
-            "ipv4": [
-                "103.171.26.10"
-            ],
-            "ipv6": [
-                "2606:62c0:8001::10"
-            ]
-        },
         "http://lg.ams.maxkvm.net/": {
             "ipv4": [
                 "213.232.255.10"
             ],
             "ipv6": [
                 "2606:62c0:7001::10"
-            ]
-        }
-    },
-    "speedypage.com": {
-        "https://uk.lg.speedypage.com/": {
-            "ipv4": [
-                "5.44.251.178"
-            ],
-            "ipv6": [
-                "2a06:a005:16d0:5::a"
-            ]
-        },
-        "https://sg.lg.speedypage.com/": {
-            "ipv4": [
-                "194.9.62.3"
-            ],
-            "ipv6": [
-                "2001:df7:1d80:2::a"
-            ]
-        },
-        "https://ash.lg.speedypage.com/": {
-            "ipv4": [
-                "103.163.186.2"
-            ],
-            "ipv6": [
-                "2602:fd92:c90:2::a"
             ]
         }
     },
@@ -259,17 +53,228 @@
             "ipv6": [
                 "2a0b:8bc0:0002:7535:246b:0000:0000:0001"
             ]
-        },
-        "http://tyo.lg.webhorizon.in/": {},
-        "http://nyc.lg.webhorizon.in/": {}
+        }
     },
-    "terrahost.com": {
-        "https://lg.terrahost.com/": {
+    "wtnet.de": {},
+    "hosteons.com": {
+        "https://lg.ny.hosteons.com/": {
             "ipv4": [
-                "185.125.168.212"
+                "45.128.73.2"
             ],
             "ipv6": [
-                "2a03:94e0:ffff:185:125:168::212"
+                "2402:d0c0:3:1fd::1"
+            ]
+        },
+        "https://lg.la.hosteons.com/": {
+            "ipv4": [
+                "185.149.23.201"
+            ],
+            "ipv6": [
+                "2402:d0c0:2:238b::1"
+            ]
+        },
+        "https://lg.jax.hosteons.com/": {
+            "ipv4": [
+                "103.114.161.10"
+            ],
+            "ipv6": []
+        },
+        "https://lg.dal.hosteons.com/": {
+            "ipv4": [
+                "213.59.127.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:6:5ec::1"
+            ]
+        },
+        "https://lg.vegas.hosteons.com/": {
+            "ipv4": [
+                "103.114.162.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:5:b1::2"
+            ]
+        },
+        "https://lg.vegas.hosteons.com/index.php": {
+            "ipv4": [
+                "103.114.162.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:5:b1::2"
+            ]
+        },
+        "https://lg.dal.hosteons.com/index.php": {
+            "ipv4": [
+                "213.59.127.10"
+            ],
+            "ipv6": [
+                "2402:d0c0:6:5ec::1"
+            ]
+        },
+        "https://lg.jax.hosteons.com/index.php": {
+            "ipv4": [
+                "103.114.161.10"
+            ],
+            "ipv6": []
+        },
+        "https://lg.ny.hosteons.com/index.php": {
+            "ipv4": [
+                "45.128.73.2"
+            ],
+            "ipv6": [
+                "2402:d0c0:3:1fd::1"
+            ]
+        },
+        "https://lg.la.hosteons.com/index.php": {
+            "ipv4": [
+                "185.149.23.201"
+            ],
+            "ipv6": [
+                "2402:d0c0:2:238b::1"
+            ]
+        }
+    },
+    "xenspec.com": {},
+    "naranja.tech": {
+        "https://lg.naranja.tech/": {
+            "ipv4": [
+                "185.213.172.187"
+            ],
+            "ipv6": [
+                "2a0b:8bc0:1:119:0:0:0:10"
+            ]
+        }
+    },
+    "ssdblaze.com": {
+        "https://dal.lg.ssdblaze.com/": {
+            "ipv4": [
+                "170.130.210.38"
+            ],
+            "ipv6": []
+        },
+        "http://lg-dal.ssdblaze.com/": {
+            "ipv4": [
+                "50.2.217.106"
+            ],
+            "ipv6": [
+                "2607:ff28:2:1d::240f:3de5"
+            ]
+        },
+        "http://lg-dal.ssdblaze.com//": {
+            "ipv4": [
+                "50.2.217.106"
+            ],
+            "ipv6": [
+                "2607:ff28:2:1d::240f:3de5"
+            ]
+        }
+    },
+    "clouvider.com": {},
+    "speedypage.com": {
+        "https://uk.lg.speedypage.com/": {
+            "ipv4": [
+                "5.44.251.178"
+            ],
+            "ipv6": [
+                "2a06:a005:16d0:5::a"
+            ]
+        },
+        "https://sg.lg.speedypage.com/": []
+    },
+    "extremetech.com": {},
+    "hostus.us": {
+        "https://hostus.us/singapore-datacenter.html": {
+            "ipv4": [
+                "210.16.120.5"
+            ],
+            "ipv6": [
+                "2403:5680::1:8888"
+            ]
+        },
+        "https://hostus.us/los-angeles-california-datacenter.html": {
+            "ipv4": [
+                "172.106.32.2",
+                "202.5.16.2",
+                "216.189.149.3"
+            ],
+            "ipv6": [
+                "2602:ffc5:20::1:e257",
+                "2602:ffc5:60::1:f0ad",
+                "2602:ffc5:50::1:5f8a"
+            ]
+        },
+        "https://hostus.us/dallas-texas-datacenter.html": {
+            "ipv4": [
+                "104.128.239.2"
+            ],
+            "ipv6": [
+                "2602:ffc5:1f::14fd:d790"
+            ]
+        },
+        "https://hostus.us/amsterdam-netherlands-datacenter.html": {
+            "ipv4": [
+                "185.185.40.2"
+            ],
+            "ipv6": [
+                "2a0b:7080:10::1:e22d"
+            ]
+        },
+        "https://hostus.us/atlanta-georgia-datacenter.html": {
+            "ipv4": [
+                "45.58.56.3"
+            ],
+            "ipv6": [
+                "2602:ffc5:70::1:aaaa"
+            ]
+        },
+        "https://hostus.us/charlotte-north-carolina-datacenter.html": {
+            "ipv4": [
+                "162.245.216.243"
+            ],
+            "ipv6": [
+                "2602:ffc5::a4fe:d5f9"
+            ]
+        },
+        "https://hostus.us/washington-dc-datacenter.html": {
+            "ipv4": [
+                "216.189.157.2"
+            ],
+            "ipv6": [
+                "2602:ffc5:40::1:ec35"
+            ]
+        },
+        "https://hostus.us/sydney-australia-datacenter.html": {
+            "ipv4": [
+                "27.100.36.5"
+            ],
+            "ipv6": [
+                "2402:9e80:1::1:a4a4"
+            ]
+        },
+        "https://hostus.us/hong-kong-china-datacenter.html": {
+            "ipv4": [
+                "45.124.64.3"
+            ],
+            "ipv6": [
+                "2402:9e80:0:1000::1:918b"
+            ]
+        },
+        "https://hostus.us/london-united-kingdom-datacenter.html": {
+            "ipv4": [
+                "83.143.116.6"
+            ],
+            "ipv6": [
+                "2a0b:7080:20::1:749f"
+            ]
+        }
+    },
+    "terrahost.com": {
+        "https://lg.kc-us.terrahost.com/": {
+            "ipv4": [
+                "193.243.189.8"
+            ],
+            "ipv6": [
+                "2a03:94e1:ffff:193:243:189::8"
             ]
         },
         "https://lg.ams-nl.terrahost.com/": {
@@ -280,84 +285,168 @@
                 "2a03:94e3:ffff:45:88:200::26"
             ]
         },
-        "https://lg.kc-us.terrahost.com/": {
+        "https://lg.terrahost.com/": []
+    },
+    "zappiehost.com": {
+        "https://lg-nz.zappiehost.com/": {
             "ipv4": [
-                "193.243.189.8"
+                "185.99.133.234"
             ],
             "ipv6": [
-                "2a03:94e1:ffff:193:243:189::8"
+                "2a06:1280:bee1::dea:234"
             ]
         },
-        "https://lg.terrahost.com": {
+        "https://zappiehost.com/new-zealand-datacenter-network": {
             "ipv4": [
-                "185.125.168.212"
+                "185.99.133.234"
+            ],
+            "ipv6": []
+        },
+        "https://zappiehost.com/south-africa-datacenter-network": [],
+        "https://lg-za.zappiehost.com/": {
+            "ipv4": [
+                "169.239.128.25"
             ],
             "ipv6": [
-                "2a03:94e0:ffff:185:125:168::212"
+                "2c0f:f530::d00:286"
             ]
         }
     },
-    "ebay.com": {
-        "https://www.ebay.com/sellercenter/shipping/ebay-labels-services/ebay-international-shipping-services/ebay-global-shipping-program#eligibility": {}
+    "quickpacket.com": {
+        "http://lg.clt.quickpacket.com/": {
+            "ipv4": [
+                "64.187.224.4"
+            ],
+            "ipv6": [
+                "2607:3f00:1:3::2"
+            ]
+        },
+        "http://lg.lax01.quickpacket.com/": {
+            "ipv4": [
+                "45.43.223.2"
+            ],
+            "ipv6": [
+                "2607:3f00:11:1a::2"
+            ]
+        },
+        "http://lg.clt01.quickpacket.com/": {
+            "ipv4": [
+                "64.187.224.4"
+            ],
+            "ipv6": [
+                "2607:3f00:1:3::2"
+            ]
+        },
+        "http://lg.lax.quickpacket.com/": {
+            "ipv4": [
+                "45.43.223.2"
+            ],
+            "ipv6": [
+                "2607:3f00:11:1a::2"
+            ]
+        }
     },
-    "buyvm.net": {
-        "https://speedtest.lu.buyvm.net/": {
+    "ramnode.com": {
+        "https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html": {
             "ipv4": [
-                "198.251.86.22",
-                "104.244.76.191",
-                "198.251.89.251"
+                "176.56.238.3",
+                "168.235.89.44",
+                "107.191.101.180",
+                "107.161.19.31",
+                "107.191.99.2",
+                "168.235.75.122",
+                "168.235.74.9",
+                "107.161.23.2",
+                "23.226.229.4",
+                "185.34.216.2"
             ],
             "ipv6": [
-                "2605:6400:0030:fdd5::1"
+                "2604:180:2::d2a1:3da5",
+                "2a00:d880:3:1::787:d6bd",
+                "2604:180:1::bd5a:1cb3",
+                "2604:180:3:1::f1",
+                "2604:180::9b07:1d5b"
             ]
         },
-        "https://buyvm.net/las-vegas-datacenter/": {
+        "http://lg.sea.ramnode.com/": {
             "ipv4": [
-                "198.251.86.22",
-                "198.251.80.221",
-                "209.141.56.135"
+                "23.226.229.4"
             ],
             "ipv6": [
-                "2605:6400:20:78::1"
+                "2604:180:1::bd5a:1cb3"
             ]
         },
-        "https://speedtest.ny.buyvm.net/": {
+        "http://lg.nyc.ramnode.com/": {
             "ipv4": [
-                "198.251.83.87",
-                "198.251.86.22",
-                "198.98.53.31"
+                "107.191.96.26"
             ],
             "ipv6": [
-                "2605:6400:0010:0053::1"
+                "2604:180:2::d2a1:3da5"
             ]
         },
-        "https://speedtest.mia.buyvm.net/": {
+        "http://lg.la.ramnode.com/": {
             "ipv4": [
-                "198.251.82.2",
-                "45.61.191.250"
+                "168.235.72.22"
             ],
             "ipv6": [
-                "2605:6400:0040::250"
+                "2604:180:3:1::f1"
             ]
         },
-        "https://speedtest.lv.buyvm.net/": {
+        "http://lg.atl.ramnode.com/": {
             "ipv4": [
-                "198.251.86.22",
-                "198.251.80.221",
-                "209.141.56.135"
+                "107.191.101.180"
             ],
             "ipv6": [
-                "2605:6400:0020:0078::1"
+                "2604:180::9b07:1d5b"
             ]
         },
-        "https://buyvm.net/luxembourg-datacenter/": {
+        "http://lg.nl.ramnode.com/": {
             "ipv4": [
-                "198.251.86.22",
-                "104.244.76.191",
-                "198.251.89.251"
+                "176.56.238.3"
             ],
             "ipv6": [
-                "2605:6400:30:fdd5::1"
+                "2a00:d880:3:1::787:d6bd"
+            ]
+        }
+    },
+    "netcup-sonderangebote.de": {},
+    "ovh.net": {},
+    "commander1.com": {},
+    "clouveo.com": {},
+    "leaseweb.net": {},
+    "drserver.net": {
+        "http://lg-dal.ipv4.drserver.net/": {
+            "ipv4": [
+                "192.138.210.63"
+            ],
+            "ipv6": []
+        },
+        "http://lg-dal.ipv6.drserver.net/": {
+            "ipv4": [],
+            "ipv6": [
+                "2604:0880:0052:0000:0000:0000:01e5:657b"
+            ]
+        }
+    },
+    "digitalrealty.com": {},
+    "apeweb.uk": {},
+    "knownhost.com": {
+        "https://lg.atl.knownhost.com/": {
+            "ipv4": [
+                "170.249.238.168"
+            ],
+            "ipv6": [
+                "2600:4c00:300:12::1"
+            ]
+        }
+    },
+    "alwyzon.com": {
+        "https://www.alwyzon.com/en/lg/vie": {
+            "ipv4": [
+                "86.106.182.189"
+            ],
+            "ipv6": [
+                "2a0d:f302:106::6"
             ]
         }
     },
@@ -379,218 +468,6 @@
             ]
         }
     },
-    "linode.com": {
-        "http://speedtest.syd1.linode.com/": []
-    },
-    "ovh.net": {
-        "https://lg.ovh.net/": {},
-        "http://sin1-sgcs2.smokeping.ovh.net/smokeping": {}
-    },
-    "hosteons.com": {
-        "https://lg.la.hosteons.com/": {
-            "ipv4": [
-                "185.149.23.201"
-            ],
-            "ipv6": [
-                "2402:d0c0:2:238b::1"
-            ]
-        },
-        "https://lg.ny.hosteons.com/": {
-            "ipv4": [
-                "45.128.73.2"
-            ],
-            "ipv6": [
-                "2402:d0c0:3:1fd::1"
-            ]
-        },
-        "https://lg.vegas.hosteons.com/": {
-            "ipv4": [
-                "103.114.162.10"
-            ],
-            "ipv6": [
-                "2402:d0c0:5:b1::2"
-            ]
-        },
-        "https://lg.jax.hosteons.com/": {
-            "ipv4": [
-                "103.114.161.10"
-            ],
-            "ipv6": []
-        },
-        "https://lg.dal.hosteons.com/": {
-            "ipv4": [
-                "213.59.127.10"
-            ],
-            "ipv6": [
-                "2402:d0c0:6:5ec::1"
-            ]
-        },
-        "https://lg.la.hosteons.com/index.php": {
-            "ipv4": [
-                "185.149.23.201"
-            ],
-            "ipv6": [
-                "2402:d0c0:2:238b::1"
-            ]
-        },
-        "https://lg.vegas.hosteons.com/index.php": {
-            "ipv4": [
-                "103.114.162.10"
-            ],
-            "ipv6": [
-                "2402:d0c0:5:b1::2"
-            ]
-        },
-        "https://lg.jax.hosteons.com/index.php": {
-            "ipv4": [
-                "103.114.161.10"
-            ],
-            "ipv6": []
-        },
-        "https://lg.dal.hosteons.com/index.php": {
-            "ipv4": [
-                "213.59.127.10"
-            ],
-            "ipv6": [
-                "2402:d0c0:6:5ec::1"
-            ]
-        },
-        "https://lg.ny.hosteons.com/index.php": {
-            "ipv4": [
-                "45.128.73.2"
-            ],
-            "ipv6": [
-                "2402:d0c0:3:1fd::1"
-            ]
-        }
-    },
-    "hosterlabs.net": {},
-    "reddit.com": {
-        "https://www.reddit.com/r/signal/comments/ujix87/signal_possibly_to_be_banned_in_belgium_for_not/": [],
-        "https://www.reddit.com/r/Wordpress/comments/lg5sej/elementor_increasing_plan_pricing_from_199_for/": []
-    },
-    "hotlineservers.com": {},
-    "flowvps.com": {},
-    "hetzner.com": {
-        "https://docs.hetzner.com/general/others/data-centers-and-connection/#falkensteinvogtland": [],
-        "http://hel.icmp.hetzner.com/": [],
-        "http://fsn.icmp.hetzner.com/": []
-    },
-    "terrahost.no": {},
-    "webhosting24.com": {
-        "https://lg.jp.webhosting24.com/": {
-            "ipv4": [
-                "84.33.12.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:6401::1"
-            ]
-        },
-        "https://lg.muc.webhosting24.com/": {
-            "ipv4": [
-                "194.39.205.4"
-            ],
-            "ipv6": [
-                "2a0c:8fc0:0:100:cafe:babe:502:bc0b"
-            ]
-        },
-        "https://lg.sg.webhosting24.com/": {
-            "ipv4": [
-                "84.33.16.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:52::1"
-            ]
-        },
-        "https://lg.au.webhosting24.com/": {
-            "ipv4": [
-                "84.33.15.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:8001::1"
-            ]
-        },
-        "https://lg.nyc.webhosting24.com/": {
-            "ipv4": [
-                "84.33.245.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:6401::1"
-            ]
-        },
-        "http://lg.jp.webhosting24.com/": {
-            "ipv4": [
-                "84.33.12.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:6401::1"
-            ]
-        },
-        "https://lg.lax.webhosting24.com/": {
-            "ipv4": [
-                "84.33.244.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:1::1"
-            ]
-        },
-        "https://lg.mia.webhosting24.com/": {
-            "ipv4": [
-                "84.33.14.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:8001::1"
-            ]
-        },
-        "http://lg.muc.webhosting24.com/": {
-            "ipv4": [
-                "194.39.205.4"
-            ],
-            "ipv6": [
-                "2a0c:8fc0:0:100:cafe:babe:502:bc0b"
-            ]
-        },
-        "http://lg.sg.webhosting24.com/": {
-            "ipv4": [
-                "84.33.16.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:52::1"
-            ]
-        },
-        "http://lg.au.webhosting24.com/": {
-            "ipv4": [
-                "84.33.15.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc1:8001::1"
-            ]
-        },
-        "http://lg.nyc.webhosting24.com/": {
-            "ipv4": [
-                "84.33.245.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:6401::1"
-            ]
-        },
-        "http://lg.lax.webhosting24.com/": {
-            "ipv4": [
-                "84.33.244.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:1::1"
-            ]
-        },
-        "http://lg.mia.webhosting24.com/": {
-            "ipv4": [
-                "84.33.14.2"
-            ],
-            "ipv6": [
-                "2a0c:8fc3:8001::1"
-            ]
-        }
-    },
     "readydedis.com": {
         "https://lg.mum01.readydedis.com/": {
             "ipv4": [
@@ -603,359 +480,65 @@
                 "103.150.31.3"
             ],
             "ipv6": []
-        },
-        "http://lg.dal01.readydedis.com/": {
-            "ipv4": [
-                "136.175.203.8"
-            ],
-            "ipv6": []
-        },
-        "http://lg.ams01.readydedis.com/": {
-            "ipv4": [
-                "104.36.81.17"
-            ],
-            "ipv6": []
         }
     },
-    "alignedenergy.com": {},
-    "extravm.com": {
-        "https://dal.lg.extravm.com/": {
+    "nexusbytes.com": {
+        "https://lgnl.nexusbytes.com/": {
             "ipv4": [
-                "63.251.42.123"
+                "136.175.201.201"
             ],
             "ipv6": [
-                "2605:9f80:8000:290::1:a"
+                "2602:fed2:7123:02b5:0000:0000:0000:0001"
             ]
         },
-        "https://bhs.lg.extravm.com/": {
+        "https://lgnl.nexusbytes.com": [],
+        "http://lgsg.nexusbytes.com": [],
+        "https://lguk.nexusbytes.com/": {
             "ipv4": [
-                "142.44.222.123"
+                "45.147.54.2"
             ],
             "ipv6": [
-                "2607:5300:204:4387::1:a"
+                "2a04:ff00:0501:0468:0000:0000:0000:0001"
             ]
         },
-        "https://syd.lg.extravm.com/": {
+        "http://lguk.nexusbytes.com": [],
+        "https://lgmel.nexusbytes.com/": {
             "ipv4": [
-                "139.99.234.31"
+                "64.112.56.10"
             ],
             "ipv6": [
-                "2402:1f00:8101:102::5:a"
+                "2404:f780:000b:0351:0000:0000:0000:0002"
             ]
-        },
-        "https://gra.lg.extravm.com/": {
-            "ipv4": [
-                "5.196.58.151"
-            ],
-            "ipv6": [
-                "2001:41d0:a:7e6d::1:a"
-            ]
-        },
-        "https://lon.lg.extravm.com/": {
-            "ipv4": [
-                "54.38.210.17"
-            ],
-            "ipv6": [
-                "2001:41d0:800:1427::1:a"
-            ]
-        },
-        "https://lax.lg.extravm.com/": {
-            "ipv4": [
-                "172.96.160.38"
-            ],
-            "ipv6": []
-        },
-        "https://mia.lg.extravm.com/": {}
-    },
-    "virmach.com": {
-        "http://tyo.lg.virmach.com/": {
-            "ipv4": [
-                "45.66.217.3"
-            ],
-            "ipv6": []
-        },
-        "https://billing.virmach.com/index.php?rp=/knowledgebase/11/Test-IP-and-Looking-Glass-Locations.html": {},
-        "http://nyc.lg.virmach.com/": {
-            "ipv4": [
-                "216.52.57.7"
-            ],
-            "ipv6": []
-        },
-        "http://ffm.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.228.164"
-            ],
-            "ipv6": []
-        },
-        "http://ams.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.237.134"
-            ],
-            "ipv6": []
-        },
-        "http://lax.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.213.3"
-            ],
-            "ipv6": []
-        },
-        "http://lax2.lg.virmach.com/": {
-            "ipv4": [
-                "149.57.241.21"
-            ],
-            "ipv6": []
-        },
-        "http://chi.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.162.134"
-            ],
-            "ipv6": []
-        },
-        "http://chi2.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.219.124"
-            ],
-            "ipv6": []
-        },
-        "http://tpa.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.207.157"
-            ],
-            "ipv6": []
-        },
-        "http://mia.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.156.150"
-            ],
-            "ipv6": []
-        },
-        "http://sjc.lg.virmach.com/": {
-            "ipv4": [
-                "45.89.199.5"
-            ],
-            "ipv6": []
-        },
-        "http://sea.lg.virmach.com/": {
-            "ipv4": [
-                "47.87.188.223"
-            ],
-            "ipv6": []
-        },
-        "http://atl.lg.virmach.com/": {
-            "ipv4": [
-                "23.147.226.8"
-            ],
-            "ipv6": []
-        },
-        "http://dal.lg.virmach.com/": {
-            "ipv4": [
-                "172.98.14.10"
-            ],
-            "ipv6": []
-        },
-        "http://phx.lg.virmach.com/": {
-            "ipv4": [
-                "31.222.200.166"
-            ],
-            "ipv6": []
-        },
-        "http://den.lg.virmach.com/": {
-            "ipv4": [
-                "66.59.196.4"
-            ],
-            "ipv6": []
-        },
-        "https://billing.virmach.com/index.php?rp=/knowledgebase/11/Test-IP-and-Looking-Glass-Locations.html&language=english": {}
-    },
-    "vultr.com": {
-        "https://www.vultr.com/features/datacenter-locations/": [],
-        "http://sjo-ca-us-ping.vultr.com/": {
-            "ipv4": [
-                "104.156.230.107"
-            ],
-            "ipv6": []
-        },
-        "https://lon-gb-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.196.101"
-            ],
-            "ipv6": []
-        },
-        "https://par-fr-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.209.127"
-            ],
-            "ipv6": []
-        },
-        "https://il-us-ping.vultr.com/": {
-            "ipv4": [
-                "107.191.51.12"
-            ],
-            "ipv6": []
-        },
-        "https://sgp-ping.vultr.com/": {
-            "ipv4": [
-                "45.32.100.168"
-            ],
-            "ipv6": []
-        },
-        "https://del-in-ping.vultr.com/": {
-            "ipv4": [
-                "139.84.162.104"
-            ],
-            "ipv6": []
-        },
-        "https://mex-mx-ping.vultr.com/": {
-            "ipv4": [
-                "216.238.66.16"
-            ],
-            "ipv6": []
-        },
-        "https://ga-us-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.193.166"
-            ],
-            "ipv6": []
-        },
-        "https://fra-de-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.210.117"
-            ],
-            "ipv6": []
-        },
-        "https://waw-pl-ping.vultr.com/": {
-            "ipv4": [
-                "70.34.242.24"
-            ],
-            "ipv6": []
-        },
-        "https://nj-us-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.149.182"
-            ],
-            "ipv6": []
-        },
-        "https://sao-br-ping.vultr.com/": {
-            "ipv4": [
-                "216.238.98.118"
-            ],
-            "ipv6": []
-        },
-        "https://mad-es-ping.vultr.com/": {
-            "ipv4": [
-                "208.76.222.30"
-            ],
-            "ipv6": []
-        },
-        "https://bom-in-ping.vultr.com/": {
-            "ipv4": [
-                "65.20.66.100"
-            ],
-            "ipv6": []
-        },
-        "https://tx-us-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.224.175"
-            ],
-            "ipv6": []
-        },
-        "https://sel-kor-ping.vultr.com/": {
-            "ipv4": [
-                "141.164.34.61"
-            ],
-            "ipv6": []
-        },
-        "https://blr-in-ping.vultr.com/": {
-            "ipv4": [
-                "139.84.130.100"
-            ],
-            "ipv6": []
-        },
-        "https://tor-ca-ping.vultr.com/": {
-            "ipv4": [
-                "149.248.50.81"
-            ],
-            "ipv6": []
-        },
-        "https://syd-au-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.212.117"
-            ],
-            "ipv6": []
-        },
-        "https://wa-us-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.194.105"
-            ],
-            "ipv6": []
-        },
-        "https://sjo-ca-us-ping.vultr.com/": {
-            "ipv4": [
-                "104.156.230.107"
-            ],
-            "ipv6": []
-        },
-        "https://hnd-jp-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.201.151"
-            ],
-            "ipv6": []
-        },
-        "https://ams-nl-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.198.102"
-            ],
-            "ipv6": []
-        },
-        "https://mel-au-ping.vultr.com/": {
-            "ipv4": [
-                "67.219.110.24"
-            ],
-            "ipv6": []
-        },
-        "https://lax-ca-us-ping.vultr.com/": {
-            "ipv4": [
-                "108.61.219.200"
-            ],
-            "ipv6": []
-        },
-        "https://hon-hi-us-ping.vultr.com/": {
-            "ipv4": [
-                "208.72.154.76"
-            ],
-            "ipv6": []
-        },
-        "https://sto-se-ping.vultr.com/": {
-            "ipv4": [
-                "70.34.194.86"
-            ],
-            "ipv6": []
-        },
-        "https://fl-us-ping.vultr.com/": {
-            "ipv4": [
-                "104.156.244.232"
-            ],
-            "ipv6": []
         }
     },
-    "kuroit.com": {
-        "https://uk.lg.kuroit.com/": {
+    "khanwebhost.com": {},
+    "leveloneservers.com": {
+        "https://tpa.lg.leveloneservers.com/": {
             "ipv4": [
-                "178.239.171.5"
+                "104.247.114.4"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2602:ffc5:10d:100::4"
+            ]
         },
-        "https://uk2.lg.kuroit.com/": {
+        "https://dal.lg.leveloneservers.com/": {
             "ipv4": [
-                "23.183.244.3"
+                "45.43.13.170"
             ],
-            "ipv6": []
-        },
-        "https://us.lg.kuroit.com/": {
+            "ipv6": [
+                "2602:ffc5:105:20c::de4e:8db8"
+            ]
+        }
+    },
+    "fedex.com": {},
+    "servarica.com": {
+        "https://ping.servarica.com/": {
             "ipv4": [
-                "185.216.72.2"
+                "162.250.188.171"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2602:ffd5:1:141::1"
+            ]
         }
     },
     "ultravps.eu": {
@@ -983,12 +566,12 @@
                 "2a02:e00:ffec:3a::1"
             ]
         },
-        "http://lg.kiv.md.ultravps.eu/": {
+        "http://lg.lax.us.ultravps.eu/": {
             "ipv4": [
-                "185.177.151.4"
+                "69.12.89.3"
             ],
             "ipv6": [
-                "2a02:e00:ffe8:3::1"
+                "2607:fcd0:107:2::1"
             ]
         },
         "http://lg.ams.nl.ultravps.eu/": {
@@ -999,20 +582,20 @@
                 "2a02:e00:fff0:c::1"
             ]
         },
+        "http://lg.kiv.md.ultravps.eu/": {
+            "ipv4": [
+                "185.177.151.4"
+            ],
+            "ipv6": [
+                "2a02:e00:ffe8:3::1"
+            ]
+        },
         "http://lg.lon.uk.ultravps.eu/": {
             "ipv4": [
                 "185.177.148.4"
             ],
             "ipv6": [
                 "2a02:e00:ffe9:2::1"
-            ]
-        },
-        "http://lg.lax.us.ultravps.eu/": {
-            "ipv4": [
-                "69.12.89.3"
-            ],
-            "ipv6": [
-                "2607:fcd0:107:2::1"
             ]
         },
         "http://lg.ultravps.eu/": {
@@ -1038,518 +621,151 @@
             "ipv6": []
         }
     },
-    "zappiehost.com": {
-        "https://lg-za.zappiehost.com/": {
+    "smarthost.net": {},
+    "extravm.com": {
+        "https://dal.lg.extravm.com/": {
             "ipv4": [
-                "169.239.128.25"
+                "63.251.42.123"
             ],
             "ipv6": [
-                "2c0f:f530::d00:286"
+                "2605:9f80:8000:290::1:a"
             ]
         },
-        "https://zappiehost.com/south-africa-datacenter-network": {
+        "https://vin.lg.extravm.com": [],
+        "https://bhs.lg.extravm.com": []
+    },
+    "advancedserverdns.com": {
+        "https://lg-mumbai.advancedserverdns.com/": {
             "ipv4": [
-                "169.239.128.25"
-            ],
-            "ipv6": []
-        },
-        "https://lg-nz.zappiehost.com/": {
-            "ipv4": [
-                "185.99.133.234"
+                "103.205.143.1"
             ],
             "ipv6": [
-                "2a06:1280:bee1::dea:234"
-            ]
-        },
-        "https://zappiehost.com/new-zealand-datacenter-network": {
-            "ipv4": [
-                "185.99.133.234"
-            ],
-            "ipv6": []
-        },
-        "https://lg-cl.zappiehost.com/": {
-            "ipv4": [
-                "216.73.159.15"
-            ],
-            "ipv6": [
-                "2a06:a006:d1d1::105"
+                "2405:7140::1"
             ]
         }
     },
-    "psychz.net": {
-        "https://lg.lax.psychz.net/": {
+    "virmach.com": {
+        "http://tyo.lg.virmach.com/": {
             "ipv4": [
-                "104.149.18.203"
-            ],
-            "ipv6": [
-                "2604:6600:0:c::2"
-            ]
-        },
-        "https://lg.in.psychz.net/": {
-            "ipv4": [
-                "103.78.121.194"
-            ],
-            "ipv6": [
-                "2604:6600:a3::3"
-            ]
-        },
-        "https://lg.syd.psychz.net/": {
-            "ipv4": [
-                "103.126.137.101"
-            ],
-            "ipv6": [
-                "2604:6600:fe7c::e4c0:65f5"
-            ]
-        },
-        "https://lg.lon.psychz.net/": {
-            "ipv4": [
-                "172.107.96.75"
-            ],
-            "ipv6": [
-                "2604:6600:2008:1::a5f1:38f2"
-            ]
-        },
-        "https://lg.texas.psychz.net/": {
-            "ipv4": [
-                "45.34.12.147"
-            ],
-            "ipv6": [
-                "2604:6600:2000:38::3"
-            ]
-        },
-        "https://lg.sao.psychz.net/": {
-            "ipv4": [
-                "172.107.207.219"
-            ],
-            "ipv6": [
-                "2604:6600:fd00:84::b0b1:28cb"
-            ]
-        },
-        "https://lg.jnb.psychz.net/": {
-            "ipv4": [
-                "172.107.93.10"
-            ],
-            "ipv6": [
-                "2604:6600:2010:32::4"
-            ]
-        },
-        "https://lg.icn.psychz.net/": {
-            "ipv4": [
-                "172.107.194.37"
-            ],
-            "ipv6": [
-                "2604:6600:25::6062:5c10"
-            ]
-        },
-        "https://lg.va.psychz.net/": {
-            "ipv4": [
-                "172.106.7.194"
-            ],
-            "ipv6": [
-                "2604:6600:2002:4::1531:a1e7"
-            ]
-        },
-        "https://lg.jp.psychz.net/": {
-            "ipv4": [
-                "103.102.160.243"
-            ],
-            "ipv6": [
-                "2604:6600:99::cd63:b08"
-            ]
-        },
-        "https://lg.svo.psychz.net/": {
-            "ipv4": [
-                "172.107.236.163"
-            ],
-            "ipv6": [
-                "2604:6600:77:11::f5f3:cafe"
-            ]
-        },
-        "https://lg.chi.psychz.net/": {
-            "ipv4": [
-                "172.107.196.100"
-            ],
-            "ipv6": [
-                "2604:6600:2700::3"
-            ]
-        },
-        "https://lg.sin.psychz.net/": {
-            "ipv4": [
-                "103.126.138.20"
-            ],
-            "ipv6": [
-                "2604:6600:1c6::245f:7ca6"
-            ]
-        },
-        "https://lg.ams.psychz.net/": {
-            "ipv4": [
-                "172.107.95.154"
-            ],
-            "ipv6": [
-                "2604:6600:2007:48:0:2:185f:e237"
-            ]
-        },
-        "https://lg.tw.psychz.net/": {
-            "ipv4": [
-                "103.78.122.171"
-            ],
-            "ipv6": [
-                "2604:6600:4b:2::3"
-            ]
-        },
-        "https://lg.bcn.psychz.net/": {
-            "ipv4": [
-                "213.198.67.34"
-            ],
-            "ipv6": [
-                "2604:6600:fdc0:1::3175:ef64"
-            ]
-        },
-        "https://lg.lax-cn2.psychz.net/": {
-            "ipv4": [
-                "172.106.4.54"
+                "45.66.217.3"
             ],
             "ipv6": []
         },
-        "http://lg.ams.psychz.net/": {
-            "ipv4": [
-                "172.107.95.154"
-            ],
-            "ipv6": [
-                "2604:6600:2007:48:0:2:185f:e237"
-            ]
-        },
-        "http://lg.sao.psychz.net/": {
-            "ipv4": [
-                "172.107.207.219"
-            ],
-            "ipv6": [
-                "2604:6600:fd00:84::b0b1:28cb"
-            ]
-        },
-        "http://lg.sin.psychz.net/": {
-            "ipv4": [
-                "103.126.138.20"
-            ],
-            "ipv6": [
-                "2604:6600:1c6::245f:7ca6"
-            ]
-        },
-        "http://lg.jp.psychz.net/": {
-            "ipv4": [
-                "103.102.160.243"
-            ],
-            "ipv6": [
-                "2604:6600:99::cd63:b08"
-            ]
-        },
-        "http://lg.syd.psychz.net/": {
-            "ipv4": [
-                "103.126.137.101"
-            ],
-            "ipv6": [
-                "2604:6600:fe7c::e4c0:65f5"
-            ]
-        },
-        "http://lg.lon.psychz.net/": {
-            "ipv4": [
-                "172.107.96.75"
-            ],
-            "ipv6": [
-                "2604:6600:2008:1::a5f1:38f2"
-            ]
-        },
-        "http://lg.bcn.psychz.net/": {
-            "ipv4": [
-                "213.198.67.34"
-            ],
-            "ipv6": [
-                "2604:6600:fdc0:1::3175:ef64"
-            ]
-        },
-        "http://lg.chi.psychz.net/": {
-            "ipv4": [
-                "172.107.196.100"
-            ],
-            "ipv6": [
-                "2604:6600:2700::3"
-            ]
-        },
-        "http://lg.va.psychz.net/": {
-            "ipv4": [
-                "172.106.7.194"
-            ],
-            "ipv6": [
-                "2604:6600:2002:4::1531:a1e7"
-            ]
-        },
-        "http://lg.jnb.psychz.net/": {
-            "ipv4": [
-                "172.107.93.10"
-            ],
-            "ipv6": [
-                "2604:6600:2010:32::4"
-            ]
-        },
-        "http://lg.texas.psychz.net/": {
-            "ipv4": [
-                "45.34.12.147"
-            ],
-            "ipv6": [
-                "2604:6600:2000:38::3"
-            ]
-        },
-        "http://lg.in.psychz.net/": {
-            "ipv4": [
-                "103.78.121.194"
-            ],
-            "ipv6": [
-                "2604:6600:a3::3"
-            ]
-        },
-        "http://lg.lax.psychz.net/": {
-            "ipv4": [
-                "104.149.18.203"
-            ],
-            "ipv6": [
-                "2604:6600:0:c::2"
-            ]
-        },
-        "https://lg.tw.psychz.net": {
-            "ipv4": [
-                "103.78.122.171"
-            ],
-            "ipv6": [
-                "2604:6600:4b:2::3"
-            ]
-        }
+        "https://ffm.lg.virmach.com": [],
+        "https://lg.virmach.com": []
     },
-    "cloudflare.com": {},
-    "hosthatch.com": {
-        "http://lg.hkg.hosthatch.com/": {
+    "as212647.net": {},
+    "happybeehost.com": {
+        "https://lg-fr.happybeehost.com/": {
             "ipv4": [
-                "216.250.96.96"
+                "92.222.150.36"
             ],
             "ipv6": []
         },
-        "http://lg.ams.hosthatch.com/": {
+        "https://lg-uk.happybeehost.com/": {
             "ipv4": [
-                "83.138.53.15"
+                "54.38.76.70"
             ],
-            "ipv6": [
-                "2a01:6f0:ffff:aa::beef"
-            ]
+            "ipv6": []
         },
-        "http://lg.syd.hosthatch.com/": {
+        "https://lg-pl.happybeehost.com/": {
             "ipv4": [
-                "103.73.65.65"
+                "147.135.198.0"
+            ],
+            "ipv6": []
+        }
+    },
+    "contabo.com": {},
+    "haendler.it": {
+        "https://lg.nl.haendler.it/": {
+            "ipv4": [
+                "80.78.132.115"
             ],
             "ipv6": [
-                "2401:c900:1401:3b:3::83e4"
-            ]
-        },
-        "http://lg.lax.hosthatch.com/": {
-            "ipv4": [
-                "185.197.30.30"
-            ],
-            "ipv6": [
-                "2a04:bdc7:100:68::3da7"
-            ]
-        },
-        "http://lg.waw.hosthatch.com/": {
-            "ipv4": [
-                "45.132.75.75"
-            ],
-            "ipv6": [
-                "2a0e:dc0:7:10::2"
+                "2a0d:2146:2404::2390"
             ]
         }
     },
-    "hostus.us": {},
-    "apeweb.uk": {},
-    "clouvider.com": {
-        "https://www.clouvider.com/new-york-32-avenue-of-americas-digital-realty-datacenter/": [],
-        "https://www.clouvider.com/amsterdam-data-tower-digital-realty-datacenter/": [],
-        "https://www.clouvider.com/phoenix-phoenixnap-datacenter/": [],
-        "https://www.clouvider.com/dallas-equinix-da11-equinix-datacenter/": [],
-        "https://www.clouvider.com/los-angeles-la2-coresite-datacenter/": [],
-        "https://www.clouvider.com/new-york-60-hudson-digital-realty-datacenter/": [],
-        "https://www.clouvider.com/atlanta-56-marietta-street-digital-realty-datacenter/": [],
-        "https://www.clouvider.com/frankfurt-equinix-fr6-equinix-datacenter/": {},
-        "https://www.clouvider.com/manchester-equinix-ma4-equinix-datacenter/": {}
-    },
-    "mudfish.net": {
-        "https://ping.mudfish.net/": []
-    },
-    "hostworld.uk": {
-        "https://lguk.hostworld.uk": {
+    "baxtel.com": {},
+    "x4b.net": {
+        "https://lg.x4b.net/": {
             "ipv4": [
-                "5.181.124.254"
+                "103.77.224.2"
             ],
-            "ipv6": [
-                "2a01:a500:2766::71ba:0f43"
-            ]
-        },
-        "https://lguk2.hostworld.uk/": {
-            "ipv4": [
-                "51.195.168.65"
-            ],
-            "ipv6": [
-                "2001:41d0:0800:28c5::1d4a:d1df"
-            ]
-        },
-        "https://lgny.hostworld.uk/": {
-            "ipv4": [
-                "191.96.196.147"
-            ],
-            "ipv6": [
-                "2604:7a80:2000:203::5dd:688a"
-            ]
-        },
-        "https://lgch.hostworld.uk/": {
-            "ipv4": [
-                "23.237.136.188"
-            ],
-            "ipv6": [
-                "2001:49f0:d0be:0001::0ef3:d7a8"
-            ]
-        },
-        "https://lgla.hostworld.uk/": {
-            "ipv4": [
-                "23.237.72.171"
-            ],
-            "ipv6": [
-                "2001:49f0:d08a:2::e4:6ab1"
-            ]
-        },
-        "https://lgmh.hostworld.uk/": {
-            "ipv4": [
-                "109.169.10.169"
-            ],
-            "ipv6": [
-                "2001:1b40:5000:2a::12"
-            ]
-        },
-        "https://lguk.hostworld.uk/": {
-            "ipv4": [
-                "5.181.124.254"
-            ],
-            "ipv6": [
-                "2a01:a500:2766::71ba:0f43"
-            ]
-        }
-    },
-    "v.ps": {
-        "https://syd.lg.v.ps/": {
-            "ipv4": [
-                "103.136.146.146"
-            ],
-            "ipv6": [
-                "2a11:3:100::20b"
-            ]
-        },
-        "https://kix.lg.v.ps/": {
-            "ipv4": [
-                "45.14.106.106"
-            ],
-            "ipv6": [
-                "2400:ddc0:c001::128"
-            ]
-        },
-        "https://sjc.lg.v.ps/": {
-            "ipv4": [
-                "104.245.12.12"
-            ],
-            "ipv6": [
-                "2604:a840:2::48"
-            ]
-        },
-        "https://lon.lg.v.ps/": {
-            "ipv4": [
-                "185.248.86.86"
-            ],
-            "ipv6": [
-                "2a0b:89c1:2::16d"
-            ]
-        },
-        "https://ams.lg.v.ps/": {
-            "ipv4": [
-                "78.142.195.195"
-            ],
-            "ipv6": [
-                "2a0c:59c0:12::10b"
-            ]
-        },
-        "https://tll.lg.v.ps/": {
-            "ipv4": [
-                "185.194.53.53"
-            ],
-            "ipv6": [
-                "2a04:6f00:4::d2"
-            ]
-        },
-        "https://fra.lg.v.ps/": {
-            "ipv4": [
-                "45.80.188.188"
-            ],
-            "ipv6": [
-                "2a09:0:9::4d"
-            ]
-        },
-        "https://dus.lg.v.ps/": {
-            "ipv4": [
-                "185.254.74.74"
-            ],
-            "ipv6": [
-                "2a03:d9c0:2000::168"
-            ]
-        },
-        "https://nyc.lg.v.ps/": {
-            "ipv4": [
-                "23.159.160.160"
-            ],
-            "ipv6": [
-                "2605:3a40:3::1d4"
-            ]
-        },
-        "https://hkg.lg.v.ps/": {
-            "ipv4": [
-                "157.119.101.101"
-            ],
-            "ipv6": [
-                "2403:2c80:1000::223"
-            ]
-        },
-        "https://sea2.lg.v.ps/": {
-            "ipv4": [
-                "142.147.95.95"
-            ],
-            "ipv6": [
-                "2605:3a40:5::145"
-            ]
-        },
-        "https://sea.lg.v.ps/": {
-            "ipv4": [
-                "23.145.48.48"
-            ],
-            "ipv6": [
-                "2605:3a40:4::1dc"
-            ]
-        },
-        "https://nrt.lg.v.ps/": {
-            "ipv4": [
-                "103.201.131.131"
-            ],
-            "ipv6": [
-                "2a12:a301:1::1f4"
-            ]
+            "ipv6": []
         }
     },
     "nlnog.net": {},
-    "digitalrealty.com": {
-        "https://www.digitalrealty.com/data-centers/chicago/600-s-federal-st-chicago-il": []
+    "alphavps.com": {
+        "https://lgbg.alphavps.com/": {
+            "ipv4": [
+                "79.124.7.8"
+            ],
+            "ipv6": [
+                "2a01:8740:1:76f::ea47"
+            ]
+        }
     },
+    "hotlineservers.com": {},
+    "buyvm.net": {
+        "https://speedtest.lu.buyvm.net/": {
+            "ipv4": [
+                "198.251.86.22",
+                "104.244.76.191",
+                "198.251.89.251"
+            ],
+            "ipv6": [
+                "2605:6400:0030:fdd5::1"
+            ]
+        },
+        "https://buyvm.net/luxembourg-datacenter/": {
+            "ipv4": [
+                "198.251.86.22",
+                "104.244.76.191",
+                "198.251.89.251"
+            ],
+            "ipv6": [
+                "2605:6400:30:fdd5::1"
+            ]
+        },
+        "https://buyvm.net/las-vegas-datacenter/": {
+            "ipv4": [
+                "198.251.80.221",
+                "198.251.86.22",
+                "209.141.56.135"
+            ],
+            "ipv6": [
+                "2605:6400:20:78::1"
+            ]
+        }
+    },
+    "getsurrey.co.uk": {},
+    "chinaz.com": {},
+    "avoro.eu": {},
+    "ssllabs.com": {},
+    "teraswitch.com": {},
+    "vserver.site": {
+        "https://lg-ffm.vserver.site/": {
+            "ipv4": [
+                "185.133.208.232"
+            ],
+            "ipv6": [
+                "2a07:59c6:ee02:cafe:ffff:ffff:113b:6f10"
+            ]
+        }
+    },
+    "servzen.com": {},
+    "ionswitch.com": {},
+    "lowendspirit.com": {},
     "silicloud.com": {
+        "https://lg-global-tyo01-jp.silicloud.com/": {
+            "ipv4": [
+                "154.19.187.46"
+            ],
+            "ipv6": [
+                "2400:38e0:1:4002::1df"
+            ]
+        },
         "https://lg-cn2gia-west01-us.silicloud.com/": {
             "ipv4": [
                 "103.177.81.120"
@@ -1565,252 +781,90 @@
             "ipv6": [
                 "2400:38e0:0:4001::119"
             ]
-        },
-        "https://lg-global-tyo01-jp.silicloud.com/": {
-            "ipv4": [
-                "154.19.187.46"
-            ],
+        }
+    },
+    "atlassian.com": {},
+    "kts24.com": {},
+    "dnstools.ws": {
+        "https://dnstools.ws/ping/2a02:a58:832d:6700:b065:cb93:fc76:af14": {
+            "ipv4": [],
             "ipv6": [
-                "2400:38e0:1:4002::1df"
-            ]
-        },
-        "https://lg-cn2mixed-west01-us.silicloud.com/": {
-            "ipv4": [
-                "103.177.81.120"
-            ],
-            "ipv6": [
-                "2400:38e0:0:4001::159"
+                "2a02:a58:832d:6700:b065:cb93:fc76:af14"
             ]
         }
     },
-    "knownhost.com": {
-        "https://lg.atl.knownhost.com/": {
+    "bikegremlin.com": {},
+    "v.ps": {
+        "https://syd.lg.v.ps/": []
+    },
+    "psychz.net": {
+        "https://lg.lax.psychz.net/": {
             "ipv4": [
-                "170.249.238.168"
+                "104.149.18.203"
             ],
             "ipv6": [
-                "2600:4c00:300:12::1"
+                "2604:6600:0:c::2"
             ]
         }
     },
-    "leaseweb.net": {},
-    "archive.org": {
-        "https://web.archive.org/web/20210802124652/https://www.datacentermap.com/italy/rome/": []
-    },
-    "ibb.co": {},
-    "wsj.com": {},
-    "netcup-sonderangebote.de": {
-        "https://www.netcup-sonderangebote.de/allgemein/20-euro-sommerrabatt/": [],
-        "https://www.netcup-sonderangebote.de/allgemein/20-euro-valentins-rabatt/": []
-    },
-    "quickpacket.com": {
-        "http://lg.lax.quickpacket.com/": {
+    "vultr.com": {
+        "http://sjo-ca-us-ping.vultr.com/": {
             "ipv4": [
-                "45.43.223.2"
-            ],
-            "ipv6": [
-                "2607:3f00:11:1a::2"
-            ]
-        },
-        "http://lg.clt.quickpacket.com/": {
-            "ipv4": [
-                "64.187.224.4"
-            ],
-            "ipv6": [
-                "2607:3f00:1:3::2"
-            ]
-        },
-        "http://lg.lax01.quickpacket.com/": {
-            "ipv4": [
-                "45.43.223.2"
-            ],
-            "ipv6": [
-                "2607:3f00:11:1a::2"
-            ]
-        },
-        "http://lg.clt01.quickpacket.com/": {
-            "ipv4": [
-                "64.187.224.4"
-            ],
-            "ipv6": [
-                "2607:3f00:1:3::2"
-            ]
-        },
-        "https://lg.chi01.quickpacket.com/": {
-            "ipv4": [
-                "64.187.239.14"
-            ],
-            "ipv6": [
-                "2605:a880:8000:2f::2"
-            ]
-        },
-        "https://lg.iad01.quickpacket.com/": {
-            "ipv4": [
-                "64.187.224.4"
-            ],
-            "ipv6": [
-                "2607:3f00:1:3::2"
-            ]
-        },
-        "https://lg.lax01.quickpacket.com/": {
-            "ipv4": [
-                "45.43.223.2"
-            ],
-            "ipv6": [
-                "2607:3f00:11:1a::2"
-            ]
-        },
-        "http://lg.iad01.quickpacket.com/": {
-            "ipv4": [
-                "64.187.224.4"
-            ],
-            "ipv6": [
-                "2607:3f00:1:3::2"
-            ]
-        },
-        "http://lg.chi01.quickpacket.com/": {
-            "ipv4": [
-                "64.187.239.14"
-            ],
-            "ipv6": [
-                "2605:a880:8000:2f::2"
-            ]
-        }
-    },
-    "hostslim.nl": {
-        "https://lg.hostslim.nl/": {
-            "ipv4": [
-                "103.219.154.62"
-            ],
-            "ipv6": [
-                "2a06:5b80:1::b67b:cd74"
-            ]
-        }
-    },
-    "kts24.com": {
-        "https://www.kts24.com/about/datacenter": {}
-    },
-    "alwyzon.com": {
-        "https://www.alwyzon.com/en/lg/vie": {
-            "ipv4": [
-                "86.106.182.189"
-            ],
-            "ipv6": [
-                "2a0d:f302:106::6"
-            ]
-        }
-    },
-    "clouveo.com": {},
-    "drserver.net": {
-        "http://lg-dal.ipv4.drserver.net/": {
-            "ipv4": [
-                "192.138.210.63"
-            ],
-            "ipv6": []
-        },
-        "http://lg-dal.ipv6.drserver.net/": {}
-    },
-    "atlassian.com": {
-        "https://marketplace.atlassian.com/apps/15231/refined-for-confluence-sites-themes?tab=overview&hosting=datacenter": []
-    },
-    "smarthost.net": {},
-    "ssdblaze.com": {
-        "https://dal.lg.ssdblaze.com/": {
-            "ipv4": [
-                "170.130.210.38"
-            ],
-            "ipv6": []
-        },
-        "http://lg-dal.ssdblaze.com/": {
-            "ipv4": [
-                "50.2.217.106"
-            ],
-            "ipv6": [
-                "2607:ff28:2:1d::240f:3de5"
-            ]
-        },
-        "http://lg-dal.ssdblaze.com//": {
-            "ipv4": [
-                "50.2.217.106"
-            ],
-            "ipv6": [
-                "2607:ff28:2:1d::240f:3de5"
-            ]
-        }
-    },
-    "hostmayo.com": {
-        "https://lgnl.hostmayo.com/": {
-            "ipv4": [
-                "169.239.130.2"
-            ],
-            "ipv6": []
-        },
-        "https://lg.hostmayo.com/": {
-            "ipv4": [
-                "104.218.236.24"
+                "104.156.230.107"
             ],
             "ipv6": []
         }
     },
-    "vserver.site": {
-        "https://lg-ffm.vserver.site/": {
+    "alignedenergy.com": {},
+    "colocrossing.com": {},
+    "natvps.uk": {},
+    "hostsailor.com": {},
+    "terrahost.no": {},
+    "hosthatch.com": {
+        "http://lg.hkg.hosthatch.com/": {
             "ipv4": [
-                "185.133.208.232"
-            ],
-            "ipv6": [
-                "2a07:59c6:ee02:cafe:ffff:ffff:113b:6f10"
-            ]
-        }
-    },
-    "extremetech.com": {},
-    "albahost.net": {
-        "https://lg.albahost.net/": {
-            "ipv4": [
-                "103.167.234.10"
+                "216.250.96.96"
             ],
             "ipv6": []
         }
     },
-    "leveloneservers.com": {
-        "https://dal.lg.leveloneservers.com/": {
+    "misaka.io": {},
+    "tierpoint.com": {},
+    "webhosting24.com": {
+        "https://lg.muc.webhosting24.com/": {
             "ipv4": [
-                "45.43.13.170"
+                "194.39.205.4"
             ],
             "ipv6": [
-                "2602:ffc5:105:20c::de4e:8db8"
+                "2a0c:8fc0:0:100:cafe:babe:502:bc0b"
             ]
         },
-        "https://tpa.lg.leveloneservers.com/": {
+        "https://lg.au.webhosting24.com/": {
             "ipv4": [
-                "104.247.114.4"
+                "84.33.15.2"
             ],
             "ipv6": [
-                "2602:ffc5:10d:100::4"
+                "2a0c:8fc1:8001::1"
+            ]
+        },
+        "https://lg.sg.webhosting24.com/": {
+            "ipv4": [
+                "84.33.16.2"
+            ],
+            "ipv6": [
+                "2a0c:8fc1:52::1"
+            ]
+        },
+        "https://lg.jp.webhosting24.com/": {
+            "ipv4": [
+                "84.33.12.2"
+            ],
+            "ipv6": [
+                "2a0c:8fc1:6401::1"
             ]
         }
     },
-    "23m.com": {},
-    "servzen.com": {},
-    "bikegremlin.com": {
-        "https://io.bikegremlin.com/22952/stopping-wordpress-comment-spam/#4.1": [],
-        "https://io.bikegremlin.com/22952/stopping-wordpress-comment-spam/#2": [],
-        "https://io.bikegremlin.com/22952/stopping-wordpress-comment-spam/": []
-    },
-    "getsurrey.co.uk": {},
-    "chinaz.com": {
-        "https://ping.chinaz.com:443/": {}
-    },
-    "theregister.com": {},
-    "servarica.com": {
-        "https://ping.servarica.com/": {
-            "ipv4": [
-                "162.250.188.171"
-            ],
-            "ipv6": [
-                "2602:ffd5:1:141::1"
-            ]
-        }
-    },
+    "anandtech.com": {},
     "cloudc.one": {
         "http://la.lg.cloudc.one/": {
             "ipv4": [
@@ -1821,105 +875,15 @@
             ]
         }
     },
-    "wtnet.de": {
-        "https://speedtest.wtnet.de/": {}
-    },
-    "teraswitch.com": {
-        "http://lg.lax.teraswitch.com/": [],
-        "https://lg.teraswitch.com/": {}
-    },
-    "advancedserverdns.com": {
-        "https://lg-mumbai.advancedserverdns.com/": {
+    "23m.com": {},
+    "albahost.net": {
+        "https://lg.albahost.net/": {
             "ipv4": [
-                "103.205.143.1"
+                "103.167.234.10"
             ],
-            "ipv6": [
-                "2405:7140::1"
-            ]
+            "ipv6": []
         }
     },
-    "hostsolutions.ro": {},
-    "lowendspirit.com": {},
-    "natvps.uk": {},
-    "ramnode.com": {
-        "https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html": {
-            "ipv4": [
-                "107.191.99.2",
-                "185.34.216.2",
-                "23.226.229.4",
-                "168.235.74.9",
-                "107.161.19.31",
-                "168.235.75.122",
-                "168.235.89.44",
-                "107.191.101.180",
-                "176.56.238.3",
-                "107.161.23.2"
-            ],
-            "ipv6": [
-                "2604:180::9b07:1d5b",
-                "2604:180:2::d2a1:3da5",
-                "2a00:d880:3:1::787:d6bd",
-                "2604:180:3:1::f1",
-                "2604:180:1::bd5a:1cb3"
-            ]
-        },
-        "http://lg.sea.ramnode.com/": {
-            "ipv4": [
-                "23.226.229.4"
-            ],
-            "ipv6": [
-                "2604:180:1::bd5a:1cb3"
-            ]
-        },
-        "http://lg.atl.ramnode.com/": {
-            "ipv4": [
-                "107.191.101.180"
-            ],
-            "ipv6": [
-                "2604:180::9b07:1d5b"
-            ]
-        },
-        "http://lg.nl.ramnode.com/": {
-            "ipv4": [
-                "176.56.238.3"
-            ],
-            "ipv6": [
-                "2a00:d880:3:1::787:d6bd"
-            ]
-        },
-        "http://lg.nyc.ramnode.com/": {
-            "ipv4": [
-                "107.191.96.26"
-            ],
-            "ipv6": [
-                "2604:180:2::d2a1:3da5"
-            ]
-        },
-        "http://lg.la.ramnode.com/": {
-            "ipv4": [
-                "168.235.72.22"
-            ],
-            "ipv6": [
-                "2604:180:3:1::f1"
-            ]
-        }
-    },
-    "desivps.com": {},
-    "ionos.com": {
-        "https://cloud.ionos.com/data-centers": []
-    },
-    "tierpoint.com": {},
-    "liteserver.nl": {
-        "https://lg-drn.liteserver.nl/": {
-            "ipv4": [
-                "185.31.172.235"
-            ],
-            "ipv6": [
-                "2a01:6340:1:20:3::10"
-            ]
-        }
-    },
-    "misaka.io": {},
     "server-factory.com": {
         "https://lg.nl.server-factory.com/": {
             "ipv4": [
@@ -1930,80 +894,136 @@
             ]
         }
     },
-    "microsoft.com": {},
-    "anandtech.com": {
-        "https://www.anandtech.com/show/16215/kioxia-announces-xd6-datacenter-ssds-pcie-40-and-edsff-at-scale": []
-    },
-    "as212647.net": {},
-    "freerangecloud.com": {},
-    "github.io": {
-        "https://trailofbits.github.io/algo/client-linux-wireguard.html": []
-    },
-    "haendler.it": {
-        "https://lg.nl.haendler.it/": {
+    "kuroit.com": {
+        "https://uk2.lg.kuroit.com/": {
             "ipv4": [
-                "80.78.132.115"
-            ],
-            "ipv6": [
-                "2a0d:2146:2404::2390"
-            ]
-        },
-        "https://lg.nl1.haendler.it/": {
-            "ipv4": [
-                "80.78.132.115"
-            ],
-            "ipv6": [
-                "2a0d:2146:2404::2390"
-            ]
-        }
-    },
-    "dnstools.ws": {
-        "https://dnstools.ws/ping/2a02:a58:832d:6700:b065:cb93:fc76:af14": []
-    },
-    "ionswitch.com": {},
-    "avoro.eu": {},
-    "servethehome.com": {
-        "https://www.servethehome.com/surreptitiously-swapping-smr-into-hard-drives-must-end/": [],
-        "https://www.servethehome.com/amd-epyc-7502p-review-topping-intel-xeon-at-one-quarter-the-price/": []
-    },
-    "x4b.net": {
-        "https://lg.x4b.net/": {
-            "ipv4": [
-                "103.77.224.2"
+                "23.183.244.3"
             ],
             "ipv6": []
         },
-        "http://lg.x4b.net/": {
+        "https://uk.lg.kuroit.com/": {
             "ipv4": [
-                "103.77.224.2"
+                "178.239.171.5"
             ],
             "ipv6": []
         }
     },
-    "ssllabs.com": {},
-    "naranja.tech": {
-        "https://lg.naranja.tech/": {
+    "apac-tools.ovh": {},
+    "freerangecloud.com": {
+        "https://ams01.lg.freerangecloud.com/": {
             "ipv4": [
-                "185.213.172.187"
+                "206.83.40.24"
             ],
             "ipv6": [
-                "2a0b:8bc0:1:119:0:0:0:10"
+                "2a0f:9400:fa0:15::1"
             ]
         },
-        "http://lg.naranja.tech/": {
+        "https://ywg01.lg.freerangecloud.com/": {
             "ipv4": [
-                "185.213.172.187"
+                "23.133.64.25"
             ],
             "ipv6": [
-                "2a0b:8bc0:1:119:0:0:0:10"
+                "2602:fed2:fe0:269::1"
+            ]
+        },
+        "https://trf01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "206.83.41.78"
+            ],
+            "ipv6": [
+                "2a0f:9400:fb0:32::1"
+            ]
+        },
+        "https://yyz01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "103.144.177.41"
+            ],
+            "ipv6": [
+                "2602:fed2:fa0:8::1"
+            ]
+        },
+        "https://yvr01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "104.218.61.164"
+            ],
+            "ipv6": [
+                "2602:fed2:fb0:19::1"
+            ]
+        },
+        "https://iad01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "23.152.224.179"
+            ],
+            "ipv6": [
+                "2620:13a:c000:6f::1"
+            ]
+        },
+        "https://mci01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "23.152.226.2"
+            ],
+            "ipv6": [
+                "2602:fe13:fa0:4::1"
+            ]
+        },
+        "https://yhz01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "23.191.80.34"
+            ],
+            "ipv6": [
+                "2602:fc1c:fa0:1::1"
+            ]
+        },
+        "https://sjc01.lg.freerangecloud.com/": {
+            "ipv4": [
+                "103.144.176.216"
+            ],
+            "ipv6": [
+                "2602:fed2:fc0:bf::1"
+            ]
+        },
+        "https://freerangecloud.com/lookingglass.php": {
+            "ipv4": [
+                "23.152.226.2",
+                "206.83.41.78",
+                "103.144.177.41",
+                "23.152.224.179",
+                "103.144.176.216",
+                "23.133.64.25",
+                "23.154.81.1",
+                "23.191.80.33",
+                "206.83.40.24"
+            ],
+            "ipv6": [
+                "2620:13a:c000:6f::1",
+                "2602:fed2:fa0:8::1",
+                "2a0f:9400:fb0:32::1",
+                "2602:fed2:fe0:269::1",
+                "2602:fed2:fc0:bf::1",
+                "2602:fed2:fb0:19::1",
+                "2602:fe13:fa0::1",
+                "2602:fc1c:fa0::1",
+                "2a0f:9400:fa0:15::1"
             ]
         }
     },
-    "tomshardware.com": {
-        "https://www.tomshardware.com/news/seagate-is-shipping-22tb-hdds": []
+    "as62240.net": {
+        "https://as62240.net/speedtest": []
     },
-    "as62240.net": {},
-    "wikipedia.org": {},
+    "wsj.com": {},
+    "theregister.com": {},
+    "flowvps.com": {},
+    "ionos.com": {},
+    "hostmayo.com": {
+        "https://lg.hostmayo.com": [],
+        "https://lgnl.hostmayo.com/": {
+            "ipv4": [
+                "169.239.130.2"
+            ],
+            "ipv6": []
+        }
+    },
+    "desivps.com": {},
     "as210630.net": {
         "https://lg-nl.as210630.net/": {
             "ipv4": [
@@ -2014,37 +1034,562 @@
             ]
         }
     },
-    "fedex.com": {
-        "https://www.fedex.com/en-us/shipping/freight-services/ltl/freight-box.html": []
-    },
-    "alphavps.bg": {
-        "http://lgbg.alphavps.bg/": {
+    "ibb.co": {},
+    "hostworld.uk": {
+        "https://lguk.hostworld.uk": {
             "ipv4": [
-                "79.124.7.8"
+                "5.181.124.254"
             ],
             "ipv6": [
-                "2a01:8740:1:76f::ea47"
+                "2a01:a500:2766::71ba:0f43"
             ]
         },
-        "http://lgde.alphavps.bg/": {
+        "https://lgch.hostworld.uk/": {
             "ipv4": [
-                "194.35.12.68"
+                "23.237.136.188"
             ],
             "ipv6": [
-                "2a01:4f8:d1:7231::49c8"
+                "2001:49f0:d0be:0001::0ef3:d7a8"
+            ]
+        },
+        "https://lgny.hostworld.uk/": {
+            "ipv4": [
+                "191.96.196.147"
+            ],
+            "ipv6": [
+                "2604:7a80:2000:203::5dd:688a"
+            ]
+        },
+        "https://lgla.hostworld.uk/": {
+            "ipv4": [
+                "23.237.72.171"
+            ],
+            "ipv6": [
+                "2001:49f0:d08a:2::e4:6ab1"
             ]
         }
     },
-    "oetiker.ch": {},
-    "pinterest.com": {},
-    "flipboard.com": {},
-    "clouvider.net": {},
-    "heanet.ie": {},
-    "pu.edu.tw": {},
-    "basemirror.de": {},
-    "mirroraty.org": {},
+    "cloudflare.com": {},
+    "hax.co.id": {},
+    "hostslim.nl": {
+        "https://lg.hostslim.nl/": {
+            "ipv4": [
+                "103.219.154.62"
+            ],
+            "ipv6": [
+                "2a06:5b80:1::b67b:cd74"
+            ]
+        }
+    },
+    "linode.com": {},
+    "mudfish.net": {},
+    "liteserver.nl": {
+        "https://lg-drn.liteserver.nl/": {
+            "ipv4": [
+                "185.31.172.235"
+            ],
+            "ipv6": [
+                "2a01:6340:1:20:3::10"
+            ]
+        }
+    },
+    "hosterlabs.net": {},
+    "euserv.com": {},
+    "cncf.io": {},
+    "techspot.com": {},
+    "cnbc.com": {},
+    "wccftech.com": {},
+    "server.it": {},
+    "pulsedmedia.com": {},
+    "olx.ro": {},
+    "serverly.net": {},
+    "apple.com": {},
+    "vpsdime.com": {
+        "https://vpsdime.com/looking-glass": {
+            "ipv4": [
+                "107.155.108.46",
+                "185.185.126.241",
+                "185.185.127.137",
+                "104.237.1.114",
+                "104.237.11.23",
+                "104.237.8.8"
+            ],
+            "ipv6": []
+        }
+    },
+    "webhostface.com": {},
+    "veeam.com": {},
+    "vps-mart.com": {
+        "https://www.vps-mart.com/data-center": {
+            "ipv4": [
+                "38.17.53.45",
+                "163.123.183.33",
+                "172.106.164.87"
+            ],
+            "ipv6": []
+        }
+    },
+    "launchvps.com": {},
+    "nocix.net": {},
+    "spinservers.com": {
+        "http://dal-lg.spinservers.com/": {
+            "ipv4": [
+                "104.37.173.20"
+            ],
+            "ipv6": []
+        },
+        "http://sjc-lg.spinservers.com/": {
+            "ipv4": [
+                "192.30.242.74"
+            ],
+            "ipv6": []
+        }
+    },
+    "datawest.com.au": {},
+    "fluidstack.io": {},
+    "xethost.com": {
+        "https://lookingglass.xethost.com/": {
+            "ipv4": [
+                "185.225.69.55"
+            ],
+            "ipv6": []
+        }
+    },
+    "mrvm.net": {},
+    "de-cix.net": {
+        "https://de-cix.net/en/services/looking-glass": {
+            "ipv4": [
+                "80.81.193.66"
+            ],
+            "ipv6": []
+        }
+    },
+    "metalvps.com": {},
+    "trustpilot.com": {},
+    "vpsboard.com": {},
+    "woktron.com": {},
+    "digitalocean.com": {},
+    "scaleway.com": {},
+    "hostens.com": {
+        "https://lg.hostens.com/": {
+            "ipv4": [
+                "109.235.69.33"
+            ],
+            "ipv6": [
+                "2a02:7b40:6deb:4521::1"
+            ]
+        }
+    },
+    "radwebhosting.com": {},
+    "ionos.de": {},
+    "ionos.it": {},
+    "tmthosting.net": {
+        "https://tmthosting.net/dallas-datacenter": {
+            "ipv4": [
+                "45.34.12.147"
+            ],
+            "ipv6": []
+        },
+        "https://tmthosting.net/london-datacenter": {
+            "ipv4": [
+                "89.34.96.98"
+            ],
+            "ipv6": []
+        },
+        "https://tmthosting.net/seattle-datacenter": {
+            "ipv4": [
+                "216.244.88.1"
+            ],
+            "ipv6": []
+        }
+    },
+    "cloudns.net": {},
+    "crn.com": {},
+    "springer.com": {},
+    "Stromonic.com": {
+        "https://stromonic.com/data-center": {
+            "ipv4": [
+                "103.76.248.0"
+            ],
+            "ipv6": []
+        }
+    },
+    "pypi.org": {},
+    "geizhals.at": {},
+    "hostodo.com": {},
+    "brizy.io": {},
+    "prepaid-hoster.de": {},
+    "ip-projects.de": {
+        "http://lg.ip-projects.de/": {
+            "ipv4": [
+                "194.45.36.120"
+            ],
+            "ipv6": [
+                "2a0a:51c1:0000:000b::3"
+            ]
+        }
+    },
+    "friendhosting.net": {},
+    "cloudflarestatus.com": {},
+    "spearwarenetworks.com": {
+        "https://spearwarenetworks.com/tampa-datacenter/": {
+            "ipv4": [
+                "165.140.200.6"
+            ],
+            "ipv6": []
+        }
+    },
+    "aruba.it": {},
+    "serversforhackers.com": {},
+    "lowhosting.org": {
+        "https://lg.lowhosting.org/": {
+            "ipv4": [
+                "45.141.57.99"
+            ],
+            "ipv6": [
+                "2a0e:b107:dd0::2:e4af:ca53"
+            ]
+        }
+    },
+    "netdynamics24.com": {},
+    "ping.sx": {},
+    "atodorov.me": {},
+    "c-rieger.de": {},
+    "racknerd.com": {
+        "https://racknerd.com/utah-datacenter": {
+            "ipv4": [
+                "104.156.142.1"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/dallas-datacenter": {
+            "ipv4": [
+                "198.23.249.100"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/miami-datacenter": {
+            "ipv4": [
+                "192.155.106.1"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/ashburn-datacenter": {
+            "ipv4": [
+                "107.173.166.10"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/atlanta-datacenter": {
+            "ipv4": [
+                "107.173.164.160"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/new-york-datacenter": {
+            "ipv4": [
+                "69.58.3.171"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/london-datacenter": {
+            "ipv4": [
+                "89.34.96.1"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/montreal-datacenter": {
+            "ipv4": [
+                "104.227.97.6"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/tampa-datacenter": {
+            "ipv4": [
+                "209.216.90.1"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/amsterdam-datacenter": {
+            "ipv4": [
+                "23.94.101.88"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/los-angeles-dc02-datacenter": {
+            "ipv4": [
+                "204.13.154.3"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/seattle-datacenter": {
+            "ipv4": [
+                "192.3.253.2"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/chicago-datacenter": {
+            "ipv4": [
+                "198.23.228.15"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/san-jose-datacenter": {
+            "ipv4": [
+                "192.210.207.88"
+            ],
+            "ipv6": []
+        },
+        "https://racknerd.com/new-jersey-datacenter": {
+            "ipv4": [
+                "192.3.165.30"
+            ],
+            "ipv6": []
+        }
+    },
+    "pq.hosting": {},
+    "stromonic.com": {
+        "https://stromonic.com/data-center": {
+            "ipv4": [
+                "103.76.248.0"
+            ],
+            "ipv6": []
+        }
+    },
+    "cloudinary.com": {},
+    "fedorapeople.org": {},
+    "dr-dsgvo.de": {},
+    "dataideas.com": {},
+    "exonhost.com": {},
+    "ikoula.nl": {},
+    "sysorchestra.com": {},
+    "infomaniak.com": {},
+    "lerdorf.com": {},
+    "purevoltage.net": {},
+    "purevoltage.com": {
+        "https://purevoltage.com/datacenter-locations.php": {
+            "ipv4": [
+                "162.249.170.22",
+                "104.218.101.31",
+                "192.169.46.33",
+                "198.55.108.131"
+            ],
+            "ipv6": []
+        }
+    },
+    "serverbuilds.net": {},
+    "serverroom.net": {},
+    "fdcservers.net": {},
+    "hivelocity.net": {
+        "https://www.hivelocity.net/bare-metal-in-your-datacenter/": {
+            "ipv4": [
+                "5.53.35.35"
+            ],
+            "ipv6": []
+        }
+    },
+    "soranews24.com": {},
+    "hostedtalk.net": {},
+    "bacloud.com": {},
+    "videocardz.com": {},
+    "zdnet.com": {},
+    "charachorder.com": {},
+    "dedispec.com": {},
+    "servermania.com": {},
+    "hyperexpert.com": {},
+    "namecheap.com": {},
+    "flipkart.com": {},
+    "sharktech.net": {},
+    "phoenixnap.com": {},
+    "georgedatacenter.com": {},
     "maxkvm.com": {},
+    "visualwebtechnologies.com": {
+        "https://visualwebtechnologies.com/datacenters.php": {
+            "ipv4": [
+                "69.61.66.10",
+                "45.81.7.154",
+                "5.104.78.10",
+                "84.200.17.1",
+                "172.81.40.35",
+                "104.149.18.203",
+                "74.217.183.180",
+                "194.180.179.242",
+                "161.129.64.235",
+                "185.208.208.3",
+                "45.9.15.195",
+                "91.132.1.132",
+                "69.25.116.107",
+                "104.223.90.5",
+                "185.161.69.26",
+                "62.113.254.1",
+                "69.25.117.188",
+                "198.55.111.5",
+                "212.224.70.16"
+            ],
+            "ipv6": [
+                "2607:fcd0:cd40:100::235",
+                "2a0a:51c0:0:1f::1",
+                "2a00:f48:102::1",
+                "2607:fcd0:0:a::1",
+                "2a0b:3c40:1:103::1",
+                "2602:ff75:1000::1",
+                "2607:fcd0:aa80:500::2",
+                "2604:6600:0:c::2",
+                "2a01:7e0::212:224:70:16"
+            ]
+        }
+    },
+    "globalsign.com": {},
+    "time4vps.com": {
+        "https://lg.time4vps.com/": {
+            "ipv4": [
+                "212.24.110.207"
+            ],
+            "ipv6": [
+                "2a02:7b40:d418:6ecf::1"
+            ]
+        }
+    },
+    "dev.to": {},
+    "ibm.com": {},
+    "oneprovider.com": {},
+    "impactvps.com": {
+        "https://impactvps.com/datacenter.html": {
+            "ipv4": [
+                "155.168.65.3",
+                "107.155.106.130",
+                "110.120.88.5"
+            ],
+            "ipv6": [
+                "2604:880:a:2::1"
+            ]
+        }
+    },
+    "ionos.es": {},
+    "searchenginejournal.com": {},
+    "qhoster.com": {},
+    "prometeus.net": {
+        "http://lg-milano.prometeus.net/": {
+            "ipv4": [
+                "37.247.53.10"
+            ],
+            "ipv6": [
+                "2a00:dcc0:eda:3754:247:55:7e31:1243"
+            ]
+        }
+    },
+    "crowncloud.net": {
+        "https://crowncloud.net/datacenters.php": {
+            "ipv4": [
+                "104.149.18.203",
+                "104.223.90.5",
+                "69.61.66.10",
+                "62.113.254.1",
+                "161.129.64.235",
+                "198.55.111.5",
+                "212.224.70.16",
+                "185.208.208.3",
+                "84.200.17.1"
+            ],
+            "ipv6": [
+                "2607:fcd0:cd40:100::235",
+                "2a0a:51c0:0:1f::1",
+                "2a00:f48:102::1",
+                "2607:fcd0:0:a::1",
+                "2a0b:3c40:1:103::1",
+                "2602:ff75:1000::1",
+                "2607:fcd0:aa80:500::2",
+                "2604:6600:0:c::2",
+                "2a01:7e0::212:224:70:16"
+            ]
+        }
+    },
+    "serverius.net": {},
+    "stackcommerce.com": {},
+    "stacksocial.com": {},
+    "businesswire.com": {},
+    "ikoula.com": {},
+    "vpsbenchmarks.com": {},
+    "ovh.ie": {},
+    "arstechnica.com": {},
+    "hostnamaste.com": {
+        "https://www.hostnamaste.com/datacenter-mumbai-pune.php": {
+            "ipv4": [
+                "103.26.204.133"
+            ],
+            "ipv6": [
+                "2405:7140:0:5::ba6b:8c98"
+            ]
+        },
+        "https://www.hostnamaste.com/datacenter-dallas.php": {
+            "ipv4": [
+                "192.3.229.42"
+            ],
+            "ipv6": []
+        },
+        "https://www.hostnamaste.com/datacenter-losangeles.php": {
+            "ipv4": [
+                "69.12.87.19"
+            ],
+            "ipv6": [
+                "2607:fcd0:100:360d::978d:3ea7"
+            ]
+        },
+        "https://www.hostnamaste.com/datacenter-france.php": {
+            "ipv4": [
+                "54.38.124.154"
+            ],
+            "ipv6": []
+        },
+        "https://www.hostnamaste.com/datacenter-moscow.php": {
+            "ipv4": [
+                "104.166.186.132"
+            ],
+            "ipv6": [
+                "2a0b:21c0:3002:5::1c57:a6b2"
+            ]
+        },
+        "https://www.hostnamaste.com/looking-glass.php": {
+            "ipv4": [
+                "198.50.214.138",
+                "104.166.186.132",
+                "69.12.87.19",
+                "54.38.124.154",
+                "129.227.218.229"
+            ],
+            "ipv6": [
+                "2607:fcd0:100:360d::978d:3ea7",
+                "2001:41d0:1008:1d9f::f853:4f7d",
+                "2607:5300:203:2623::7c1c:a421",
+                "2a0b:21c0:3002:5::1c57:a6b2"
+            ]
+        },
+        "https://www.hostnamaste.com/datacenter-jacksonville.php": {
+            "ipv4": [
+                "23.239.84.23"
+            ],
+            "ipv6": []
+        },
+        "https://www.hostnamaste.com/datacenter-canada.php": {
+            "ipv4": [
+                "198.50.214.138"
+            ],
+            "ipv6": [
+                "2607:5300:203:2623::7c1c:a421"
+            ]
+        }
+    },
+    "medium.com": {},
     "ovhcloud.com": {},
-    "google.com": {},
-    "trustpilot.com": {}
+    "noez.de": {},
+    "dedicatserver.ro": {
+        "https://dedicatserver.ro/looking-glass-ro/": {
+            "ipv4": [
+                "77.83.248.22",
+                "188.241.194.19"
+            ],
+            "ipv6": []
+        }
+    },
+    "serverscope.io": {}
 }
