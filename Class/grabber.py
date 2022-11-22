@@ -1,5 +1,5 @@
 from requests_html import HTML
-import tldextract, requests, time, os, re
+import tldextract, requests, time, sys, os, re
 import multiprocessing
 
 class Grabber():
@@ -12,6 +12,9 @@ class Grabber():
     priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
     priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
+
+    def __init__(self):
+        sys.setrecursionlimit(1500)
 
     def findFiles(self,folders,folder):
         htmls = []
@@ -34,7 +37,11 @@ class Grabber():
         return self.getLinks(html)
 
     def getLinks(self,html):
-        parse = HTML(html=html)
+        try:
+            parse = HTML(html=html)
+        except Exception as e:
+            print(f"Failed to parse HTML {e}")
+            return []
         return parse.links
 
     def isPrivate(self,ip):
@@ -63,7 +70,11 @@ class Grabber():
         return response
 
     def parseLinks(self,data,html,domain,type="lg"):
-        html = HTML(html=html)
+        try:
+            html = HTML(html=html)
+        except Exception as e:
+            print(f"Failed to parse HTML {e}")
+            return data
         ignore = ['foxbusiness.com']
         if html.links:
             for link in html.links:
@@ -204,9 +215,7 @@ class Grabber():
                     print(f"Got {request.status_code} dropping {request.url}")
                     continue
             except requests.ConnectionError:
-                pass
                 print(f"Retrying {prefix+url} got connection error")
             except Exception as e:
-                pass
                 print(f"Retrying {prefix+url} error {e}")
         return False,""
