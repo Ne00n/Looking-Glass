@@ -39,10 +39,10 @@ class Grabber():
     def getLinks(self,html):
         try:
             parse = HTML(html=html)
+            return parse.links
         except Exception as e:
             print(f"Failed to parse HTML {e}")
             return []
-        return parse.links
 
     def isPrivate(self,ip):
         #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
@@ -72,12 +72,13 @@ class Grabber():
     def parseLinks(self,data,html,domain,type="lg"):
         try:
             html = HTML(html=html)
+            links = html.links
         except Exception as e:
             print(f"Failed to parse HTML {e}")
             return data
         ignore = ['foxbusiness.com']
-        if html.links:
-            for link in html.links:
+        if links:
+            for link in links:
                 if link in ignore: continue
                 if any(element in link for element in self.tags):
                     if not domain in data[type]: data[type][domain] = {}
