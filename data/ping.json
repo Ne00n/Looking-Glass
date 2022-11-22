@@ -58,10 +58,10 @@
         },
         "speedtest.atlanta.linode.com": {
             "ipv4": [
-                "50.116.39.117"
+                "192.155.94.157"
             ],
             "ipv6": [
-                "2600:3c02::f03c:91ff:feae:641"
+                "2600:3c02::f03c:93ff:fe76:6b67"
             ]
         },
         "speedtest.tokyo2.linode.com": {

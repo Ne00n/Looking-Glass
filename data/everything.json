@@ -10574,10 +10574,10 @@
     "linode.com": {
         "speedtest.atlanta.linode.com": {
             "ipv4": {
-                "50.116.39.117": "Atlanta, United States"
+                "192.155.94.157": "Atlanta, United States"
             },
             "ipv6": {
-                "2600:3c02::f03c:91ff:feae:641": "Atlanta, United States"
+                "2600:3c02::f03c:93ff:fe76:6b67": "Atlanta, United States"
             }
         },
         "speedtest.dallas.linode.com": {
