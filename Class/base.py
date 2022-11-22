@@ -64,5 +64,6 @@ class Base():
             if len(urls) > 0:
                 readme += "### "+element+"\n"
                 for url in urls:
-                    readme += "* ["+url+"](http://"+url+")\n"
+                    prefix = "http://" if not "http" in url else ""
+                    readme += f"* [{url}]({prefix}{url})\n"
         return readme
