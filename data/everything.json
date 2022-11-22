@@ -1165,7 +1165,7 @@
                 "2a05:9f44:2a05:1a::b36:db6": "London, United Kingdom"
             }
         },
-        "lon.lg.iniz.com": {
+        "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
                 "2a05:9f40:1f:ee::2": "London, United Kingdom"
@@ -1222,12 +1222,6 @@
         "lg-bai.fdcservers.net": {
             "ipv4": {
                 "66.90.73.4": "Buenos Aires, Argentina"
-            },
-            "ipv6": {}
-        },
-        "lg-barr.fdcservers.net": {
-            "ipv4": {
-                "50.7.49.4": "Barranquilla, Colombia"
             },
             "ipv6": {}
         },
@@ -1341,7 +1335,13 @@
         },
         "lg-par2.fdcservers.net": {
             "ipv4": {
-                "50.7.33.4": "Paris, France"
+                "50.7.200.42": "Velizy-Villacoublay, France"
+            },
+            "ipv6": {}
+        },
+        "lg-pra.fdcservers.net": {
+            "ipv4": {
+                "66.90.111.4": "United States"
             },
             "ipv6": {}
         },
@@ -1380,6 +1380,14 @@
                 "50.7.39.4": "Stockholm, Sweden"
             },
             "ipv6": {}
+        },
+        "lg-syd.fdcservers.net": {
+            "ipv4": {
+                "67.159.27.4": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2001:49f0:d119::4": "United States"
+            }
         },
         "lg-tok.fdcservers.net": {
             "ipv4": {
@@ -1457,6 +1465,96 @@
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Buffalo, United States"
+            }
+        }
+    },
+    "linode.com": {
+        "speedtest.atlanta.linode.com": {
+            "ipv4": {
+                "192.155.94.157": "Atlanta, United States"
+            },
+            "ipv6": {
+                "2600:3c02::f03c:93ff:fe76:6b67": "Atlanta, United States"
+            }
+        },
+        "speedtest.dallas.linode.com": {
+            "ipv4": {
+                "50.116.25.154": "Richardson, United States"
+            },
+            "ipv6": {
+                "2600:3c00::f03c:91ff:feae:603": "Richardson, United States"
+            }
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": {
+                "139.162.130.8": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a01:7e01::f03c:91ff:fe26:8794": "Frankfurt am Main, Germany"
+            }
+        },
+        "speedtest.fremont.linode.com": {
+            "ipv4": {
+                "50.116.14.9": "Fremont, United States"
+            },
+            "ipv6": {
+                "2600:3c01::f03c:91ff:feae:68d": "Fremont, United States"
+            }
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": {
+                "176.58.107.39": "London, United Kingdom"
+            },
+            "ipv6": {
+                "2a01:7e00::f03c:91ff:feae:657": "London, United Kingdom"
+            }
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": {
+                "172.105.33.31": "Mumbai, India"
+            },
+            "ipv6": {
+                "2400:8904::f03c:91ff:fea5:928b": "Mumbai, India"
+            }
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": {
+                "50.116.57.237": "Cedar Knolls, United States"
+            },
+            "ipv6": {
+                "2600:3c03::f03c:91ff:feae:65e": "Cedar Knolls, United States"
+            }
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": {
+                "139.162.23.4": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
+            }
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": {
+                "172.105.174.7": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2400:8907::f03c:92ff:fe6e:a16f": "Sydney, Australia"
+            }
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": {
+                "139.162.65.37": "Tokyo, Japan"
+            },
+            "ipv6": {
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
+            }
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": {
+                "172.105.30.21": "Toronto, Canada"
+            },
+            "ipv6": {
+                "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
             }
         }
     },
@@ -1642,6 +1740,16 @@
             "ipv6": {}
         }
     },
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
+            "ipv4": {
+                "51.222.154.207": "Canada"
+            },
+            "ipv6": {
+                "2607:5300:203:8acf::1": "Beauharnois, Canada"
+            }
+        }
+    },
     "ovh.net": {
         "gra.proof.ovh.net": {
             "ipv4": {
@@ -1670,16 +1778,6 @@
         "lg.ovh.net": {
             "ipv4": {},
             "ipv6": {}
-        }
-    },
-    "ovh.ca": {
-        "bhs.proof.ovh.ca": {
-            "ipv4": {
-                "51.222.154.207": "Canada"
-            },
-            "ipv6": {
-                "2607:5300:203:8acf::1": "Beauharnois, Canada"
-            }
         }
     },
     "ramnode.com": {
@@ -1744,19 +1842,25 @@
     "bluevps.com": {
         "ams-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "5.149.248.189": "Amsterdam, Netherlands"
+                "46.249.49.253": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
         "ash-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "185.33.87.3": "Ashburn, United States"
+                "45.144.115.210": "Ashburn, United States"
             },
             "ipv6": {}
         },
-        "chi-speedtest.lg.bluevps.com": {
+        "atl-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "185.33.84.62": "Chicago, United States"
+                "193.35.224.242": "Atlanta, United States"
+            },
+            "ipv6": {}
+        },
+        "bhs-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "51.222.241.209": "Canada"
             },
             "ipv6": {}
         },
@@ -1766,9 +1870,21 @@
             },
             "ipv6": {}
         },
+        "fjr-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "5.42.206.138": "United Arab Emirates"
+            },
+            "ipv6": {}
+        },
         "hkg-speedtest.lg.bluevps.com": {
             "ipv4": {
                 "103.253.40.191": "Hong Kong"
+            },
+            "ipv6": {}
+        },
+        "lax-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "88.210.36.34": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -1780,19 +1896,31 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "185.106.102.1": "Cyprus"
+                "85.239.41.247": "Limassol, Cyprus"
             },
             "ipv6": {}
         },
         "lon-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "5.149.250.30": "London, United Kingdom"
+                "62.182.96.101": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "mad-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "5.188.180.210": "Madrid, Spain"
+            },
+            "ipv6": {}
+        },
+        "pmo-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "91.201.64.50": "Palermo, Italy"
             },
             "ipv6": {}
         },
         "rlz-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "185.104.195.2": "Tel Aviv, Israel"
+                "45.150.108.2": "Tel Aviv, Israel"
             },
             "ipv6": {}
         },
@@ -1802,21 +1930,21 @@
             },
             "ipv6": {}
         },
-        "sea-speedtest.lg.bluevps.com": {
+        "sgp-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "91.193.19.3": "Seattle, United States"
+                "51.79.228.185": "Singapore, Singapore"
             },
             "ipv6": {}
         },
-        "sgp-speedtest.lg.bluevps.com": {
+        "sof-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "139.99.68.156": "Singapore, Singapore"
+                "77.72.20.98": "Sofia, Bulgaria"
             },
             "ipv6": {}
         },
         "stk-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "79.141.175.162": "Stockholm, Sweden"
+                "46.246.98.253": "Sweden"
             },
             "ipv6": {}
         },
@@ -1832,15 +1960,9 @@
             },
             "ipv6": {}
         },
-        "tor-speedtest.lg.bluevps.com": {
-            "ipv4": {
-                "5.149.253.19": "Toronto, Canada"
-            },
-            "ipv6": {}
-        },
         "waw-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "91.193.18.4": "Warsaw, Poland"
+                "217.30.11.155": "Warsaw, Poland"
             },
             "ipv6": {}
         },
@@ -1925,7 +2047,7 @@
                 "83.143.116.6": "London, United Kingdom"
             },
             "ipv6": {
-                "2a06:8ec0:3::1:749f": "United Kingdom"
+                "2a0b:7080:20::1:749f": "London, United Kingdom"
             }
         },
         "sgp-lg.hostus.us": {
@@ -1952,16 +2074,16 @@
                 "2602:ffc5:40::1:ec35": "United States"
             }
         },
+        "http://lon-lg.hostus.us": {
+            "ipv4": {},
+            "ipv6": {
+                "2a06:8ec0:3::1:749f": "United Kingdom"
+            }
+        },
         "http://la03-lg.hostus.us": {
             "ipv4": {},
             "ipv6": {
                 "2602:ffc5:60::1:f0ad": "United States"
-            }
-        },
-        "https://hostus.us/london-united-kingdom-datacenter.html": {
-            "ipv4": {},
-            "ipv6": {
-                "2a0b:7080:20::1:749f": "London, United Kingdom"
             }
         }
     },
@@ -1971,7 +2093,7 @@
                 "103.57.251.10": "Dubai, United Arab Emirates"
             },
             "ipv6": {
-                "2a03:f80:971:103:57:251:10:1": "Dubai, United Arab Emirates"
+                "2a03:f80:971:ba4c::1": "Dubai, United Arab Emirates"
             }
         },
         "at.edis.at": {
@@ -1979,7 +2101,7 @@
                 "149.154.154.90": "Vienna, Austria"
             },
             "ipv6": {
-                "2a03:f80:ed15:149:154:154:90:1": "Vienna, Austria"
+                "2a03:f80:ed15:435a::1": "Vienna, Austria"
             }
         },
         "au.edis.at": {
@@ -1987,7 +2109,7 @@
                 "194.14.208.10": "Sydney, Australia"
             },
             "ipv6": {
-                "2a03:f80:61:194:14:208:10:1": "Sydney, Australia"
+                "2a03:f80:61:4e6e::1": "Sydney, Australia"
             }
         },
         "be.edis.at": {
@@ -1995,7 +2117,7 @@
                 "192.71.249.10": "Oostkamp, Belgium"
             },
             "ipv6": {
-                "2a03:f80:32:192:71:249:10:1": "Oostkamp, Belgium"
+                "2a03:f80:32:95f4::1": "Oostkamp, Belgium"
             }
         },
         "bg.edis.at": {
@@ -2003,7 +2125,7 @@
                 "194.68.225.10": "Sofia, Bulgaria"
             },
             "ipv6": {
-                "2a03:f80:359:194:68:225:10:1": "Sofia, Bulgaria"
+                "2a03:f80:359:da98::1": "Sofia, Bulgaria"
             }
         },
         "ca.edis.at": {
@@ -2011,7 +2133,7 @@
                 "192.71.227.10": "Montreal, Canada"
             },
             "ipv6": {
-                "2605:3b80:cad:192:71:227:10:1": "Montreal, Canada"
+                "2605:3b80:cad:d2ed::1": "Montreal, Canada"
             }
         },
         "ch.edis.at": {
@@ -2019,7 +2141,7 @@
                 "178.209.51.90": "Zurich, Switzerland"
             },
             "ipv6": {
-                "2a02:418:6a04:178:209:51:90:1": "Switzerland"
+                "2a02:418:6a04:7d7f::1": "Switzerland"
             }
         },
         "cl.edis.at": {
@@ -2027,7 +2149,7 @@
                 "37.235.52.10": "Vina del Mar, Chile"
             },
             "ipv6": {
-                "2a03:f80:56:37:235:52:10:1": "Vina del Mar, Chile"
+                "2a03:f80:56:d8de::1": "Vina del Mar, Chile"
             }
         },
         "cz.edis.at": {
@@ -2035,7 +2157,7 @@
                 "193.235.207.10": "Prague, Czechia"
             },
             "ipv6": {
-                "2a03:f80:420:193:235:207:10:1": "Prague, Czechia"
+                "2a03:f80:420:b614::1": "Prague, Czechia"
             }
         },
         "de.edis.at": {
@@ -2043,7 +2165,7 @@
                 "158.255.214.100": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a03:f80:49:158:255:214:100:1": "Frankfurt am Main, Germany"
+                "2a03:f80:49:2d9d::1": "Frankfurt am Main, Germany"
             }
         },
         "dk.edis.at": {
@@ -2051,7 +2173,7 @@
                 "192.36.27.10": "Copenhagen, Denmark"
             },
             "ipv6": {
-                "2a03:f80:45:192:36:27:10:1": "Copenhagen, Denmark"
+                "2a03:f80:45:c97b::1": "Copenhagen, Denmark"
             }
         },
         "es.edis.at": {
@@ -2059,7 +2181,7 @@
                 "37.235.53.10": "Seville, Spain"
             },
             "ipv6": {
-                "2a00:1d70:ed15:37:235:53:10:1": "Seville, Spain"
+                "2a00:1d70:ed15:a2c::1": "Seville, Spain"
             }
         },
         "fr.edis.at": {
@@ -2067,7 +2189,7 @@
                 "158.255.215.250": "Paris, France"
             },
             "ipv6": {
-                "2a03:f80:33:158:255:215:250:1": "Paris, France"
+                "2a03:f80:33:bf92::1": "Paris, France"
             }
         },
         "gr.edis.at": {
@@ -2075,7 +2197,7 @@
                 "192.71.166.10": "Thessaloniki, Greece"
             },
             "ipv6": {
-                "2a03:f80:30:192:71:166:10:1": "Thessaloniki, Greece"
+                "2a03:f80:30:2f07::1": "Thessaloniki, Greece"
             }
         },
         "hk.edis.at": {
@@ -2083,7 +2205,7 @@
                 "158.255.208.12": "Hong Kong"
             },
             "ipv6": {
-                "2a03:f80:852:158:255:208:12:1": "Hong Kong"
+                "2a03:f80:852:b422::1": "Hong Kong"
             }
         },
         "hr.edis.at": {
@@ -2091,7 +2213,7 @@
                 "46.183.184.10": "Zagreb, Croatia"
             },
             "ipv6": {
-                "2a03:f80:385:46:183:184:10:1": "Zagreb, Croatia"
+                "2a03:f80:385:5b6::1": "Zagreb, Croatia"
             }
         },
         "hu.edis.at": {
@@ -2099,7 +2221,7 @@
                 "194.71.130.10": "Hungary"
             },
             "ipv6": {
-                "2a03:f80:36:194:71:130:10:0": "Budapest, Hungary"
+                "2a03:f80:36:d63b::1": "Budapest, Hungary"
             }
         },
         "il.edis.at": {
@@ -2107,7 +2229,7 @@
                 "193.182.144.14": "Tel Aviv, Israel"
             },
             "ipv6": {
-                "2a03:f80:972:193:182:144:14:1": "Tel Aviv, Israel"
+                "2a03:f80:972:2767::1": "Tel Aviv, Israel"
             }
         },
         "im.edis.at": {
@@ -2115,7 +2237,7 @@
                 "37.235.55.22": "Douglas, Isle of Man"
             },
             "ipv6": {
-                "2a03:f80:44:37:235:55:22:1": "Douglas, Isle of Man"
+                "2a03:f80:44:d706::1": "Douglas, Isle of Man"
             }
         },
         "is.edis.at": {
@@ -2123,7 +2245,7 @@
                 "37.235.49.250": "Hafnarfjordur, Iceland"
             },
             "ipv6": {
-                "2a03:f80:354:37:235:49:250:1": "Hafnarfjordur, Iceland"
+                "2a03:f80:354:2b0b::1": "Hafnarfjordur, Iceland"
             }
         },
         "it.edis.at": {
@@ -2131,7 +2253,7 @@
                 "149.154.157.31": "Milan, Italy"
             },
             "ipv6": {
-                "2001:b60:1000:149:154:157:31:1": "Milan, Italy"
+                "2a03:f80:39:200e::1": "Hafnarfjordur, Iceland"
             }
         },
         "jp.edis.at": {
@@ -2139,7 +2261,7 @@
                 "194.68.27.10": "Tokyo, Japan"
             },
             "ipv6": {
-                "2a03:f80:81:194:68:27:10:1": "Tokyo, Japan"
+                "2a03:f80:81:c266::1": "Tokyo, Japan"
             }
         },
         "lt.edis.at": {
@@ -2147,8 +2269,8 @@
                 "192.36.61.10": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a03:f80:370:192:36:41:10:1": "Vilnius, Lithuania",
-                "2a03:f80:370:192:36:61:10:1": "Vilnius, Lithuania"
+                "2a03:f80:370:825c::1": "Vilnius, Lithuania",
+                "2a03:f80:371:c918::1": "Riga, Latvia"
             }
         },
         "lv.edis.at": {
@@ -2162,7 +2284,7 @@
                 "192.121.87.10": "Chisinau, Moldova"
             },
             "ipv6": {
-                "2a03:f80:373:192:121:87:10:1": "Chisinau, Moldova"
+                "2a03:f80:373:4a1c::1": "Chisinau, Moldova"
             }
         },
         "mk.edis.at": {
@@ -2170,7 +2292,7 @@
                 "46.183.185.10": "Skopje, North Macedonia"
             },
             "ipv6": {
-                "2a03:f80:389:46:183:185:10:1": "Skopje, North Macedonia"
+                "2a03:f80:389:d190::1": "Skopje, North Macedonia"
             }
         },
         "nl.edis.at": {
@@ -2178,7 +2300,7 @@
                 "151.236.14.100": "Netherlands"
             },
             "ipv6": {
-                "2a00:1768:1003:151:236:14:100:1": "Netherlands"
+                "2a00:1768:1003:2a4e::1": "Netherlands"
             }
         },
         "no.edis.at": {
@@ -2194,7 +2316,7 @@
                 "37.235.48.250": "Warsaw, Poland"
             },
             "ipv6": {
-                "2a03:f80:48:37:235:48:250:1": "Warsaw, Poland"
+                "2a03:f80:48:e3c6::1": "Warsaw, Poland"
             }
         },
         "ro.edis.at": {
@@ -2202,7 +2324,7 @@
                 "194.68.44.10": "Bucharest, Romania"
             },
             "ipv6": {
-                "2a03:f80:40:194:68:44:10:1": "Bucharest, Romania"
+                "2a03:f80:40:3a07::1": "Bucharest, Romania"
             }
         },
         "rs.edis.at": {
@@ -2210,7 +2332,7 @@
                 "194.71.126.10": "Belgrade, Serbia"
             },
             "ipv6": {
-                "2a03:f80:381:194:71:126:10:1": "Belgrade, Serbia"
+                "2a03:f80:381:4ae8::1": "Belgrade, Serbia"
             }
         },
         "ru.edis.at": {
@@ -2218,7 +2340,7 @@
                 "213.183.56.10": "Moscow, Russia"
             },
             "ipv6": {
-                "2a03:f80:7:213:183:56:10:1": "Moscow, Russia"
+                "2a03:f80:7:f574::1": "Moscow, Russia"
             }
         },
         "se.edis.at": {
@@ -2226,7 +2348,7 @@
                 "46.246.93.100": "Stockholm, Sweden"
             },
             "ipv6": {
-                "2a00:1a28:1251:46:246:93:100:1": "Stockholm, Sweden"
+                "2a00:1a28:1251:83ed::1": "Stockholm, Sweden"
             }
         },
         "sg.edis.at": {
@@ -2234,7 +2356,7 @@
                 "194.68.26.10": "Singapore, Singapore"
             },
             "ipv6": {
-                "2a03:f80:65:194:68:26:10:1": "Singapore, Singapore"
+                "2a03:f80:65:645d::1": "Singapore, Singapore"
             }
         },
         "si.edis.at": {
@@ -2242,7 +2364,7 @@
                 "192.71.244.10": "Ljubljana, Slovenia"
             },
             "ipv6": {
-                "2a03:f80:386:192:71:244:10:1": "Ljubljana, Slovenia"
+                "2a03:f80:386:1b12::1": "Ljubljana, Slovenia"
             }
         },
         "us.edis.at": {
@@ -2250,7 +2372,7 @@
                 "158.255.213.100": "New York, United States"
             },
             "ipv6": {
-                "2605:3b80:1:158:255:213:100:1": "New York, United States"
+                "2605:3b80:1:a584::1": "New York, United States"
             }
         }
     },
@@ -2261,14 +2383,6 @@
             },
             "ipv6": {
                 "2001:1af8:4700:b210::33": "Netherlands"
-            }
-        },
-        "mirror.dal13.us.leaseweb.net": {
-            "ipv4": {
-                "209.58.153.1": "Dallas, United States"
-            },
-            "ipv6": {
-                "2606:9880:2100:b010::1531": "United States"
             }
         },
         "mirror.fra10.de.leaseweb.net": {
@@ -2291,7 +2405,9 @@
             "ipv4": {
                 "23.82.143.211": "Miami, United States"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2607:f5b6:1:48::211": "United States"
+            }
         },
         "mirror.sfo12.us.leaseweb.net": {
             "ipv4": {
@@ -2381,6 +2497,12 @@
                 "2a0d:5082:0:4::2": "United Kingdom"
             }
         },
+        "man.speedtest.clouvider.net": {
+            "ipv4": {
+                "103.214.44.130": "Manchester, United Kingdom"
+            },
+            "ipv6": {}
+        },
         "nyc.speedtest.clouvider.net": {
             "ipv4": {
                 "94.154.159.137": "New York, United States"
@@ -2426,6 +2548,12 @@
         "lg.lon.hosthatch.com": {
             "ipv4": {
                 "45.91.93.93": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "lg.mad.hosthatch.com": {
+            "ipv4": {
+                "45.132.74.19": "Madrid, Spain"
             },
             "ipv6": {}
         },
@@ -2596,6 +2724,12 @@
             "ipv6": {
                 "2a0d:d8c0:0:1::7476": "United States"
             }
+        },
+        "wa-lg.shockhosting.net": {
+            "ipv4": {
+                "209.182.227.3": "Seattle, United States"
+            },
+            "ipv6": {}
         },
         "wc-lg.shockhosting.net": {
             "ipv4": {
@@ -10571,96 +10705,6 @@
     "ibb.co": {},
     "cloudflare.com": {},
     "hax.co.id": {},
-    "linode.com": {
-        "speedtest.atlanta.linode.com": {
-            "ipv4": {
-                "192.155.94.157": "Atlanta, United States"
-            },
-            "ipv6": {
-                "2600:3c02::f03c:93ff:fe76:6b67": "Atlanta, United States"
-            }
-        },
-        "speedtest.dallas.linode.com": {
-            "ipv4": {
-                "50.116.25.154": "Richardson, United States"
-            },
-            "ipv6": {
-                "2600:3c00::f03c:91ff:feae:603": "Richardson, United States"
-            }
-        },
-        "speedtest.frankfurt.linode.com": {
-            "ipv4": {
-                "139.162.130.8": "Frankfurt am Main, Germany"
-            },
-            "ipv6": {
-                "2a01:7e01::f03c:91ff:fe26:8794": "Frankfurt am Main, Germany"
-            }
-        },
-        "speedtest.fremont.linode.com": {
-            "ipv4": {
-                "50.116.14.9": "Fremont, United States"
-            },
-            "ipv6": {
-                "2600:3c01::f03c:91ff:feae:68d": "Fremont, United States"
-            }
-        },
-        "speedtest.london.linode.com": {
-            "ipv4": {
-                "176.58.107.39": "London, United Kingdom"
-            },
-            "ipv6": {
-                "2a01:7e00::f03c:91ff:feae:657": "London, United Kingdom"
-            }
-        },
-        "speedtest.mumbai1.linode.com": {
-            "ipv4": {
-                "172.105.33.31": "Mumbai, India"
-            },
-            "ipv6": {
-                "2400:8904::f03c:91ff:fea5:928b": "Mumbai, India"
-            }
-        },
-        "speedtest.newark.linode.com": {
-            "ipv4": {
-                "50.116.57.237": "Cedar Knolls, United States"
-            },
-            "ipv6": {
-                "2600:3c03::f03c:91ff:feae:65e": "Cedar Knolls, United States"
-            }
-        },
-        "speedtest.singapore.linode.com": {
-            "ipv4": {
-                "139.162.23.4": "Singapore, Singapore"
-            },
-            "ipv6": {
-                "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
-            }
-        },
-        "speedtest.syd1.linode.com": {
-            "ipv4": {
-                "172.105.174.7": "Sydney, Australia"
-            },
-            "ipv6": {
-                "2400:8907::f03c:92ff:fe6e:a16f": "Sydney, Australia"
-            }
-        },
-        "speedtest.tokyo2.linode.com": {
-            "ipv4": {
-                "139.162.65.37": "Tokyo, Japan"
-            },
-            "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
-            }
-        },
-        "speedtest.toronto1.linode.com": {
-            "ipv4": {
-                "172.105.30.21": "Toronto, Canada"
-            },
-            "ipv6": {
-                "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
-            }
-        }
-    },
     "mudfish.net": {},
     "hosterlabs.net": {},
     "euserv.com": {},
