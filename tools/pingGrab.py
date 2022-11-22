@@ -3,6 +3,7 @@ sys.path.append(os.getcwd().replace("/tools",""))
 
 from requests_html import HTMLSession
 from Class.base import Base
+from pathlib import Path 
 import tldextract, requests, socket, json, re, os
 
 if len(sys.argv) == 1:
@@ -14,7 +15,12 @@ if len(sys.argv) == 3:
 else:
      default = "default.json"
 folder = sys.argv[1]
-files = os.listdir(folder)
+if os.path.isdir(folder):
+    files = os.listdir(folder)
+else:
+    files = []
+    files.append(Path(folder).name)
+    folder = folder.replace(Path(folder).name,"")
 
 with open(os.getcwd()+"/tools/countries.json") as handle:
     countriesRaw = json.loads(handle.read())
@@ -29,6 +35,7 @@ ignore = ['friendhosting','starrydns','frantech']
 resolver = dns.resolver.Resolver()
 html = HTMLSession()
 for file in files:
+    print(f"Loading file {file}")
     with open(folder+"/"+file, 'r') as f:
         text= f.read()
     links = text.split()
