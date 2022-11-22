@@ -37,7 +37,7 @@ html = HTMLSession()
 for file in files:
     print(f"Loading file {file}")
     with open(folder+"/"+file, 'r') as f:
-        text= f.read()
+        text = f.read()
     links = text.split()
     for link in links:
         response = html.get(link)
