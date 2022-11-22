@@ -13,7 +13,10 @@ if len(sys.argv) == 3:
 else:
      default = "default.json"
 folder = sys.argv[1]
-folders = os.listdir(folder)
+if os.path.isdir(folder): 
+    folders = os.listdir(folder)
+else:
+    folders = folder
 
 print("Getting current IPv4")
 request = requests.get('https://ip4.seeip.org/',allow_redirects=False,timeout=5)

@@ -18,6 +18,7 @@ class Grabber():
 
     def findFiles(self,folders,folder):
         htmls = []
+        if os.path.isfile(folder): return [folder]
         print(f"Checking {folder}")
         for index, element in enumerate(folders):
             if element.endswith(".html") or element.endswith(".json"):
