@@ -3664,6 +3664,12 @@
                 "185.231.205.2": "Paris, France"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=615": {
+            "ipv4": {
+                "194.4.48.22": "Madrid, Spain"
+            },
+            "ipv6": {}
         }
     },
     "SakuraServer": {
@@ -5819,14 +5825,6 @@
         }
     },
     "Catalyst Host LLC": {
-        "looking.house/point.php?id=226": {
-            "ipv4": {
-                "162.250.235.151": "Seattle, United States"
-            },
-            "ipv6": {
-                "2602:ffd1:1:13ea::2": "United States"
-            }
-        },
         "looking.house/point.php?id=227": {
             "ipv4": {
                 "199.181.238.12": "Dallas, United States"

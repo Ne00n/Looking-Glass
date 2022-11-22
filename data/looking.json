@@ -904,6 +904,12 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=615": {
+            "ipv4": [
+                "194.4.48.22"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=598": {
             "ipv4": [
                 "45.8.147.6"
@@ -3110,14 +3116,6 @@
             ],
             "ipv6": [
                 "2602:ffd1:3:3cb::2"
-            ]
-        },
-        "looking.house/point.php?id=226": {
-            "ipv4": [
-                "162.250.235.151"
-            ],
-            "ipv6": [
-                "2602:ffd1:1:13ea::2"
             ]
         }
     },
