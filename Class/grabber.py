@@ -5,7 +5,7 @@ import multiprocessing
 class Grabber():
 
     lookingRegex = re.compile("([\w\d.-]+)?(lg|looking)([\w\d-]+)?(\.[\w\d-]+)(\.[\w\d.]+)")
-    tags = ['datacenters','data-center','data-centers','datacenter','looking-glass','looking','lg','speedtest','icmp','ping']
+    tags = ['datacenters','data-center','data-centers','datacenter','looking-glass','looking_glass','lookingglass','looking','lg','speedtest','icmp','ping']
     ipRegex = re.compile('([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})\s*(<|\")')
     ip6Regex = re.compile('([\da-f]{4}:[\da-f]{1,4}:[\d\w:]{1,})')
     priv_lo = re.compile("^127\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
@@ -113,7 +113,7 @@ class Grabber():
         return data
 
     def crawl(self,data,ipv4,ipv6,type="lg"):
-        for domain in data[type]:
+        for domain in list(data[type]):
             for url in list(data[type][domain]):
                 if url in data['ignore']: continue
                 data['ignore'].append(url)
@@ -123,14 +123,13 @@ class Grabber():
                 response,workingURL = self.get(url,domain)
                 if response:
                     if type == "scrap": data['lg'][domain][url] = []
-                    if type == "lg":
-                        links = self.getLinks(response)
-                        for link in list(links):
-                            if link in data['ignore']: links.remove(link)
-                            data['ignore'].append(link)
-                        pool = multiprocessing.Pool(processes=4)
-                        results = pool.map(self.filterUrlsScrap, links)
-                        data = self.combine(results,data)
+                    links = self.getLinks(response)
+                    for link in list(links):
+                        if link in data['ignore']: links.remove(link)
+                        data['ignore'].append(link)
+                    pool = multiprocessing.Pool(processes=4)
+                    results = pool.map(self.filterUrlsScrap, links)
+                    data = self.combine(results,data)
                     ips = self.parseIPs(ipv4,ipv6,response)
                     current = url
                     if url != workingURL:
@@ -155,9 +154,20 @@ class Grabber():
         data,direct,tagged,ignore = {"lg":{},"scrap":{},"ignore":[]},[],[],[]
         skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
         'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
-        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com']
-        onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','vserver','virtual','cloud','compute','dedicated','ryzen','epyc','xeon','intel','amd']
+        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com','vice.com','reuters.com','serverfault.com','vpsboard.com','dnstools.ws','kiloroot','check-host.net','instagram','t-online.de','vancouversun.com','4players.de','myip.ms','silive.com','pingdom',
+        'foxbusiness.com','helgeklein.com','dailymail.co.uk','variety.com','bitnodes.io','helloacm.com','datacenterknowledge.com']
+        onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','vserver','virtual','vm','cloud','compute','dedicated','ryzen','epyc','xeon','intel','amd']
         if link == "/": return False
+        #extension filter
+        whitelist = ['.php','.html','.htm']
+        extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",link.lower())
+        if extension and not extension[0] in whitelist:
+            print(f"Skipping {link} not in whitelist")
+            return False,""
+        #additional filter
+        if link.lower().endswith(("1g","10g","lua")): 
+            print(f"Skipping {link}")
+            return False,""
         if any(tag in link for tag in skip): return False
         domain = tldextract.extract(link).registered_domain
         if not domain: return False
@@ -182,15 +192,6 @@ class Grabber():
         return {"data":data,"direct":direct,"tagged":tagged,"ignore":ignore}
 
     def get(self,url,domain):
-        whitelist = ['.php','.html','.htm']
-        extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",url.lower())
-        print(f"Extension {extension}")
-        if extension and not extension[0] in whitelist:
-            print(f"Skipping {url} not in whitelist")
-            return False,""
-        if url.lower().endswith(("1g","10g","lua")): 
-            print(f"Skipping {url}")
-            return False,""
         for run in range(3):
             try:
                 if run > 1: time.sleep(0.5)
