@@ -1,7 +1,8 @@
+import multiprocessing, requests, json, time, sys, os, re
 from tqdm.contrib.concurrent import process_map
 from Class.grabber import Grabber
 from requests_html import HTML
-import multiprocessing, requests, json, time, sys, os, re
+from functools import partial
 from Class.base import Base
 
 if len(sys.argv) == 1:
@@ -52,7 +53,8 @@ for domain in list(set(data['direct'])):
     if response:
         links = crawler.getLinks(response)
         pool = multiprocessing.Pool(processes=4)
-        results = pool.map(crawler.filterUrlsScrap, links)
+        func = partial(crawler.filterUrls, type="lg", domain=domain)
+        results = pool.map(func, links)
         data = crawler.combine(results,data)
 
 print("Scrapping")
