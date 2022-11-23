@@ -43,10 +43,6 @@ links = list(set(links))
 results = process_map(crawler.filterUrls, links, max_workers=4,chunksize=100)
 data = crawler.combine(results)
 data['tagged'] = list(set(data['tagged']))
-print("Validating")
-data = crawler.crawl(data,ipv4,ipv6)
-print("Scrapping")
-data = crawler.crawl(data,ipv4,ipv6,"scrap")
 print("Direct Parsing")
 for domain in list(set(data['direct'])):
     response,workingURL = crawler.get(domain,domain)
@@ -56,7 +52,8 @@ for domain in list(set(data['direct'])):
         func = partial(crawler.filterUrls, type="lg", domain=domain)
         results = pool.map(func, links)
         data = crawler.combine(results,data)
-
+print("Validating")
+data = crawler.crawl(data,ipv4,ipv6)
 print("Scrapping")
 crawler.crawl(data,ipv4,ipv6,"scrap")
 

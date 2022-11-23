@@ -1,5 +1,6 @@
-from requests_html import HTML
 import tldextract, requests, time, sys, os, re
+from requests_html import HTML
+from functools import partial
 import multiprocessing
 
 class Grabber():
@@ -12,6 +13,11 @@ class Grabber():
     priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
     priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
+    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
+        'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
+        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com','vice.com','reuters.com','serverfault.com','vpsboard.com','dnstools.ws','kiloroot','check-host.net','instagram','t-online.de','vancouversun.com','4players.de','myip.ms','silive.com','pingdom',
+        'foxbusiness.com','helgeklein.com','dailymail.co.uk','variety.com','bitnodes.io','helloacm.com','datacenterknowledge.com','flipkart.com','techspot.com','yahoo.com','stacksocial.com','stackcommerce.com','videocardz.com','cnbc.com','arstechnica.com',
+        'ovhcloud.com','comm2ig.dk']
 
     def __init__(self):
         sys.setrecursionlimit(1500)
@@ -89,20 +95,20 @@ class Grabber():
     def crawl(self,data,ipv4,ipv6,type="lg"):
         for domain in list(data[type]):
             for url in list(data[type][domain]):
-                if url in data['ignore']: continue
+                if any(url in s for s in data['ignore']): continue
                 data['ignore'].append(url)
                 if type == "scrap":
                     if not domain in data['lg']: data['lg'][domain] = {}
                     if url in data['lg'][domain]: continue 
                 response,workingURL = self.get(url,domain)
                 if response:
-                    if type == "scrap": data['lg'][domain][url] = []
+                    if type == "scrap" and url not in data['lg'][domain]: data['lg'][domain][url] = []
                     links = self.getLinks(response)
                     for link in list(links):
                         if link in data['ignore']: links.remove(link)
-                        data['ignore'].append(link)
                     pool = multiprocessing.Pool(processes=4)
-                    results = pool.map(self.filterUrlsScrap, links)
+                    func = partial(self.filterUrls, type="scrap", domain=domain)
+                    results = pool.map(func, links)
                     data = self.combine(results,data)
                     ips = self.parseIPs(ipv4,ipv6,response)
                     current = url
@@ -121,17 +127,16 @@ class Grabber():
                 del data[type][domain][url]
         return data
 
-    def filterUrlsScrap(self,link):
-        return self.filterUrls(link,type="scrap")
-
     def filterUrls(self,link,type="lg",domain=""):
         data,direct,tagged,ignore = {"lg":{},"scrap":{},"ignore":[]},[],[],[]
-        skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
-        'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
-        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com','vice.com','reuters.com','serverfault.com','vpsboard.com','dnstools.ws','kiloroot','check-host.net','instagram','t-online.de','vancouversun.com','4players.de','myip.ms','silive.com','pingdom',
-        'foxbusiness.com','helgeklein.com','dailymail.co.uk','variety.com','bitnodes.io','helloacm.com','datacenterknowledge.com']
         onlyDirect = ['cart','order','billing','ovz','openvz','kvm','lxc','vps','server','vserver','virtual','vm','cloud','compute','dedicated','ryzen','epyc','xeon','intel','amd']
-        if link == "/": return False
+        if domain and not domain in link and not "http" in link:
+            if link.startswith("//"):
+                return False
+            elif link.startswith("/"):
+                link = domain + link
+            else:
+                link = domain + "/" + link
         #extension filter
         whitelist = ['.php','.html','.htm']
         extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",link.lower())
@@ -142,7 +147,7 @@ class Grabber():
         if link.lower().endswith(("1g","10g","lua")): 
             print(f"Skipping {link}")
             return False
-        if any(tag in link for tag in skip): return False
+        if any(tag in link for tag in self.skip): return False
         domain = tldextract.extract(link).registered_domain
         if not domain: return False
         if any(element in link  for element in onlyDirect):
@@ -178,7 +183,10 @@ class Grabber():
                 request = requests.get(prefix+url,allow_redirects=True,timeout=6)
                 if domain.lower() not in request.url.lower():
                     print(f"Got redirected to different domain {url} vs {request.url}")
-                    continue
+                    if prefix:
+                        continue
+                    else:
+                        return False,""
                 if (request.status_code == 200):
                     if len(request.text) < 90:
                         print(f"HTML to short {len(request.text)}, dropping {request.url}")
@@ -190,7 +198,10 @@ class Grabber():
                     return request.text,request.url
                 else:
                     print(f"Got {request.status_code} dropping {request.url}")
-                    continue
+                    if prefix:
+                        continue
+                    else:
+                        return False,""
             except requests.ConnectionError:
                 print(f"Retrying {prefix+url} got connection error")
             except Exception as e:
