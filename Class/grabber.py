@@ -70,32 +70,6 @@ class Grabber():
         response['ipv6'] = list(set(response['ipv6']))
         return response
 
-    def parseLinks(self,data,html,domain,type="lg"):
-        try:
-            html = HTML(html=html)
-            links = html.links
-        except Exception as e:
-            print(f"Failed to parse HTML {e}")
-            return data
-        ignore = ['foxbusiness.com']
-        if links:
-            for link in links:
-                if link in ignore: continue
-                if any(element in link for element in self.tags):
-                    if not domain in data[type]: data[type][domain] = {}
-                    if domain in link or "http" in link:
-                        url = link
-                    else:
-                        if link.startswith("/"):
-                            url = domain + link
-                        else:
-                            url = domain + "/" + link
-                    if not link in data[type][domain]:
-                        data[type][domain][url] = {}
-                        data['tagged'].append(url)
-                    print("Found",url)
-        return data
-
     def combine(self,results,data={"lg":{},"scrap":{},"direct":[],"tagged":[],"ignore":[]}):
         for result in results:
             if result:
