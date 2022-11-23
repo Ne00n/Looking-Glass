@@ -54,7 +54,6 @@ for domain in list(set(data['direct'])):
         pool = multiprocessing.Pool(processes=4)
         results = pool.map(crawler.filterUrlsScrap, links)
         data = crawler.combine(results,data)
-        continue
 
 print("Scrapping")
 crawler.crawl(data,ipv4,ipv6,"scrap")

@@ -137,11 +137,11 @@ class Grabber():
         extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",link.lower())
         if extension and not extension[0] in whitelist:
             print(f"Skipping {link} not in whitelist")
-            return False,""
+            return False
         #additional filter
         if link.lower().endswith(("1g","10g","lua")): 
             print(f"Skipping {link}")
-            return False,""
+            return False
         if any(tag in link for tag in skip): return False
         domain = tldextract.extract(link).registered_domain
         if not domain: return False
