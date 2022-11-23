@@ -21,6 +21,15 @@ class Grabber():
 
     def __init__(self):
         sys.setrecursionlimit(1500)
+        blacklists = ['https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/shopping/domains','https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/games/domains',
+        'https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains']
+        for link in blacklists:
+            print(f"Downloading Blacklist {link}")
+            request = requests.get(link,allow_redirects=False,timeout=6)
+            if (request.status_code == 200):
+                links = request.text.split()
+                for url in links:
+                    self.skip.append(url)
 
     def findFiles(self,folders,folder):
         htmls = []
