@@ -153,7 +153,7 @@ class Grabber():
             print(f"Skipping {link} not in whitelist")
             return False
         #additional filter
-        if link.lower().endswith(("1g","10g","lua")): 
+        if link.lower().endswith(("1g","10g","lua",'test-10mb','test-100mb','test-1000mb')): 
             print(f"Skipping {link}")
             return False
         if any(tag in link for tag in self.skip): return False
