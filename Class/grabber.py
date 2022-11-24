@@ -17,7 +17,7 @@ class Grabber():
         'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
         'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com','vice.com','reuters.com','serverfault.com','vpsboard.com','dnstools.ws','kiloroot','check-host.net','instagram','t-online.de','vancouversun.com','4players.de','myip.ms','silive.com','pingdom',
         'foxbusiness.com','helgeklein.com','dailymail.co.uk','variety.com','bitnodes.io','helloacm.com','datacenterknowledge.com','flipkart.com','techspot.com','yahoo.com','stacksocial.com','stackcommerce.com','videocardz.com','cnbc.com','arstechnica.com',
-        'ovhcloud.com','comm2ig.dk']
+        'ovhcloud.com','comm2ig.dk','slickdeals.net']
 
     def __init__(self):
         sys.setrecursionlimit(1500)
@@ -150,11 +150,11 @@ class Grabber():
         whitelist = ['.php','.html','.htm']
         extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",link.lower())
         if extension and not extension[0] in whitelist:
-            print(f"Skipping {link} not in whitelist")
+            #print(f"Skipping {link} not in whitelist")
             return False
         #additional filter
         if link.lower().endswith(("1g","10g","lua",'test-10mb','test-100mb','test-1000mb')): 
-            print(f"Skipping {link}")
+            #print(f"Skipping {link}")
             return False
         if any(tag in link for tag in self.skip): return False
         domain = tldextract.extract(link).registered_domain
