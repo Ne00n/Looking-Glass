@@ -1466,7 +1466,7 @@
 * [http://hk4.lg.starrydns.com/](http://hk4.lg.starrydns.com/)
 * [https://www.starrydns.com/en/speedtest](https://www.starrydns.com/en/speedtest)
 * [sg1.lg.starrydns.com](http://sg1.lg.starrydns.com)
-* [http://nl1.lg.starrydns.com](http://nl1.lg.starrydns.com)
+* [http://nl1.lg.starrydns.com/](http://nl1.lg.starrydns.com/)
 ### prometeus.net
 * [http://lg-milano.prometeus.net/](http://lg-milano.prometeus.net/)
 * [http://lg-netherlands.prometeus.net/](http://lg-netherlands.prometeus.net/)
@@ -1516,7 +1516,6 @@
 * [http://lg-lv.friendhosting.net/](http://lg-lv.friendhosting.net/)
 * [http://lg-nl.friendhosting.net/](http://lg-nl.friendhosting.net/)
 * [http://lg-pl.friendhosting.net/](http://lg-pl.friendhosting.net/)
-* [http://lg-ua-kha.friendhosting.net/](http://lg-ua-kha.friendhosting.net/)
 * [http://lg-ua-kyiv.friendhosting.net](http://lg-ua-kyiv.friendhosting.net)
 * [http://lg-us-la.friendhosting.net/](http://lg-us-la.friendhosting.net/)
 * [http://lg-us-mia.friendhosting.net/](http://lg-us-mia.friendhosting.net/)
@@ -1541,7 +1540,10 @@
 * [http://lg.first-colo.net/](http://lg.first-colo.net/)
 ### itldc.com
 * [http://lg-sin.itldc.com/](http://lg-sin.itldc.com/)
-* [itldc.com/en/support/looking-glass/](http://itldc.com/en/support/looking-glass/)
+* [https://itldc.com/en/support/looking-glass/](https://itldc.com/en/support/looking-glass/)
+* [lg-nl.itldc.com](http://lg-nl.itldc.com)
+* [lg-ua.itldc.com](http://lg-ua.itldc.com)
+* [lg-us.itldc.com](http://lg-us.itldc.com)
 ### lonethost.com
 * [http://canada.lg.lonethost.com](http://canada.lg.lonethost.com)
 * [http://germany.lg.lonethost.com/](http://germany.lg.lonethost.com/)
@@ -1937,6 +1939,8 @@
 * [https://lg-global-west01-us.silicloud.com/](https://lg-global-west01-us.silicloud.com/)
 ### ionos.com
 * [ionos.com/digitalguide/](http://ionos.com/digitalguide/)
+### smarthost.net
+* [https://www.smarthost.net/data-centers.php](https://www.smarthost.net/data-centers.php)
 ### ionos.de
 * [ionos.de/digitalguide/](http://ionos.de/digitalguide/)
 ### serverius.net
@@ -1968,10 +1972,7 @@
 ### shinjiru.com.my
 * [https://lg.shinjiru.com.my/](https://lg.shinjiru.com.my/)
 ### mlnl.host
-* [http://hk.lg.mlnl.host/](http://hk.lg.mlnl.host/)
 * [http://hkd.lg.mlnl.host/](http://hkd.lg.mlnl.host/)
-### speedypage.uk
-* [https://lon.lg.speedypage.uk/](https://lon.lg.speedypage.uk/)
 ### aws
 * [http://ec2-reachability.amazonaws.com](http://ec2-reachability.amazonaws.com)
 * [http://ipv6.ec2-reachability.amazonaws.com/](http://ipv6.ec2-reachability.amazonaws.com/)

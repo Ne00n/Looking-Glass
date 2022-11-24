@@ -8584,7 +8584,6 @@
             "ipv4": {
                 "103.204.175.10": "Osaka, Japan",
                 "103.27.184.7": "Tokyo, Japan",
-                "103.56.218.97": "Tokyo, Japan",
                 "158.69.205.137": "Montreal, Canada",
                 "185.170.209.5": "Hong Kong",
                 "210.92.18.1": "South Korea",
@@ -8592,9 +8591,9 @@
             },
             "ipv6": {
                 "2403:ad80:88:4000::2": "Hong Kong",
-                "2a0a:68c0:1:e::1": "Hong Kong",
+                "2403:ad80:60:806::1": "Osaka, Japan",
                 "2403:ad80:80::a": "Los Angeles, United States",
-                "2403:ad80:60:806::1": "Osaka, Japan"
+                "2a0a:68c0:1:e::1": "Hong Kong"
             }
         },
         "sg1.lg.starrydns.com": {
@@ -8605,7 +8604,7 @@
                 "2403:ad80:a7:7e8::ffff": "Singapore, Singapore"
             }
         },
-        "http://nl1.lg.starrydns.com": {
+        "http://nl1.lg.starrydns.com/": {
             "ipv4": {},
             "ipv6": {
                 "2a0a:68c0:1::1": "Hong Kong"
@@ -8889,14 +8888,6 @@
                 "2a0a:8c42::2": "Bulgaria"
             }
         },
-        "http://lg-ua-kha.friendhosting.net/": {
-            "ipv4": {
-                "195.28.182.106": "Kharkiv, Ukraine"
-            },
-            "ipv6": {
-                "2001:67c:2f6c:2::ed": "Izmail, Ukraine"
-            }
-        },
         "http://lg-ua-kyiv.friendhosting.net": {
             "ipv4": {
                 "185.253.0.2": "Kyiv, Ukraine"
@@ -9039,30 +9030,61 @@
             },
             "ipv6": {}
         },
-        "itldc.com/en/support/looking-glass/": {
+        "https://itldc.com/en/support/looking-glass/": {
             "ipv4": {
-                "107.181.161.131": "United States",
-                "195.123.208.208": "Riga, Latvia",
-                "195.123.232.3": "Secaucus, United States",
-                "195.123.244.4": "Prague, Czechia",
-                "217.12.200.200": "Meppel, Netherlands",
-                "217.12.202.7": "Sofia, Bulgaria",
-                "217.12.221.6": "Kharkiv, Ukraine",
-                "45.90.56.3": "Geneva, Switzerland",
-                "5.34.178.8": "Miami, United States",
-                "5.34.183.183": "Kharkiv, Ukraine",
-                "82.118.20.20": "Gdansk, Poland"
+                "185.14.30.7": "Meppel, Netherlands",
+                "195.123.213.93": "Riga, Latvia",
+                "195.123.228.145": "Sofia, Bulgaria",
+                "195.123.233.112": "Secaucus, United States",
+                "195.123.238.9": "Singapore, Singapore",
+                "195.123.242.113": "Los Angeles, United States",
+                "195.123.245.185": "Prague, Czechia",
+                "195.211.96.59": "United States",
+                "195.211.98.33": "United States",
+                "217.12.199.211": "Kharkiv, Ukraine",
+                "45.90.58.203": "Geneva, Switzerland",
+                "82.117.253.84": "Miami, United States",
+                "82.118.18.197": "Kharkiv, Ukraine",
+                "82.118.21.149": "Gdansk, Poland"
             },
             "ipv6": {
-                "2a05:9404::20": "Gdansk, Poland",
-                "2a02:27a8:0:2::777": "Kharkiv, Ukraine",
-                "2a02:27aa::7777": "Sofia, Bulgaria",
-                "2a05:9405::8": "Miami, United States",
-                "2a05:9400:0:acdc::777": "Secaucus, United States",
-                "2a02:27ac::acdc": "Riga, Latvia",
-                "2a05:9403::acdc": "Prague, Czechia",
+                "2a05:9406::1b7": "Geneva, Switzerland",
+                "2a02:27ab:0:2::5b": "Meppel, Netherlands",
+                "2a05:9405::2de": "Miami, United States",
+                "2a02:27a8:feed::9": "Kharkiv, Ukraine",
+                "2a02:27a8:0:a::eb": "Kharkiv, Ukraine",
+                "2607:f7a0:3:4:acdc:c0fe:0:3b4": "El Segundo, United States",
+                "2a02:27ac::34c": "Riga, Latvia",
+                "2a05:9403::12f": "Prague, Czechia",
+                "2a05:9404::7f": "Gdansk, Poland",
+                "2a12:6fc0::9": "United States",
+                "2a05:9401:0:acdc::1fd": "Singapore, Singapore",
+                "2a12:6fc1::9": "United States",
+                "2a05:9400:0:acdc::5a": "Secaucus, United States",
+                "2a02:27aa::546": "Sofia, Bulgaria"
+            }
+        },
+        "lg-nl.itldc.com": {
+            "ipv4": {
+                "217.12.200.200": "Meppel, Netherlands"
+            },
+            "ipv6": {
                 "2a00:1ca8:a7::200": "Netherlands"
             }
+        },
+        "lg-ua.itldc.com": {
+            "ipv4": {
+                "5.34.183.183": "Kharkiv, Ukraine"
+            },
+            "ipv6": {
+                "2a02:27a8:0:2::777": "Kharkiv, Ukraine"
+            }
+        },
+        "lg-us.itldc.com": {
+            "ipv4": {
+                "107.181.161.131": "United States"
+            },
+            "ipv6": {}
         }
     },
     "lonethost.com": {
@@ -10990,7 +11012,35 @@
     "desivps.com": {},
     "digitalrealty.com": {},
     "alignedenergy.com": {},
-    "smarthost.net": {},
+    "smarthost.net": {
+        "https://www.smarthost.net/data-centers.php": {
+            "ipv4": {
+                "107.173.81.2": "United States",
+                "136.0.228.26": "United States",
+                "139.64.132.2": "Portland, United States",
+                "139.64.133.2": "Kansas City, United States",
+                "147.189.140.2": "Flint, United States",
+                "162.210.250.241": "United States",
+                "166.70.34.35": "Orem, United States",
+                "172.106.106.2": "Ashburn, United States",
+                "174.138.168.10": "Phoenix, United States",
+                "176.111.216.2": "South Bend, United States",
+                "176.111.219.2": "Port Edwards, United States",
+                "185.251.118.130": "Amsterdam, Netherlands",
+                "192.199.242.2": "United States",
+                "194.62.165.2": "Berkeley Springs, United States",
+                "199.102.65.118": "United States",
+                "199.43.206.3": "Las Vegas, United States",
+                "23.228.222.50": "United States",
+                "38.242.7.129": "Somerville, United States",
+                "45.14.112.20": "Wolverhampton, United Kingdom",
+                "45.14.113.2": "Chicago, United States",
+                "45.35.132.2": "Dallas, United States",
+                "66.11.120.2": "Piscataway, United States"
+            },
+            "ipv6": {}
+        }
+    },
     "hosterlabs.net": {},
     "getsurrey.co.uk": {},
     "server.it": {},
@@ -11192,30 +11242,12 @@
         }
     },
     "mlnl.host": {
-        "http://hk.lg.mlnl.host/": {
-            "ipv4": {
-                "45.123.191.84": "Hong Kong"
-            },
-            "ipv6": {
-                "2406:4300:babe:0145::1": "Hong Kong"
-            }
-        },
         "http://hkd.lg.mlnl.host/": {
             "ipv4": {
                 "45.123.188.128": "Hong Kong"
             },
             "ipv6": {
                 "2406:4300:bae:0282::1": "Hong Kong"
-            }
-        }
-    },
-    "speedypage.uk": {
-        "https://lon.lg.speedypage.uk/": {
-            "ipv4": {
-                "45.95.19.5": "London, United Kingdom"
-            },
-            "ipv6": {
-                "2a06:a000:1d0:3::1": "United States"
             }
         }
     },
