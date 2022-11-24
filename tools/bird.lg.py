@@ -34,11 +34,12 @@ for provider,url in urls.items():
     locations = set(locations)
     for location in locations:
         html = fetch(f"{url}/traceroute/{location}/ipv4?q=one.one.one.one")
-        ips = re.findall('<br>.*?"whois">([0-9.]+)<',html, re.MULTILINE)
-        if not provider in results: results[provider] = {}
-        if not url in results[provider]: results[provider][url] = {"ipv4":[],"ipv6":[]}
-        ip = fingPingable(ips[0])
-        results[provider][url]["ipv4"].append(ip)
+        if html:
+            ips = re.findall('<br>.*?"whois">([0-9.]+)<',html, re.MULTILINE)
+            if not provider in results: results[provider] = {}
+            if not url in results[provider]: results[provider][url] = {"ipv4":[],"ipv6":[]}
+            ip = fingPingable(ips[0])
+            results[provider][url]["ipv4"].append(ip)
     
 with open(os.getcwd()+'/data/bird.json', 'w') as f:
     json.dump(results, f, indent=4)
