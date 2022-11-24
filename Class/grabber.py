@@ -200,9 +200,6 @@ class Grabber():
                     if len(request.text) < 90:
                         print(f"HTML to short {len(request.text)}, dropping {request.url}")
                         continue
-                    if "window.location.replace" in request.text:
-                        print(f"Found Javascript redirect, dropping {request.url}")
-                        return False,""
                     print(f"Got {request.status_code} keeping {request.url}")
                     return request.text,request.url
                 else:
