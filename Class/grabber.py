@@ -29,6 +29,22 @@ class Grabber():
                 links = request.text.split()
                 for url in links:
                     self.skip.append(url)
+        print("Getting current IPv4")
+        request = requests.get('https://ip4.seeip.org/',allow_redirects=False,timeout=5)
+        if request.status_code == 200:
+            self.ipv4 = request.text
+            print(f"IPv4 {self.ipv4}")
+        else:
+            exit("Could not fetch IPv4")
+
+        print("Getting current IPv6")
+        request = requests.get('https://ip6.seeip.org/',allow_redirects=False,timeout=5)
+        if request.status_code == 200:
+            self.ipv6 = request.text
+            print(f"IPv6 {self.ipv6}")
+        else:
+            exit("Could not fetch IPv6")
+        time.sleep(5)
 
     def findFiles(self,folders,folder):
         htmls = []
@@ -63,7 +79,7 @@ class Grabber():
         #Source https://stackoverflow.com/questions/691045/how-do-you-determine-if-an-ip-address-is-private-in-python
         return (self.priv_lo.match(ip) or self.priv_24.match(ip) or self.priv_20.match(ip) or self.priv_16.match(ip))
 
-    def parseIPs(self,ipv4,ipv6,html):
+    def parseIPs(self,html):
         ipv4s = self.ipRegex.findall(html, re.DOTALL)
         ipv6s = self.ip6Regex.findall(html, re.DOTALL)
         yourIP = re.findall("(Your IP Address|My IP):.*?([\d.]+)\s?<",html, re.MULTILINE | re.DOTALL)
@@ -73,11 +89,11 @@ class Grabber():
             if len(ipv4s) > 30: break
             if yourIP and yourIP[0][1] == entry[0]: continue
             if self.isPrivate(entry[0]): continue
-            if entry[0] == ipv4: continue
+            if entry[0] == self.ipv4: continue
             response['ipv4'].append(entry[0])
         for entry in ipv6s:
             if yourIPv6 and yourIPv6[0][1] == entry: continue
-            if entry == ipv6: continue
+            if entry == self.ipv6: continue
             if len(ipv6s) > 30: break
             response['ipv6'].append(entry)
         response['ipv4'] = list(set(response['ipv4']))
@@ -100,7 +116,7 @@ class Grabber():
                         if not url in data['scrap'][domain]: data['scrap'][domain][url] = []
         return data
 
-    def crawlParse(self,domain,data,ignore,type,ips,direct=False):
+    def crawlParse(self,domain,data,ignore,type,direct=False):
         results = {domain:{}}
         if direct: data[type][domain] = [domain]
         for url in data[type][domain]:
@@ -109,18 +125,18 @@ class Grabber():
             response,workingURL = self.get(url,domain)
             if response: 
                 links = self.getLinks(response)
-                ips = self.parseIPs(ips['ipv4'],ips['ipv6'],response)
+                ips = self.parseIPs(response)
                 results[domain][url] = {} 
                 results[domain][url] = {'workingURL':workingURL,'links':links,'ips':ips}
         return results
 
-    def crawl(self,data,ipv4,ipv6,type="lg"):
+    def crawl(self,data,type="lg"):
         #shared ignore list
         manager = multiprocessing.Manager()
         ignore = manager.list(data['ignore'])
         #domains list
         domains = list(data[type])
-        func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
+        func = partial(self.crawlParse, data=data, ignore=ignore, type=type)
         results = process_map(func, domains, max_workers=8,chunksize=1)
         #combine
         links = {}

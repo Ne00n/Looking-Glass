@@ -19,20 +19,6 @@ if os.path.isdir(folder):
 else:
     folders = folder
 
-print("Getting current IPv4")
-request = requests.get('https://ip4.seeip.org/',allow_redirects=False,timeout=5)
-if request.status_code == 200:
-    ipv4 = request.text
-else:
-    exit("Could not fetch IPv4")
-
-print("Getting current IPv6")
-request = requests.get('https://ip6.seeip.org/',allow_redirects=False,timeout=5)
-if request.status_code == 200:
-    ipv6 = request.text
-else:
-    exit("Could not fetch IPv6")
-
 print(f"Total folders {len(folders)}")
 path = os.path.dirname(os.path.realpath(__file__))
 crawler = Grabber(path)
@@ -46,7 +32,7 @@ data = crawler.combine(results)
 data['tagged'] = list(set(data['tagged']))
 print("Direct Parsing")
 domains = list(set(data['direct']))
-func = partial(crawler.crawlParse, data=data, ignore=[], type="lg", ips={"ipv4":ipv4,"ipv6":ipv6},direct=True)
+func = partial(crawler.crawlParse, data=data, ignore=[], type="lg",direct=True)
 results = process_map(func, domains, max_workers=8,chunksize=1)
 links = []
 for row in results:
@@ -58,9 +44,9 @@ for row in results:
                 results = pool.map(func, details['links'])
                 data = crawler.combine(results,data)
 print("Validating")
-data = crawler.crawl(data,ipv4,ipv6)
+data = crawler.crawl(data)
 print("Scrapping")
-crawler.crawl(data,ipv4,ipv6,"scrap")
+crawler.crawl(data,"scrap")
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
