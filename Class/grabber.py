@@ -44,8 +44,8 @@ class Grabber():
             print(f"IPv6 {self.ipv6}")
         else:
             exit("Could not fetch IPv6")
-        skip.append(self.ipv4)
-        skip.append(self.ipv6)
+        self.skip.append(self.ipv4)
+        self.skip.append(self.ipv6)
         time.sleep(5)
 
     def findFiles(self,folders,folder):
