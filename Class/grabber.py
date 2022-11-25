@@ -118,7 +118,7 @@ class Grabber():
         print(data[type])
         domains = list(data[type])
         print("domains",domains)
-        pool = multiprocessing.Pool(processes=4)
+        pool = multiprocessing.Pool(processes=8)
         func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
         #results
         results = pool.map(func, domains)
