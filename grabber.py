@@ -34,7 +34,8 @@ else:
     exit("Could not fetch IPv6")
 
 print(f"Total folders {len(folders)}")
-crawler = Grabber()
+path = os.path.dirname(os.path.realpath(__file__))
+crawler = Grabber(path)
 files = crawler.findFiles(folders,folder)
 results = process_map(crawler.fileToHtml, files, max_workers=4,chunksize=100)
 links = []

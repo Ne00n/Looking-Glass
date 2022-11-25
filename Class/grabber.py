@@ -1,4 +1,6 @@
-import tldextract, requests, time, sys, os, re
+from tqdm.contrib.concurrent import process_map
+import tldextract, requests, logging, time, sys, os, re
+from logging.handlers import RotatingFileHandler
 from requests_html import HTML
 from functools import partial
 import multiprocessing
@@ -15,10 +17,11 @@ class Grabber():
     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
     skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','ebay','google','wikipedia','twitter','smokeping','#comment-']
 
-    def __init__(self):
-        sys.setrecursionlimit(1500)
+    def __init__(self,path):
+        logging.basicConfig(format='%(asctime)s %(levelname)s %(message)s',datefmt='%H:%M:%S',level=logging.INFO,handlers=[RotatingFileHandler(maxBytes=10000000,backupCount=5,filename=f"{path}/logs/grabber.log")])        
         blacklists = ['https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/shopping/domains','https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/games/domains',
         'https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains','https://raw.githubusercontent.com/Ne00n/Looking-Glass/master/src/ignore']
+        sys.setrecursionlimit(1500)
         for link in blacklists:
             print(f"Downloading Blacklist {link}")
             request = requests.get(link,allow_redirects=False,timeout=6)
@@ -115,13 +118,10 @@ class Grabber():
         manager = multiprocessing.Manager()
         ignore = manager.list(data['ignore'])
         #domains list
-        print(data[type])
         domains = list(data[type])
-        print("domains",domains)
-        pool = multiprocessing.Pool(processes=8)
         func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
         #results
-        results = pool.map(func, domains)
+        results = process_map(func, domains, max_workers=8,chunksize=100)
         #combine
         links = {}
         for row in results:
@@ -142,7 +142,7 @@ class Grabber():
                     data = self.combine(results,data)
                     current = url
                     if url != links[domain][url]['workingURL']:
-                        print(f"Replacing {url} with {links[domain][url]['workingURL']}")
+                        logging.info(f"Replacing {url} with {links[domain][url]['workingURL']}")
                         current = links[domain][url]['workingURL']
                         del data['lg'][domain][url]
                         data['lg'][domain][current] = {}
@@ -210,28 +210,28 @@ class Grabber():
                     prefix = "https://" if run % 2 == 0 else "http://"
                 else:
                     prefix = ""
-                print(f"Getting {prefix+url}")
+                logging.info(f"Getting {prefix+url}")
                 request = requests.get(prefix+url,allow_redirects=True,timeout=6)
                 if domain.lower() not in request.url.lower():
-                    print(f"Got redirected to different domain {url} vs {request.url}")
+                    logging.info(f"Got redirected to different domain {url} vs {request.url}")
                     if prefix:
                         continue
                     else:
                         return False,""
                 if (request.status_code == 200):
                     if len(request.text) < 90:
-                        print(f"HTML to short {len(request.text)}, dropping {request.url}")
+                        logging.info(f"HTML to short {len(request.text)}, dropping {request.url}")
                         continue
-                    print(f"Got {request.status_code} keeping {request.url}")
+                    logging.info(f"Got {request.status_code} keeping {request.url}")
                     return request.text,request.url
                 else:
-                    print(f"Got {request.status_code} dropping {request.url}")
+                    logging.info(f"Got {request.status_code} dropping {request.url}")
                     if prefix:
                         continue
                     else:
                         return False,""
             except requests.ConnectionError:
-                print(f"Retrying {prefix+url} got connection error")
+                logging.info(f"Retrying {prefix+url} got connection error")
             except Exception as e:
-                print(f"Retrying {prefix+url} error {e}")
+                logging.info(f"Retrying {prefix+url} error {e}")
         return False,""
