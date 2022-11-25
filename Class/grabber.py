@@ -22,7 +22,7 @@ class Grabber():
     def __init__(self):
         sys.setrecursionlimit(1500)
         blacklists = ['https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/shopping/domains','https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/games/domains',
-        'https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains']
+        'https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains','https://raw.githubusercontent.com/Ne00n/Looking-Glass/master/src/ignore']
         for link in blacklists:
             print(f"Downloading Blacklist {link}")
             request = requests.get(link,allow_redirects=False,timeout=6)
@@ -101,33 +101,57 @@ class Grabber():
                         if not url in data['scrap'][domain]: data['scrap'][domain][url] = []
         return data
 
+    def crawlParse(self,domain,data,ignore,type,ips):
+        results = {domain:{}}
+        for url in data[type][domain]:
+            if any(url in s for s in ignore): continue
+            ignore.append(url)
+            response,workingURL = self.get(url,domain)
+            if response: 
+                links = self.getLinks(response)
+                ips = self.parseIPs(ips['ipv4'],ips['ipv6'],response)
+            results[domain][url] = {} 
+            results[domain][url] = {'workingURL':workingURL,'links':links,'ips':ips}
+        return results
+
     def crawl(self,data,ipv4,ipv6,type="lg"):
+        #shared ignore list
+        manager = multiprocessing.Manager()
+        ignore = manager.list(data['ignore'])
+        #domains list
+        print(data[type])
+        domains = list(data[type])
+        print("domains",domains)
+        pool = multiprocessing.Pool(processes=4)
+        func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
+        #results
+        results = pool.map(func, domains)
+        #combine
+        links = {}
+        for row in results:
+            for domain,details in row.items():
+                links[domain] = details
+        data['ignore'].extend(ignore)
+        #processing
         for domain in list(data[type]):
             for url in list(data[type][domain]):
-                if any(url in s for s in data['ignore']): continue
-                data['ignore'].append(url)
                 if type == "scrap":
                     if not domain in data['lg']: data['lg'][domain] = {}
                     if url in data['lg'][domain]: continue 
-                response,workingURL = self.get(url,domain)
-                if response:
+                if url in links[domain]:
                     if type == "scrap" and url not in data['lg'][domain]: data['lg'][domain][url] = []
-                    links = self.getLinks(response)
-                    for link in list(links):
-                        if link in data['ignore']: links.remove(link)
                     pool = multiprocessing.Pool(processes=4)
                     func = partial(self.filterUrls, type="scrap", domain=domain)
-                    results = pool.map(func, links)
+                    results = pool.map(func, links[domain][url]['links'])
                     data = self.combine(results,data)
-                    ips = self.parseIPs(ipv4,ipv6,response)
                     current = url
-                    if url != workingURL:
-                        print(f"Replacing {url} with {workingURL}")
-                        current = workingURL
+                    if url != links[domain][url]['workingURL']:
+                        print(f"Replacing {url} with {links[domain][url]['workingURL']}")
+                        current = links[domain][url]['workingURL']
                         del data['lg'][domain][url]
                         data['lg'][domain][current] = {}
-                    if ips['ipv4'] or ips['ipv6']:
-                        data['lg'][domain][current] = ips
+                    if links[domain][url]['ips']['ipv4'] or links[domain][url]['ips']['ipv6']:
+                        data['lg'][domain][current] = links[domain][url]['ips']
                     elif url in data['tagged']:
                         if current in data['lg'][domain]: 
                             del data['lg'][domain][current]
@@ -151,10 +175,12 @@ class Grabber():
         extension = re.findall("[a-z]\/.*?(\.[a-zA-Z]+)$",link.lower())
         if extension and not extension[0] in whitelist:
             #print(f"Skipping {link} not in whitelist")
+            ignore.append(link)
             return False
         #additional filter
         if link.lower().endswith(("1g","10g","lua",'test-10mb','test-100mb','test-1000mb')): 
             #print(f"Skipping {link}")
+            ignore.append(link)
             return False
         if any(tag in link for tag in self.skip): return False
         domain = tldextract.extract(link).registered_domain
