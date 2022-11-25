@@ -45,14 +45,18 @@ results = process_map(crawler.filterUrls, links, max_workers=4,chunksize=100)
 data = crawler.combine(results)
 data['tagged'] = list(set(data['tagged']))
 print("Direct Parsing")
-for domain in list(set(data['direct'])):
-    response,workingURL = crawler.get(domain,domain)
-    if response:
-        links = crawler.getLinks(response)
-        pool = multiprocessing.Pool(processes=4)
-        func = partial(crawler.filterUrls, type="lg", domain=domain)
-        results = pool.map(func, links)
-        data = crawler.combine(results,data)
+domains = list(set(data['direct']))
+func = partial(crawler.crawlParse, data=data, ignore=[], type="lg", ips={"ipv4":ipv4,"ipv6":ipv6},direct=True)
+results = process_map(func, domains, max_workers=8,chunksize=1)
+links = []
+for row in results:
+    if row:
+        for domain,block in row.items():
+            for url,details in block.items():
+                pool = multiprocessing.Pool(processes=4)
+                func = partial(crawler.filterUrls, type="lg", domain=domain)
+                results = pool.map(func, details['links'])
+                data = crawler.combine(results,data)
 print("Validating")
 data = crawler.crawl(data,ipv4,ipv6)
 print("Scrapping")

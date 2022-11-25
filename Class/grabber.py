@@ -100,8 +100,9 @@ class Grabber():
                         if not url in data['scrap'][domain]: data['scrap'][domain][url] = []
         return data
 
-    def crawlParse(self,domain,data,ignore,type,ips):
+    def crawlParse(self,domain,data,ignore,type,ips,direct=False):
         results = {domain:{}}
+        if direct: data[type][domain] = [domain]
         for url in data[type][domain]:
             if any(url in s for s in ignore): continue
             ignore.append(url)
@@ -109,8 +110,8 @@ class Grabber():
             if response: 
                 links = self.getLinks(response)
                 ips = self.parseIPs(ips['ipv4'],ips['ipv6'],response)
-            results[domain][url] = {} 
-            results[domain][url] = {'workingURL':workingURL,'links':links,'ips':ips}
+                results[domain][url] = {} 
+                results[domain][url] = {'workingURL':workingURL,'links':links,'ips':ips}
         return results
 
     def crawl(self,data,ipv4,ipv6,type="lg"):
@@ -120,12 +121,13 @@ class Grabber():
         #domains list
         domains = list(data[type])
         func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
-        results = process_map(func, domains, max_workers=8,chunksize=10)
+        results = process_map(func, domains, max_workers=8,chunksize=1)
         #combine
         links = {}
         for row in results:
-            for domain,details in row.items():
-                links[domain] = details
+            if row:
+                for domain,details in row.items():
+                    links[domain] = details
         data['ignore'].extend(ignore)
         #processing
         for domain in list(data[type]):
@@ -152,7 +154,10 @@ class Grabber():
                             del data['lg'][domain][current]
                             data['tagged'].remove(url)
                     continue
-                del data[type][domain][url]
+                if url in data[type][domain]:
+                    del data[type][domain][url]
+                else:
+                    print(data[type][domain])
         return data
 
     def filterUrls(self,link,type="lg",domain=""):
