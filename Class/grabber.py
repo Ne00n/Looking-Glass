@@ -120,8 +120,7 @@ class Grabber():
         #domains list
         domains = list(data[type])
         func = partial(self.crawlParse, data=data, ignore=ignore, type=type, ips={"ipv4":ipv4,"ipv6":ipv6})
-        #results
-        results = process_map(func, domains, max_workers=8,chunksize=100)
+        results = process_map(func, domains, max_workers=8,chunksize=10)
         #combine
         links = {}
         for row in results:
