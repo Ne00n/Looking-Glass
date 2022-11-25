@@ -13,11 +13,7 @@ class Grabber():
     priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
     priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
-    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','speedtest.net','youtube.com','geekbench.com','github.com','facebook.com','lafibre.info',
-        'linkedin.com','archive.org','reddit.com','ebay','google','wikipedia','twitter','smokeping','#comment-','xing.com','microsoft.com','github.com','github.io','pinterest.com','flipboard.com','tomshardware.com','servethehome.com','t.me','telegram.org','udemy',
-        'hostingchecker.com','ndtv.com','thedailybeast.com','nvidia.com','vice.com','reuters.com','serverfault.com','vpsboard.com','dnstools.ws','kiloroot','check-host.net','instagram','t-online.de','vancouversun.com','4players.de','myip.ms','silive.com','pingdom',
-        'foxbusiness.com','helgeklein.com','dailymail.co.uk','variety.com','bitnodes.io','helloacm.com','datacenterknowledge.com','flipkart.com','techspot.com','yahoo.com','stacksocial.com','stackcommerce.com','videocardz.com','cnbc.com','arstechnica.com',
-        'ovhcloud.com','comm2ig.dk','slickdeals.net']
+    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','ebay','google','wikipedia','twitter','smokeping','#comment-']
 
     def __init__(self):
         sys.setrecursionlimit(1500)
