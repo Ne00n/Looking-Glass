@@ -973,6 +973,18 @@
                 "5.135.81.19"
             ],
             "ipv6": []
+        },
+        "looking.house/point.php?id=616": {
+            "ipv4": [
+                "139.99.30.245"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=233": {
+            "ipv4": [
+                "199.241.190.8"
+            ],
+            "ipv6": []
         }
     },
     "HostNamaste": {

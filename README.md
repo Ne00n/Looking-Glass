@@ -619,8 +619,10 @@
 ### SakuraServer
 * [looking.house/point.php?id=231](http://looking.house/point.php?id=231)
 * [looking.house/point.php?id=232](http://looking.house/point.php?id=232)
+* [looking.house/point.php?id=233](http://looking.house/point.php?id=233)
 * [looking.house/point.php?id=259](http://looking.house/point.php?id=259)
 * [looking.house/point.php?id=260](http://looking.house/point.php?id=260)
+* [looking.house/point.php?id=616](http://looking.house/point.php?id=616)
 ### HostNamaste
 * [looking.house/point.php?id=249](http://looking.house/point.php?id=249)
 * [looking.house/point.php?id=250](http://looking.house/point.php?id=250)
@@ -1766,8 +1768,6 @@
 * [https://lg.alexhost.com/](https://lg.alexhost.com/)
 ### hybula.net
 * [https://lg-nl-oum.hybula.net/](https://lg-nl-oum.hybula.net/)
-### inwi.ma
-* [https://inwi.ma/entreprises/datacenter-inwi](https://inwi.ma/entreprises/datacenter-inwi)
 ### fulltimehosting.net
 * [lg.fulltimehosting.net](http://lg.fulltimehosting.net)
 ### evoxt.com

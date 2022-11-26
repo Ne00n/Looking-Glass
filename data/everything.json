@@ -3922,6 +3922,12 @@
             },
             "ipv6": {}
         },
+        "looking.house/point.php?id=233": {
+            "ipv4": {
+                "199.241.190.8": "United States"
+            },
+            "ipv6": {}
+        },
         "looking.house/point.php?id=259": {
             "ipv4": {
                 "101.230.13.253": "Suzhou, China"
@@ -3931,6 +3937,12 @@
         "looking.house/point.php?id=260": {
             "ipv4": {
                 "43.247.70.141": "Shenzhen, China"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=616": {
+            "ipv4": {
+                "139.99.30.245": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -10886,14 +10898,7 @@
         }
     },
     "timeswaycloud.com": {},
-    "inwi.ma": {
-        "https://inwi.ma/entreprises/datacenter-inwi": {
-            "ipv4": {
-                "0.0.0.0": "n/a"
-            },
-            "ipv6": {}
-        }
-    },
+    "inwi.ma": {},
     "fulltimehosting.net": {
         "lg.fulltimehosting.net": {
             "ipv4": {},
