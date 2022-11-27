@@ -733,10 +733,6 @@
         }
     },
     "skylonhost.com": {
-        "lg.skylonhost.com": {
-            "ipv4": {},
-            "ipv6": {}
-        },
         "lg-v4.prg.skylonhost.com": {
             "ipv4": {},
             "ipv6": {}
@@ -748,6 +744,14 @@
         "lg.prg.skylonhost.com": {
             "ipv4": {},
             "ipv6": {}
+        },
+        "lg.skylonhost.com": {
+            "ipv4": {
+                "109.248.43.3": "Prague, Czechia"
+            },
+            "ipv6": {
+                "2001:678:aa4:3::1": "United Kingdom"
+            }
         }
     },
     "x4b.net": {

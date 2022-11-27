@@ -122,10 +122,10 @@
 ### artnet.pl
 * [lg.artnet.pl](http://lg.artnet.pl)
 ### skylonhost.com
-* [lg.skylonhost.com](http://lg.skylonhost.com)
 * [lg-v4.prg.skylonhost.com](http://lg-v4.prg.skylonhost.com)
 * [lg-v6.prg.skylonhost.com](http://lg-v6.prg.skylonhost.com)
 * [lg.prg.skylonhost.com](http://lg.prg.skylonhost.com)
+* [lg.skylonhost.com](http://lg.skylonhost.com)
 ### x4b.net
 * [lg.x4b.net](http://lg.x4b.net)
 ### webhorizon.in
