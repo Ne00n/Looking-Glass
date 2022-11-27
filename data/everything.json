@@ -13984,6 +13984,218 @@
             "ipv6": {}
         }
     },
+    "windows.net": {
+        "azspeednoeast.blob.core.windows.net": {
+            "ipv4": {
+                "20.38.120.132": "Oslo, Norway"
+            },
+            "ipv6": {}
+        },
+        "azurespeedtestwestus3.blob.core.windows.net": {
+            "ipv4": {
+                "20.60.14.196": "Phoenix, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestcac.blob.core.windows.net": {
+            "ipv4": {
+                "20.150.100.65": "Toronto, Canada"
+            },
+            "ipv6": {}
+        },
+        "speedtestcae.blob.core.windows.net": {
+            "ipv4": {
+                "20.150.1.4": "Quebec, Canada"
+            },
+            "ipv6": {}
+        },
+        "speedtestcentralindia.blob.core.windows.net": {
+            "ipv4": {
+                "104.211.109.52": "Pune, India"
+            },
+            "ipv6": {}
+        },
+        "speedtestchn.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.251.164": "Zurich, Switzerland"
+            },
+            "ipv6": {}
+        },
+        "speedtestchw.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.250.4": "Geneva, Switzerland"
+            },
+            "ipv6": {}
+        },
+        "speedtestcus.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.151.138": "Des Moines, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestden.blob.core.windows.net": {
+            "ipv4": {
+                "20.38.115.4": "Berlin, Germany"
+            },
+            "ipv6": {}
+        },
+        "speedtestea.blob.core.windows.net": {
+            "ipv4": {
+                "52.175.112.16": "Central, Hong Kong"
+            },
+            "ipv6": {}
+        },
+        "speedtesteastindia.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.135.164": "Chennai, India"
+            },
+            "ipv6": {}
+        },
+        "speedtestesc.blob.core.windows.net": {
+            "ipv4": {
+                "20.150.44.68": "Sweden"
+            },
+            "ipv6": {}
+        },
+        "speedtesteus.blob.core.windows.net": {
+            "ipv4": {
+                "52.240.48.36": "Tappahannock, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtesteus2.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.174.4": "Boydton, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestfrc.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.134.100": "Paris, France"
+            },
+            "ipv6": {}
+        },
+        "speedtestjpe.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.145.36": "Tokyo, Japan"
+            },
+            "ipv6": {}
+        },
+        "speedtestjpw.blob.core.windows.net": {
+            "ipv4": {
+                "20.60.186.4": "Osaka, Japan"
+            },
+            "ipv6": {}
+        },
+        "speedtestkoreacentral.blob.core.windows.net": {
+            "ipv4": {
+                "52.231.80.94": "Seoul, South Korea"
+            },
+            "ipv6": {}
+        },
+        "speedtestkoreasouth.blob.core.windows.net": {
+            "ipv4": {
+                "52.231.168.142": "Busan, South Korea"
+            },
+            "ipv6": {}
+        },
+        "speedtestne.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.137.4": "Dublin, Ireland"
+            },
+            "ipv6": {}
+        },
+        "speedtestnea.blob.core.windows.net": {
+            "ipv4": {
+                "191.232.216.52": "Campinas, Brazil"
+            },
+            "ipv6": {}
+        },
+        "speedtestnsus.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.186.36": "Chicago, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestoze.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.130.74": "Sydney, Australia"
+            },
+            "ipv6": {}
+        },
+        "speedtestozse.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.132.164": "Melbourne, Australia"
+            },
+            "ipv6": {}
+        },
+        "speedtestsan.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.232.36": "Johannesburg, South Africa"
+            },
+            "ipv6": {}
+        },
+        "speedtestscus.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.158.138": "San Antonio, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestsea.blob.core.windows.net": {
+            "ipv4": {
+                "52.163.176.16": "Singapore, Singapore"
+            },
+            "ipv6": {}
+        },
+        "speedtestuaen.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.233.228": "Dubai, United Arab Emirates"
+            },
+            "ipv6": {}
+        },
+        "speedtestuks.blob.core.windows.net": {
+            "ipv4": {
+                "51.141.129.74": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "speedtestukw.blob.core.windows.net": {
+            "ipv4": {
+                "20.150.52.4": "Cardiff, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "speedtestwe.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.213.4": "Amsterdam, Netherlands"
+            },
+            "ipv6": {}
+        },
+        "speedtestwestcentralus.blob.core.windows.net": {
+            "ipv4": {
+                "13.78.152.64": "Cheyenne, United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestwestindia.blob.core.windows.net": {
+            "ipv4": {
+                "20.150.43.97": "Mumbai, India"
+            },
+            "ipv6": {}
+        },
+        "speedtestwestus2.blob.core.windows.net": {
+            "ipv4": {
+                "52.183.104.36": "United States"
+            },
+            "ipv6": {}
+        },
+        "speedtestwus.blob.core.windows.net": {
+            "ipv4": {
+                "52.239.228.228": "San Jose, United States"
+            },
+            "ipv6": {}
+        }
+    },
     "gcore": {
         "https://lg.gcorelabs.com": {
             "ipv4": {

@@ -132,5 +132,217 @@
                 "2001:678:aa4:3::1"
             ]
         }
+    },
+    "windows.net": {
+        "speedtestwe.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.213.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestsea.blob.core.windows.net": {
+            "ipv4": [
+                "52.163.176.16"
+            ],
+            "ipv6": []
+        },
+        "speedtestea.blob.core.windows.net": {
+            "ipv4": [
+                "52.175.112.16"
+            ],
+            "ipv6": []
+        },
+        "speedtestnsus.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.186.36"
+            ],
+            "ipv6": []
+        },
+        "speedtestne.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.137.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestscus.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.158.138"
+            ],
+            "ipv6": []
+        },
+        "speedtestwus.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.228.228"
+            ],
+            "ipv6": []
+        },
+        "speedtesteus.blob.core.windows.net": {
+            "ipv4": [
+                "52.240.48.36"
+            ],
+            "ipv6": []
+        },
+        "speedtestjpe.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.145.36"
+            ],
+            "ipv6": []
+        },
+        "speedtestjpw.blob.core.windows.net": {
+            "ipv4": [
+                "20.60.186.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestcus.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.151.138"
+            ],
+            "ipv6": []
+        },
+        "speedtesteus2.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.174.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestozse.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.132.164"
+            ],
+            "ipv6": []
+        },
+        "speedtestoze.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.130.74"
+            ],
+            "ipv6": []
+        },
+        "speedtestukw.blob.core.windows.net": {
+            "ipv4": [
+                "20.150.52.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestuks.blob.core.windows.net": {
+            "ipv4": [
+                "51.141.129.74"
+            ],
+            "ipv6": []
+        },
+        "speedtestcac.blob.core.windows.net": {
+            "ipv4": [
+                "20.150.100.65"
+            ],
+            "ipv6": []
+        },
+        "speedtestcae.blob.core.windows.net": {
+            "ipv4": [
+                "20.150.1.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestwestus2.blob.core.windows.net": {
+            "ipv4": [
+                "52.183.104.36"
+            ],
+            "ipv6": []
+        },
+        "speedtestwestindia.blob.core.windows.net": {
+            "ipv4": [
+                "20.150.43.97"
+            ],
+            "ipv6": []
+        },
+        "speedtesteastindia.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.135.164"
+            ],
+            "ipv6": []
+        },
+        "speedtestcentralindia.blob.core.windows.net": {
+            "ipv4": [
+                "104.211.109.52"
+            ],
+            "ipv6": []
+        },
+        "speedtestkoreacentral.blob.core.windows.net": {
+            "ipv4": [
+                "52.231.80.94"
+            ],
+            "ipv6": []
+        },
+        "speedtestkoreasouth.blob.core.windows.net": {
+            "ipv4": [
+                "52.231.168.142"
+            ],
+            "ipv6": []
+        },
+        "speedtestwestcentralus.blob.core.windows.net": {
+            "ipv4": [
+                "13.78.152.64"
+            ],
+            "ipv6": []
+        },
+        "speedtestfrc.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.134.100"
+            ],
+            "ipv6": []
+        },
+        "speedtestsan.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.232.36"
+            ],
+            "ipv6": []
+        },
+        "speedtestuaen.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.233.228"
+            ],
+            "ipv6": []
+        },
+        "speedtestden.blob.core.windows.net": {
+            "ipv4": [
+                "20.38.115.4"
+            ],
+            "ipv6": []
+        },
+        "speedtestchn.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.251.164"
+            ],
+            "ipv6": []
+        },
+        "speedtestchw.blob.core.windows.net": {
+            "ipv4": [
+                "52.239.250.4"
+            ],
+            "ipv6": []
+        },
+        "azspeednoeast.blob.core.windows.net": {
+            "ipv4": [
+                "20.38.120.132"
+            ],
+            "ipv6": []
+        },
+        "speedtestnea.blob.core.windows.net": {
+            "ipv4": [
+                "191.232.216.52"
+            ],
+            "ipv6": []
+        },
+        "speedtestesc.blob.core.windows.net": {
+            "ipv4": [
+                "20.150.44.68"
+            ],
+            "ipv6": []
+        },
+        "azurespeedtestwestus3.blob.core.windows.net": {
+            "ipv4": [
+                "20.60.14.196"
+            ],
+            "ipv6": []
+        }
     }
 }
