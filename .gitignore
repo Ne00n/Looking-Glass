@@ -5,3 +5,4 @@ asn.dat
 rib.202*
 test.py
 logs/
+*.tar.gz
