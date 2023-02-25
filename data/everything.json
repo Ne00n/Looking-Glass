@@ -284,6 +284,14 @@
         }
     },
     "fdcservers.net": {
+        "lg-akl.fdcservers.net": {
+            "ipv4": {
+                "67.159.35.4": "Auckland, New Zealand"
+            },
+            "ipv6": {
+                "2001:49f0:d11c::4": "United States"
+            }
+        },
         "lg-ams.fdcservers.net": {
             "ipv4": {
                 "50.7.126.4": "Halfweg, Netherlands"
@@ -1075,20 +1083,6 @@
             }
         }
     },
-    "ovh.us": {
-        "hil.proof.ovh.us": {
-            "ipv4": {
-                "51.81.154.196": "Hillsboro, United States"
-            },
-            "ipv6": {}
-        },
-        "vin.proof.ovh.us": {
-            "ipv4": {
-                "135.148.100.133": "United States"
-            },
-            "ipv6": {}
-        }
-    },
     "ovh.ca": {
         "bhs.proof.ovh.ca": {
             "ipv4": {
@@ -1100,6 +1094,18 @@
         }
     },
     "ovh.net": {
+        "bom.proof.ovh.net": {
+            "ipv4": {
+                "148.113.1.33": "Mumbai, India"
+            },
+            "ipv6": {}
+        },
+        "eri.proof.ovh.net": {
+            "ipv4": {
+                "198.244.202.178": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
         "gra.proof.ovh.net": {
             "ipv4": {
                 "141.94.30.145": "France"
@@ -1126,6 +1132,20 @@
         },
         "lg.ovh.net": {
             "ipv4": {},
+            "ipv6": {}
+        }
+    },
+    "ovh.us": {
+        "hil.proof.ovh.us": {
+            "ipv4": {
+                "51.81.154.196": "Hillsboro, United States"
+            },
+            "ipv6": {}
+        },
+        "vin.proof.ovh.us": {
+            "ipv4": {
+                "135.148.100.133": "United States"
+            },
             "ipv6": {}
         }
     },
@@ -1204,7 +1224,7 @@
         },
         "bhs-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "51.222.241.209": "Canada"
+                "15.235.82.175": "Canada"
             },
             "ipv6": {}
         },
@@ -1250,9 +1270,21 @@
             },
             "ipv6": {}
         },
+        "lon2-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "198.244.212.14": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
         "mad-speedtest.lg.bluevps.com": {
             "ipv4": {
                 "5.188.180.210": "Madrid, Spain"
+            },
+            "ipv6": {}
+        },
+        "pet-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "185.185.133.122": "Tel Aviv, Israel"
             },
             "ipv6": {}
         },
@@ -1270,13 +1302,13 @@
         },
         "sbg-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "147.135.254.92": "Roubaix, France"
+                "162.19.87.112": "France"
             },
             "ipv6": {}
         },
         "sgp-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "51.79.228.185": "Singapore"
+                "15.235.144.57": "Singapore"
             },
             "ipv6": {}
         },
@@ -1307,6 +1339,12 @@
         "waw-speedtest.lg.bluevps.com": {
             "ipv4": {
                 "217.30.11.155": "Warsaw, Poland"
+            },
+            "ipv6": {}
+        },
+        "waw2-speedtest.lg.bluevps.com": {
+            "ipv4": {
+                "146.59.81.129": "France"
             },
             "ipv6": {}
         }
@@ -1600,15 +1638,16 @@
                 "192.36.61.10": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a03:f80:370:825c::1": "Vilnius, Lithuania",
-                "2a03:f80:371:c918::1": "Riga, Latvia"
+                "2a03:f80:370:825c::1": "Vilnius, Lithuania"
             }
         },
         "lv.edis.at": {
             "ipv4": {
                 "192.36.41.10": "Riga, Latvia"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2a03:f80:371:c918::1": "Riga, Latvia"
+            }
         },
         "md.edis.at": {
             "ipv4": {
@@ -1639,7 +1678,7 @@
                 "194.68.32.10": "Oslo, Norway"
             },
             "ipv6": {
-                "2a03:f80:47:194:68:32:10:1": "Oslo, Norway"
+                "2a03:f80:47:22a9::1": "Oslo, Norway"
             }
         },
         "pl.edis.at": {

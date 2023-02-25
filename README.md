@@ -48,6 +48,7 @@
 * [lg.nl.ikoula.com](http://lg.nl.ikoula.com)
 * [lg.sg.ikoula.com](http://lg.sg.ikoula.com)
 ### fdcservers.net
+* [lg-akl.fdcservers.net](http://lg-akl.fdcservers.net)
 * [lg-ams.fdcservers.net](http://lg-ams.fdcservers.net)
 * [lg-atl.fdcservers.net](http://lg-atl.fdcservers.net)
 * [lg-bai.fdcservers.net](http://lg-bai.fdcservers.net)
@@ -173,16 +174,18 @@
 * [speedtest-sfo3.digitalocean.com](http://speedtest-sfo3.digitalocean.com)
 * [speedtest-sgp1.digitalocean.com](http://speedtest-sgp1.digitalocean.com)
 * [speedtest-tor1.digitalocean.com](http://speedtest-tor1.digitalocean.com)
-### ovh.us
-* [hil.proof.ovh.us](http://hil.proof.ovh.us)
-* [vin.proof.ovh.us](http://vin.proof.ovh.us)
 ### ovh.ca
 * [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### ovh.net
+* [bom.proof.ovh.net](http://bom.proof.ovh.net)
+* [eri.proof.ovh.net](http://eri.proof.ovh.net)
 * [gra.proof.ovh.net](http://gra.proof.ovh.net)
 * [rbx.proof.ovh.net](http://rbx.proof.ovh.net)
 * [sbg.proof.ovh.net](http://sbg.proof.ovh.net)
 * [lg.ovh.net](http://lg.ovh.net)
+### ovh.us
+* [hil.proof.ovh.us](http://hil.proof.ovh.us)
+* [vin.proof.ovh.us](http://vin.proof.ovh.us)
 ### ramnode.com
 * [https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html](https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html)
 * [lg.atl.ramnode.com](http://lg.atl.ramnode.com)
@@ -202,7 +205,9 @@
 * [lim-speedtest.lg.bluevps.com](http://lim-speedtest.lg.bluevps.com)
 * [lms-speedtest.lg.bluevps.com](http://lms-speedtest.lg.bluevps.com)
 * [lon-speedtest.lg.bluevps.com](http://lon-speedtest.lg.bluevps.com)
+* [lon2-speedtest.lg.bluevps.com](http://lon2-speedtest.lg.bluevps.com)
 * [mad-speedtest.lg.bluevps.com](http://mad-speedtest.lg.bluevps.com)
+* [pet-speedtest.lg.bluevps.com](http://pet-speedtest.lg.bluevps.com)
 * [pmo-speedtest.lg.bluevps.com](http://pmo-speedtest.lg.bluevps.com)
 * [rlz-speedtest.lg.bluevps.com](http://rlz-speedtest.lg.bluevps.com)
 * [sbg-speedtest.lg.bluevps.com](http://sbg-speedtest.lg.bluevps.com)
@@ -212,6 +217,7 @@
 * [syd-speedtest.lg.bluevps.com](http://syd-speedtest.lg.bluevps.com)
 * [tll-speedtest.lg.bluevps.com](http://tll-speedtest.lg.bluevps.com)
 * [waw-speedtest.lg.bluevps.com](http://waw-speedtest.lg.bluevps.com)
+* [waw2-speedtest.lg.bluevps.com](http://waw2-speedtest.lg.bluevps.com)
 ### hostus.us
 * [ams-lg.hostus.us](http://ams-lg.hostus.us)
 * [atl-lg.hostus.us](http://atl-lg.hostus.us)
