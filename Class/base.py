@@ -59,7 +59,9 @@ class Base():
         return geo
 
     def readme(self,list):
-        readme = "# Looking-Glass\n"
+        readme = """# Looking-Glass\n
+        Weekly updated, partially, rest by hand.<br>
+        """
         for element,urls in list.items():
             if len(urls) > 0:
                 readme += "### "+element+"\n"
