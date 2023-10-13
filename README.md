@@ -1,5 +1,7 @@
 # Looking-Glass
-### OneProvider.com
+
+        Weekly updated, partially, rest by hand.<br>
+        ### OneProvider.com
 * [OneProvider.com](http://OneProvider.com)
 ### Online.net
 * [Online.net](http://Online.net)
