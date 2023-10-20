@@ -76,7 +76,7 @@
                 "18.100.135.187": "Zaragoza, Spain",
                 "18.236.0.0": "Boardman, United States",
                 "18.60.8.120": "Hyderabad, India",
-                "3.0.0.9": "Singapore",
+                "3.0.0.9": "Singapore, Singapore",
                 "3.112.0.0": "Tokyo, Japan",
                 "3.12.0.0": "Columbus, United States",
                 "3.24.0.0": "Sydney, Australia",
@@ -96,7 +96,7 @@
                 "68.66.113.112": "Boston, United States",
                 "72.41.10.180": "Houston, United States",
                 "96.0.1.218": "Perth, Australia",
-                "96.0.144.147": "Singapore",
+                "96.0.144.147": "Singapore, Singapore",
                 "96.0.17.141": "Lima region, Peru",
                 "96.0.25.211": "Copenhagen, Denmark",
                 "96.0.40.228": "Lagos, Nigeria",
@@ -122,7 +122,7 @@
                 "2406:da1a:ddd:7400::ec2": "Mumbai, India",
                 "2406:da16:730:7300::ec2": "Osaka, Japan",
                 "2406:da12:128:d200::ec2": "Incheon, South Korea",
-                "2406:da18:ec6:6400::ec2": "Singapore",
+                "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
                 "2406:da1c:16:9000::ec2": "Sydney, Australia",
                 "2406:da14:295:300::ec2": "Tokyo, Japan",
                 "2600:1f11:b15:2000::ec2": "Montreal, Canada",
@@ -165,7 +165,7 @@
                 "92.223.59.1": "Willesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
-                "92.223.85.1": "Singapore",
+                "92.223.85.1": "Singapore, Singapore",
                 "92.223.88.1": "Luxembourg, Luxembourg",
                 "92.38.148.1": "Santa Clara, United States",
                 "92.38.169.1": "Secaucus, United States",
@@ -188,7 +188,7 @@
                 "5.135.137.2": "France",
                 "51.210.158.2": "France",
                 "51.79.100.2": "Surrey, Canada",
-                "51.79.140.4": "Singapore",
+                "51.79.140.4": "Singapore, Singapore",
                 "51.89.228.2": "London, United Kingdom"
             },
             "ipv6": {}
@@ -263,7 +263,7 @@
         },
         "lg.sg.controlvm.com": {
             "ipv4": {
-                "103.47.155.102": "Singapore"
+                "103.47.155.102": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -473,7 +473,7 @@
         },
         "lg.sg.ikoula.com": {
             "ipv4": {
-                "203.126.224.11": "Singapore"
+                "203.126.224.11": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -639,7 +639,7 @@
         },
         "lg-sin.fdcservers.net": {
             "ipv4": {
-                "50.7.253.4": "Singapore"
+                "50.7.253.4": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -857,10 +857,10 @@
         },
         "sgp.lg.extravm.com": {
             "ipv4": {
-                "139.99.38.99": "Singapore"
+                "139.99.38.99": "Singapore, Singapore"
             },
             "ipv6": {
-                "2402:1f00:8001:f60::4792:cec4": "Singapore"
+                "2402:1f00:8001:f60::4792:cec4": "Singapore, Singapore"
             }
         },
         "vin.lg.extravm.com": {
@@ -1013,10 +1013,10 @@
         },
         "lg.singapore.prowhost.com": {
             "ipv4": {
-                "54.255.74.163": "Singapore"
+                "54.255.74.163": "Singapore, Singapore"
             },
             "ipv6": {
-                "2406:da18:ea8:b600:a706:4504:ddcb:3bff": "Singapore"
+                "2406:da18:ea8:b600:a706:4504:ddcb:3bff": "Singapore, Singapore"
             }
         },
         "lg.sydney.prowhost.com": {
@@ -1113,10 +1113,10 @@
         },
         "lgsg.nexusbytes.com": {
             "ipv4": {
-                "139.64.239.2": "Singapore"
+                "139.64.239.2": "Singapore, Singapore"
             },
             "ipv6": {
-                "2602:fed2:712e:005c:0000:0000:0000:0001": "Singapore"
+                "2602:fed2:712e:005c:0000:0000:0000:0001": "Singapore, Singapore"
             }
         }
     },
@@ -1177,7 +1177,7 @@
         },
         "lg-sg-sin.mrvm.net": {
             "ipv4": {
-                "103.216.223.11": "Singapore"
+                "103.216.223.11": "Singapore, Singapore"
             },
             "ipv6": {
                 "2406:d500:12:beef:60::1": "Singapore"
@@ -1430,7 +1430,7 @@
         },
         "sgp-b.lg.webhorizon.in": {
             "ipv4": {
-                "45.129.228.80": "Singapore"
+                "45.129.228.80": "Singapore, Singapore"
             },
             "ipv6": {
                 "2403:cfc0:1006:152e::1": "Singapore"
@@ -1550,7 +1550,7 @@
     "webhosting24.com": {
         "https://lg.mia.webhosting24.com/": {
             "ipv4": {
-                "84.33.14.2": "Italy"
+                "84.33.14.2": "Miami, United States"
             },
             "ipv6": {
                 "2a0c:8fc3:8001::1": "Germany"
@@ -1558,7 +1558,7 @@
         },
         "https://lg.nyc.webhosting24.com/": {
             "ipv4": {
-                "84.33.245.2": "Los Angeles, United States"
+                "84.33.245.2": "New York, United States"
             },
             "ipv6": {
                 "2a0c:8fc3:6401::1": "Germany"
@@ -1598,10 +1598,10 @@
         },
         "lg.sg.webhosting24.com": {
             "ipv4": {
-                "84.33.16.2": "Singapore"
+                "84.33.16.2": "Singapore, Singapore"
             },
             "ipv6": {
-                "2a0c:8fc1:52::1": "Singapore"
+                "2a0c:8fc1:52::1": "Singapore, Singapore"
             }
         }
     },
@@ -1998,7 +1998,7 @@
         },
         "lg.sin.psychz.net": {
             "ipv4": {
-                "103.126.138.20": "Singapore"
+                "103.126.138.20": "Singapore, Singapore"
             },
             "ipv6": {
                 "2604:6600:1c6::245f:7ca6": "Singapore"
@@ -3140,7 +3140,7 @@
         },
         "lg.singapore.profitserver.ru": {
             "ipv4": {
-                "31.192.238.166": "Singapore"
+                "31.192.238.166": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -3226,7 +3226,7 @@
         },
         "http://singapore-lg.ransomit.com.au/": {
             "ipv4": {
-                "103.216.223.62": "Singapore"
+                "103.216.223.62": "Singapore, Singapore"
             },
             "ipv6": {
                 "2406:d500:12:300::8c4:f6d9": "Singapore"
@@ -3448,7 +3448,7 @@
     "expertvm.com": {
         "http://lg.expertvm.com/": {
             "ipv4": {
-                "103.11.143.30": "Singapore"
+                "103.11.143.30": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -3464,10 +3464,10 @@
     "itldc.com": {
         "http://lg-sin.itldc.com/": {
             "ipv4": {
-                "195.123.238.9": "Singapore"
+                "195.123.238.9": "Singapore, Singapore"
             },
             "ipv6": {
-                "2a05:9401:0:acdc::1fd": "Singapore"
+                "2a05:9401:0:acdc::1fd": "Singapore, Singapore"
             }
         },
         "https://itldc.com/en/support/looking-glass/": {
@@ -3727,10 +3727,10 @@
         },
         "http://lg.sin.maxkvm.net/": {
             "ipv4": {
-                "103.171.26.10": "Singapore"
+                "103.171.26.10": "Singapore, Singapore"
             },
             "ipv6": {
-                "2606:62c0:8001::10": "Singapore"
+                "2606:62c0:8001::10": "Singapore, Singapore"
             }
         }
     },
@@ -3859,7 +3859,7 @@
         },
         "https://lg.sg01.readydedis.com/": {
             "ipv4": {
-                "103.150.31.3": "Singapore"
+                "103.150.31.3": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -3989,7 +3989,7 @@
         },
         "https://sgp-ping.vultr.com/": {
             "ipv4": {
-                "45.32.100.168": "Singapore"
+                "45.32.100.168": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -4121,10 +4121,10 @@
         },
         "https://sg.lg.speedypage.com/": {
             "ipv4": {
-                "194.9.62.3": "Singapore"
+                "194.9.62.3": "Singapore, Singapore"
             },
             "ipv6": {
-                "2001:df7:1d80:2::a": "Singapore"
+                "2001:df7:1d80:2::a": "Singapore, Singapore"
             }
         },
         "https://uk.lg.speedypage.com/": {
@@ -4320,10 +4320,10 @@
         },
         "speedtest.singapore.linode.com": {
             "ipv4": {
-                "139.162.23.4": "Singapore"
+                "139.162.23.4": "Singapore, Singapore"
             },
             "ipv6": {
-                "2400:8901::f03c:91ff:fe84:541d": "Singapore"
+                "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
             }
         },
         "speedtest.syd1.linode.com": {
@@ -4529,7 +4529,7 @@
                 "199.102.65.118": "United States",
                 "199.43.206.3": "Las Vegas, United States",
                 "23.228.222.50": "United States",
-                "38.242.7.129": "Somerville, United States",
+                "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
                 "45.35.132.2": "Dallas, United States",
@@ -4644,7 +4644,7 @@
             "ipv4": {
                 "163.123.183.33": "United States",
                 "172.106.164.87": "Dallas, United States",
-                "38.17.53.45": "United States"
+                "38.17.53.45": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -5020,10 +5020,10 @@
         },
         "speedtest-sgp1.digitalocean.com": {
             "ipv4": {
-                "159.89.192.182": "Singapore"
+                "159.89.192.182": "Singapore, Singapore"
             },
             "ipv6": {
-                "2400:6180:0:d1::5:d001": "Singapore"
+                "2400:6180:0:d1::5:d001": "Singapore, Singapore"
             }
         },
         "speedtest-tor1.digitalocean.com": {
@@ -5932,7 +5932,7 @@
         },
         "http://lg-sg1.hostry.com/": {
             "ipv4": {
-                "195.123.237.74": "Singapore"
+                "195.123.237.74": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -6039,7 +6039,7 @@
                 "185.82.218.203": "Sofia, Bulgaria",
                 "195.123.213.21": "Riga, Latvia",
                 "195.123.233.46": "Secaucus, United States",
-                "195.123.237.66": "Singapore",
+                "195.123.237.66": "Singapore, Singapore",
                 "195.123.245.97": "Prague, Czechia",
                 "45.128.148.72": "Kyiv, Ukraine",
                 "45.90.57.70": "Geneva, Switzerland",
@@ -6141,7 +6141,7 @@
         },
         "https://sg-lg.shockhosting.net/": {
             "ipv4": {
-                "103.159.64.3": "Singapore"
+                "103.159.64.3": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -6220,7 +6220,7 @@
     "oneasiahost.com": {
         "http://core.oneasiahost.com/lg/": {
             "ipv4": {
-                "49.213.16.1": "Singapore"
+                "49.213.16.1": "Singapore, Singapore"
             },
             "ipv6": {
                 "2405:4200:203::16:1": "Singapore"
@@ -6286,7 +6286,7 @@
                 "199.102.65.118": "United States",
                 "199.43.206.3": "Las Vegas, United States",
                 "23.228.222.50": "United States",
-                "38.242.7.129": "Somerville, United States",
+                "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
                 "45.35.132.2": "Dallas, United States",
@@ -6316,7 +6316,7 @@
     "starrydns.com": {
         "https://www.starrydns.com/en/speedtest": {
             "ipv4": {
-                "103.200.96.132": "Singapore",
+                "103.200.96.132": "Singapore, Singapore",
                 "103.204.175.10": "Osaka, Japan",
                 "103.27.184.7": "Tokyo, Japan",
                 "103.56.217.77": "Hong Kong",
@@ -6331,7 +6331,7 @@
                 "2403:ad80:98::9": "Hong Kong",
                 "2403:ad80:80::a": "Los Angeles, United States",
                 "2403:ad80:60:806::1": "Osaka, Japan",
-                "2403:ad80:a7:7e8::ffff": "Singapore"
+                "2403:ad80:a7:7e8::ffff": "Singapore, Singapore"
             }
         },
         "http://nl1.lg.starrydns.com/": {
@@ -6487,8 +6487,8 @@
         },
         "https://www.krypt.com/network/singapore-data-center-sin/": {
             "ipv4": {
-                "103.233.82.251": "Singapore",
-                "43.252.120.130": "Singapore"
+                "103.233.82.251": "Singapore, Singapore",
+                "43.252.120.130": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -6966,10 +6966,10 @@
         },
         "sg.edis.at": {
             "ipv4": {
-                "194.68.26.10": "Singapore"
+                "194.68.26.10": "Singapore, Singapore"
             },
             "ipv6": {
-                "2a03:f80:65:645d::1": "Singapore"
+                "2a03:f80:65:645d::1": "Singapore, Singapore"
             }
         },
         "si.edis.at": {
@@ -7083,7 +7083,7 @@
         },
         "https://lgsg.serverkeren.com/": {
             "ipv4": {
-                "45.249.223.4": "Singapore"
+                "45.249.223.4": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -7106,11 +7106,11 @@
                 "2a01:4f8:150:7155::0": "Berlin, Germany",
                 "2402:1f00:8101:b2b::0": "Sydney, Australia",
                 "2607:5300:60:379f::0": "Canada",
-                "2402:1f00:8001:6cc::1": "Singapore",
+                "2402:1f00:8001:6cc::1": "Singapore, Singapore",
                 "2001:41d0:1004:2398::0": "France",
                 "2001:41d0:800:1b4b::1": "France",
                 "2602:fea7:e0d:1005::1": "United States",
-                "2402:1f00:8001:d0f::0": "Singapore",
+                "2402:1f00:8001:d0f::0": "Singapore, Singapore",
                 "2a01:4f8:211:1443::2": "Schwandorf in Bayern, Germany",
                 "2a01:8740:1:fd03::1": "Bulgaria",
                 "2607:5300:60:968c::0": "Canada",
@@ -7410,7 +7410,7 @@
                 "199.102.65.118": "United States",
                 "199.43.206.3": "Las Vegas, United States",
                 "23.228.222.50": "United States",
-                "38.242.7.129": "Somerville, United States",
+                "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
                 "45.35.132.2": "Dallas, United States",
@@ -7601,13 +7601,13 @@
                 "167.88.63.166": "Atlanta, United States",
                 "193.108.116.176": "Frankfurt am Main, Germany",
                 "198.57.26.172": "Toronto, Canada",
-                "38.91.102.166": "Seattle, United States"
+                "38.91.102.166": "Miami, United States"
             },
             "ipv6": {}
         },
         "lg-lax.gthost.com": {
             "ipv4": {
-                "38.75.136.10": "Los Angeles, United States"
+                "38.75.136.10": "Chicago, United States"
             },
             "ipv6": {}
         },
@@ -7668,7 +7668,7 @@
     "vpsaff.net": {
         "http://s11.vpsaff.net/lookingglass/": {
             "ipv4": {
-                "154.3.8.5": "United States"
+                "154.3.8.5": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -7742,7 +7742,7 @@
     "atlantic.net": {
         "https://atlantic.net/hipaa-data-centers/dallas-texas-hosting/": {
             "ipv4": {
-                "154.54.249.163": "United States"
+                "154.54.249.163": "Nozay, France"
             },
             "ipv6": {}
         },
@@ -7754,7 +7754,7 @@
         },
         "https://atlantic.net/hipaa-data-centers/new-york-hosting/": {
             "ipv4": {
-                "154.54.249.162": "United States"
+                "154.54.249.162": "Nozay, France"
             },
             "ipv6": {}
         },
@@ -8040,7 +8040,7 @@
             "ipv4": {
                 "194.124.244.6": "Los Angeles, United States",
                 "38.145.192.6": "Chicago, United States",
-                "38.145.194.6": "Dallas, United States",
+                "38.145.194.6": "Chicago, United States",
                 "5.180.28.6": "Miami, United States",
                 "85.208.111.6": "Tokyo, Japan"
             },
@@ -8519,10 +8519,10 @@
         },
         "http://lgsg.nexusbytes.com/": {
             "ipv4": {
-                "139.64.239.2": "Singapore"
+                "139.64.239.2": "Singapore, Singapore"
             },
             "ipv6": {
-                "2602:fed2:712e:005c:0000:0000:0000:0001": "Singapore"
+                "2602:fed2:712e:005c:0000:0000:0000:0001": "Singapore, Singapore"
             }
         }
     },
@@ -9369,7 +9369,7 @@
     "melbicom.net": {
         "https://www.melbicom.net/datacenter/": {
             "ipv4": {
-                "103.172.116.3": "Singapore",
+                "103.172.116.3": "Singapore, Singapore",
                 "162.247.153.5": "United States",
                 "185.135.86.3": "Riga, Latvia",
                 "185.246.155.7": "Amsterdam, Netherlands",
@@ -9653,7 +9653,7 @@
                 "199.102.65.118": "United States",
                 "199.43.206.3": "Las Vegas, United States",
                 "23.228.222.50": "United States",
-                "38.242.7.129": "Somerville, United States",
+                "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
                 "45.35.132.2": "Dallas, United States",
@@ -9786,7 +9786,7 @@
         "https://www.fastcomet.com/datacenters": {
             "ipv4": {
                 "139.162.209.26": "London, United Kingdom",
-                "139.162.25.42": "Singapore",
+                "139.162.25.42": "Singapore, Singapore",
                 "139.162.72.47": "Tokyo, Japan",
                 "172.105.174.17": "Sydney, Australia",
                 "172.105.19.110": "Toronto, Canada",
@@ -10172,7 +10172,7 @@
     "melbicom.ru": {
         "https://www.melbicom.ru/datacenter/": {
             "ipv4": {
-                "103.172.116.3": "Singapore",
+                "103.172.116.3": "Singapore, Singapore",
                 "162.247.153.5": "United States",
                 "185.135.86.3": "Riga, Latvia",
                 "185.246.155.7": "Amsterdam, Netherlands",
@@ -11126,7 +11126,7 @@
     "argon.sg": {
         "http://lg.argon.sg/": {
             "ipv4": {
-                "45.64.97.73": "Singapore"
+                "45.64.97.73": "Changi Village, Singapore"
             },
             "ipv6": {}
         }
@@ -12336,7 +12336,7 @@
     "inalan.gr": {
         "http://lg.inalan.gr/": {
             "ipv4": {
-                "149.11.120.59": "Athens, Greece"
+                "149.11.120.59": "Metamorfosi, Greece"
             },
             "ipv6": {}
         },
@@ -14523,7 +14523,7 @@
     "zgelettronica.com": {
         "http://lookingglass.zgelettronica.com": {
             "ipv4": {
-                "149.13.146.41": "Sovizzo, Italy"
+                "149.13.146.41": "Milan, Italy"
             },
             "ipv6": {}
         }
@@ -16249,7 +16249,7 @@
                 "5.188.34.98": "Singapore"
             },
             "ipv6": {
-                "2a03:90c0:2a6::77": "Singapore"
+                "2a03:90c0:2a6::77": "Singapore, Singapore"
             }
         },
         "looking.house/point.php?id=528": {
@@ -16382,7 +16382,7 @@
         },
         "looking.house/point.php?id=439": {
             "ipv4": {
-                "103.126.139.164": "Singapore"
+                "103.126.139.164": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -16520,7 +16520,7 @@
         },
         "looking.house/point.php?id=571": {
             "ipv4": {
-                "103.20.235.208": "Singapore"
+                "103.20.235.208": "Singapore, Singapore"
             },
             "ipv6": {
                 "2406:cb40:0:f053::5d6c": "Singapore"
@@ -16968,10 +16968,10 @@
         },
         "looking.house/point.php?id=688": {
             "ipv4": {
-                "141.98.234.13": "China"
+                "141.98.234.13": "Hong Kong"
             },
             "ipv6": {
-                "2a05:541:111:27::1": "China"
+                "2a05:541:111:27::1": "Hong Kong"
             }
         },
         "looking.house/point.php?id=689": {
@@ -17224,10 +17224,10 @@
         },
         "looking.house/point.php?id=5": {
             "ipv4": {
-                "195.123.237.53": "Singapore"
+                "195.123.237.53": "Singapore, Singapore"
             },
             "ipv6": {
-                "2a05:9401:0:acdc::32": "Singapore"
+                "2a05:9401:0:acdc::32": "Singapore, Singapore"
             }
         },
         "looking.house/point.php?id=6": {
@@ -17372,7 +17372,7 @@
         },
         "looking.house/point.php?id=616": {
             "ipv4": {
-                "139.99.30.245": "Singapore"
+                "139.99.30.245": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -17758,7 +17758,7 @@
         },
         "looking.house/point.php?id=462": {
             "ipv4": {
-                "194.147.32.129": "Moscow, Russia"
+                "176.32.33.212": "Kazan', Russia"
             },
             "ipv6": {
                 "2a00:b700:1::4:8f": "Moscow, Russia"
@@ -17954,7 +17954,7 @@
     "Hosting International": {
         "looking.house/point.php?id=349": {
             "ipv4": {
-                "194.15.115.80": "Singapore"
+                "194.15.115.80": "Singapore, Singapore"
             },
             "ipv6": {}
         },
@@ -18425,6 +18425,32 @@
             "ipv6": {}
         }
     },
+    "62yun": {
+        "looking.house/point.php?id=567": {
+            "ipv4": {
+                "80.66.64.74": "Moscow, Russia"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=599": {
+            "ipv4": {
+                "185.39.205.176": "Yekaterinburg, Russia"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=658": {
+            "ipv4": {
+                "194.87.32.36": "Fremont, United States"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=734": {
+            "ipv4": {
+                "193.233.193.36": "Zeya, Russia"
+            },
+            "ipv6": {}
+        }
+    },
     "Raksmart": {
         "looking.house/point.php?id=307": {
             "ipv4": {
@@ -18445,6 +18471,20 @@
             "ipv6": {}
         }
     },
+    "MLNL.HOST": {
+        "looking.house/point.php?id=732": {
+            "ipv4": {
+                "45.123.191.69": "Hong Kong"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=733": {
+            "ipv4": {
+                "45.84.242.211": "Grantham, United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
     "ServerAstra": {
         "looking.house/point.php?id=24": {
             "ipv4": {
@@ -18457,6 +18497,14 @@
         "looking.house/point.php?id=431": {
             "ipv4": {
                 "185.225.69.55": "Budapest, Hungary"
+            },
+            "ipv6": {}
+        }
+    },
+    "HostZop": {
+        "looking.house/point.php?id=736": {
+            "ipv4": {
+                "103.108.117.245": "India"
             },
             "ipv6": {}
         }
@@ -18510,7 +18558,7 @@
         },
         "looking.house/point.php?id=509": {
             "ipv4": {
-                "138.124.187.91": "n/a"
+                "138.124.187.91": "United Kingdom"
             },
             "ipv6": {}
         },
@@ -18578,10 +18626,10 @@
     "PS": {
         "looking.house/point.php?id=110": {
             "ipv4": {
-                "185.22.64.108": "Almaty, Kazakhstan"
+                "185.4.180.200": "Almaty, Kazakhstan"
             },
             "ipv6": {
-                "2a00:5da0:1000:1::28a": "Kazakhstan"
+                "2a00:5da0:1000:1::2": "Kazakhstan"
             }
         }
     },
@@ -18692,7 +18740,7 @@
         },
         "looking.house/point.php?id=16": {
             "ipv4": {
-                "38.135.104.39": "United States"
+                "38.135.104.39": "Elk Grove Village, United States"
             },
             "ipv6": {}
         },
@@ -19123,26 +19171,6 @@
             "ipv6": {
                 "2a01:230:2:39::f": "Russia"
             }
-        }
-    },
-    "62yun": {
-        "looking.house/point.php?id=567": {
-            "ipv4": {
-                "80.66.64.74": "Moscow, Russia"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=599": {
-            "ipv4": {
-                "185.39.205.176": "Yekaterinburg, Russia"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=658": {
-            "ipv4": {
-                "194.87.32.36": "Fremont, United States"
-            },
-            "ipv6": {}
         }
     },
     "OnlineVDS": {
@@ -19864,10 +19892,10 @@
     "LaunchVPS": {
         "looking.house/point.php?id=205": {
             "ipv4": {
-                "38.123.137.253": "Honesdale, United States"
+                "38.123.137.253": "Philadelphia, United States"
             },
             "ipv6": {
-                "2001:550:1703:5::2": "United States"
+                "2001:550:1703:5::2": "Philadelphia, United States"
             }
         }
     },
@@ -20164,7 +20192,7 @@
         },
         "speedtestsea.blob.core.windows.net": {
             "ipv4": {
-                "52.163.176.16": "Singapore"
+                "52.163.176.16": "Singapore, Singapore"
             },
             "ipv6": {}
         },
