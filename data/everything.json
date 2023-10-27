@@ -1968,7 +1968,7 @@
         },
         "lg.lax-cn2.psychz.net": {
             "ipv4": {
-                "172.106.4.54": "Hyattsville, United States"
+                "172.106.4.54": "Queens, United States"
             },
             "ipv6": {}
         },
@@ -2001,7 +2001,7 @@
                 "103.126.138.20": "Singapore, Singapore"
             },
             "ipv6": {
-                "2604:6600:1c6::245f:7ca6": "Singapore"
+                "2604:6600:1c6::245f:7ca6": "Singapore, Singapore"
             }
         },
         "lg.svo.psychz.net": {
@@ -5076,7 +5076,7 @@
     "dedispec.com": {
         "https://dedispec.com/kcdatacenter.php": {
             "ipv4": {
-                "198.204.225.10": "United States"
+                "198.204.225.10": "St Louis, United States"
             },
             "ipv6": {}
         },
@@ -5331,7 +5331,7 @@
     "obhost.org": {
         "http://lg-ca.obhost.org/": {
             "ipv4": {
-                "66.70.135.234": "Canada"
+                "66.70.135.234": "Longueuil, Canada"
             },
             "ipv6": {
                 "2607:5300:60:4699:54e:7515:b9a4:1": "Canada"
@@ -5443,7 +5443,7 @@
         },
         "http://speedtest.c1.lon2.dediserve.com/": {
             "ipv4": {
-                "109.104.118.70": "United Kingdom"
+                "109.104.118.70": "Hove, United Kingdom"
             },
             "ipv6": {
                 "2001:9d8:1000:1a2e::50": "United Kingdom"
@@ -8691,7 +8691,7 @@
                 "152.89.245.245": "Frankfurt am Main, Germany",
                 "51.77.6.84": "France",
                 "54.38.49.227": "France",
-                "66.70.135.234": "Canada",
+                "66.70.135.234": "Longueuil, Canada",
                 "91.205.175.173": "Munich, Germany"
             },
             "ipv6": {
@@ -9142,7 +9142,7 @@
         },
         "bhs-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "15.235.82.175": "Canada"
+                "15.235.82.175": "Georgetown, Canada"
             },
             "ipv6": {}
         },
@@ -9763,7 +9763,7 @@
         },
         "https://dedicated.com/new-york-city-datacenter": {
             "ipv4": {
-                "66.23.200.20": "Wilmington, United States"
+                "66.23.200.20": "New Castle, United States"
             },
             "ipv6": {}
         },
@@ -9893,8 +9893,8 @@
         "https://www.gigenet.com/about/datacenter-locations/": {
             "ipv4": {
                 "199.168.117.38": "United States",
-                "66.55.82.4": "Los Angeles, United States",
-                "66.55.88.26": "Los Angeles, United States"
+                "66.55.82.4": "United States",
+                "66.55.88.26": "United States"
             },
             "ipv6": {}
         }
@@ -18026,10 +18026,10 @@
         },
         "looking.house/point.php?id=43": {
             "ipv4": {
-                "185.105.225.31": "St Petersburg, Russia"
+                "185.105.225.31": "Russia"
             },
             "ipv6": {
-                "2a01:5a60:3::2c": "St Petersburg, Russia"
+                "2a01:5a60:3::2c": "Russia"
             }
         },
         "looking.house/point.php?id=44": {
@@ -18236,7 +18236,7 @@
     "HostiMan": {
         "looking.house/point.php?id=52": {
             "ipv4": {
-                "54.37.57.176": "France"
+                "194.76.37.4": "Russia"
             },
             "ipv6": {}
         }
@@ -19800,7 +19800,7 @@
     "AquaNX": {
         "looking.house/point.php?id=498": {
             "ipv4": {
-                "192.74.254.48": "Grand Rapids, United States"
+                "192.74.254.48": "United States"
             },
             "ipv6": {}
         }
@@ -19902,7 +19902,7 @@
     "Rad Web Hosting": {
         "looking.house/point.php?id=608": {
             "ipv4": {
-                "208.115.240.214": "United States"
+                "208.115.240.214": "Wilmington, United States"
             },
             "ipv6": {
                 "2607:ff68:117:18fd::1": "United States"
