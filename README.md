@@ -3585,7 +3585,6 @@
 * [looking.house/point.php?id=657](http://looking.house/point.php?id=657)
 ### TerraNode
 * [looking.house/point.php?id=728](http://looking.house/point.php?id=728)
-* [looking.house/point.php?id=729](http://looking.house/point.php?id=729)
 ### SSDBlaze
 * [looking.house/point.php?id=406](http://looking.house/point.php?id=406)
 ### EasyVM

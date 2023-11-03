@@ -3346,7 +3346,7 @@
     "swissnode.ch": {
         "lg.swissnode.ch": {
             "ipv4": {
-                "185.164.184.102": "Perugia, Italy"
+                "185.164.184.102": "Spain"
             },
             "ipv6": {
                 "2a0b:5400:1:862::1": "Spain"
@@ -6035,7 +6035,7 @@
         },
         "https://isplevel.com/en/lg.html": {
             "ipv4": {
-                "107.181.187.131": "Burnaby, Canada",
+                "107.181.187.131": "Vancouver, Canada",
                 "185.82.218.203": "Sofia, Bulgaria",
                 "195.123.213.21": "Riga, Latvia",
                 "195.123.233.46": "Secaucus, United States",
@@ -6473,8 +6473,8 @@
         },
         "https://www.krypt.com/network/san-francisco-data-center-em1/": {
             "ipv4": {
-                "66.211.96.1": "Emeryville, United States",
-                "66.211.96.2": "Emeryville, United States"
+                "66.211.96.1": "United States",
+                "66.211.96.2": "United States"
             },
             "ipv6": {}
         },
@@ -7033,7 +7033,7 @@
                 "23.82.143.211": "Miami, United States"
             },
             "ipv6": {
-                "2607:f5b6:1:48::211": "United States"
+                "2607:f5b6:1:48::211": "Miami, United States"
             }
         },
         "mirror.sfo12.us.leaseweb.net": {
@@ -7041,7 +7041,7 @@
                 "209.58.135.187": "San Jose, United States"
             },
             "ipv6": {
-                "2605:fe80:2100:b001::5187": "United States"
+                "2605:fe80:2100:b001::5187": "San Jose, United States"
             }
         },
         "mirror.sin1.sg.leaseweb.net": {
@@ -7063,7 +7063,7 @@
                 "207.244.94.80": "Bethesda, United States"
             },
             "ipv6": {
-                "2604:9a00:2010:a0b8::5": "United States"
+                "2604:9a00:2010:a0b8::5": "Manassas, United States"
             }
         }
     },
@@ -10307,15 +10307,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Madrid, Spain",
-                "130.206.195.254": "Madrid, Spain",
-                "130.206.197.254": "Madrid, Spain",
-                "130.206.198.125": "Madrid, Spain",
-                "130.206.198.254": "Madrid, Spain",
-                "130.206.201.254": "Madrid, Spain",
-                "130.206.206.250": "Madrid, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.194.254": "Spain",
+                "130.206.195.254": "Spain",
+                "130.206.197.254": "Spain",
+                "130.206.198.125": "Spain",
+                "130.206.198.254": "Spain",
+                "130.206.201.254": "Spain",
+                "130.206.206.250": "Spain",
+                "130.206.211.254": "Spain",
+                "130.206.212.254": "Spain"
             },
             "ipv6": {}
         }
@@ -13675,7 +13675,7 @@
     "undip.ac.id": {
         "http://lg.undip.ac.id/": {
             "ipv4": {
-                "182.255.0.112": "Babakangarut, Indonesia"
+                "182.255.0.112": "Semarang, Indonesia"
             },
             "ipv6": {
                 "2001:df0:b5:27::2d": "Indonesia"
@@ -14371,7 +14371,7 @@
     "as1403.net": {
         "http://lg.as1403.net/": {
             "ipv4": {
-                "96.127.255.94": "Saint-Hyacinthe, Canada"
+                "96.127.255.94": "Montreal, Canada"
             },
             "ipv6": {
                 "2606:6d00:0:99::b1b9": "Montreal, Canada"
@@ -15719,7 +15719,7 @@
     "i4networks.nl": {
         "https://lg.i4networks.nl/": {
             "ipv4": {
-                "195.246.236.60": "Duiven, Netherlands"
+                "195.246.236.60": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -17210,7 +17210,7 @@
         },
         "looking.house/point.php?id=3": {
             "ipv4": {
-                "107.181.187.112": "Burnaby, Canada"
+                "107.181.187.112": "Vancouver, Canada"
             },
             "ipv6": {}
         },
@@ -18026,10 +18026,10 @@
         },
         "looking.house/point.php?id=43": {
             "ipv4": {
-                "185.105.225.31": "Russia"
+                "185.105.225.31": "St Petersburg, Russia"
             },
             "ipv6": {
-                "2a01:5a60:3::2c": "Russia"
+                "2a01:5a60:3::2c": "St Petersburg, Russia"
             }
         },
         "looking.house/point.php?id=44": {
@@ -18282,10 +18282,10 @@
         },
         "looking.house/point.php?id=624": {
             "ipv4": {
-                "109.205.214.58": "Azerbaijan"
+                "109.205.214.58": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0f:ca80:1100:11::a": "Germany"
+                "2a0f:ca80:1100:11::a": "Amsterdam, Netherlands"
             }
         },
         "looking.house/point.php?id=625": {
@@ -18446,7 +18446,7 @@
         },
         "looking.house/point.php?id=734": {
             "ipv4": {
-                "193.233.193.36": "Zeya, Russia"
+                "193.233.193.36": "Hong Kong, Hong Kong"
             },
             "ipv6": {}
         }
@@ -18908,7 +18908,7 @@
     "VDS.SH": {
         "looking.house/point.php?id=98": {
             "ipv4": {
-                "91.235.136.154": "Netherlands"
+                "91.235.136.154": "Russia"
             },
             "ipv6": {}
         },
@@ -19094,7 +19094,7 @@
     "HostGlobal": {
         "looking.house/point.php?id=175": {
             "ipv4": {
-                "109.237.98.212": "Moscow, Russia"
+                "78.153.140.48": "Russia"
             },
             "ipv6": {
                 "2a04:5200:5977:1::f": "Islington, United Kingdom"
@@ -19104,7 +19104,7 @@
     "EdgeCenter": {
         "looking.house/point.php?id=644": {
             "ipv4": {
-                "146.185.199.171": "Russia"
+                "146.185.199.171": "Novosibirsk, Russia"
             },
             "ipv6": {}
         },
@@ -19128,13 +19128,13 @@
         },
         "looking.house/point.php?id=648": {
             "ipv4": {
-                "146.185.196.62": "Russia"
+                "146.185.196.62": "Samara, Russia"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=649": {
             "ipv4": {
-                "146.185.198.110": "Russia"
+                "146.185.198.110": "Krasnodar, Russia"
             },
             "ipv6": {}
         },
@@ -19146,13 +19146,13 @@
         },
         "looking.house/point.php?id=651": {
             "ipv4": {
-                "5.101.218.45": "Russia"
+                "5.101.218.45": "Vladivostok, Russia"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=652": {
             "ipv4": {
-                "5.188.37.68": "Russia"
+                "5.188.37.68": "Khabarovsk, Russia"
             },
             "ipv6": {}
         }
@@ -19933,12 +19933,6 @@
             "ipv6": {
                 "2606:fc40:1:4::a": "Dallas, United States"
             }
-        },
-        "looking.house/point.php?id=729": {
-            "ipv4": {
-                "46.37.124.181": "Redditch, United Kingdom"
-            },
-            "ipv6": {}
         }
     },
     "SSDBlaze": {
