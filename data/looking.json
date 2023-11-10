@@ -570,6 +570,14 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=739": {
+            "ipv4": [
+                "89.221.224.6"
+            ],
+            "ipv6": [
+                "2a13:6304:0:6::1"
+            ]
+        },
         "looking.house/point.php?id=613": {
             "ipv4": [
                 "185.231.207.35"
@@ -1027,6 +1035,12 @@
         "looking.house/point.php?id=715": {
             "ipv4": [
                 "193.203.51.199"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=737": {
+            "ipv4": [
+                "91.207.60.188"
             ],
             "ipv6": []
         },
@@ -3379,14 +3393,6 @@
             ]
         }
     },
-    "Infobox": {
-        "looking.house/point.php?id=170": {
-            "ipv4": [
-                "89.253.255.148"
-            ],
-            "ipv6": []
-        }
-    },
     "GBNhost": {
         "looking.house/point.php?id=225": {
             "ipv4": [
@@ -3619,6 +3625,14 @@
             ]
         }
     },
+    "TerraNode": {
+        "looking.house/point.php?id=738": {
+            "ipv4": [
+                "2.58.201.224"
+            ],
+            "ipv6": []
+        }
+    },
     "LetBox": {
         "looking.house/point.php?id=283": {
             "ipv4": [
@@ -3791,16 +3805,6 @@
                 "2.58.175.195"
             ],
             "ipv6": []
-        }
-    },
-    "TerraNode": {
-        "looking.house/point.php?id=728": {
-            "ipv4": [
-                "104.152.141.87"
-            ],
-            "ipv6": [
-                "2606:fc40:1:4::a"
-            ]
         }
     },
     "SSDBlaze": {
