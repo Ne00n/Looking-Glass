@@ -3296,6 +3296,10 @@
 * [looking.house/point.php?id=431](http://looking.house/point.php?id=431)
 ### HostZop
 * [looking.house/point.php?id=736](http://looking.house/point.php?id=736)
+### Universitas Pakuan
+* [looking.house/point.php?id=741](http://looking.house/point.php?id=741)
+### InfoTech
+* [looking.house/point.php?id=740](http://looking.house/point.php?id=740)
 ### Qwords
 * [looking.house/point.php?id=405](http://looking.house/point.php?id=405)
 ### Atharva

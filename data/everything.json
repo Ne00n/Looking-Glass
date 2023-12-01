@@ -162,7 +162,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Willesden, United Kingdom",
+                "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -1696,7 +1696,7 @@
         },
         "racknerd.com/montreal-datacenter": {
             "ipv4": {
-                "104.227.97.6": "Montreal, Canada"
+                "104.227.97.6": "United States"
             },
             "ipv6": {}
         },
@@ -2334,7 +2334,7 @@
         },
         "lg.yul2.servermania.com": {
             "ipv4": {
-                "104.227.97.6": "Montreal, Canada"
+                "104.227.97.6": "United States"
             },
             "ipv6": {}
         }
@@ -4644,7 +4644,7 @@
             "ipv4": {
                 "163.123.183.33": "United States",
                 "172.106.164.87": "Dallas, United States",
-                "38.17.53.45": "Los Angeles, United States"
+                "38.17.53.45": "Washington, United States"
             },
             "ipv6": {}
         }
@@ -5816,7 +5816,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Willesden, United Kingdom"
+                "5.181.27.230": "Harlesden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -16206,7 +16206,7 @@
         },
         "looking.house/point.php?id=521": {
             "ipv4": {
-                "5.181.27.126": "Willesden, United Kingdom"
+                "5.181.27.126": "Harlesden, United Kingdom"
             },
             "ipv6": {
                 "2a03:90c0:146::82a": "Luxembourg"
@@ -17794,10 +17794,10 @@
         },
         "looking.house/point.php?id=464": {
             "ipv4": {
-                "91.198.220.157": "Moscow, Russia"
+                "195.133.10.166": "Moscow, Russia"
             },
             "ipv6": {
-                "2a00:b700:3::5:193": "Moscow, Russia"
+                "2a00:b700:3::207": "Moscow, Russia"
             }
         },
         "looking.house/point.php?id=563": {
@@ -18210,7 +18210,7 @@
     "SpaceCore": {
         "looking.house/point.php?id=505": {
             "ipv4": {
-                "194.226.42.35": "Moscow, Russia"
+                "95.181.153.18": "Moscow, Russia"
             },
             "ipv6": {}
         },
@@ -18525,6 +18525,22 @@
         "looking.house/point.php?id=736": {
             "ipv4": {
                 "103.108.117.245": "India"
+            },
+            "ipv6": {}
+        }
+    },
+    "Universitas Pakuan": {
+        "looking.house/point.php?id=741": {
+            "ipv4": {
+                "103.169.192.133": "Bogor, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "InfoTech": {
+        "looking.house/point.php?id=740": {
+            "ipv4": {
+                "103.217.146.43": "Indonesia"
             },
             "ipv6": {}
         }
