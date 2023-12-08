@@ -3290,12 +3290,16 @@
 ### MLNL.HOST
 * [looking.house/point.php?id=732](http://looking.house/point.php?id=732)
 * [looking.house/point.php?id=733](http://looking.house/point.php?id=733)
+* [looking.house/point.php?id=744](http://looking.house/point.php?id=744)
 ### ServerAstra
 * [looking.house/point.php?id=24](http://looking.house/point.php?id=24)
 ### XetHost
 * [looking.house/point.php?id=431](http://looking.house/point.php?id=431)
 ### HostZop
 * [looking.house/point.php?id=736](http://looking.house/point.php?id=736)
+### Kings Network Indonesia
+* [looking.house/point.php?id=742](http://looking.house/point.php?id=742)
+* [looking.house/point.php?id=745](http://looking.house/point.php?id=745)
 ### Universitas Pakuan
 * [looking.house/point.php?id=741](http://looking.house/point.php?id=741)
 ### InfoTech
@@ -3304,6 +3308,8 @@
 * [looking.house/point.php?id=405](http://looking.house/point.php?id=405)
 ### Atharva
 * [looking.house/point.php?id=669](http://looking.house/point.php?id=669)
+### PT Giga Patra Multimedia
+* [looking.house/point.php?id=743](http://looking.house/point.php?id=743)
 ### Netcetera
 * [looking.house/point.php?id=381](http://looking.house/point.php?id=381)
 ### WebHOST1

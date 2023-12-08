@@ -1176,7 +1176,9 @@
             "ipv4": [
                 "185.162.11.47"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a12:9cc0:0:1::100"
+            ]
         },
         "looking.house/point.php?id=222": {
             "ipv4": [
@@ -2366,6 +2368,12 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=744": {
+            "ipv4": [
+                "93.95.115.19"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=733": {
             "ipv4": [
                 "45.84.242.211"
@@ -2393,6 +2401,20 @@
         "looking.house/point.php?id=736": {
             "ipv4": [
                 "103.108.117.245"
+            ],
+            "ipv6": []
+        }
+    },
+    "Kings Network Indonesia": {
+        "looking.house/point.php?id=745": {
+            "ipv4": [
+                "202.150.172.1"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=742": {
+            "ipv4": [
+                "202.150.161.220"
             ],
             "ipv6": []
         }
@@ -2428,6 +2450,16 @@
             ],
             "ipv6": [
                 "2001:df1:7340:c::d"
+            ]
+        }
+    },
+    "PT Giga Patra Multimedia": {
+        "looking.house/point.php?id=743": {
+            "ipv4": [
+                "116.206.212.252"
+            ],
+            "ipv6": [
+                "2400:d680::5fed:7e57:a"
             ]
         }
     },
@@ -3768,13 +3800,13 @@
     "EasyVM": {
         "looking.house/point.php?id=617": {
             "ipv4": [
-                "208.99.44.100"
+                "208.99.44.32"
             ],
             "ipv6": []
         },
         "looking.house/point.php?id=503": {
             "ipv4": [
-                "202.5.26.13"
+                "23.133.6.133"
             ],
             "ipv6": []
         }
