@@ -809,7 +809,7 @@
         },
         "https://gra.lg.extravm.com/": {
             "ipv4": {
-                "5.196.58.151": "France"
+                "5.196.58.151": "Moisson, France"
             },
             "ipv6": {
                 "2001:41d0:a:7e6d::1:a": "France"
@@ -870,7 +870,7 @@
                 "147.135.118.181": "United States"
             },
             "ipv6": {
-                "2604:2dc0:100:1600::1638:31a": "Hillsboro, United States"
+                "2604:2dc0:100:1600::1638:31a": "Monsey, United States"
             }
         }
     },
@@ -2312,7 +2312,7 @@
         },
         "lg.dfw1.servermania.com": {
             "ipv4": {
-                "104.227.175.51": "Dallas, United States"
+                "104.227.175.51": "United States"
             },
             "ipv6": {}
         },
@@ -2708,7 +2708,7 @@
         },
         "http://dal.lg.virmach.com/": {
             "ipv4": {
-                "172.98.14.10": "United States"
+                "172.98.14.10": "n/a"
             },
             "ipv6": {}
         },
@@ -7104,7 +7104,7 @@
                 "2001:41d0:0602:2f34::0": "France",
                 "2605:6400:30:fdd5::1": "Luxembourg, Luxembourg",
                 "2a01:4f9:2a:14e2::1": "Germany",
-                "2604:2dc0:100:16c::0": "Hillsboro, United States",
+                "2604:2dc0:100:16c::0": "Monsey, United States",
                 "2a01:4f8:150:7155::0": "Ehingen, Germany",
                 "2402:1f00:8101:b2b::0": "Sydney, Australia",
                 "2607:5300:60:379f::0": "Canada",
@@ -12889,7 +12889,7 @@
     "ldp.net.id": {
         "http://lg.ldp.net.id": {
             "ipv4": {
-                "43.252.105.3": "Jepara, Indonesia"
+                "43.252.105.3": "Bantul, Indonesia"
             },
             "ipv6": {}
         }
@@ -13677,7 +13677,7 @@
     "undip.ac.id": {
         "http://lg.undip.ac.id/": {
             "ipv4": {
-                "182.255.0.112": "Kebumen Satu, Indonesia"
+                "182.255.0.112": "Semarang, Indonesia"
             },
             "ipv6": {
                 "2001:df0:b5:27::2d": "Indonesia"
@@ -19809,6 +19809,14 @@
                 "2.58.201.224": "Dulles, United States"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=746": {
+            "ipv4": {
+                "50.114.41.3": "Los Angeles, United States"
+            },
+            "ipv6": {
+                "2a12:bec0:420:5::a": "Los Angeles, United States"
+            }
         }
     },
     "LetBox": {
