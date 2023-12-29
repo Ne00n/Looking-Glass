@@ -162,7 +162,7 @@
                 "5.188.71.1": "France",
                 "5.188.93.1": "Paris, France",
                 "5.188.95.1": "Israel",
-                "89.43.111.1": "Chisinau, Moldova",
+                "89.43.111.1": "Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
                 "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
@@ -2206,7 +2206,7 @@
         },
         "dal.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "23.249.161.97": "United States"
+                "23.249.161.97": "Toronto, Canada"
             },
             "ipv6": {}
         },
@@ -6728,10 +6728,10 @@
         },
         "be.edis.at": {
             "ipv4": {
-                "192.71.249.10": "Oostkamp, Belgium"
+                "192.71.249.10": "Brussels, Belgium"
             },
             "ipv6": {
-                "2a03:f80:32:95f4::1": "Oostkamp, Belgium"
+                "2a03:f80:32:95f4::1": "Brussels, Belgium"
             }
         },
         "bg.edis.at": {
@@ -6816,10 +6816,10 @@
         },
         "hk.edis.at": {
             "ipv4": {
-                "158.255.208.12": "Hong Kong"
+                "158.255.208.12": "Ha Kwai Chung, Hong Kong"
             },
             "ipv6": {
-                "2a03:f80:852:b422::1": "Hong Kong"
+                "2a03:f80:852:b422::1": "Ha Kwai Chung, Hong Kong"
             }
         },
         "hr.edis.at": {
@@ -6867,7 +6867,7 @@
                 "149.154.157.31": "Milan, Italy"
             },
             "ipv6": {
-                "2a03:f80:39:200e::1": "Austria"
+                "2a03:f80:39:200e::1": "Milan, Italy"
             }
         },
         "jp.edis.at": {
@@ -8710,10 +8710,10 @@
     "vpsfast.net": {
         "https://vpsfast.net/belgium-vps": {
             "ipv4": {
-                "192.71.249.10": "Oostkamp, Belgium"
+                "192.71.249.10": "Brussels, Belgium"
             },
             "ipv6": {
-                "2a03:f80:32::1": "Oostkamp, Belgium"
+                "2a03:f80:32::1": "Brussels, Belgium"
             }
         },
         "https://vpsfast.net/bulgaria-vps": {
@@ -16572,7 +16572,7 @@
         },
         "looking.house/point.php?id=672": {
             "ipv4": {
-                "146.70.213.36": "Romania"
+                "146.70.213.36": "Bucharest, Romania"
             },
             "ipv6": {
                 "2a04:9dc0:0:a51::4b:1": "Bucharest, Romania"
@@ -18344,14 +18344,6 @@
             },
             "ipv6": {
                 "2a0f:ca80:1100:11::a": "Amsterdam, The Netherlands"
-            }
-        },
-        "looking.house/point.php?id=625": {
-            "ipv4": {
-                "2.58.200.2": "Dulles, United States"
-            },
-            "ipv6": {
-                "2a05:4140:600:5::a": "Italy"
             }
         },
         "looking.house/point.php?id=626": {

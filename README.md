@@ -3261,7 +3261,6 @@
 * [looking.house/point.php?id=596](http://looking.house/point.php?id=596)
 * [looking.house/point.php?id=600](http://looking.house/point.php?id=600)
 * [looking.house/point.php?id=624](http://looking.house/point.php?id=624)
-* [looking.house/point.php?id=625](http://looking.house/point.php?id=625)
 * [looking.house/point.php?id=626](http://looking.house/point.php?id=626)
 * [looking.house/point.php?id=627](http://looking.house/point.php?id=627)
 * [looking.house/point.php?id=666](http://looking.house/point.php?id=666)
