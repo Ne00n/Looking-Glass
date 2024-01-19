@@ -3425,6 +3425,8 @@
 * [looking.house/point.php?id=645](http://looking.house/point.php?id=645)
 * [looking.house/point.php?id=646](http://looking.house/point.php?id=646)
 * [looking.house/point.php?id=647](http://looking.house/point.php?id=647)
+* [looking.house/point.php?id=648](http://looking.house/point.php?id=648)
+* [looking.house/point.php?id=649](http://looking.house/point.php?id=649)
 * [looking.house/point.php?id=650](http://looking.house/point.php?id=650)
 * [looking.house/point.php?id=651](http://looking.house/point.php?id=651)
 * [looking.house/point.php?id=652](http://looking.house/point.php?id=652)

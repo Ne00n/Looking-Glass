@@ -3020,6 +3020,12 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=649": {
+            "ipv4": [
+                "146.185.198.110"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=646": {
             "ipv4": [
                 "5.189.201.101"
@@ -3041,6 +3047,12 @@
         "looking.house/point.php?id=647": {
             "ipv4": [
                 "92.223.65.232"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=648": {
+            "ipv4": [
+                "146.185.196.62"
             ],
             "ipv6": []
         },

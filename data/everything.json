@@ -1632,7 +1632,7 @@
         },
         "lg-ash.racknerd.com": {
             "ipv4": {
-                "107.173.166.10": "United States"
+                "107.173.166.10": "Canada"
             },
             "ipv6": {}
         },
@@ -1668,7 +1668,7 @@
         },
         "lg-ny.racknerd.com": {
             "ipv4": {
-                "192.3.81.8": "United States"
+                "192.3.81.8": "Canada"
             },
             "ipv6": {}
         },
@@ -1796,7 +1796,7 @@
     "colocrossing.com": {
         "lg.atl.colocrossing.com": {
             "ipv4": {
-                "192.3.16.134": "United States"
+                "192.3.16.134": "Canada"
             },
             "ipv6": {}
         },
@@ -1814,31 +1814,31 @@
         },
         "lg.dal.colocrossing.com": {
             "ipv4": {
-                "192.3.237.150": "United States"
+                "192.3.237.150": "Canada"
             },
             "ipv6": {}
         },
         "lg.la.colocrossing.com": {
             "ipv4": {
-                "107.175.180.6": "United States"
+                "107.175.180.6": "Canada"
             },
             "ipv6": {}
         },
         "lg.nyc.colocrossing.com": {
             "ipv4": {
-                "172.245.40.54": "United States"
+                "172.245.40.54": "Canada"
             },
             "ipv6": {}
         },
         "lg.sea.colocrossing.com": {
             "ipv4": {
-                "75.127.12.12": "United States"
+                "75.127.12.12": "Canada"
             },
             "ipv6": {}
         },
         "lg.sj.colocrossing.com": {
             "ipv4": {
-                "23.94.100.22": "United States"
+                "23.94.100.22": "Canada"
             },
             "ipv6": {}
         }
@@ -2268,7 +2268,7 @@
     "hudsonvalleyhost.com": {
         "lg-buff.hudsonvalleyhost.com": {
             "ipv4": {
-                "192.210.234.131": "United States"
+                "192.210.234.131": "Canada"
             },
             "ipv6": {}
         },
@@ -2744,7 +2744,7 @@
         },
         "la.lg.virmach.com": {
             "ipv4": {
-                "107.172.246.38": "United States"
+                "107.172.246.38": "Canada"
             },
             "ipv6": {}
         },
@@ -2760,19 +2760,19 @@
         },
         "ny.lg.virmach.com": {
             "ipv4": {
-                "192.227.227.194": "United States"
+                "192.227.227.194": "Canada"
             },
             "ipv6": {}
         },
         "sea.lg.virmach.com": {
             "ipv4": {
-                "107.174.241.229": "United States"
+                "107.174.241.229": "Canada"
             },
             "ipv6": {}
         },
         "sj.lg.virmach.com": {
             "ipv4": {
-                "107.172.103.185": "United States"
+                "107.172.103.185": "Canada"
             },
             "ipv6": {}
         }
@@ -3000,7 +3000,7 @@
     "cloudserver.net": {
         "http://lg-lax.cloudserver.net/": {
             "ipv4": {
-                "23.94.112.150": "United States"
+                "23.94.112.150": "Canada"
             },
             "ipv6": {}
         },
@@ -3024,7 +3024,7 @@
         },
         "lg-ny.cloudserver.net": {
             "ipv4": {
-                "192.210.233.227": "United States"
+                "192.210.233.227": "Canada"
             },
             "ipv6": {}
         }
@@ -3653,7 +3653,7 @@
                 "191.96.102.101": "Barcelona, Spain",
                 "199.241.138.16": "Singapore",
                 "72.29.70.131": "Orlando, United States",
-                "75.127.2.31": "United States"
+                "75.127.2.31": "Canada"
             },
             "ipv6": {}
         }
@@ -4514,7 +4514,7 @@
     "smarthost.net": {
         "https://www.smarthost.net/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "United States",
+                "107.173.81.2": "Canada",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
@@ -4874,7 +4874,7 @@
             "ipv4": {
                 "104.237.1.114": "Seattle, United States",
                 "104.237.11.23": "Los Angeles, United States",
-                "104.237.8.8": "Piscataway, United States",
+                "104.237.8.8": "United States",
                 "107.155.108.46": "Dallas, United States",
                 "185.185.126.241": "Maidstone, United Kingdom",
                 "185.185.127.137": "Naaldwijk, The Netherlands"
@@ -5168,7 +5168,7 @@
         "https://www.hostnamaste.com/looking-glass.php": {
             "ipv4": {
                 "129.227.218.229": "Mumbai, India",
-                "192.3.229.42": "United States",
+                "192.3.229.42": "Canada",
                 "69.12.87.19": "Los Angeles, United States"
             },
             "ipv6": {
@@ -5319,7 +5319,7 @@
         },
         "https://www.yourlasthost.com/datacenter-tx.php": {
             "ipv4": {
-                "192.3.229.42": "United States"
+                "192.3.229.42": "Canada"
             },
             "ipv6": {}
         },
@@ -5439,7 +5439,7 @@
         },
         "http://speedtest.c1.lax1.dediserve.com/": {
             "ipv4": {
-                "192.227.239.227": "United States"
+                "192.227.239.227": "Canada"
             },
             "ipv6": {}
         },
@@ -5520,13 +5520,13 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Atlanta": {
             "ipv4": {
-                "198.12.76.132": "United States"
+                "198.12.76.132": "Canada"
             },
             "ipv6": {}
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Buffalo": {
             "ipv4": {
-                "192.210.234.131": "United States"
+                "192.210.234.131": "Canada"
             },
             "ipv6": {}
         },
@@ -6271,7 +6271,7 @@
     "simplexhosts.com": {
         "https://simplexhosts.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "United States",
+                "107.173.81.2": "Canada",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
@@ -7395,7 +7395,7 @@
     "vapornode.com": {
         "https://vapornode.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "United States",
+                "107.173.81.2": "Canada",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
@@ -8193,7 +8193,7 @@
     "site24x7.com": {
         "https://www.site24x7.com/ping-test.html": {
             "ipv4": {
-                "74.63.241.30": "United States"
+                "74.63.241.30": "Dallas, United States"
             },
             "ipv6": {}
         }
@@ -9638,7 +9638,7 @@
     "jaxvps.com": {
         "https://jaxvps.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "United States",
+                "107.173.81.2": "Canada",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
@@ -17436,7 +17436,7 @@
         },
         "looking.house/point.php?id=719": {
             "ipv4": {
-                "208.115.210.58": "United States"
+                "208.115.210.58": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -19172,6 +19172,18 @@
             },
             "ipv6": {}
         },
+        "looking.house/point.php?id=648": {
+            "ipv4": {
+                "146.185.196.62": "Samara, Russia"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=649": {
+            "ipv4": {
+                "146.185.198.110": "Krasnodar, Russia"
+            },
+            "ipv6": {}
+        },
         "looking.house/point.php?id=650": {
             "ipv4": {
                 "92.38.139.174": "Moscow, Russia"
@@ -19936,10 +19948,10 @@
     "Rad Web Hosting": {
         "looking.house/point.php?id=608": {
             "ipv4": {
-                "208.115.240.214": "United States"
+                "208.115.240.214": "Dallas, United States"
             },
             "ipv6": {
-                "2607:ff68:117:18fd::1": "United States"
+                "2607:ff68:117:18fd::1": "Dallas, United States"
             }
         }
     },
