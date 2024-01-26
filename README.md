@@ -3187,6 +3187,8 @@
 * [looking.house/point.php?id=709](http://looking.house/point.php?id=709)
 * [looking.house/point.php?id=710](http://looking.house/point.php?id=710)
 * [looking.house/point.php?id=711](http://looking.house/point.php?id=711)
+* [looking.house/point.php?id=748](http://looking.house/point.php?id=748)
+* [looking.house/point.php?id=749](http://looking.house/point.php?id=749)
 ### Zappie Host
 * [looking.house/point.php?id=491](http://looking.house/point.php?id=491)
 * [looking.house/point.php?id=492](http://looking.house/point.php?id=492)
@@ -3300,10 +3302,10 @@
 * [looking.house/point.php?id=745](http://looking.house/point.php?id=745)
 ### Universitas Pakuan
 * [looking.house/point.php?id=741](http://looking.house/point.php?id=741)
-### InfoTech
-* [looking.house/point.php?id=740](http://looking.house/point.php?id=740)
 ### Qwords
 * [looking.house/point.php?id=405](http://looking.house/point.php?id=405)
+### InfoTech
+* [looking.house/point.php?id=740](http://looking.house/point.php?id=740)
 ### Atharva
 * [looking.house/point.php?id=669](http://looking.house/point.php?id=669)
 ### PT Giga Patra Multimedia
@@ -3366,6 +3368,8 @@
 ### ua-hosting.company
 * [looking.house/point.php?id=580](http://looking.house/point.php?id=580)
 * [looking.house/point.php?id=726](http://looking.house/point.php?id=726)
+### h2.nexus
+* [looking.house/point.php?id=750](http://looking.house/point.php?id=750)
 ### Intersect.host
 * [looking.house/point.php?id=268](http://looking.house/point.php?id=268)
 ### Zomro
@@ -3420,6 +3424,8 @@
 * [looking.house/point.php?id=139](http://looking.house/point.php?id=139)
 ### HostGlobal
 * [looking.house/point.php?id=175](http://looking.house/point.php?id=175)
+### Lite-Host
+* [looking.house/point.php?id=751](http://looking.house/point.php?id=751)
 ### EdgeCenter
 * [looking.house/point.php?id=644](http://looking.house/point.php?id=644)
 * [looking.house/point.php?id=645](http://looking.house/point.php?id=645)
@@ -3435,8 +3441,6 @@
 * [looking.house/point.php?id=83](http://looking.house/point.php?id=83)
 ### SmartApe
 * [looking.house/point.php?id=12](http://looking.house/point.php?id=12)
-### NT-VPS
-* [looking.house/point.php?id=13](http://looking.house/point.php?id=13)
 ### VPSVILLE
 * [looking.house/point.php?id=14](http://looking.house/point.php?id=14)
 ### RackServer

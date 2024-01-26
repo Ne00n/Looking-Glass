@@ -1758,6 +1758,14 @@
                 "2a00:b700:5::4:3a2"
             ]
         },
+        "looking.house/point.php?id=749": {
+            "ipv4": [
+                "192.124.176.242"
+            ],
+            "ipv6": [
+                "2605:e440:16::ca"
+            ]
+        },
         "looking.house/point.php?id=702": {
             "ipv4": [
                 "91.149.242.108"
@@ -1772,6 +1780,14 @@
             ],
             "ipv6": [
                 "2605:e440:11::2:1c0"
+            ]
+        },
+        "looking.house/point.php?id=748": {
+            "ipv4": [
+                "91.132.48.149"
+            ],
+            "ipv6": [
+                "2a13:8a40::30c"
             ]
         },
         "looking.house/point.php?id=699": {
@@ -2413,18 +2429,18 @@
             "ipv6": []
         }
     },
-    "InfoTech": {
-        "looking.house/point.php?id=740": {
-            "ipv4": [
-                "103.217.146.43"
-            ],
-            "ipv6": []
-        }
-    },
     "Qwords": {
         "looking.house/point.php?id=405": {
             "ipv4": [
                 "103.102.153.141"
+            ],
+            "ipv6": []
+        }
+    },
+    "InfoTech": {
+        "looking.house/point.php?id=740": {
+            "ipv4": [
+                "103.217.146.43"
             ],
             "ipv6": []
         }
@@ -2751,6 +2767,16 @@
             "ipv6": []
         }
     },
+    "h2.nexus": {
+        "looking.house/point.php?id=750": {
+            "ipv4": [
+                "185.125.50.42"
+            ],
+            "ipv6": [
+                "2a0e:d604:1:1::2"
+            ]
+        }
+    },
     "Intersect.host": {
         "looking.house/point.php?id=268": {
             "ipv4": [
@@ -3013,6 +3039,16 @@
             ]
         }
     },
+    "Lite-Host": {
+        "looking.house/point.php?id=751": {
+            "ipv4": [
+                "109.248.207.67"
+            ],
+            "ipv6": [
+                "2a09:6280:3:1::207:67"
+            ]
+        }
+    },
     "EdgeCenter": {
         "looking.house/point.php?id=652": {
             "ipv4": [
@@ -3089,14 +3125,6 @@
         "looking.house/point.php?id=12": {
             "ipv4": [
                 "188.127.231.232"
-            ],
-            "ipv6": []
-        }
-    },
-    "NT-VPS": {
-        "looking.house/point.php?id=13": {
-            "ipv4": [
-                "93.189.44.36"
             ],
             "ipv6": []
         }
