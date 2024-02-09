@@ -3311,8 +3311,6 @@
 * [looking.house/point.php?id=405](http://looking.house/point.php?id=405)
 ### InfoTech
 * [looking.house/point.php?id=740](http://looking.house/point.php?id=740)
-### Atharva
-* [looking.house/point.php?id=669](http://looking.house/point.php?id=669)
 ### PT Giga Patra Multimedia
 * [looking.house/point.php?id=743](http://looking.house/point.php?id=743)
 ### Netcetera

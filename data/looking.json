@@ -2475,16 +2475,6 @@
             "ipv6": []
         }
     },
-    "Atharva": {
-        "looking.house/point.php?id=669": {
-            "ipv4": [
-                "103.87.68.20"
-            ],
-            "ipv6": [
-                "2001:df1:7340:c::d"
-            ]
-        }
-    },
     "PT Giga Patra Multimedia": {
         "looking.house/point.php?id=743": {
             "ipv4": [
@@ -3858,7 +3848,7 @@
         },
         "looking.house/point.php?id=657": {
             "ipv4": [
-                "2.58.175.195"
+                "46.37.124.103"
             ],
             "ipv6": []
         }
