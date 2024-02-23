@@ -183,7 +183,7 @@
         "https://lg.ovh.net": {
             "ipv4": {
                 "135.125.244.4": "France",
-                "135.148.101.2": "Porter Corners, United States",
+                "135.148.101.2": "United States",
                 "139.99.216.2": "Sydney, Australia",
                 "141.94.18.3": "France",
                 "145.239.28.2": "United Kingdom",
@@ -207,7 +207,7 @@
         },
         "lg.chi1.cometvps.com": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States"
+                "167.88.10.4": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -385,7 +385,7 @@
                 "91.228.52.15": "Dusseldorf, Germany"
             },
             "ipv6": {
-                "2001:67c:12a0::14": "Zurich, Switzerland"
+                "2001:67c:12a0::14": "Germany"
             }
         }
     },
@@ -717,7 +717,7 @@
         },
         "lg.chi1.as20278.net": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States"
+                "167.88.10.4": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -735,7 +735,7 @@
         },
         "lg.chi1.nexeon.com": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States"
+                "167.88.10.4": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -787,10 +787,10 @@
         },
         "gra.lg.extravm.com": {
             "ipv4": {
-                "178.33.9.17": "Paris, France"
+                "178.33.9.17": "France"
             },
             "ipv6": {
-                "2001:41d0:303:acc5::fde4:3c7e": "France"
+                "2001:41d0:303:acc5::fde4:3c7e": "Frankfurt am Main, Germany"
             }
         },
         "https://bhs.lg.extravm.com/": {
@@ -804,12 +804,12 @@
                 "63.251.42.123": "Dallas, United States"
             },
             "ipv6": {
-                "2605:9f80:8000:290::1:a": "United States"
+                "2605:9f80:8000:290::1:a": "Atlanta, United States"
             }
         },
         "https://gra.lg.extravm.com/": {
             "ipv4": {
-                "5.196.58.151": "Moisson, France"
+                "5.196.58.151": "France"
             },
             "ipv6": {
                 "2001:41d0:a:7e6d::1:a": "France"
@@ -1070,7 +1070,7 @@
                 "139.64.236.64": "Tokyo, Japan"
             },
             "ipv6": {
-                "2404:f780:000a:0006:0000:0000:0000:0002": "Perth, Australia"
+                "2404:f780:000a:0006:0000:0000:0000:0002": "Australia"
             }
         },
         "lgla.nexusbytes.com": {
@@ -1086,7 +1086,7 @@
                 "64.112.56.10": "Melbourne, Australia"
             },
             "ipv6": {
-                "2404:f780:000b:0351:0000:0000:0000:0002": "Perth, Australia"
+                "2404:f780:000b:0351:0000:0000:0000:0002": "Australia"
             }
         },
         "lgmi.nexusbytes.com": {
@@ -1459,7 +1459,7 @@
                 "45.91.92.191": "Zurich, Switzerland"
             },
             "ipv6": {
-                "2001:470:b5a1:5133:0000:0000:0000:0001": "United States"
+                "2001:470:b5a1:5133:0000:0000:0000:0001": "Garland, United States"
             }
         },
         "http://waw.lg.webhorizon.in": {
@@ -1632,19 +1632,19 @@
         },
         "lg-ash.racknerd.com": {
             "ipv4": {
-                "107.173.166.10": "Canada"
+                "107.173.166.10": "Ashburn, United States"
             },
             "ipv6": {}
         },
         "lg-atl.racknerd.com": {
             "ipv4": {
-                "107.173.164.160": "Atlanta, United States"
+                "107.173.164.160": "Marietta, United States"
             },
             "ipv6": {}
         },
         "lg-chi.racknerd.com": {
             "ipv4": {
-                "198.23.228.15": "Chicago, United States"
+                "198.23.228.15": "Elk Grove Village, United States"
             },
             "ipv6": {}
         },
@@ -1662,13 +1662,13 @@
         },
         "lg-nj.racknerd.com": {
             "ipv4": {
-                "192.3.165.30": "Piscataway, United States"
+                "192.3.165.30": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "lg-ny.racknerd.com": {
             "ipv4": {
-                "192.3.81.8": "United States"
+                "192.3.81.8": "Buffalo, United States"
             },
             "ipv6": {}
         },
@@ -1680,7 +1680,7 @@
         },
         "lg-sj.racknerd.com": {
             "ipv4": {
-                "192.210.207.88": "San Jose, United States"
+                "192.210.207.88": "Santa Clara, United States"
             },
             "ipv6": {}
         },
@@ -1796,49 +1796,49 @@
     "colocrossing.com": {
         "lg.atl.colocrossing.com": {
             "ipv4": {
-                "192.3.16.134": "Costa Mesa, United States"
+                "192.3.16.134": "Marietta, United States"
             },
             "ipv6": {}
         },
         "lg.buf.colocrossing.com": {
             "ipv4": {
-                "192.3.180.103": "Seattle, United States"
+                "192.3.180.103": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "lg.chi.colocrossing.com": {
             "ipv4": {
-                "66.225.198.198": "Dallas, United States"
+                "66.225.198.198": "Elk Grove Village, United States"
             },
             "ipv6": {}
         },
         "lg.dal.colocrossing.com": {
             "ipv4": {
-                "192.3.237.150": "Canada"
+                "192.3.237.150": "Dallas, United States"
             },
             "ipv6": {}
         },
         "lg.la.colocrossing.com": {
             "ipv4": {
-                "107.175.180.6": "Canada"
+                "107.175.180.6": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "lg.nyc.colocrossing.com": {
             "ipv4": {
-                "172.245.40.54": "Canada"
+                "172.245.40.54": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "lg.sea.colocrossing.com": {
             "ipv4": {
-                "75.127.12.12": "Canada"
+                "75.127.12.12": "Seattle, United States"
             },
             "ipv6": {}
         },
         "lg.sj.colocrossing.com": {
             "ipv4": {
-                "23.94.100.22": "Canada"
+                "23.94.100.22": "Santa Clara, United States"
             },
             "ipv6": {}
         }
@@ -1887,7 +1887,7 @@
                 "141.94.30.145": "France"
             },
             "ipv6": {
-                "2001:41d0:303:fa91::1": "France"
+                "2001:41d0:303:fa91::1": "Frankfurt am Main, Germany"
             }
         },
         "lg.ovh.net": {
@@ -1899,7 +1899,7 @@
                 "152.228.221.228": "France"
             },
             "ipv6": {
-                "2001:41d0:203:9fe4::1": "France"
+                "2001:41d0:203:9fe4::1": "Frankfurt am Main, Germany"
             }
         },
         "sbg.proof.ovh.net": {
@@ -1907,7 +1907,7 @@
                 "51.91.75.40": "France"
             },
             "ipv6": {
-                "2001:41d0:403:3328::1": "France"
+                "2001:41d0:403:3328::1": "Frankfurt am Main, Germany"
             }
         }
     },
@@ -1949,7 +1949,7 @@
                 "103.78.121.194": "Mumbai, India"
             },
             "ipv6": {
-                "2604:6600:a3::3": "Ashburn, United States"
+                "2604:6600:a3::3": "Arlington, United States"
             }
         },
         "lg.jnb.psychz.net": {
@@ -1979,7 +1979,7 @@
                 "104.149.18.203": "Los Angeles, United States"
             },
             "ipv6": {
-                "2604:6600:0:c::2": "Ashburn, United States"
+                "2604:6600:0:c::2": "Arlington, United States"
             }
         },
         "lg.lon.psychz.net": {
@@ -2066,13 +2066,13 @@
         },
         "https://lg-toronto.serverhub.com/": {
             "ipv4": {
-                "104.206.8.253": "St Louis, United States"
+                "104.206.8.253": "United States"
             },
             "ipv6": {}
         },
         "lg-amsterdam.serverhub.com": {
             "ipv4": {
-                "104.206.248.251": "St Louis, United States"
+                "104.206.248.251": "United States"
             },
             "ipv6": {}
         },
@@ -2150,7 +2150,7 @@
         },
         "lg.dc03.dedicontrol.com": {
             "ipv4": {
-                "91.132.1.132": "Secaucus, United States"
+                "91.132.1.132": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -2218,7 +2218,7 @@
         },
         "sg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "103.253.27.204": "Singapore"
+                "103.253.27.204": "Singapore, Singapore"
             },
             "ipv6": {}
         }
@@ -2268,19 +2268,19 @@
     "hudsonvalleyhost.com": {
         "lg-buff.hudsonvalleyhost.com": {
             "ipv4": {
-                "192.210.234.131": "Canada"
+                "192.210.234.131": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "lg-dal.hudsonvalleyhost.com": {
             "ipv4": {
-                "198.23.134.181": "Queens, United States"
+                "198.23.134.181": "Dallas, United States"
             },
             "ipv6": {}
         },
         "lg-la.hudsonvalleyhost.com": {
             "ipv4": {
-                "198.46.138.196": "Canada"
+                "198.46.138.196": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -2631,7 +2631,7 @@
                 "2602:ffc8:2:102::2": "Buffalo, United States",
                 "2606:6080:1001::1": "Canada",
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States",
-                "2402:a7c0:8100:a015::1": "Singapore, Singapore",
+                "2402:a7c0:8100:a015::1": "Singapore",
                 "2406:f400:8:32::1": "Singapore",
                 "2403:fbc0:1000::1": "Tokyo, Japan",
                 "2605:6c80:0:3::2": "Bend, United States",
@@ -2666,13 +2666,13 @@
     "virmach.com": {
         "ams.lg.virmach.com": {
             "ipv4": {
-                "192.210.175.4": "New York, United States"
+                "192.210.175.4": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
         "atl.lg.virmach.com": {
             "ipv4": {
-                "192.227.142.158": "Atlanta, United States"
+                "192.227.142.158": "Buffalo, United States"
             },
             "ipv6": {}
         },
@@ -2744,7 +2744,7 @@
         },
         "la.lg.virmach.com": {
             "ipv4": {
-                "107.172.246.38": "Canada"
+                "107.172.246.38": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -2754,25 +2754,25 @@
         },
         "nj.lg.virmach.com": {
             "ipv4": {
-                "198.46.189.4": "Canada"
+                "198.46.189.4": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "ny.lg.virmach.com": {
             "ipv4": {
-                "192.227.227.194": "Canada"
+                "192.227.227.194": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "sea.lg.virmach.com": {
             "ipv4": {
-                "107.174.241.229": "Canada"
+                "107.174.241.229": "Seattle, United States"
             },
             "ipv6": {}
         },
         "sj.lg.virmach.com": {
             "ipv4": {
-                "107.172.103.185": "Canada"
+                "107.172.103.185": "Santa Clara, United States"
             },
             "ipv6": {}
         }
@@ -2785,7 +2785,7 @@
                 "107.191.99.2": "New York, United States",
                 "168.235.74.9": "Somerset, United States",
                 "168.235.75.122": "Somerset, United States",
-                "168.235.89.44": "Exton, United States",
+                "168.235.89.44": "Somerset, United States",
                 "185.34.216.2": "The Netherlands"
             },
             "ipv6": {}
@@ -2993,38 +2993,38 @@
                 "212.24.110.207": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:d418:6ecf::1": "Lithuania"
+                "2a02:7b40:d418:6ecf::1": "Vilnius, Lithuania"
             }
         }
     },
     "cloudserver.net": {
         "http://lg-lax.cloudserver.net/": {
             "ipv4": {
-                "23.94.112.150": "Canada"
+                "23.94.112.150": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "http://lg-ny.cloudserver.net/": {
             "ipv4": {
-                "198.12.80.150": "Dallas, United States"
+                "198.12.80.150": "Buffalo, United States"
             },
             "ipv6": {}
         },
         "lg-chi.cloudserver.net": {
             "ipv4": {
-                "192.210.228.227": "Chicago, United States"
+                "192.210.228.227": "Elk Grove Village, United States"
             },
             "ipv6": {}
         },
         "lg-lax.cloudserver.net": {
             "ipv4": {
-                "198.46.166.131": "Canada"
+                "198.46.166.131": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "lg-ny.cloudserver.net": {
             "ipv4": {
-                "192.210.233.227": "Canada"
+                "192.210.233.227": "Buffalo, United States"
             },
             "ipv6": {}
         }
@@ -3112,7 +3112,7 @@
         },
         "lg.moscow.profitserver.ru": {
             "ipv4": {
-                "80.85.155.162": "Moscow, Russia"
+                "80.85.155.162": "Russia"
             },
             "ipv6": {}
         },
@@ -3370,7 +3370,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "United States",
-                "192.173.144.38": "Delburne, Canada"
+                "192.173.144.38": "Sylvan Lake, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -3417,7 +3417,7 @@
                 "176.123.0.17": "Chisinau, Moldova"
             },
             "ipv6": {
-                "2001:678:6d4:feed::17": "Karlsruhe, Germany"
+                "2001:678:6d4:feed::17": "Moldova"
             }
         }
     },
@@ -3437,7 +3437,7 @@
                 "104.216.118.203": "United States"
             },
             "ipv6": {
-                "2604:6600:4:1b::b00b": "Ashburn, United States"
+                "2604:6600:4:1b::b00b": "Arlington, United States"
             }
         }
     },
@@ -3585,7 +3585,7 @@
                 "194.87.68.192": "St Petersburg, Russia"
             },
             "ipv6": {
-                "2a00:b700:5::5:33c": "Moscow, Russia"
+                "2a00:b700:5::5:33c": "Russia"
             }
         },
         "lg-nsk.justhost.ru": {
@@ -3593,7 +3593,7 @@
                 "46.29.162.89": "Russia"
             },
             "ipv6": {
-                "2a00:b700:2::6:f5": "Moscow, Russia"
+                "2a00:b700:2::6:f5": "Russia"
             }
         },
         "lg-nskttk.justhost.ru": {
@@ -3653,7 +3653,7 @@
                 "191.96.102.101": "Barcelona, Spain",
                 "199.241.138.16": "Singapore",
                 "72.29.70.131": "Orlando, United States",
-                "75.127.2.31": "Canada"
+                "75.127.2.31": "Buffalo, United States"
             },
             "ipv6": {}
         }
@@ -3943,7 +3943,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Whitechapel, United Kingdom"
+                "108.61.196.101": "Shoreditch, United Kingdom"
             },
             "ipv6": {}
         },
@@ -4514,13 +4514,13 @@
     "smarthost.net": {
         "https://www.smarthost.net/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "Canada",
+                "107.173.81.2": "Buffalo, United States",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Saratoga Springs, United States",
+                "166.70.34.35": "Sandy, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -5057,7 +5057,7 @@
                 "2607:fcd0:0:a::1": "Los Angeles, United States",
                 "2602:ff75:1000::1": "United States",
                 "2a01:7e0::212:224:70:16": "Germany",
-                "2604:6600:0:c::2": "Ashburn, United States",
+                "2604:6600:0:c::2": "Arlington, United States",
                 "2a0a:51c0:0:1f::1": "Germany",
                 "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
@@ -5168,7 +5168,7 @@
         "https://www.hostnamaste.com/looking-glass.php": {
             "ipv4": {
                 "129.227.218.229": "Mumbai, India",
-                "192.3.229.42": "Canada",
+                "192.3.229.42": "Dallas, United States",
                 "69.12.87.19": "Los Angeles, United States"
             },
             "ipv6": {
@@ -5183,7 +5183,7 @@
                 "109.235.69.33": "Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:6deb:4521::1": "Lithuania"
+                "2a02:7b40:6deb:4521::1": "Vilnius, Lithuania"
             }
         }
     },
@@ -5236,7 +5236,7 @@
                 "69.61.66.10": "Atlanta, United States",
                 "74.217.183.180": "San Jose, United States",
                 "84.200.17.1": "Germany",
-                "91.132.1.132": "Secaucus, United States"
+                "91.132.1.132": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:cd40:100::235": "Amsterdam, The Netherlands",
@@ -5245,7 +5245,7 @@
                 "2607:fcd0:0:a::1": "Los Angeles, United States",
                 "2602:ff75:1000::1": "United States",
                 "2a01:7e0::212:224:70:16": "Germany",
-                "2604:6600:0:c::2": "Ashburn, United States",
+                "2604:6600:0:c::2": "Arlington, United States",
                 "2a0a:51c0:0:1f::1": "Germany",
                 "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
@@ -5319,7 +5319,7 @@
         },
         "https://www.yourlasthost.com/datacenter-tx.php": {
             "ipv4": {
-                "192.3.229.42": "Canada"
+                "192.3.229.42": "Dallas, United States"
             },
             "ipv6": {}
         },
@@ -5358,7 +5358,7 @@
                 "54.38.49.227": "France"
             },
             "ipv6": {
-                "2001:41d0:604:33:0160:6c3d:2b17:0001": "France"
+                "2001:41d0:604:33:0160:6c3d:2b17:0001": "Frankfurt am Main, Germany"
             }
         }
     },
@@ -5383,7 +5383,7 @@
         },
         "http://speedtest.c1.chg1.dediserve.com/": {
             "ipv4": {
-                "198.23.154.10": "Queens, United States"
+                "198.23.154.10": "Elk Grove Village, United States"
             },
             "ipv6": {}
         },
@@ -5439,7 +5439,7 @@
         },
         "http://speedtest.c1.lax1.dediserve.com/": {
             "ipv4": {
-                "192.227.239.227": "Canada"
+                "192.227.239.227": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -5520,13 +5520,13 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Atlanta": {
             "ipv4": {
-                "198.12.76.132": "Canada"
+                "198.12.76.132": "Marietta, United States"
             },
             "ipv6": {}
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Buffalo": {
             "ipv4": {
-                "192.210.234.131": "Canada"
+                "192.210.234.131": "Buffalo, United States"
             },
             "ipv6": {}
         },
@@ -5626,7 +5626,7 @@
             "ipv4": {
                 "103.212.222.1": "South Korea",
                 "27.255.85.20": "South Korea",
-                "61.97.239.5": "Gangnam-gu, South Korea"
+                "61.97.239.5": "South Korea"
             },
             "ipv6": {}
         },
@@ -6207,7 +6207,7 @@
                 "31.7.187.138": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4a0:67:7::947e": "Dortmund, Germany"
+                "2a01:4a0:67:7::947e": "Germany"
             }
         },
         "https://afterburst.com/datacenters/": {
@@ -6271,13 +6271,13 @@
     "simplexhosts.com": {
         "https://simplexhosts.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "Canada",
+                "107.173.81.2": "Buffalo, United States",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Saratoga Springs, United States",
+                "166.70.34.35": "Sandy, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -7011,7 +7011,7 @@
                 "5.79.108.33": "The Netherlands"
             },
             "ipv6": {
-                "2001:1af8:4700:b210::33": "Amsterdam, The Netherlands"
+                "2001:1af8:4700:b210::33": "The Netherlands"
             }
         },
         "mirror.fra10.de.leaseweb.net": {
@@ -7019,7 +7019,7 @@
                 "37.58.58.140": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a00:c98:2030:a034::21": "Sulzbach, Germany"
+                "2a00:c98:2030:a034::21": "Rottenburg, Germany"
             }
         },
         "mirror.hkg10.hk.leaseweb.net": {
@@ -7065,7 +7065,7 @@
                 "207.244.94.80": "Riverdale Park, United States"
             },
             "ipv6": {
-                "2604:9a00:2010:a0b8::5": "Allentown, United States"
+                "2604:9a00:2010:a0b8::5": "Manassas, United States"
             }
         }
     },
@@ -7101,7 +7101,7 @@
             "ipv4": {},
             "ipv6": {
                 "2a01:4f8:192:3277::2": "Ehingen, Germany",
-                "2001:41d0:0602:2f34::0": "France",
+                "2001:41d0:0602:2f34::0": "Frankfurt am Main, Germany",
                 "2605:6400:30:fdd5::1": "Luxembourg, Luxembourg",
                 "2a01:4f9:2a:14e2::1": "Germany",
                 "2604:2dc0:100:16c::0": "Hillsboro, United States",
@@ -7318,7 +7318,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Katy, United States"
+                "216.230.224.34": "Houston, United States"
             },
             "ipv6": {}
         }
@@ -7395,13 +7395,13 @@
     "vapornode.com": {
         "https://vapornode.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "Canada",
+                "107.173.81.2": "Buffalo, United States",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Saratoga Springs, United States",
+                "166.70.34.35": "Sandy, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -7922,7 +7922,7 @@
                 "131.255.4.1": "Isidro Casanova, Argentina",
                 "131.255.7.1": "Isidro Casanova, Argentina",
                 "170.78.72.1": "Argentina",
-                "170.78.75.1": "Buenos Aires, Argentina"
+                "170.78.75.1": "Argentina"
             },
             "ipv6": {
                 "2803:eb80::1": "Argentina",
@@ -8662,7 +8662,7 @@
         "https://www.ikihost.com/data-center-and-network/": {
             "ipv4": {
                 "204.152.218.25": "Los Angeles, United States",
-                "208.100.4.54": "Kenosha, United States",
+                "208.100.4.54": "United States",
                 "96.44.142.5": "Dallas, United States"
             },
             "ipv6": {}
@@ -8687,7 +8687,7 @@
     "obhost.net": {
         "https://obhost.net/datacenter.php": {
             "ipv4": {
-                "103.86.135.177": "Wah, Pakistan",
+                "103.86.135.177": "Muzaffargarh, Pakistan",
                 "108.61.5.91": "Piscataway, United States",
                 "113.203.235.105": "Pakistan",
                 "152.89.245.245": "Frankfurt am Main, Germany",
@@ -8700,7 +8700,7 @@
                 "2001:19f0:1595:1403::1091": "Piscataway, United States",
                 "2a02:c205:2027:2831:c000::1": "Germany",
                 "2001:41d0:1000:c87:0160:6c3d:2b17:0001": "France",
-                "2001:41d0:604:33:0160:6c3d:2b17:0001": "France",
+                "2001:41d0:604:33:0160:6c3d:2b17:0001": "Frankfurt am Main, Germany",
                 "2a01:367:b1f2:1276:f7b7:8da4:488b:1": "Germany",
                 "2607:5300:60:4699:54e:7515:b9a4:1": "Canada"
             }
@@ -8754,13 +8754,13 @@
     "soladrive.com": {
         "https://www.soladrive.com/datacenter/": {
             "ipv4": {
-                "192.3.180.103": "Seattle, United States",
+                "192.3.180.103": "Buffalo, United States",
                 "199.231.241.88": "Seattle, United States",
                 "216.144.236.177": "Los Angeles, United States",
-                "45.42.140.2": "Grand Forks, United States",
+                "45.42.140.2": "Buffalo, United States",
                 "45.42.143.98": "Vatican City, Vatican City",
                 "66.248.240.55": "United States",
-                "66.248.241.2": "United States",
+                "66.248.241.2": "Buffalo, United States",
                 "66.248.243.2": "United States",
                 "78.157.209.195": "London, United Kingdom"
             },
@@ -8855,7 +8855,7 @@
                 "5.255.63.2": "The Netherlands",
                 "51.161.209.74": "Melbourne, Australia",
                 "51.255.79.128": "France",
-                "51.83.236.173": "United Kingdom",
+                "51.83.236.173": "Poland",
                 "51.89.98.63": "London, United Kingdom"
             },
             "ipv6": {}
@@ -8872,7 +8872,7 @@
     "bahu.pro": {
         "https://www.bahu.pro/security-in-data-center/": {
             "ipv4": {
-                "163.5.150.1": "Frankfurt am Main, Germany"
+                "163.5.150.1": "France"
             },
             "ipv6": {
                 "2001:678:90c::1": "United Kingdom"
@@ -9273,7 +9273,7 @@
     "serverdeals.com": {
         "https://www.serverdeals.com/datacenter/": {
             "ipv4": {
-                "167.88.10.4": "Chicago, United States",
+                "167.88.10.4": "Buffalo, United States",
                 "96.9.249.58": "Buffalo, United States"
             },
             "ipv6": {}
@@ -9283,7 +9283,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Stokesdale, United States"
+                "4.2.3.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9638,13 +9638,13 @@
     "jaxvps.com": {
         "https://jaxvps.com/data-centers.php": {
             "ipv4": {
-                "107.173.81.2": "Canada",
+                "107.173.81.2": "Buffalo, United States",
                 "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Saratoga Springs, United States",
+                "166.70.34.35": "Sandy, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -9713,7 +9713,7 @@
         },
         "http://lg-la.nextarray.com/": {
             "ipv4": {
-                "45.13.233.136": "Secaucus, United States"
+                "45.13.233.136": "New York, United States"
             },
             "ipv6": {}
         },
@@ -9759,7 +9759,7 @@
         },
         "https://dedicated.com/montreal-datacenter": {
             "ipv4": {
-                "64.74.161.37": "Wallington, United States"
+                "64.74.161.37": "United States"
             },
             "ipv6": {}
         },
@@ -9849,7 +9849,7 @@
                 "31.7.177.131": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:54::2": "Dortmund, Germany"
+                "2a01:4a0:54::2": "Germany"
             }
         },
         "fra.lg.core-backbone.com": {
@@ -9857,7 +9857,7 @@
                 "31.7.184.196": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:53::2": "Dortmund, Germany"
+                "2a01:4a0:53::2": "Germany"
             }
         },
         "http://lg.core-backbone.com/": {
@@ -9865,15 +9865,15 @@
                 "83.142.85.226": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:36::2": "Dortmund, Germany"
+                "2a01:4a0:36::2": "Germany"
             }
         },
         "nyk.lg.core-backbone.com": {
             "ipv4": {
-                "81.95.11.204": "Nuremberg, Germany"
+                "81.95.11.204": "Erlangen, Germany"
             },
             "ipv6": {
-                "2a01:4a0:70::2": "Dortmund, Germany"
+                "2a01:4a0:70::2": "Germany"
             }
         },
         "sin.lg.core-backbone.com": {
@@ -9881,7 +9881,7 @@
                 "195.138.250.11": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:e:1::11": "Dortmund, Germany"
+                "2a01:4a0:e:1::11": "Germany"
             }
         }
     },
@@ -10196,7 +10196,7 @@
     "layerservers.com": {
         "https://layerservers.com/datacenter.html": {
             "ipv4": {
-                "192.210.235.60": "Chicago, United States"
+                "192.210.235.60": "Buffalo, United States"
             },
             "ipv6": {}
         }
@@ -10215,7 +10215,7 @@
     "hqserv.co.il": {
         "http://vps.hqserv.co.il/lg/": {
             "ipv4": {
-                "185.191.204.10": "Rishon LeTsiyyon, Israel"
+                "185.191.204.10": "Israel"
             },
             "ipv6": {
                 "2a0a:1dc0::2": "Israel"
@@ -10266,7 +10266,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Woerth am Rhein, Germany"
+                "129.143.4.238": "Weingarten, Germany"
             },
             "ipv6": {}
         }
@@ -10316,8 +10316,8 @@
                 "130.206.198.254": "Pamplona, Spain",
                 "130.206.201.254": "Pamplona, Spain",
                 "130.206.206.250": "Pamplona, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.211.254": "Pamplona, Spain",
+                "130.206.212.254": "Pamplona, Spain"
             },
             "ipv6": {}
         }
@@ -11181,7 +11181,7 @@
                 "189.91.156.9": "Sao Mateus, Brazil"
             },
             "ipv6": {
-                "2804:2050:5a8e:3e9::1": "Brazil"
+                "2804:2050:5a8e:3e9::1": "Sao Mateus, Brazil"
             }
         }
     },
@@ -13680,7 +13680,7 @@
                 "182.255.0.112": "Semarang, Indonesia"
             },
             "ipv6": {
-                "2001:df0:b5:27::2d": "Armidale, Australia"
+                "2001:df0:b5:27::2d": "Indonesia"
             }
         }
     },
@@ -13893,7 +13893,7 @@
                 "191.243.156.214": "Volta Redonda, Brazil"
             },
             "ipv6": {
-                "2804:908:300:806::156:218": "Brazil"
+                "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
             }
         }
     },
@@ -14096,7 +14096,7 @@
     "incx.net": {
         "http://lg.mi.incx.net/": {
             "ipv4": {
-                "38.146.4.164": "Grosse Pointe, United States"
+                "38.146.4.164": "United States"
             },
             "ipv6": {}
         }
@@ -15304,7 +15304,7 @@
                 "128.127.104.4": "Stockholm, Sweden",
                 "37.46.114.4": "Sofia, Bulgaria",
                 "37.46.115.115": "Belgrade, Serbia",
-                "79.142.67.67": "United Kingdom",
+                "79.142.67.67": "The Netherlands",
                 "79.142.69.9": "Zurich, Switzerland"
             },
             "ipv6": {}
@@ -16817,6 +16817,12 @@
             "ipv6": {
                 "2a13:6304:0:6::1": "Reykjavik, Iceland"
             }
+        },
+        "looking.house/point.php?id=763": {
+            "ipv4": {
+                "95.164.4.5": "Sao Paulo, Brazil"
+            },
+            "ipv6": {}
         }
     },
     "4vps": {
@@ -17320,7 +17326,7 @@
     "SakuraServer": {
         "looking.house/point.php?id=231": {
             "ipv4": {
-                "5.135.81.19": "France"
+                "5.135.81.19": "Belgium"
             },
             "ipv6": {}
         },
@@ -17747,7 +17753,7 @@
                 "45.8.159.227": "Novosibirsk, Russia"
             },
             "ipv6": {
-                "2a00:b700:2::32b": "Moscow, Russia"
+                "2a00:b700:2::32b": "Russia"
             }
         },
         "looking.house/point.php?id=464": {
@@ -17779,7 +17785,7 @@
                 "194.147.85.59": "St Petersburg, Russia"
             },
             "ipv6": {
-                "2a00:b700:5::4:3a2": "Moscow, Russia"
+                "2a00:b700:5::4:3a2": "Russia"
             }
         },
         "looking.house/point.php?id=697": {
@@ -17867,7 +17873,7 @@
                 "91.149.233.105": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2605:e440:1::1:337": "Dallas, United States"
+                "2605:e440:1::1:337": "United States"
             }
         },
         "looking.house/point.php?id=708": {
@@ -18311,7 +18317,7 @@
                 "194.58.33.10": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a0c:b641:3b0:2::2": "Gif-sur-Yvette, France"
+                "2a0c:b641:3b0:2::2": "Belgium"
             }
         }
     },
@@ -18426,7 +18432,7 @@
         },
         "looking.house/point.php?id=757": {
             "ipv4": {
-                "23.95.182.54": "Canada"
+                "23.95.182.54": "Buffalo, United States"
             },
             "ipv6": {
                 "2a05:b40:0:652::3": "Amsterdam, The Netherlands"
@@ -18447,7 +18453,7 @@
                 "185.17.121.239": "Germany"
             },
             "ipv6": {
-                "2a00:c98:2030:b020::129": "Sulzbach, Germany"
+                "2a00:c98:2030:b020::129": "Rottenburg, Germany"
             }
         },
         "looking.house/point.php?id=723": {
@@ -18544,7 +18550,7 @@
         },
         "looking.house/point.php?id=744": {
             "ipv4": {
-                "93.95.115.19": "The Netherlands"
+                "93.95.115.19": "Kerkrade, The Netherlands"
             },
             "ipv6": {}
         }
@@ -18704,13 +18710,13 @@
     "Megahost": {
         "looking.house/point.php?id=161": {
             "ipv4": {
-                "45.136.58.26": "Oral, Kazakhstan"
+                "45.136.58.26": "Kazakhstan"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=607": {
             "ipv4": {
-                "45.136.59.80": "Oral, Kazakhstan"
+                "45.136.59.80": "Kazakhstan"
             },
             "ipv6": {}
         }
@@ -18750,7 +18756,7 @@
     "Goodhost": {
         "looking.house/point.php?id=213": {
             "ipv4": {
-                "185.234.114.10": "Almaty, Kazakhstan"
+                "185.234.114.10": "Kazakhstan"
             },
             "ipv6": {}
         }
@@ -18785,7 +18791,7 @@
                 "176.223.140.7": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:b0df:8c07::1": "Lithuania"
+                "2a02:7b40:b0df:8c07::1": "Vilnius, Lithuania"
             }
         }
     },
@@ -18885,7 +18891,7 @@
                 "193.233.202.106": "Chisinau, Moldova"
             },
             "ipv6": {
-                "2001:678:6d4:9202::1bd": "Karlsruhe, Germany"
+                "2001:678:6d4:9202::1bd": "Moldova"
             }
         }
     },
@@ -18950,6 +18956,16 @@
             },
             "ipv6": {
                 "2a0e:d604:1:1::2": "Seychelles"
+            }
+        }
+    },
+    "Servervy": {
+        "looking.house/point.php?id=762": {
+            "ipv4": {
+                "81.161.238.9": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a13:9f40:0:4::a": "Amsterdam, The Netherlands"
             }
         }
     },
@@ -19141,7 +19157,7 @@
                 "43.224.121.48": "Auckland, New Zealand"
             },
             "ipv6": {
-                "2404:ab00:7:1::f47f:f27a": "Red Beach, New Zealand"
+                "2404:ab00:7:1::f47f:f27a": "New Zealand"
             }
         }
     },
@@ -19756,7 +19772,7 @@
         },
         "looking.house/point.php?id=264": {
             "ipv4": {
-                "66.248.241.252": "United States"
+                "66.248.241.252": "Buffalo, United States"
             },
             "ipv6": {}
         }
@@ -19884,7 +19900,7 @@
     "AquaNX": {
         "looking.house/point.php?id=498": {
             "ipv4": {
-                "192.74.254.48": "Portland, United States"
+                "192.74.254.48": "United States"
             },
             "ipv6": {}
         }
@@ -19935,6 +19951,20 @@
         "looking.house/point.php?id=433": {
             "ipv4": {
                 "170.39.226.138": "Secaucus, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "SadeemRDP": {
+        "looking.house/point.php?id=760": {
+            "ipv4": {
+                "104.234.233.47": "Brooklyn, United States"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=761": {
+            "ipv4": {
+                "91.102.165.18": "London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -20316,7 +20346,7 @@
         },
         "vin.proof.ovh.us": {
             "ipv4": {
-                "135.148.100.133": "Porter Corners, United States"
+                "135.148.100.133": "United States"
             },
             "ipv6": {}
         }

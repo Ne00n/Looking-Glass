@@ -3014,6 +3014,7 @@
 * [looking.house/point.php?id=670](http://looking.house/point.php?id=670)
 * [looking.house/point.php?id=727](http://looking.house/point.php?id=727)
 * [looking.house/point.php?id=739](http://looking.house/point.php?id=739)
+* [looking.house/point.php?id=763](http://looking.house/point.php?id=763)
 ### 4vps
 * [looking.house/point.php?id=671](http://looking.house/point.php?id=671)
 * [looking.house/point.php?id=673](http://looking.house/point.php?id=673)
@@ -3375,6 +3376,8 @@
 * [looking.house/point.php?id=726](http://looking.house/point.php?id=726)
 ### h2.nexus
 * [looking.house/point.php?id=750](http://looking.house/point.php?id=750)
+### Servervy
+* [looking.house/point.php?id=762](http://looking.house/point.php?id=762)
 ### Intersect.host
 * [looking.house/point.php?id=268](http://looking.house/point.php?id=268)
 ### Zomro
@@ -3581,6 +3584,9 @@
 ### Misaka Network Inc
 * [looking.house/point.php?id=432](http://looking.house/point.php?id=432)
 * [looking.house/point.php?id=433](http://looking.house/point.php?id=433)
+### SadeemRDP
+* [looking.house/point.php?id=760](http://looking.house/point.php?id=760)
+* [looking.house/point.php?id=761](http://looking.house/point.php?id=761)
 ### PloxHost
 * [looking.house/point.php?id=504](http://looking.house/point.php?id=504)
 * [looking.house/point.php?id=520](http://looking.house/point.php?id=520)

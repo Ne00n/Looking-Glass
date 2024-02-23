@@ -458,6 +458,12 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=763": {
+            "ipv4": [
+                "95.164.4.5"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=555": {
             "ipv4": [
                 "146.19.80.3"
@@ -2819,6 +2825,16 @@
             ]
         }
     },
+    "Servervy": {
+        "looking.house/point.php?id=762": {
+            "ipv4": [
+                "81.161.238.9"
+            ],
+            "ipv6": [
+                "2a13:9f40:0:4::a"
+            ]
+        }
+    },
     "Intersect.host": {
         "looking.house/point.php?id=268": {
             "ipv4": [
@@ -3801,6 +3817,20 @@
         "looking.house/point.php?id=432": {
             "ipv4": [
                 "170.39.224.171"
+            ],
+            "ipv6": []
+        }
+    },
+    "SadeemRDP": {
+        "looking.house/point.php?id=760": {
+            "ipv4": [
+                "104.234.233.47"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=761": {
+            "ipv4": [
+                "91.102.165.18"
             ],
             "ipv6": []
         }
