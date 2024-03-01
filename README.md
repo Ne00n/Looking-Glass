@@ -3255,16 +3255,6 @@
 * [looking.house/point.php?id=591](http://looking.house/point.php?id=591)
 ### NuxtCloud
 * [looking.house/point.php?id=619](http://looking.house/point.php?id=619)
-### Kuroit
-* [looking.house/point.php?id=595](http://looking.house/point.php?id=595)
-* [looking.house/point.php?id=596](http://looking.house/point.php?id=596)
-* [looking.house/point.php?id=600](http://looking.house/point.php?id=600)
-* [looking.house/point.php?id=624](http://looking.house/point.php?id=624)
-* [looking.house/point.php?id=626](http://looking.house/point.php?id=626)
-* [looking.house/point.php?id=627](http://looking.house/point.php?id=627)
-* [looking.house/point.php?id=666](http://looking.house/point.php?id=666)
-* [looking.house/point.php?id=667](http://looking.house/point.php?id=667)
-* [looking.house/point.php?id=668](http://looking.house/point.php?id=668)
 ### Z-Tv
 * [looking.house/point.php?id=435](http://looking.house/point.php?id=435)
 * [looking.house/point.php?id=621](http://looking.house/point.php?id=621)
@@ -3305,6 +3295,7 @@
 * [looking.house/point.php?id=431](http://looking.house/point.php?id=431)
 ### HostZop
 * [looking.house/point.php?id=736](http://looking.house/point.php?id=736)
+* [looking.house/point.php?id=767](http://looking.house/point.php?id=767)
 ### Kings Network Indonesia
 * [looking.house/point.php?id=742](http://looking.house/point.php?id=742)
 * [looking.house/point.php?id=745](http://looking.house/point.php?id=745)
@@ -3350,6 +3341,10 @@
 ### Full VPS Server
 * [looking.house/point.php?id=255](http://looking.house/point.php?id=255)
 * [looking.house/point.php?id=257](http://looking.house/point.php?id=257)
+### MangoHost
+* [looking.house/point.php?id=590](http://looking.house/point.php?id=590)
+### AlexHost
+* [looking.house/point.php?id=659](http://looking.house/point.php?id=659)
 ### MivoCloud
 * [looking.house/point.php?id=168](http://looking.house/point.php?id=168)
 * [looking.house/point.php?id=207](http://looking.house/point.php?id=207)
@@ -3360,10 +3355,6 @@
 * [looking.house/point.php?id=16](http://looking.house/point.php?id=16)
 * [looking.house/point.php?id=17](http://looking.house/point.php?id=17)
 * [looking.house/point.php?id=453](http://looking.house/point.php?id=453)
-### MangoHost
-* [looking.house/point.php?id=590](http://looking.house/point.php?id=590)
-### AlexHost
-* [looking.house/point.php?id=659](http://looking.house/point.php?id=659)
 ### Eurobyte
 * [looking.house/point.php?id=82](http://looking.house/point.php?id=82)
 * [looking.house/point.php?id=86](http://looking.house/point.php?id=86)
@@ -3387,6 +3378,17 @@
 * [looking.house/point.php?id=33](http://looking.house/point.php?id=33)
 ### LiteServer B.V.
 * [looking.house/point.php?id=384](http://looking.house/point.php?id=384)
+### Kuroit
+* [looking.house/point.php?id=595](http://looking.house/point.php?id=595)
+* [looking.house/point.php?id=596](http://looking.house/point.php?id=596)
+* [looking.house/point.php?id=600](http://looking.house/point.php?id=600)
+* [looking.house/point.php?id=624](http://looking.house/point.php?id=624)
+* [looking.house/point.php?id=626](http://looking.house/point.php?id=626)
+* [looking.house/point.php?id=666](http://looking.house/point.php?id=666)
+* [looking.house/point.php?id=667](http://looking.house/point.php?id=667)
+* [looking.house/point.php?id=668](http://looking.house/point.php?id=668)
+* [looking.house/point.php?id=765](http://looking.house/point.php?id=765)
+* [looking.house/point.php?id=766](http://looking.house/point.php?id=766)
 ### MGNHost
 * [looking.house/point.php?id=165](http://looking.house/point.php?id=165)
 * [looking.house/point.php?id=73](http://looking.house/point.php?id=73)
