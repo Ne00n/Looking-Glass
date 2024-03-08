@@ -3430,19 +3430,12 @@
 * [looking.house/point.php?id=175](http://looking.house/point.php?id=175)
 ### Lite-Host
 * [looking.house/point.php?id=751](http://looking.house/point.php?id=751)
-### EdgeCenter
-* [looking.house/point.php?id=644](http://looking.house/point.php?id=644)
-* [looking.house/point.php?id=645](http://looking.house/point.php?id=645)
-* [looking.house/point.php?id=646](http://looking.house/point.php?id=646)
-* [looking.house/point.php?id=647](http://looking.house/point.php?id=647)
-* [looking.house/point.php?id=648](http://looking.house/point.php?id=648)
-* [looking.house/point.php?id=649](http://looking.house/point.php?id=649)
-* [looking.house/point.php?id=650](http://looking.house/point.php?id=650)
-* [looking.house/point.php?id=651](http://looking.house/point.php?id=651)
-* [looking.house/point.php?id=652](http://looking.house/point.php?id=652)
 ### FirstVDS
 * [looking.house/point.php?id=635](http://looking.house/point.php?id=635)
 * [looking.house/point.php?id=83](http://looking.house/point.php?id=83)
+### EdgeCenter
+* [looking.house/point.php?id=648](http://looking.house/point.php?id=648)
+* [looking.house/point.php?id=649](http://looking.house/point.php?id=649)
 ### SmartApe
 * [looking.house/point.php?id=12](http://looking.house/point.php?id=12)
 ### VPSVILLE
@@ -3548,6 +3541,9 @@
 * [looking.house/point.php?id=224](http://looking.house/point.php?id=224)
 ### Venois Hosting
 * [looking.house/point.php?id=408](http://looking.house/point.php?id=408)
+### PlasmaRack
+* [looking.house/point.php?id=768](http://looking.house/point.php?id=768)
+* [looking.house/point.php?id=769](http://looking.house/point.php?id=769)
 ### SolaDrive
 * [looking.house/point.php?id=262](http://looking.house/point.php?id=262)
 * [looking.house/point.php?id=263](http://looking.house/point.php?id=263)

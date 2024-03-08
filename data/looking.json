@@ -3093,62 +3093,6 @@
             ]
         }
     },
-    "EdgeCenter": {
-        "looking.house/point.php?id=652": {
-            "ipv4": [
-                "5.188.37.68"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=649": {
-            "ipv4": [
-                "146.185.198.110"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=646": {
-            "ipv4": [
-                "5.189.201.101"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=650": {
-            "ipv4": [
-                "92.38.139.174"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=644": {
-            "ipv4": [
-                "146.185.199.171"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=647": {
-            "ipv4": [
-                "92.223.65.232"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=648": {
-            "ipv4": [
-                "146.185.196.62"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=651": {
-            "ipv4": [
-                "5.101.218.45"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=645": {
-            "ipv4": [
-                "92.223.109.22"
-            ],
-            "ipv6": []
-        }
-    },
     "FirstVDS": {
         "looking.house/point.php?id=83": {
             "ipv4": [
@@ -3161,6 +3105,20 @@
         "looking.house/point.php?id=635": {
             "ipv4": [
                 "37.230.112.48"
+            ],
+            "ipv6": []
+        }
+    },
+    "EdgeCenter": {
+        "looking.house/point.php?id=649": {
+            "ipv4": [
+                "146.185.198.110"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=648": {
+            "ipv4": [
+                "146.185.196.62"
             ],
             "ipv6": []
         }
@@ -3638,6 +3596,24 @@
             ],
             "ipv6": [
                 "2a0c:f587:fffd:19::1"
+            ]
+        }
+    },
+    "PlasmaRack": {
+        "looking.house/point.php?id=768": {
+            "ipv4": [
+                "64.112.127.102"
+            ],
+            "ipv6": [
+                "2602:299:80:1e::a"
+            ]
+        },
+        "looking.house/point.php?id=769": {
+            "ipv4": [
+                "68.69.176.179"
+            ],
+            "ipv6": [
+                "2602:2d4:f02:4::a"
             ]
         }
     },
