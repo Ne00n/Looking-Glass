@@ -1221,52 +1221,6 @@
             "ipv6": []
         }
     },
-    "HostNamaste": {
-        "looking.house/point.php?id=303": {
-            "ipv4": [
-                "198.50.214.138"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=252": {
-            "ipv4": [
-                "54.38.124.154"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=253": {
-            "ipv4": [
-                "129.227.218.229"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=759": {
-            "ipv4": [
-                "91.199.166.188"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=254": {
-            "ipv4": [
-                "104.166.186.132"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=249": {
-            "ipv4": [
-                "23.247.15.139"
-            ],
-            "ipv6": [
-                "2604:d180:17::d3c0:a94f"
-            ]
-        },
-        "looking.house/point.php?id=719": {
-            "ipv4": [
-                "208.115.210.58"
-            ],
-            "ipv6": []
-        }
-    },
     "ThomasHost": {
         "looking.house/point.php?id=372": {
             "ipv4": [
@@ -1423,6 +1377,54 @@
         "looking.house/point.php?id=425": {
             "ipv4": [
                 "45.148.28.157"
+            ],
+            "ipv6": []
+        }
+    },
+    "HostNamaste": {
+        "looking.house/point.php?id=303": {
+            "ipv4": [
+                "66.187.192.66"
+            ],
+            "ipv6": [
+                "2602:fd23:6:d::193b:ea7a"
+            ]
+        },
+        "looking.house/point.php?id=252": {
+            "ipv4": [
+                "54.38.124.154"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=253": {
+            "ipv4": [
+                "129.227.218.229"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=759": {
+            "ipv4": [
+                "91.199.166.188"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=254": {
+            "ipv4": [
+                "104.166.186.132"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=249": {
+            "ipv4": [
+                "23.247.15.139"
+            ],
+            "ipv6": [
+                "2604:d180:17::d3c0:a94f"
+            ]
+        },
+        "looking.house/point.php?id=719": {
+            "ipv4": [
+                "208.115.210.58"
             ],
             "ipv6": []
         }
