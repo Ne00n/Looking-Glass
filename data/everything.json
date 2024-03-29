@@ -73,6 +73,7 @@
                 "16.162.0.253": "Hong Kong",
                 "16.50.164.255": "Melbourne, Australia",
                 "16.62.132.214": "Zurich, Switzerland",
+                "16.78.0.0": "Jakarta, Indonesia",
                 "18.100.135.187": "Zaragoza, Spain",
                 "18.236.0.0": "Boardman, United States",
                 "18.60.8.120": "Hyderabad, India",
@@ -91,7 +92,6 @@
                 "40.176.100.29": "United States",
                 "43.192.0.113": "Ningxia, China",
                 "43.196.0.253": "China",
-                "43.218.0.0": "Jakarta, Indonesia",
                 "51.16.235.176": "Tel Aviv, Israel",
                 "64.187.131.1": "Miami, United States",
                 "68.66.113.112": "Boston, United States",
@@ -843,7 +843,7 @@
         },
         "https://tokyo.lg.extravm.com/": {
             "ipv4": {
-                "103.214.71.2": "United States"
+                "103.214.71.2": "Tokyo, Japan"
             },
             "ipv6": {
                 "2607:fdc0:301:4::1:a": "Tokyo, Japan"
@@ -2218,7 +2218,7 @@
         },
         "sg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "103.253.27.204": "Boyolali, Indonesia"
+                "103.253.27.204": "Singapore"
             },
             "ipv6": {}
         }
@@ -2523,7 +2523,7 @@
                 "107.152.47.1": "United States"
             },
             "ipv6": {
-                "2607:9000:3000:11::1": "Beverly Hills, United States"
+                "2607:9000:3000:11::1": "Los Angeles, United States"
             }
         },
         "lg.servercheap.net": {
@@ -2780,12 +2780,12 @@
     "ramnode.com": {
         "https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html": {
             "ipv4": {
-                "107.161.19.31": "Miami, United States",
-                "107.161.23.2": "Miami, United States",
+                "107.161.19.31": "United States",
+                "107.161.23.2": "United States",
                 "107.191.99.2": "New York, United States",
-                "168.235.74.9": "Somerset, United States",
-                "168.235.75.122": "Somerset, United States",
-                "168.235.89.44": "Somerset, United States",
+                "168.235.74.9": "United States",
+                "168.235.75.122": "United States",
+                "168.235.89.44": "United States",
                 "185.34.216.2": "The Netherlands"
             },
             "ipv6": {}
@@ -2800,7 +2800,7 @@
         },
         "lg.la.ramnode.com": {
             "ipv4": {
-                "168.235.72.22": "Somerset, United States"
+                "168.235.72.22": "United States"
             },
             "ipv6": {
                 "2604:180:3:1::f1": "United States"
@@ -3289,7 +3289,7 @@
                 "176.105.254.252": "Italy"
             },
             "ipv6": {
-                "2a0d:c740:1c:1::dfa:c4f7": "United States"
+                "2a0d:c740:1c:1::dfa:c4f7": "Milan, Italy"
             }
         },
         "lg-nl.vmium.com": {
@@ -3635,7 +3635,7 @@
                 "176.105.254.252": "Italy"
             },
             "ipv6": {
-                "2a0d:c740:1c:1::dfa:c4f7": "United States"
+                "2a0d:c740:1c:1::dfa:c4f7": "Milan, Italy"
             }
         },
         "lg-nl.breezle.net": {
@@ -8092,7 +8092,7 @@
                 "103.1.187.96": "Sydney, Australia"
             },
             "ipv6": {
-                "2404:9400:2:0:216:3eff:fee1:3a3b": "Wheeland, Turks and Caicos Islands"
+                "2404:9400:2:0:216:3eff:fee1:3a3b": "Australia"
             }
         },
         "mel-lg.binarylane.cloud": {
@@ -10000,7 +10000,7 @@
                 "176.105.254.252": "Italy"
             },
             "ipv6": {
-                "2a0d:c740:1c:1::dfa:c4f7": "United States"
+                "2a0d:c740:1c:1::dfa:c4f7": "Milan, Italy"
             }
         },
         "http://lg-nl.simplevm.net/": {
@@ -11957,7 +11957,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Smolec, Poland"
+                "185.56.208.2": "Sobotka, Poland"
             },
             "ipv6": {}
         }
@@ -12879,7 +12879,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Hanusek, Poland"
+                "91.188.97.174": "Tarnowskie Gory, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -17710,7 +17710,7 @@
         },
         "looking.house/point.php?id=359": {
             "ipv4": {
-                "185.205.187.56": "Cyprus"
+                "185.205.187.56": "Limassol, Cyprus"
             },
             "ipv6": {
                 "2a0c:5cc0:1::1:6c90:1e69": "Cyprus"
@@ -18478,7 +18478,7 @@
         },
         "looking.house/point.php?id=658": {
             "ipv4": {
-                "109.172.84.36": "Fremont, United States"
+                "147.45.124.36": "Fremont, United States"
             },
             "ipv6": {}
         },
@@ -19888,6 +19888,12 @@
             },
             "ipv6": {}
         },
+        "looking.house/point.php?id=284": {
+            "ipv4": {
+                "185.215.227.9": "United Kingdom"
+            },
+            "ipv6": {}
+        },
         "looking.house/point.php?id=460": {
             "ipv4": {
                 "185.215.226.26": "Edison, United States"
@@ -20100,7 +20106,7 @@
     "VIKHOST": {
         "looking.house/point.php?id=292": {
             "ipv4": {
-                "45.135.167.3": "Kyiv, Ukraine"
+                "185.225.226.150": "Kyiv, Ukraine"
             },
             "ipv6": {}
         }

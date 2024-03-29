@@ -3570,6 +3570,7 @@
 * [looking.house/point.php?id=738](http://looking.house/point.php?id=738)
 ### LetBox
 * [looking.house/point.php?id=283](http://looking.house/point.php?id=283)
+* [looking.house/point.php?id=284](http://looking.house/point.php?id=284)
 * [looking.house/point.php?id=460](http://looking.house/point.php?id=460)
 ### GoZENhost
 * [looking.house/point.php?id=343](http://looking.house/point.php?id=343)
