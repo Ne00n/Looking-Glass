@@ -3204,16 +3204,26 @@
 * [looking.house/point.php?id=42](http://looking.house/point.php?id=42)
 * [looking.house/point.php?id=43](http://looking.house/point.php?id=43)
 * [looking.house/point.php?id=44](http://looking.house/point.php?id=44)
-### Hexcore
-* [looking.house/point.php?id=314](http://looking.house/point.php?id=314)
-* [looking.house/point.php?id=36](http://looking.house/point.php?id=36)
-* [looking.house/point.php?id=493](http://looking.house/point.php?id=493)
 ### GMHost
 * [looking.house/point.php?id=10](http://looking.house/point.php?id=10)
 * [looking.house/point.php?id=11](http://looking.house/point.php?id=11)
 * [looking.house/point.php?id=620](http://looking.house/point.php?id=620)
 ### Core Solutions
 * [looking.house/point.php?id=67](http://looking.house/point.php?id=67)
+### Hexcore
+* [looking.house/point.php?id=314](http://looking.house/point.php?id=314)
+* [looking.house/point.php?id=36](http://looking.house/point.php?id=36)
+* [looking.house/point.php?id=493](http://looking.house/point.php?id=493)
+### VPS2day
+* [looking.house/point.php?id=779](http://looking.house/point.php?id=779)
+* [looking.house/point.php?id=780](http://looking.house/point.php?id=780)
+* [looking.house/point.php?id=781](http://looking.house/point.php?id=781)
+* [looking.house/point.php?id=782](http://looking.house/point.php?id=782)
+* [looking.house/point.php?id=783](http://looking.house/point.php?id=783)
+* [looking.house/point.php?id=784](http://looking.house/point.php?id=784)
+* [looking.house/point.php?id=785](http://looking.house/point.php?id=785)
+* [looking.house/point.php?id=786](http://looking.house/point.php?id=786)
+* [looking.house/point.php?id=787](http://looking.house/point.php?id=787)
 ### FirstByte
 * [looking.house/point.php?id=123](http://looking.house/point.php?id=123)
 * [looking.house/point.php?id=124](http://looking.house/point.php?id=124)
@@ -3334,6 +3344,7 @@
 * [looking.house/point.php?id=765](http://looking.house/point.php?id=765)
 * [looking.house/point.php?id=766](http://looking.house/point.php?id=766)
 * [looking.house/point.php?id=775](http://looking.house/point.php?id=775)
+* [looking.house/point.php?id=778](http://looking.house/point.php?id=778)
 ### Megahost
 * [looking.house/point.php?id=161](http://looking.house/point.php?id=161)
 * [looking.house/point.php?id=607](http://looking.house/point.php?id=607)
@@ -3527,7 +3538,7 @@
 * [looking.house/point.php?id=584](http://looking.house/point.php?id=584)
 ### Unlimited.RS
 * [looking.house/point.php?id=388](http://looking.house/point.php?id=388)
-### Host Media Hosting
+### Hosting022
 * [looking.house/point.php?id=469](http://looking.house/point.php?id=469)
 ### Sered
 * [looking.house/point.php?id=386](http://looking.house/point.php?id=386)
@@ -3569,6 +3580,9 @@
 * [looking.house/point.php?id=519](http://looking.house/point.php?id=519)
 ### TerraNode
 * [looking.house/point.php?id=738](http://looking.house/point.php?id=738)
+### DediRock
+* [looking.house/point.php?id=776](http://looking.house/point.php?id=776)
+* [looking.house/point.php?id=777](http://looking.house/point.php?id=777)
 ### LetBox
 * [looking.house/point.php?id=283](http://looking.house/point.php?id=283)
 * [looking.house/point.php?id=284](http://looking.house/point.php?id=284)
@@ -3595,10 +3609,10 @@
 ### PloxHost
 * [looking.house/point.php?id=504](http://looking.house/point.php?id=504)
 * [looking.house/point.php?id=520](http://looking.house/point.php?id=520)
-### TeraSwitch Inc.
-* [looking.house/point.php?id=378](http://looking.house/point.php?id=378)
 ### LaunchVPS
 * [looking.house/point.php?id=205](http://looking.house/point.php?id=205)
+### TeraSwitch Inc.
+* [looking.house/point.php?id=378](http://looking.house/point.php?id=378)
 ### Rad Web Hosting
 * [looking.house/point.php?id=608](http://looking.house/point.php?id=608)
 ### KhanWebHost

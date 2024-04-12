@@ -1915,32 +1915,6 @@
             ]
         }
     },
-    "Hexcore": {
-        "looking.house/point.php?id=493": {
-            "ipv4": [
-                "193.42.112.3"
-            ],
-            "ipv6": [
-                "2a06:1301:4100:402::"
-            ]
-        },
-        "looking.house/point.php?id=314": {
-            "ipv4": [
-                "45.10.110.52"
-            ],
-            "ipv6": [
-                "2a04:ac00:000a:0132::"
-            ]
-        },
-        "looking.house/point.php?id=36": {
-            "ipv4": [
-                "92.255.99.30"
-            ],
-            "ipv6": [
-                "2a04:ac00:0009:00d2::"
-            ]
-        }
-    },
     "GMHost": {
         "looking.house/point.php?id=11": {
             "ipv4": [
@@ -1967,6 +1941,88 @@
         "looking.house/point.php?id=67": {
             "ipv4": [
                 "5.253.176.16"
+            ],
+            "ipv6": []
+        }
+    },
+    "Hexcore": {
+        "looking.house/point.php?id=493": {
+            "ipv4": [
+                "193.42.112.3"
+            ],
+            "ipv6": [
+                "2a06:1301:4100:402::"
+            ]
+        },
+        "looking.house/point.php?id=314": {
+            "ipv4": [
+                "45.10.110.52"
+            ],
+            "ipv6": [
+                "2a04:ac00:000a:0132::"
+            ]
+        },
+        "looking.house/point.php?id=36": {
+            "ipv4": [
+                "92.255.99.30"
+            ],
+            "ipv6": [
+                "2a04:ac00:0009:00d2::"
+            ]
+        }
+    },
+    "VPS2day": {
+        "looking.house/point.php?id=781": {
+            "ipv4": [
+                "80.77.25.148"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=779": {
+            "ipv4": [
+                "91.241.93.121"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=782": {
+            "ipv4": [
+                "31.214.157.119"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=783": {
+            "ipv4": [
+                "185.158.248.211"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=787": {
+            "ipv4": [
+                "79.132.135.254"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=784": {
+            "ipv4": [
+                "45.155.250.149"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=780": {
+            "ipv4": [
+                "94.247.42.80"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=786": {
+            "ipv4": [
+                "170.130.55.128"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=785": {
+            "ipv4": [
+                "45.11.180.129"
             ],
             "ipv6": []
         }
@@ -2599,6 +2655,12 @@
             "ipv6": [
                 "2602:ffc5:40a:1::a"
             ]
+        },
+        "looking.house/point.php?id=778": {
+            "ipv4": [
+                "45.11.230.2"
+            ],
+            "ipv6": []
         },
         "looking.house/point.php?id=600": {
             "ipv4": [
@@ -3547,7 +3609,7 @@
             "ipv6": []
         }
     },
-    "Host Media Hosting": {
+    "Hosting022": {
         "looking.house/point.php?id=469": {
             "ipv4": [
                 "141.11.5.41"
@@ -3755,6 +3817,20 @@
             "ipv6": []
         }
     },
+    "DediRock": {
+        "looking.house/point.php?id=777": {
+            "ipv4": [
+                "107.174.123.254"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=776": {
+            "ipv4": [
+                "199.188.100.133"
+            ],
+            "ipv6": []
+        }
+    },
     "LetBox": {
         "looking.house/point.php?id=283": {
             "ipv4": [
@@ -3889,16 +3965,6 @@
             "ipv6": []
         }
     },
-    "TeraSwitch Inc.": {
-        "looking.house/point.php?id=378": {
-            "ipv4": [
-                "74.118.138.64"
-            ],
-            "ipv6": [
-                "2607:fdc0:5:9::179"
-            ]
-        }
-    },
     "LaunchVPS": {
         "looking.house/point.php?id=205": {
             "ipv4": [
@@ -3906,6 +3972,16 @@
             ],
             "ipv6": [
                 "2001:550:1703:5::2"
+            ]
+        }
+    },
+    "TeraSwitch Inc.": {
+        "looking.house/point.php?id=378": {
+            "ipv4": [
+                "74.118.138.64"
+            ],
+            "ipv6": [
+                "2607:fdc0:5:9::179"
             ]
         }
     },
