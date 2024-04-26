@@ -3068,6 +3068,7 @@
 * [looking.house/point.php?id=716](http://looking.house/point.php?id=716)
 * [looking.house/point.php?id=717](http://looking.house/point.php?id=717)
 * [looking.house/point.php?id=737](http://looking.house/point.php?id=737)
+* [looking.house/point.php?id=800](http://looking.house/point.php?id=800)
 ### ITL DC
 * [looking.house/point.php?id=174](http://looking.house/point.php?id=174)
 * [looking.house/point.php?id=217](http://looking.house/point.php?id=217)
@@ -3254,10 +3255,6 @@
 * [looking.house/point.php?id=791](http://looking.house/point.php?id=791)
 * [looking.house/point.php?id=792](http://looking.house/point.php?id=792)
 * [looking.house/point.php?id=799](http://looking.house/point.php?id=799)
-### SpaceCore
-* [looking.house/point.php?id=507](http://looking.house/point.php?id=507)
-* [looking.house/point.php?id=629](http://looking.house/point.php?id=629)
-* [looking.house/point.php?id=630](http://looking.house/point.php?id=630)
 ### Virtua.Cloud
 * [looking.house/point.php?id=376](http://looking.house/point.php?id=376)
 * [looking.house/point.php?id=516](http://looking.house/point.php?id=516)
@@ -3283,6 +3280,9 @@
 * [looking.house/point.php?id=591](http://looking.house/point.php?id=591)
 ### NuxtCloud
 * [looking.house/point.php?id=619](http://looking.house/point.php?id=619)
+### SpaceCore
+* [looking.house/point.php?id=507](http://looking.house/point.php?id=507)
+* [looking.house/point.php?id=629](http://looking.house/point.php?id=629)
 ### Z-Tv
 * [looking.house/point.php?id=435](http://looking.house/point.php?id=435)
 * [looking.house/point.php?id=621](http://looking.house/point.php?id=621)
@@ -3465,9 +3465,6 @@
 ### FirstVDS
 * [looking.house/point.php?id=635](http://looking.house/point.php?id=635)
 * [looking.house/point.php?id=83](http://looking.house/point.php?id=83)
-### EdgeCenter
-* [looking.house/point.php?id=648](http://looking.house/point.php?id=648)
-* [looking.house/point.php?id=649](http://looking.house/point.php?id=649)
 ### SmartApe
 * [looking.house/point.php?id=12](http://looking.house/point.php?id=12)
 ### VPSVILLE
@@ -3523,7 +3520,6 @@
 * [looking.house/point.php?id=490](http://looking.house/point.php?id=490)
 ### OnlineVDS
 * [looking.house/point.php?id=579](http://looking.house/point.php?id=579)
-* [looking.house/point.php?id=712](http://looking.house/point.php?id=712)
 ### FirstDEDIC
 * [looking.house/point.php?id=634](http://looking.house/point.php?id=634)
 ### CLO

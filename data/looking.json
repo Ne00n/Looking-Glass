@@ -1006,6 +1006,12 @@
             ],
             "ipv6": []
         },
+        "looking.house/point.php?id=800": {
+            "ipv4": [
+                "195.211.40.98"
+            ],
+            "ipv6": []
+        },
         "looking.house/point.php?id=715": {
             "ipv4": [
                 "193.203.51.199"
@@ -2209,26 +2215,6 @@
             ]
         }
     },
-    "SpaceCore": {
-        "looking.house/point.php?id=630": {
-            "ipv4": [
-                "51.210.64.98"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=629": {
-            "ipv4": [
-                "80.85.242.81"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=507": {
-            "ipv4": [
-                "95.181.153.25"
-            ],
-            "ipv6": []
-        }
-    },
     "Virtua.Cloud": {
         "looking.house/point.php?id=376": {
             "ipv4": [
@@ -2361,6 +2347,20 @@
             ]
         }
     },
+    "SpaceCore": {
+        "looking.house/point.php?id=629": {
+            "ipv4": [
+                "80.85.242.81"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=507": {
+            "ipv4": [
+                "95.181.153.25"
+            ],
+            "ipv6": []
+        }
+    },
     "Z-Tv": {
         "looking.house/point.php?id=753": {
             "ipv4": [
@@ -2446,7 +2446,9 @@
             "ipv4": [
                 "193.233.193.36"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a0d:6c2:4:2::1"
+            ]
         },
         "looking.house/point.php?id=567": {
             "ipv4": [
@@ -2464,13 +2466,17 @@
             "ipv4": [
                 "193.17.183.55"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a0d:6c2:12:1::1"
+            ]
         },
         "looking.house/point.php?id=658": {
             "ipv4": [
                 "147.45.124.36"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a0d:6c2:6:9::1"
+            ]
         }
     },
     "MLNL.HOST": {
@@ -3297,20 +3303,6 @@
             "ipv6": []
         }
     },
-    "EdgeCenter": {
-        "looking.house/point.php?id=649": {
-            "ipv4": [
-                "146.185.198.110"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=648": {
-            "ipv4": [
-                "146.185.196.62"
-            ],
-            "ipv6": []
-        }
-    },
     "SmartApe": {
         "looking.house/point.php?id=12": {
             "ipv4": [
@@ -3559,12 +3551,6 @@
         "looking.house/point.php?id=579": {
             "ipv4": [
                 "194.226.139.73"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=712": {
-            "ipv4": [
-                "88.151.114.6"
             ],
             "ipv6": []
         }
