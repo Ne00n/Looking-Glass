@@ -38,7 +38,7 @@ class Grabber():
             exit("Could not fetch IPv4")
 
         print("Getting current IPv6")
-        request = requests.get('https://ip6.seeip.org/',allow_redirects=False,timeout=5)
+        request = requests.get('https://api6.ipify.org/',allow_redirects=False,timeout=5)
         if request.status_code == 200:
             self.ipv6 = request.text
             print(f"IPv6 {self.ipv6}")
@@ -196,7 +196,7 @@ class Grabber():
             ignore.append(link)
             return False
         #additional filter
-        if link.lower().endswith(("1g","10g","lua",'test-10mb','test-100mb','test-1000mb')): 
+        if link.lower().endswith(("1g","10g","lua",'test-10mb','test-100mb','test-1000mb','.test')): 
             #print(f"Skipping {link}")
             ignore.append(link)
             return False
