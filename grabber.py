@@ -12,7 +12,8 @@ if len(sys.argv) == 1:
 if len(sys.argv) == 3:
     default = sys.argv[2]
 else:
-     default = "default.json"
+     default = os.getcwd()+'/data/default.json'
+print(f"Saving to {default}")
 folder = sys.argv[1]
 if os.path.isdir(folder): 
     folders = os.listdir(folder)
@@ -49,7 +50,7 @@ print("Scrapping")
 crawler.crawl(data,"scrap")
 
 print(f"Saving {default}")
-with open(os.getcwd()+'/data/'+default, 'w') as f:
+with open(default, 'w') as f:
     json.dump(data['lg'], f, indent=4)
 
 Core = Base()
