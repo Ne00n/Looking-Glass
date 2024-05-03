@@ -1,6 +1,7 @@
 from tqdm.contrib.concurrent import process_map
-import tldextract, requests, logging, time, sys, os, re
+import tldextract, requests, logging, random, time, sys, os, re
 from logging.handlers import RotatingFileHandler
+from fake_useragent import UserAgent
 from requests_html import HTML
 from functools import partial
 import multiprocessing
@@ -15,7 +16,8 @@ class Grabber():
     priv_24 = re.compile("^10\.\d{1,3}\.\d{1,3}\.\d{1,3}$")
     priv_20 = re.compile("^192\.168\.\d{1,3}.\d{1,3}$")
     priv_16 = re.compile("^172.(1[6-9]|2[0-9]|3[0-1]).[0-9]{1,3}.[0-9]{1,3}$")
-    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','ebay','google','wikipedia','twitter','smokeping','#comment-']
+    skip = ['/dashboard/message/','/plugin/thankfor/','entry/signin','/entry/register','/entry/signout','/profile/','/discussion/','lowendtalk.com','lowendbox.com','ebay','google','wikipedia','twitter','smokeping','#comment-','peeringdb']
+    userAgents = {}
 
     def __init__(self,path):
         logging.basicConfig(format='%(asctime)s %(levelname)s %(message)s',datefmt='%H:%M:%S',level=logging.INFO,handlers=[RotatingFileHandler(maxBytes=10000000,backupCount=5,filename=f"{path}/logs/grabber.log")])        
@@ -46,6 +48,7 @@ class Grabber():
             exit("Could not fetch IPv6")
         self.skip.append(self.ipv4)
         self.skip.append(self.ipv6)
+        if os.path.exists(os.getcwd()+"/proxies.txt"): self.getProxies()
         time.sleep(5)
 
     def findFiles(self,folders,folder):
@@ -233,8 +236,18 @@ class Grabber():
                 else:
                     prefix = ""
                 logging.info(f"Getting {prefix+url}")
-                headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
-                request = requests.get(prefix+url,allow_redirects=True,timeout=6,headers=headers)
+                if os.path.exists(os.getcwd()+"/proxies.txt"):
+                    proxy = random.choice(self.proxies)
+                    self.currentProxy = proxy
+                    if not proxy in self.userAgents:
+                        ua = UserAgent()
+                        self.userAgents[proxy] = ua.random
+                    proxyConfig = {'https': f'http://10.0.{proxy}.1:8888'}
+                    headers = {'User-Agent': self.userAgents[proxy]}
+                    request = requests.get(prefix+url,allow_redirects=True, headers=headers, proxies=proxyConfig, timeout=(6,6))
+                else:
+                    headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
+                    request = requests.get(prefix+url,allow_redirects=True,timeout=6,headers=headers)
                 if domain.lower() not in request.url.lower():
                     logging.info(f"Got redirected to different domain {url} vs {request.url}")
                     if prefix:
@@ -258,3 +271,20 @@ class Grabber():
             except Exception as e:
                 logging.info(f"Retrying {prefix+url} error {e}")
         return False,""
+
+    def getProxies(self):
+        reader = open('proxies.txt', 'r')
+        proxies = reader.readlines()
+        proxiesList = []
+
+        for proxy in proxies:
+            proxy = proxy.replace("\n","")
+            try:
+                r = requests.head(f"http://10.0.{proxy}.1:8888", timeout=(5, 5))
+                print(f"{proxy } is reachable")
+                proxiesList.append(proxy)
+            except:
+                print(f"{proxy } failed to connect")
+                
+        print(f"Got {len(proxiesList)} working proxies")
+        self.proxies = proxiesList

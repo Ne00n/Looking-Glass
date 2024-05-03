@@ -6,3 +6,4 @@ rib.202*
 test.py
 logs/
 *.tar.gz
+proxies.txt
