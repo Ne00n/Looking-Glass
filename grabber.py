@@ -47,6 +47,8 @@ for row in results:
 print("Validating")
 data = crawler.crawl(data)
 print("Scrapping")
+data = crawler.crawl(data,"scrap")
+print("Scrapping")
 crawler.crawl(data,"scrap")
 
 print(f"Saving {default}")
