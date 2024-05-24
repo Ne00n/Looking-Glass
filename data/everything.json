@@ -1440,7 +1440,7 @@
         },
         "tyo.lg.webhorizon.in": {
             "ipv4": {
-                "41.216.180.13": "Amsterdam, The Netherlands"
+                "41.216.180.13": "Doetinchem, The Netherlands"
             },
             "ipv6": {
                 "2a06:c3c0:3:117a:0000:0000:0000:0001": "Nijmegen, The Netherlands"
@@ -2218,7 +2218,7 @@
         },
         "sg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "103.253.27.204": "Singapore"
+                "103.253.27.204": "Citarum, Indonesia"
             },
             "ipv6": {}
         }
@@ -4611,7 +4611,7 @@
         },
         "https://ywg01.lg.freerangecloud.com/": {
             "ipv4": {
-                "23.133.64.25": "Winnipeg, Canada"
+                "23.133.64.25": "Canada"
             },
             "ipv6": {
                 "2602:fed2:fe0:269::1": "Canada"
@@ -5151,7 +5151,7 @@
         },
         "https://www.hostnamaste.com/datacenter-moscow.php": {
             "ipv4": {
-                "104.166.186.132": "United Kingdom"
+                "104.166.186.132": "United States"
             },
             "ipv6": {
                 "2a0b:21c0:3002:5::1c57:a6b2": "Moscow Oblast, Russia"
@@ -6207,7 +6207,7 @@
                 "31.7.187.138": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4a0:67:7::947e": "Germany"
+                "2a01:4a0:67:7::947e": "Erlangen, Germany"
             }
         },
         "https://afterburst.com/datacenters/": {
@@ -8848,7 +8848,7 @@
     "altinsoft.net": {
         "https://altinsoft.net/datacenters": {
             "ipv4": {
-                "145.239.204.89": "France",
+                "145.239.204.89": "United Kingdom",
                 "15.235.14.118": "Canada",
                 "46.20.1.80": "Bursa, Turkiye",
                 "46.45.169.111": "Turkiye",
@@ -9113,7 +9113,7 @@
             "ipv4": {
                 "135.148.155.34": "United States",
                 "141.94.86.78": "France",
-                "145.239.236.104": "France",
+                "145.239.236.104": "United Kingdom",
                 "15.235.131.35": "Singapore",
                 "51.161.204.235": "Australia",
                 "51.222.199.224": "Canada",
@@ -9849,7 +9849,7 @@
                 "31.7.177.131": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:54::2": "Germany"
+                "2a01:4a0:54::2": "Erlangen, Germany"
             }
         },
         "fra.lg.core-backbone.com": {
@@ -9857,7 +9857,7 @@
                 "31.7.184.196": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:53::2": "Germany"
+                "2a01:4a0:53::2": "Erlangen, Germany"
             }
         },
         "http://lg.core-backbone.com/": {
@@ -9865,7 +9865,7 @@
                 "83.142.85.226": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:36::2": "Germany"
+                "2a01:4a0:36::2": "Erlangen, Germany"
             }
         },
         "nyk.lg.core-backbone.com": {
@@ -9873,7 +9873,7 @@
                 "81.95.11.204": "Hirschaid, Germany"
             },
             "ipv6": {
-                "2a01:4a0:70::2": "Germany"
+                "2a01:4a0:70::2": "Erlangen, Germany"
             }
         },
         "sin.lg.core-backbone.com": {
@@ -9881,7 +9881,7 @@
                 "195.138.250.11": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:e:1::11": "Germany"
+                "2a01:4a0:e:1::11": "Erlangen, Germany"
             }
         }
     },
@@ -10309,15 +10309,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Madrid, Spain",
-                "130.206.195.254": "Madrid, Spain",
-                "130.206.197.254": "Madrid, Spain",
-                "130.206.198.125": "Madrid, Spain",
-                "130.206.198.254": "Madrid, Spain",
-                "130.206.201.254": "Madrid, Spain",
-                "130.206.206.250": "Madrid, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
+                "130.206.211.254": "Pamplona, Spain",
+                "130.206.212.254": "Pamplona, Spain"
             },
             "ipv6": {}
         }
@@ -17456,7 +17456,7 @@
         },
         "looking.house/point.php?id=331": {
             "ipv4": {
-                "23.133.64.25": "Winnipeg, Canada"
+                "23.133.64.25": "Canada"
             },
             "ipv6": {
                 "2602:fed2:fe0:269::1": "Canada"
@@ -17540,17 +17540,19 @@
         }
     },
     "Webdock": {
-        "looking.house/point.php?id=425": {
-            "ipv4": {
-                "45.148.28.157": "Tuusula, Finland"
-            },
-            "ipv6": {}
-        },
         "looking.house/point.php?id=548": {
             "ipv4": {
                 "45.153.48.51": "Montreal, Canada"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=814": {
+            "ipv4": {
+                "89.28.236.16": "Norre Aby, Denmark"
+            },
+            "ipv6": {
+                "2a0f:f01:200:11::": "United Arab Emirates"
+            }
         }
     },
     "HostNamaste": {
@@ -17576,7 +17578,7 @@
         },
         "looking.house/point.php?id=254": {
             "ipv4": {
-                "104.166.186.132": "United Kingdom"
+                "104.166.186.132": "United States"
             },
             "ipv6": {}
         },
@@ -19432,7 +19434,7 @@
     "Hosting Now NZ": {
         "looking.house/point.php?id=345": {
             "ipv4": {
-                "43.224.121.48": "Auckland, New Zealand"
+                "43.224.121.48": "Browns Bay, New Zealand"
             },
             "ipv6": {
                 "2404:ab00:7:1::f47f:f27a": "New Zealand"
@@ -20151,6 +20153,14 @@
             "ipv6": {
                 "2602:2d4:f02:4::a": "Miami, United States"
             }
+        }
+    },
+    "AstralNode": {
+        "looking.house/point.php?id=813": {
+            "ipv4": {
+                "64.112.126.43": "Miami, United States"
+            },
+            "ipv6": {}
         }
     },
     "Hostodo": {

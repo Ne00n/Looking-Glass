@@ -3131,8 +3131,8 @@
 * [looking.house/point.php?id=369](http://looking.house/point.php?id=369)
 * [looking.house/point.php?id=370](http://looking.house/point.php?id=370)
 ### Webdock
-* [looking.house/point.php?id=425](http://looking.house/point.php?id=425)
 * [looking.house/point.php?id=548](http://looking.house/point.php?id=548)
+* [looking.house/point.php?id=814](http://looking.house/point.php?id=814)
 ### HostNamaste
 * [looking.house/point.php?id=249](http://looking.house/point.php?id=249)
 * [looking.house/point.php?id=252](http://looking.house/point.php?id=252)
@@ -3617,6 +3617,8 @@
 * [looking.house/point.php?id=498](http://looking.house/point.php?id=498)
 ### PlasmaRack
 * [looking.house/point.php?id=769](http://looking.house/point.php?id=769)
+### AstralNode
+* [looking.house/point.php?id=813](http://looking.house/point.php?id=813)
 ### Hostodo
 * [looking.house/point.php?id=229](http://looking.house/point.php?id=229)
 * [looking.house/point.php?id=230](http://looking.house/point.php?id=230)

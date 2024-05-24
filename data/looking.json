@@ -1412,11 +1412,13 @@
             ],
             "ipv6": []
         },
-        "looking.house/point.php?id=425": {
+        "looking.house/point.php?id=814": {
             "ipv4": [
-                "45.148.28.157"
+                "89.28.236.16"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a0f:f01:200:11::"
+            ]
         }
     },
     "HostNamaste": {
@@ -4017,6 +4019,14 @@
             "ipv6": [
                 "2602:2d4:f02:4::a"
             ]
+        }
+    },
+    "AstralNode": {
+        "looking.house/point.php?id=813": {
+            "ipv4": [
+                "64.112.126.43"
+            ],
+            "ipv6": []
         }
     },
     "Hostodo": {
