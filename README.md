@@ -3199,7 +3199,7 @@
 * [looking.house/point.php?id=349](http://looking.house/point.php?id=349)
 * [looking.house/point.php?id=350](http://looking.house/point.php?id=350)
 * [looking.house/point.php?id=731](http://looking.house/point.php?id=731)
-### FinalHosting.net
+### FinalTek
 * [looking.house/point.php?id=348](http://looking.house/point.php?id=348)
 ### UnixHost
 * [looking.house/point.php?id=409](http://looking.house/point.php?id=409)
@@ -3276,6 +3276,13 @@
 * [looking.house/point.php?id=788](http://looking.house/point.php?id=788)
 ### Server Wala
 * [looking.house/point.php?id=819](http://looking.house/point.php?id=819)
+* [looking.house/point.php?id=820](http://looking.house/point.php?id=820)
+* [looking.house/point.php?id=824](http://looking.house/point.php?id=824)
+* [looking.house/point.php?id=825](http://looking.house/point.php?id=825)
+* [looking.house/point.php?id=826](http://looking.house/point.php?id=826)
+* [looking.house/point.php?id=827](http://looking.house/point.php?id=827)
+* [looking.house/point.php?id=828](http://looking.house/point.php?id=828)
+* [looking.house/point.php?id=829](http://looking.house/point.php?id=829)
 ### Siacom
 * [looking.house/point.php?id=725](http://looking.house/point.php?id=725)
 ### KeyWeb
@@ -3292,6 +3299,12 @@
 * [looking.house/point.php?id=816](http://looking.house/point.php?id=816)
 * [looking.house/point.php?id=817](http://looking.house/point.php?id=817)
 * [looking.house/point.php?id=818](http://looking.house/point.php?id=818)
+### Hyper Hosting
+* [looking.house/point.php?id=794](http://looking.house/point.php?id=794)
+* [looking.house/point.php?id=795](http://looking.house/point.php?id=795)
+* [looking.house/point.php?id=796](http://looking.house/point.php?id=796)
+* [looking.house/point.php?id=797](http://looking.house/point.php?id=797)
+* [looking.house/point.php?id=823](http://looking.house/point.php?id=823)
 ### HSHP
 * [looking.house/point.php?id=581](http://looking.house/point.php?id=581)
 * [looking.house/point.php?id=582](http://looking.house/point.php?id=582)
@@ -3347,10 +3360,6 @@
 * [looking.house/point.php?id=741](http://looking.house/point.php?id=741)
 ### Qwords
 * [looking.house/point.php?id=405](http://looking.house/point.php?id=405)
-### InfoTech
-* [looking.house/point.php?id=740](http://looking.house/point.php?id=740)
-### PT Giga Patra Multimedia
-* [looking.house/point.php?id=743](http://looking.house/point.php?id=743)
 ### Netcetera
 * [looking.house/point.php?id=381](http://looking.house/point.php?id=381)
 ### WebHOST1
@@ -3378,10 +3387,6 @@
 ### Megahost
 * [looking.house/point.php?id=161](http://looking.house/point.php?id=161)
 * [looking.house/point.php?id=607](http://looking.house/point.php?id=607)
-### Timeweb Cloud
-* [looking.house/point.php?id=631](http://looking.house/point.php?id=631)
-* [looking.house/point.php?id=632](http://looking.house/point.php?id=632)
-* [looking.house/point.php?id=89](http://looking.house/point.php?id=89)
 ### PS
 * [looking.house/point.php?id=110](http://looking.house/point.php?id=110)
 ### Goodhost
@@ -3402,11 +3407,6 @@
 * [looking.house/point.php?id=590](http://looking.house/point.php?id=590)
 ### AlexHost
 * [looking.house/point.php?id=659](http://looking.house/point.php?id=659)
-### Hyper Hosting
-* [looking.house/point.php?id=794](http://looking.house/point.php?id=794)
-* [looking.house/point.php?id=795](http://looking.house/point.php?id=795)
-* [looking.house/point.php?id=796](http://looking.house/point.php?id=796)
-* [looking.house/point.php?id=797](http://looking.house/point.php?id=797)
 ### MivoCloud
 * [looking.house/point.php?id=168](http://looking.house/point.php?id=168)
 * [looking.house/point.php?id=207](http://looking.house/point.php?id=207)
