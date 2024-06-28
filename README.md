@@ -3241,8 +3241,6 @@
 * [looking.house/point.php?id=349](http://looking.house/point.php?id=349)
 * [looking.house/point.php?id=350](http://looking.house/point.php?id=350)
 * [looking.house/point.php?id=731](http://looking.house/point.php?id=731)
-### FinalTek
-* [looking.house/point.php?id=348](http://looking.house/point.php?id=348)
 ### UnixHost
 * [looking.house/point.php?id=409](http://looking.house/point.php?id=409)
 * [looking.house/point.php?id=410](http://looking.house/point.php?id=410)
@@ -3250,6 +3248,8 @@
 * [looking.house/point.php?id=601](http://looking.house/point.php?id=601)
 ### SERVERio
 * [looking.house/point.php?id=822](http://looking.house/point.php?id=822)
+### FinalTek
+* [looking.house/point.php?id=348](http://looking.house/point.php?id=348)
 ### HostingSUPREMO
 * [looking.house/point.php?id=363](http://looking.house/point.php?id=363)
 ### FASTVPS
@@ -3405,6 +3405,8 @@
 * [looking.house/point.php?id=317](http://looking.house/point.php?id=317)
 * [looking.house/point.php?id=509](http://looking.house/point.php?id=509)
 * [looking.house/point.php?id=653](http://looking.house/point.php?id=653)
+### C1V Hosting
+* [looking.house/point.php?id=747](http://looking.house/point.php?id=747)
 ### SICloud
 * [looking.house/point.php?id=654](http://looking.house/point.php?id=654)
 * [looking.house/point.php?id=718](http://looking.house/point.php?id=718)
@@ -3444,6 +3446,8 @@
 * [looking.house/point.php?id=590](http://looking.house/point.php?id=590)
 ### AlexHost
 * [looking.house/point.php?id=659](http://looking.house/point.php?id=659)
+### IP Host
+* [looking.house/point.php?id=866](http://looking.house/point.php?id=866)
 ### MivoCloud
 * [looking.house/point.php?id=168](http://looking.house/point.php?id=168)
 * [looking.house/point.php?id=207](http://looking.house/point.php?id=207)
@@ -3504,14 +3508,17 @@
 ### Host Mayo
 * [looking.house/point.php?id=488](http://looking.house/point.php?id=488)
 * [looking.house/point.php?id=494](http://looking.house/point.php?id=494)
+* [looking.house/point.php?id=864](http://looking.house/point.php?id=864)
 ### Hosting Now NZ
 * [looking.house/point.php?id=345](http://looking.house/point.php?id=345)
-### Host4biz
-* [looking.house/point.php?id=119](http://looking.house/point.php?id=119)
 ### HostGier
 * [looking.house/point.php?id=801](http://looking.house/point.php?id=801)
+### Host4biz
+* [looking.house/point.php?id=119](http://looking.house/point.php?id=119)
 ### HostWebis
 * [looking.house/point.php?id=642](http://looking.house/point.php?id=642)
+### Torchbyte
+* [looking.house/point.php?id=865](http://looking.house/point.php?id=865)
 ### ProfitServer
 * [looking.house/point.php?id=139](http://looking.house/point.php?id=139)
 ### HostGlobal

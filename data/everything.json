@@ -2582,7 +2582,7 @@
     "losangelesvps.com": {
         "lg.losangelesvps.com": {
             "ipv4": {
-                "45.158.199.6": "Lagos, Nigeria"
+                "45.158.199.6": "Seychelles"
             },
             "ipv6": {}
         }
@@ -4050,7 +4050,7 @@
                 "193.243.189.8": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a03:94e1:ffff:193:243:189::8": "Kansas City, United States"
+                "2a03:94e1:ffff:193:243:189::8": "Amsterdam, The Netherlands"
             }
         },
         "https://lg.terrahost.com/": {
@@ -7318,7 +7318,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Houston, United States"
+                "216.230.224.34": "United States"
             },
             "ipv6": {}
         }
@@ -8772,7 +8772,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Uherske Hradiste, Czechia"
+                "93.99.104.115": "Tvrdonice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Czechia"
@@ -9895,8 +9895,8 @@
         "https://www.gigenet.com/about/datacenter-locations/": {
             "ipv4": {
                 "199.168.117.38": "United States",
-                "66.55.82.4": "United States",
-                "66.55.88.26": "United States"
+                "66.55.82.4": "Carson, United States",
+                "66.55.88.26": "Carson, United States"
             },
             "ipv6": {}
         }
@@ -13329,7 +13329,7 @@
     "polineo.pl": {
         "http://lg.polineo.pl/": {
             "ipv4": {
-                "89.39.108.254": "Szczyrk, Poland"
+                "89.39.108.254": "Godziszka, Poland"
             },
             "ipv6": {}
         }
@@ -16828,7 +16828,7 @@
         },
         "looking.house/point.php?id=763": {
             "ipv4": {
-                "95.164.4.5": "United States"
+                "95.164.4.5": "Gibraltar"
             },
             "ipv6": {}
         },
@@ -17648,7 +17648,7 @@
         },
         "looking.house/point.php?id=373": {
             "ipv4": {
-                "23.229.68.15": "Buffalo, United States"
+                "38.152.23.253": "Buffalo, United States"
             },
             "ipv6": {}
         },
@@ -17784,7 +17784,7 @@
         },
         "looking.house/point.php?id=369": {
             "ipv4": {
-                "23.229.68.119": "Buffalo, United States"
+                "38.152.23.254": "Buffalo, United States"
             },
             "ipv6": {}
         },
@@ -18269,16 +18269,6 @@
             "ipv6": {}
         }
     },
-    "FinalTek": {
-        "looking.house/point.php?id=348": {
-            "ipv4": {
-                "93.99.104.115": "Uherske Hradiste, Czechia"
-            },
-            "ipv6": {
-                "2a01:5e0:36:c034::1": "Czechia"
-            }
-        }
-    },
     "UnixHost": {
         "looking.house/point.php?id=409": {
             "ipv4": {
@@ -18312,6 +18302,16 @@
             },
             "ipv6": {
                 "2a01:5f0:beef:6::7": "Czechia"
+            }
+        }
+    },
+    "FinalTek": {
+        "looking.house/point.php?id=348": {
+            "ipv4": {
+                "93.99.104.115": "Tvrdonice, Czechia"
+            },
+            "ipv6": {
+                "2a01:5e0:36:c034::1": "Czechia"
             }
         }
     },
@@ -18972,7 +18972,7 @@
         },
         "looking.house/point.php?id=599": {
             "ipv4": {
-                "185.39.205.176": "Yekaterinburg, Russia"
+                "147.45.113.176": "Yekaterinburg, Russia"
             },
             "ipv6": {}
         },
@@ -19157,6 +19157,16 @@
             "ipv6": {}
         }
     },
+    "C1V Hosting": {
+        "looking.house/point.php?id=747": {
+            "ipv4": {
+                "208.65.87.172": "Rome, Italy"
+            },
+            "ipv6": {
+                "2a05:4140:3::708": "Italy"
+            }
+        }
+    },
     "SICloud": {
         "looking.house/point.php?id=654": {
             "ipv4": {
@@ -19268,13 +19278,13 @@
     "Megahost": {
         "looking.house/point.php?id=161": {
             "ipv4": {
-                "45.136.58.26": "Kazakhstan"
+                "45.136.58.26": "Oral, Kazakhstan"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=607": {
             "ipv4": {
-                "45.136.59.80": "Kazakhstan"
+                "45.136.59.80": "Aktau, Kazakhstan"
             },
             "ipv6": {}
         }
@@ -19369,6 +19379,14 @@
             "ipv6": {
                 "2001:678:6d4:9202::1bd": "Henschtal, Germany"
             }
+        }
+    },
+    "IP Host": {
+        "looking.house/point.php?id=866": {
+            "ipv4": {
+                "185.181.228.254": "Chisinau, Moldova"
+            },
+            "ipv6": {}
         }
     },
     "MivoCloud": {
@@ -19681,6 +19699,12 @@
                 "169.239.130.2": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=864": {
+            "ipv4": {
+                "172.82.91.3": "United States"
+            },
+            "ipv6": {}
         }
     },
     "Hosting Now NZ": {
@@ -19690,16 +19714,6 @@
             },
             "ipv6": {
                 "2404:ab00:7:1::f47f:f27a": "New Zealand"
-            }
-        }
-    },
-    "Host4biz": {
-        "looking.house/point.php?id=119": {
-            "ipv4": {
-                "185.151.245.48": "Warsaw, Poland"
-            },
-            "ipv6": {
-                "2a07:7c80:100::2": "Poland"
             }
         }
     },
@@ -19713,10 +19727,28 @@
             }
         }
     },
+    "Host4biz": {
+        "looking.house/point.php?id=119": {
+            "ipv4": {
+                "185.151.245.48": "Warsaw, Poland"
+            },
+            "ipv6": {
+                "2a07:7c80:100::2": "Poland"
+            }
+        }
+    },
     "HostWebis": {
         "looking.house/point.php?id=642": {
             "ipv4": {
                 "185.231.233.85": "Lisbon, Portugal"
+            },
+            "ipv6": {}
+        }
+    },
+    "Torchbyte": {
+        "looking.house/point.php?id=865": {
+            "ipv4": {
+                "31.6.1.243": "Bucharest, Romania"
             },
             "ipv6": {}
         }
@@ -20222,10 +20254,10 @@
     "Charged IT Solutions": {
         "looking.house/point.php?id=768": {
             "ipv4": {
-                "64.112.127.102": "United States"
+                "23.150.24.108": "Phoenix, United States"
             },
             "ipv6": {
-                "2602:299:80:1e::a": "Phoenix, United States"
+                "2602:299:1:5::a": "Phoenix, United States"
             }
         }
     },

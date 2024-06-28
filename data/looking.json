@@ -1520,7 +1520,7 @@
         },
         "looking.house/point.php?id=373": {
             "ipv4": [
-                "23.229.68.15"
+                "38.152.23.253"
             ],
             "ipv6": []
         }
@@ -1656,7 +1656,7 @@
         },
         "looking.house/point.php?id=369": {
             "ipv4": [
-                "23.229.68.119"
+                "38.152.23.254"
             ],
             "ipv6": []
         }
@@ -2135,16 +2135,6 @@
             "ipv6": []
         }
     },
-    "FinalTek": {
-        "looking.house/point.php?id=348": {
-            "ipv4": [
-                "93.99.104.115"
-            ],
-            "ipv6": [
-                "2a01:5e0:36:c034::1"
-            ]
-        }
-    },
     "UnixHost": {
         "looking.house/point.php?id=601": {
             "ipv4": [
@@ -2178,6 +2168,16 @@
             ],
             "ipv6": [
                 "2a01:5f0:beef:6::7"
+            ]
+        }
+    },
+    "FinalTek": {
+        "looking.house/point.php?id=348": {
+            "ipv4": [
+                "93.99.104.115"
+            ],
+            "ipv6": [
+                "2a01:5e0:36:c034::1"
             ]
         }
     },
@@ -2854,7 +2854,7 @@
         },
         "looking.house/point.php?id=599": {
             "ipv4": [
-                "185.39.205.176"
+                "147.45.113.176"
             ],
             "ipv6": []
         },
@@ -3021,6 +3021,16 @@
                 "138.124.187.91"
             ],
             "ipv6": []
+        }
+    },
+    "C1V Hosting": {
+        "looking.house/point.php?id=747": {
+            "ipv4": [
+                "208.65.87.172"
+            ],
+            "ipv6": [
+                "2a05:4140:3::708"
+            ]
         }
     },
     "SICloud": {
@@ -3235,6 +3245,14 @@
             "ipv6": [
                 "2001:678:6d4:9202::1bd"
             ]
+        }
+    },
+    "IP Host": {
+        "looking.house/point.php?id=866": {
+            "ipv4": [
+                "185.181.228.254"
+            ],
+            "ipv6": []
         }
     },
     "MivoCloud": {
@@ -3547,6 +3565,12 @@
                 "104.218.236.24"
             ],
             "ipv6": []
+        },
+        "looking.house/point.php?id=864": {
+            "ipv4": [
+                "172.82.91.3"
+            ],
+            "ipv6": []
         }
     },
     "Hosting Now NZ": {
@@ -3556,16 +3580,6 @@
             ],
             "ipv6": [
                 "2404:ab00:7:1::f47f:f27a"
-            ]
-        }
-    },
-    "Host4biz": {
-        "looking.house/point.php?id=119": {
-            "ipv4": [
-                "185.151.245.48"
-            ],
-            "ipv6": [
-                "2a07:7c80:100::2"
             ]
         }
     },
@@ -3579,10 +3593,28 @@
             ]
         }
     },
+    "Host4biz": {
+        "looking.house/point.php?id=119": {
+            "ipv4": [
+                "185.151.245.48"
+            ],
+            "ipv6": [
+                "2a07:7c80:100::2"
+            ]
+        }
+    },
     "HostWebis": {
         "looking.house/point.php?id=642": {
             "ipv4": [
                 "185.231.233.85"
+            ],
+            "ipv6": []
+        }
+    },
+    "Torchbyte": {
+        "looking.house/point.php?id=865": {
+            "ipv4": [
+                "31.6.1.243"
             ],
             "ipv6": []
         }
@@ -4088,10 +4120,10 @@
     "Charged IT Solutions": {
         "looking.house/point.php?id=768": {
             "ipv4": [
-                "64.112.127.102"
+                "23.150.24.108"
             ],
             "ipv6": [
-                "2602:299:80:1e::a"
+                "2602:299:1:5::a"
             ]
         }
     },
