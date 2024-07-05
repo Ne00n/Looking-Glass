@@ -1106,7 +1106,7 @@
         },
         "looking.house/point.php?id=825": {
             "ipv4": [
-                "69.67.148.174"
+                "199.48.179.14"
             ],
             "ipv6": []
         },
@@ -1898,10 +1898,10 @@
     "JustHost": {
         "looking.house/point.php?id=711": {
             "ipv4": [
-                "172.99.175.236"
+                "141.195.112.213"
             ],
             "ipv6": [
-                "2605:e440:6::2:2cf"
+                "2605:e440:6::1:2a8"
             ]
         },
         "looking.house/point.php?id=709": {
@@ -2074,10 +2074,10 @@
         },
         "looking.house/point.php?id=698": {
             "ipv4": [
-                "194.87.189.202"
+                "88.151.195.14"
             ],
             "ipv6": [
-                "2605:e440:10::1:182"
+                "2605:e440:10::1:3"
             ]
         },
         "looking.house/point.php?id=697": {
@@ -3141,6 +3141,14 @@
             ]
         }
     },
+    "TheGigabit": {
+        "looking.house/point.php?id=867": {
+            "ipv4": [
+                "185.135.78.140"
+            ],
+            "ipv6": []
+        }
+    },
     "Megahost": {
         "looking.house/point.php?id=607": {
             "ipv4": [
@@ -3315,7 +3323,7 @@
             "ipv6": []
         }
     },
-    "X5X": {
+    "Mnogoweb": {
         "looking.house/point.php?id=38": {
             "ipv4": [
                 "46.161.40.131"
