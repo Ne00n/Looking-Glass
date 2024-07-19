@@ -3252,6 +3252,9 @@
 * [looking.house/point.php?id=601](http://looking.house/point.php?id=601)
 ### SERVERio
 * [looking.house/point.php?id=822](http://looking.house/point.php?id=822)
+* [looking.house/point.php?id=871](http://looking.house/point.php?id=871)
+* [looking.house/point.php?id=872](http://looking.house/point.php?id=872)
+* [looking.house/point.php?id=873](http://looking.house/point.php?id=873)
 ### HostingSUPREMO
 * [looking.house/point.php?id=363](http://looking.house/point.php?id=363)
 ### FASTVPS
@@ -3474,8 +3477,6 @@
 * [looking.house/point.php?id=726](http://looking.house/point.php?id=726)
 ### h2.nexus
 * [looking.house/point.php?id=750](http://looking.house/point.php?id=750)
-### Servervy
-* [looking.house/point.php?id=762](http://looking.house/point.php?id=762)
 ### Cloudblast
 * [looking.house/point.php?id=868](http://looking.house/point.php?id=868)
 ### Zomro
@@ -3499,8 +3500,6 @@
 ### VDSina
 * [looking.house/point.php?id=177](http://looking.house/point.php?id=177)
 * [looking.house/point.php?id=178](http://looking.house/point.php?id=178)
-### Host-UA
-* [looking.house/point.php?id=318](http://looking.house/point.php?id=318)
 ### IncogNet
 * [looking.house/point.php?id=549](http://looking.house/point.php?id=549)
 * [looking.house/point.php?id=622](http://looking.house/point.php?id=622)
@@ -3611,6 +3610,8 @@
 * [looking.house/point.php?id=388](http://looking.house/point.php?id=388)
 ### Hosting022
 * [looking.house/point.php?id=469](http://looking.house/point.php?id=469)
+### Rackzar
+* [looking.house/point.php?id=870](http://looking.house/point.php?id=870)
 ### Sered
 * [looking.house/point.php?id=386](http://looking.house/point.php?id=386)
 ### GinerNet

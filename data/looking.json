@@ -2191,6 +2191,30 @@
             "ipv6": [
                 "2a01:5f0:beef:6::7"
             ]
+        },
+        "looking.house/point.php?id=872": {
+            "ipv4": [
+                "194.87.11.36"
+            ],
+            "ipv6": [
+                "2a01:7e0:0:147::6"
+            ]
+        },
+        "looking.house/point.php?id=871": {
+            "ipv4": [
+                "195.133.51.85"
+            ],
+            "ipv6": [
+                "2a0e:97c0:df1::dc:2"
+            ]
+        },
+        "looking.house/point.php?id=873": {
+            "ipv4": [
+                "166.88.170.20"
+            ],
+            "ipv6": [
+                "2a0e:97c0:df3::4:2"
+            ]
         }
     },
     "HostingSUPREMO": {
@@ -3340,13 +3364,13 @@
     "Eurobyte": {
         "looking.house/point.php?id=86": {
             "ipv4": [
-                "46.30.42.40"
+                "46.30.47.47"
             ],
             "ipv6": []
         },
         "looking.house/point.php?id=82": {
             "ipv4": [
-                "95.142.40.48"
+                "95.142.42.64"
             ],
             "ipv6": []
         }
@@ -3398,16 +3422,6 @@
             ],
             "ipv6": [
                 "2a0e:d604:1:1::2"
-            ]
-        }
-    },
-    "Servervy": {
-        "looking.house/point.php?id=762": {
-            "ipv4": [
-                "81.161.238.9"
-            ],
-            "ipv6": [
-                "2a13:9f40:0:4::a"
             ]
         }
     },
@@ -3521,14 +3535,6 @@
         "looking.house/point.php?id=178": {
             "ipv4": [
                 "185.231.154.182"
-            ],
-            "ipv6": []
-        }
-    },
-    "Host-UA": {
-        "looking.house/point.php?id=318": {
-            "ipv4": [
-                "91.201.203.94"
             ],
             "ipv6": []
         }
@@ -4037,6 +4043,14 @@
         "looking.house/point.php?id=469": {
             "ipv4": [
                 "141.11.5.41"
+            ],
+            "ipv6": []
+        }
+    },
+    "Rackzar": {
+        "looking.house/point.php?id=870": {
+            "ipv4": [
+                "102.222.22.159"
             ],
             "ipv6": []
         }

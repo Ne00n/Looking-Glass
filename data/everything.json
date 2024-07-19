@@ -46,7 +46,7 @@
                 "13.48.0.0": "Stockholm, Sweden",
                 "13.52.0.0": "San Jose, United States",
                 "15.160.0.0": "Milan, Italy",
-                "15.181.0.179": "Boardman, United States",
+                "15.181.0.179": "Seattle, United States",
                 "15.181.128.217": "Phoenix, United States",
                 "15.181.144.146": "Philadelphia, United States",
                 "15.181.161.232": "New York, United States",
@@ -6587,7 +6587,7 @@
     "meanservers.com": {
         "http://den.meanservers.com/lg/": {
             "ipv4": {
-                "104.219.168.85": "Denver, United States"
+                "104.219.168.85": "Dallas, United States"
             },
             "ipv6": {
                 "2606:1880:3:5f::475a": "United States"
@@ -6595,7 +6595,7 @@
         },
         "http://lax.meanservers.com/lg": {
             "ipv4": {
-                "216.126.59.95": "Denver, United States"
+                "216.126.59.95": "Los Angeles, United States"
             },
             "ipv6": {
                 "2606:1880:1001:3::b798": "United States"
@@ -8598,7 +8598,7 @@
     "webservices.dz": {
         "https://webservices.dz/index.php/cloud/serveurs-en-algerie/serveur-dedie-en-algerie": {
             "ipv4": {
-                "154.73.92.52": "Algeria"
+                "154.73.92.52": "Beni Abbes, Algeria"
             },
             "ipv6": {}
         }
@@ -9010,7 +9010,7 @@
         },
         "http://lg.la.madcityservers.com/": {
             "ipv4": {
-                "216.73.158.6": "United States"
+                "216.73.158.6": "Japan"
             },
             "ipv6": {}
         },
@@ -16842,7 +16842,7 @@
         },
         "looking.house/point.php?id=869": {
             "ipv4": {
-                "95.131.202.72": "Romania"
+                "95.131.202.72": "Bratislava, Slovakia"
             },
             "ipv6": {}
         }
@@ -17088,7 +17088,7 @@
         },
         "looking.house/point.php?id=763": {
             "ipv4": {
-                "95.164.4.5": "United States"
+                "95.164.4.5": "Sao Paulo, Brazil"
             },
             "ipv6": {}
         },
@@ -18325,6 +18325,30 @@
             "ipv6": {
                 "2a01:5f0:beef:6::7": "Czechia"
             }
+        },
+        "looking.house/point.php?id=871": {
+            "ipv4": {
+                "195.133.51.85": "Bratislava, Slovakia"
+            },
+            "ipv6": {
+                "2a0e:97c0:df1::dc:2": "Vaduz, Liechtenstein"
+            }
+        },
+        "looking.house/point.php?id=872": {
+            "ipv4": {
+                "194.87.11.36": "Germany"
+            },
+            "ipv6": {
+                "2a01:7e0:0:147::6": "Germany"
+            }
+        },
+        "looking.house/point.php?id=873": {
+            "ipv4": {
+                "166.88.170.20": "Seattle, United States"
+            },
+            "ipv6": {
+                "2a0e:97c0:df3::4:2": "Vaduz, Liechtenstein"
+            }
         }
     },
     "HostingSUPREMO": {
@@ -19474,13 +19498,13 @@
     "Eurobyte": {
         "looking.house/point.php?id=82": {
             "ipv4": {
-                "95.142.40.48": "Russia"
+                "95.142.42.64": "Russia"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=86": {
             "ipv4": {
-                "46.30.42.40": "Amsterdam, The Netherlands"
+                "46.30.47.47": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         }
@@ -19532,16 +19556,6 @@
             },
             "ipv6": {
                 "2a0e:d604:1:1::2": "Seychelles"
-            }
-        }
-    },
-    "Servervy": {
-        "looking.house/point.php?id=762": {
-            "ipv4": {
-                "81.161.238.9": "Amsterdam, The Netherlands"
-            },
-            "ipv6": {
-                "2a13:9f40:0:4::a": "Amsterdam, The Netherlands"
             }
         }
     },
@@ -19655,14 +19669,6 @@
         "looking.house/point.php?id=178": {
             "ipv4": {
                 "185.231.154.182": "Moscow, Russia"
-            },
-            "ipv6": {}
-        }
-    },
-    "Host-UA": {
-        "looking.house/point.php?id=318": {
-            "ipv4": {
-                "91.201.203.94": "United States"
             },
             "ipv6": {}
         }
@@ -20171,6 +20177,14 @@
         "looking.house/point.php?id=469": {
             "ipv4": {
                 "141.11.5.41": "France"
+            },
+            "ipv6": {}
+        }
+    },
+    "Rackzar": {
+        "looking.house/point.php?id=870": {
+            "ipv4": {
+                "102.222.22.159": "Cape Town, South Africa"
             },
             "ipv6": {}
         }
