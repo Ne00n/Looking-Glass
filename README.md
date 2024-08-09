@@ -2948,7 +2948,6 @@
 * [looking.house/point.php?id=851](http://looking.house/point.php?id=851)
 * [looking.house/point.php?id=852](http://looking.house/point.php?id=852)
 * [looking.house/point.php?id=853](http://looking.house/point.php?id=853)
-* [looking.house/point.php?id=854](http://looking.house/point.php?id=854)
 * [looking.house/point.php?id=855](http://looking.house/point.php?id=855)
 * [looking.house/point.php?id=856](http://looking.house/point.php?id=856)
 * [looking.house/point.php?id=857](http://looking.house/point.php?id=857)
@@ -3176,8 +3175,6 @@
 * [looking.house/point.php?id=560](http://looking.house/point.php?id=560)
 * [looking.house/point.php?id=561](http://looking.house/point.php?id=561)
 * [looking.house/point.php?id=88](http://looking.house/point.php?id=88)
-### ARZ Host
-* [looking.house/point.php?id=804](http://looking.house/point.php?id=804)
 ### Free Range Cloud
 * [looking.house/point.php?id=330](http://looking.house/point.php?id=330)
 * [looking.house/point.php?id=331](http://looking.house/point.php?id=331)
@@ -3448,6 +3445,10 @@
 * [looking.house/point.php?id=21](http://looking.house/point.php?id=21)
 ### GARMTECH
 * [looking.house/point.php?id=589](http://looking.house/point.php?id=589)
+### Veesp
+* [looking.house/point.php?id=884](http://looking.house/point.php?id=884)
+* [looking.house/point.php?id=885](http://looking.house/point.php?id=885)
+* [looking.house/point.php?id=886](http://looking.house/point.php?id=886)
 ### Time4VPS
 * [looking.house/point.php?id=113](http://looking.house/point.php?id=113)
 ### GB Network Solutions
@@ -3606,8 +3607,6 @@
 * [looking.house/point.php?id=125](http://looking.house/point.php?id=125)
 * [looking.house/point.php?id=126](http://looking.house/point.php?id=126)
 * [looking.house/point.php?id=128](http://looking.house/point.php?id=128)
-### Veesp
-* [looking.house/point.php?id=78](http://looking.house/point.php?id=78)
 ### GBNhost
 * [looking.house/point.php?id=225](http://looking.house/point.php?id=225)
 ### ZetaLink

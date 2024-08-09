@@ -206,12 +206,6 @@
             ],
             "ipv6": []
         },
-        "looking.house/point.php?id=854": {
-            "ipv4": [
-                "79.142.76.146"
-            ],
-            "ipv6": []
-        },
         "looking.house/point.php?id=855": {
             "ipv4": [
                 "89.37.173.85"
@@ -1727,16 +1721,6 @@
                 "51.195.249.116"
             ],
             "ipv6": []
-        }
-    },
-    "ARZ Host": {
-        "looking.house/point.php?id=804": {
-            "ipv4": [
-                "144.217.242.133"
-            ],
-            "ipv6": [
-                "2607:5300:201:3100::6f0e"
-            ]
         }
     },
     "Free Range Cloud": {
@@ -3335,6 +3319,32 @@
             "ipv6": []
         }
     },
+    "Veesp": {
+        "looking.house/point.php?id=884": {
+            "ipv4": [
+                "216.173.70.42"
+            ],
+            "ipv6": [
+                "2a0c:16c0:510:9a6::78cd"
+            ]
+        },
+        "looking.house/point.php?id=885": {
+            "ipv4": [
+                "82.115.5.12"
+            ],
+            "ipv6": [
+                "2a0c:16c2:500:114::9a2d"
+            ]
+        },
+        "looking.house/point.php?id=886": {
+            "ipv4": [
+                "94.242.53.104"
+            ],
+            "ipv6": [
+                "2a00:1838:37:256::db87"
+            ]
+        }
+    },
     "Time4VPS": {
         "looking.house/point.php?id=113": {
             "ipv4": [
@@ -4097,16 +4107,6 @@
                 "108.181.115.167"
             ],
             "ipv6": []
-        }
-    },
-    "Veesp": {
-        "looking.house/point.php?id=78": {
-            "ipv4": [
-                "94.242.59.5"
-            ],
-            "ipv6": [
-                "2a00:1838:35:7a::b43a"
-            ]
         }
     },
     "GBNhost": {
