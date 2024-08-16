@@ -3674,8 +3674,6 @@
 * [looking.house/point.php?id=498](http://looking.house/point.php?id=498)
 ### PlasmaRack
 * [looking.house/point.php?id=769](http://looking.house/point.php?id=769)
-### AstralNode
-* [looking.house/point.php?id=813](http://looking.house/point.php?id=813)
 ### Hostodo
 * [looking.house/point.php?id=229](http://looking.house/point.php?id=229)
 * [looking.house/point.php?id=230](http://looking.house/point.php?id=230)

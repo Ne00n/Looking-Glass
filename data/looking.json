@@ -3176,10 +3176,10 @@
     "Kuroit": {
         "looking.house/point.php?id=775": {
             "ipv4": [
-                "185.140.53.2"
+                "45.67.86.138"
             ],
             "ipv6": [
-                "2a12:f8c2:2000:8::a"
+                "2606:fc40:4002:b::a"
             ]
         },
         "looking.house/point.php?id=624": {
@@ -4425,14 +4425,6 @@
             "ipv6": [
                 "2602:2d4:f02:4::a"
             ]
-        }
-    },
-    "AstralNode": {
-        "looking.house/point.php?id=813": {
-            "ipv4": [
-                "64.112.126.43"
-            ],
-            "ipv6": []
         }
     },
     "Hostodo": {
