@@ -3259,9 +3259,6 @@
 ### FinalTek
 * [looking.house/point.php?id=348](http://looking.house/point.php?id=348)
 ### UnixHost
-* [looking.house/point.php?id=409](http://looking.house/point.php?id=409)
-* [looking.house/point.php?id=410](http://looking.house/point.php?id=410)
-* [looking.house/point.php?id=411](http://looking.house/point.php?id=411)
 * [looking.house/point.php?id=601](http://looking.house/point.php?id=601)
 ### SERVERio
 * [looking.house/point.php?id=822](http://looking.house/point.php?id=822)
