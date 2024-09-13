@@ -2293,14 +2293,6 @@
             ]
         }
     },
-    "UnixHost": {
-        "looking.house/point.php?id=601": {
-            "ipv4": [
-                "89.187.129.170"
-            ],
-            "ipv6": []
-        }
-    },
     "SERVERio": {
         "looking.house/point.php?id=822": {
             "ipv4": [
@@ -2857,6 +2849,26 @@
         "looking.house/point.php?id=794": {
             "ipv4": [
                 "81.19.131.88"
+            ],
+            "ipv6": []
+        }
+    },
+    "Virtarix": {
+        "looking.house/point.php?id=889": {
+            "ipv4": [
+                "62.113.200.254"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=891": {
+            "ipv4": [
+                "102.208.216.166"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=890": {
+            "ipv4": [
+                "91.124.130.205"
             ],
             "ipv6": []
         }
@@ -4212,7 +4224,7 @@
     "HostingInside LTD": {
         "looking.house/point.php?id=224": {
             "ipv4": [
-                "103.98.74.47"
+                "2.58.243.103"
             ],
             "ipv6": []
         }
@@ -4547,6 +4559,14 @@
         "looking.house/point.php?id=657": {
             "ipv4": [
                 "46.37.124.103"
+            ],
+            "ipv6": []
+        }
+    },
+    "CharityHost": {
+        "looking.house/point.php?id=892": {
+            "ipv4": [
+                "216.230.228.150"
             ],
             "ipv6": []
         }

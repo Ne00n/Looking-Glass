@@ -3258,8 +3258,6 @@
 * [looking.house/point.php?id=731](http://looking.house/point.php?id=731)
 ### FinalTek
 * [looking.house/point.php?id=348](http://looking.house/point.php?id=348)
-### UnixHost
-* [looking.house/point.php?id=601](http://looking.house/point.php?id=601)
 ### SERVERio
 * [looking.house/point.php?id=822](http://looking.house/point.php?id=822)
 * [looking.house/point.php?id=871](http://looking.house/point.php?id=871)
@@ -3358,6 +3356,10 @@
 * [looking.house/point.php?id=796](http://looking.house/point.php?id=796)
 * [looking.house/point.php?id=797](http://looking.house/point.php?id=797)
 * [looking.house/point.php?id=823](http://looking.house/point.php?id=823)
+### Virtarix
+* [looking.house/point.php?id=889](http://looking.house/point.php?id=889)
+* [looking.house/point.php?id=890](http://looking.house/point.php?id=890)
+* [looking.house/point.php?id=891](http://looking.house/point.php?id=891)
 ### HSHP
 * [looking.house/point.php?id=581](http://looking.house/point.php?id=581)
 * [looking.house/point.php?id=582](http://looking.house/point.php?id=582)
@@ -3699,6 +3701,8 @@
 ### KhanWebHost
 * [looking.house/point.php?id=656](http://looking.house/point.php?id=656)
 * [looking.house/point.php?id=657](http://looking.house/point.php?id=657)
+### CharityHost
+* [looking.house/point.php?id=892](http://looking.house/point.php?id=892)
 ### SmartHost LLC
 * [looking.house/point.php?id=618](http://looking.house/point.php?id=618)
 ### TheHost
