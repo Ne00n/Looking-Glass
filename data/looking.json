@@ -1466,7 +1466,9 @@
             "ipv4": [
                 "176.103.54.191"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2a13:f580:1::ffff"
+            ]
         }
     },
     "ITL DC": {
@@ -3494,10 +3496,10 @@
     "ServTech": {
         "looking.house/point.php?id=206": {
             "ipv4": [
-                "185.170.10.24"
+                "5.253.189.11"
             ],
             "ipv6": [
-                "2a0c:dd80:2000::18"
+                "2a0c:dd80:2001::5a1"
             ]
         },
         "looking.house/point.php?id=120": {
@@ -4483,12 +4485,6 @@
         "looking.house/point.php?id=760": {
             "ipv4": [
                 "66.109.23.176"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=761": {
-            "ipv4": [
-                "5.101.150.181"
             ],
             "ipv6": []
         }
