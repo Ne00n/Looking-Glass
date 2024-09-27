@@ -26,7 +26,7 @@
                 "195.154.0.5": "Paris, France",
                 "212.129.0.1": "France",
                 "212.47.224.7": "France",
-                "212.83.128.4": "France",
+                "212.83.128.4": "Desvres, France",
                 "212.83.160.3": "France",
                 "51.15.0.1": "France",
                 "51.158.0.8": "Paris, France",
@@ -190,7 +190,7 @@
                 "141.94.18.3": "France",
                 "145.239.28.2": "Southall, United Kingdom",
                 "5.135.137.2": "France",
-                "51.210.158.2": "France",
+                "51.210.158.2": "Villiers-sur-Marne, France",
                 "51.79.100.2": "Canada",
                 "51.79.140.4": "Singapore, Singapore",
                 "51.89.228.2": "London, United Kingdom"
@@ -811,7 +811,7 @@
         },
         "https://gra.lg.extravm.com/": {
             "ipv4": {
-                "5.196.58.151": "France"
+                "5.196.58.151": "Marly-le-Roi, France"
             },
             "ipv6": {
                 "2001:41d0:a:7e6d::1:a": "France"
@@ -853,7 +853,7 @@
         },
         "lon.lg.extravm.com": {
             "ipv4": {
-                "54.38.210.17": "France"
+                "54.38.210.17": "Les Mureaux, France"
             },
             "ipv6": {
                 "2001:41d0:800:1402::2ea7:a67a": "Frankfurt am Main, Germany"
@@ -1323,7 +1323,7 @@
         },
         "frlg.khanwebhost.com": {
             "ipv4": {
-                "164.132.150.235": "France"
+                "164.132.150.235": "Paris, France"
             },
             "ipv6": {}
         },
@@ -1353,7 +1353,7 @@
         },
         "lg-lon.tmthosting.net": {
             "ipv4": {
-                "89.34.96.98": "London, United Kingdom"
+                "89.34.96.98": "Tehran, Iran"
             },
             "ipv6": {}
         },
@@ -1688,7 +1688,7 @@
         },
         "racknerd.com/london-datacenter": {
             "ipv4": {
-                "89.34.96.1": "London, United Kingdom"
+                "89.34.96.1": "Tehran, Iran"
             },
             "ipv6": {}
         },
@@ -1898,7 +1898,7 @@
         },
         "rbx.proof.ovh.net": {
             "ipv4": {
-                "152.228.221.228": "France"
+                "152.228.221.228": "Noisy-le-Grand, France"
             },
             "ipv6": {
                 "2001:41d0:203:9fe4::1": "Frankfurt am Main, Germany"
@@ -2196,7 +2196,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Blagoevgrad, Bulgaria"
+                "78.128.92.20": "Sofia, Bulgaria"
             },
             "ipv6": {}
         },
@@ -3372,7 +3372,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "United States",
-                "192.173.144.38": "Innisfail, Canada"
+                "192.173.144.38": "Penhold, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -3402,7 +3402,7 @@
         },
         "lg-pl.happybeehost.com": {
             "ipv4": {
-                "147.135.198.0": "France"
+                "147.135.198.0": "Condat-sur-Vienne, France"
             },
             "ipv6": {}
         },
@@ -3487,7 +3487,7 @@
                 "217.12.199.211": "Kharkiv, Ukraine",
                 "45.90.58.203": "Geneva, Switzerland",
                 "82.117.253.84": "Miami, United States",
-                "82.118.18.197": "Kharkiv, Ukraine",
+                "82.118.18.197": "Kyiv, Ukraine",
                 "82.118.21.149": "Gdansk, Poland"
             },
             "ipv6": {
@@ -5080,7 +5080,7 @@
     "dedispec.com": {
         "https://dedispec.com/kcdatacenter.php": {
             "ipv4": {
-                "198.204.225.10": "Olathe, United States"
+                "198.204.225.10": "United States"
             },
             "ipv6": {}
         },
@@ -5127,7 +5127,7 @@
         },
         "https://www.hostnamaste.com/blog/what-is-looking-glass-in-networking-and-how-to-install-it-on-your-vps-or-server/": {
             "ipv4": {
-                "46.105.113.30": "United Kingdom"
+                "46.105.113.30": "Oxford, United Kingdom"
             },
             "ipv6": {}
         },
@@ -5153,7 +5153,7 @@
         },
         "https://www.hostnamaste.com/datacenter-moscow.php": {
             "ipv4": {
-                "104.166.186.132": "Qatar"
+                "104.166.186.132": "United States"
             },
             "ipv6": {
                 "2a0b:21c0:3002:5::1c57:a6b2": "Moscow, Russia"
@@ -5561,7 +5561,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=London": {
             "ipv4": {
                 "5.226.136.28": "London, United Kingdom",
-                "89.34.97.1": "London, United Kingdom"
+                "89.34.97.1": "Tehran, Iran"
             },
             "ipv6": {}
         },
@@ -8693,7 +8693,7 @@
                 "108.61.5.91": "Piscataway, United States",
                 "113.203.235.105": "Pakistan",
                 "152.89.245.245": "Frankfurt am Main, Germany",
-                "51.77.6.84": "United Kingdom",
+                "51.77.6.84": "France",
                 "54.38.49.227": "France",
                 "66.70.135.234": "Canada",
                 "91.205.175.173": "Munich, Germany"
@@ -8774,7 +8774,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Uhersky Ostroh, Czechia"
+                "93.99.104.115": "Tvrdonice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Hulin, Czechia"
@@ -9176,7 +9176,7 @@
         },
         "lim-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "54.38.222.82": "France"
+                "54.38.222.82": "Les Mureaux, France"
             },
             "ipv6": {}
         },
@@ -9266,7 +9266,7 @@
         },
         "waw2-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "146.59.81.129": "Poland"
+                "146.59.81.129": "Warsaw, Poland"
             },
             "ipv6": {}
         }
@@ -11183,7 +11183,7 @@
                 "189.91.156.9": "Sao Mateus, Brazil"
             },
             "ipv6": {
-                "2804:2050:5a8e:3e9::1": "Brazil"
+                "2804:2050:5a8e:3e9::1": "Sao Mateus, Brazil"
             }
         }
     },
@@ -12126,7 +12126,7 @@
                 "177.101.22.142": "Palmeira, Brazil"
             },
             "ipv6": {
-                "2804:1f04:c000:282::142": "Brazil"
+                "2804:1f04:c000:282::142": "Ponta Grossa, Brazil"
             }
         }
     },
@@ -12169,7 +12169,7 @@
     "gointec.com.br": {
         "https://lg.gointec.com.br": {
             "ipv4": {
-                "162.158.91.163": "Santa Ana, United States"
+                "162.158.91.163": "United States"
             },
             "ipv6": {}
         },
@@ -13895,7 +13895,7 @@
                 "191.243.156.214": "Barra Mansa, Brazil"
             },
             "ipv6": {
-                "2804:908:300:806::156:218": "Brazil"
+                "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
             }
         }
     },
@@ -14939,13 +14939,13 @@
     "netrouting.net": {
         "https://lg.netrouting.net/": {
             "ipv4": {
-                "162.158.91.18": "Santa Ana, United States"
+                "162.158.91.18": "United States"
             },
             "ipv6": {}
         },
         "lg.netrouting.net": {
             "ipv4": {
-                "162.158.91.116": "Santa Ana, United States"
+                "162.158.91.116": "United States"
             },
             "ipv6": {}
         }
@@ -16194,7 +16194,7 @@
         },
         "looking.house/point.php?id=830": {
             "ipv4": {
-                "51.68.195.17": "United Kingdom"
+                "51.68.195.17": "Lewisham, United Kingdom"
             },
             "ipv6": {}
         },
@@ -16410,7 +16410,7 @@
         },
         "looking.house/point.php?id=879": {
             "ipv4": {
-                "179.27.200.34": "Canelones, Uruguay"
+                "179.27.200.34": "Cordon, Uruguay"
             },
             "ipv6": {}
         },
@@ -17826,7 +17826,7 @@
         },
         "looking.house/point.php?id=374": {
             "ipv4": {
-                "178.32.250.46": "France"
+                "178.32.250.46": "Paris, France"
             },
             "ipv6": {}
         }
@@ -17858,7 +17858,7 @@
         },
         "looking.house/point.php?id=88": {
             "ipv4": {
-                "146.59.30.168": "France"
+                "146.59.30.168": "Poland"
             },
             "ipv6": {}
         }
@@ -18030,7 +18030,7 @@
         },
         "looking.house/point.php?id=391": {
             "ipv4": {
-                "51.195.35.4": "France"
+                "51.195.35.4": "United Kingdom"
             },
             "ipv6": {}
         },
@@ -18424,7 +18424,7 @@
     "FinalTek": {
         "looking.house/point.php?id=348": {
             "ipv4": {
-                "93.99.104.115": "Uhersky Ostroh, Czechia"
+                "93.99.104.115": "Tvrdonice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Hulin, Czechia"
@@ -18936,7 +18936,7 @@
     "FreakHosting": {
         "looking.house/point.php?id=816": {
             "ipv4": {
-                "45.13.151.195": "Lithuania"
+                "45.13.151.195": "Bacau, Romania"
             },
             "ipv6": {}
         },
@@ -18948,7 +18948,7 @@
         },
         "looking.house/point.php?id=818": {
             "ipv4": {
-                "191.96.94.157": "United States"
+                "191.96.94.157": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
@@ -19462,7 +19462,7 @@
         },
         "looking.house/point.php?id=885": {
             "ipv4": {
-                "82.115.5.12": "Australia"
+                "82.115.5.12": "Amsterdam, The Netherlands"
             },
             "ipv6": {
                 "2a0c:16c2:500:114::9a2d": "Amsterdam, The Netherlands"
@@ -19828,7 +19828,7 @@
     "Host Mayo": {
         "looking.house/point.php?id=488": {
             "ipv4": {
-                "104.218.236.24": "United States"
+                "23.160.56.2": "United States"
             },
             "ipv6": {}
         },
@@ -20260,7 +20260,7 @@
     "mCloud": {
         "looking.house/point.php?id=584": {
             "ipv4": {
-                "194.146.57.35": "Novi Sad, Serbia"
+                "194.146.57.35": "Serbia"
             },
             "ipv6": {}
         }
