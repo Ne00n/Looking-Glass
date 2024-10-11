@@ -2951,7 +2951,6 @@
 * [looking.house/point.php?id=855](http://looking.house/point.php?id=855)
 * [looking.house/point.php?id=856](http://looking.house/point.php?id=856)
 * [looking.house/point.php?id=857](http://looking.house/point.php?id=857)
-* [looking.house/point.php?id=858](http://looking.house/point.php?id=858)
 * [looking.house/point.php?id=859](http://looking.house/point.php?id=859)
 * [looking.house/point.php?id=860](http://looking.house/point.php?id=860)
 * [looking.house/point.php?id=862](http://looking.house/point.php?id=862)
@@ -3005,6 +3004,7 @@
 * [looking.house/point.php?id=874](http://looking.house/point.php?id=874)
 * [looking.house/point.php?id=883](http://looking.house/point.php?id=883)
 * [looking.house/point.php?id=888](http://looking.house/point.php?id=888)
+* [looking.house/point.php?id=893](http://looking.house/point.php?id=893)
 ### Shock Hosting
 * [looking.house/point.php?id=397](http://looking.house/point.php?id=397)
 * [looking.house/point.php?id=398](http://looking.house/point.php?id=398)
@@ -3368,7 +3368,6 @@
 ### NuxtCloud
 * [looking.house/point.php?id=619](http://looking.house/point.php?id=619)
 ### SpaceCore
-* [looking.house/point.php?id=507](http://looking.house/point.php?id=507)
 * [looking.house/point.php?id=629](http://looking.house/point.php?id=629)
 ### Z-Tv
 * [looking.house/point.php?id=435](http://looking.house/point.php?id=435)
@@ -3573,7 +3572,7 @@
 * [looking.house/point.php?id=143](http://looking.house/point.php?id=143)
 ### RuWeb.net
 * [looking.house/point.php?id=164](http://looking.house/point.php?id=164)
-### VPS Hoster
+### VirtualDC
 * [looking.house/point.php?id=173](http://looking.house/point.php?id=173)
 ### Maxiplace
 * [looking.house/point.php?id=181](http://looking.house/point.php?id=181)
@@ -3598,8 +3597,6 @@
 * [looking.house/point.php?id=636](http://looking.house/point.php?id=636)
 ### ISPserver
 * [looking.house/point.php?id=637](http://looking.house/point.php?id=637)
-### Tver
-* [looking.house/point.php?id=696](http://looking.house/point.php?id=696)
 ### ADMAN
 * [looking.house/point.php?id=37](http://looking.house/point.php?id=37)
 ### Legionbox
@@ -3702,6 +3699,8 @@
 * [looking.house/point.php?id=657](http://looking.house/point.php?id=657)
 ### CharityHost
 * [looking.house/point.php?id=892](http://looking.house/point.php?id=892)
+### Hetzner
+* [looking.house/point.php?id=95](http://looking.house/point.php?id=95)
 ### SmartHost LLC
 * [looking.house/point.php?id=618](http://looking.house/point.php?id=618)
 ### TheHost

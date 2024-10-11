@@ -182,12 +182,6 @@
             ],
             "ipv6": []
         },
-        "looking.house/point.php?id=858": {
-            "ipv4": [
-                "197.85.184.172"
-            ],
-            "ipv6": []
-        },
         "looking.house/point.php?id=844": {
             "ipv4": [
                 "23.248.160.4"
@@ -335,6 +329,12 @@
         "looking.house/point.php?id=468": {
             "ipv4": [
                 "193.203.203.9"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=893": {
+            "ipv4": [
+                "213.159.77.178"
             ],
             "ipv6": []
         },
@@ -2152,10 +2152,10 @@
         },
         "looking.house/point.php?id=564": {
             "ipv4": [
-                "45.144.178.220"
+                "193.53.126.138"
             ],
             "ipv6": [
-                "2a00:b700:4::4:279"
+                "2a00:b700:4::3bc"
             ]
         },
         "looking.house/point.php?id=565": {
@@ -2913,12 +2913,6 @@
         "looking.house/point.php?id=629": {
             "ipv4": [
                 "80.85.242.81"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=507": {
-            "ipv4": [
-                "95.181.153.25"
             ],
             "ipv6": []
         }
@@ -3961,14 +3955,12 @@
             ]
         }
     },
-    "VPS Hoster": {
+    "VirtualDC": {
         "looking.house/point.php?id=173": {
             "ipv4": [
-                "212.22.64.86"
+                "176.53.146.5"
             ],
-            "ipv6": [
-                "2a06:c3c0:1:1000::50"
-            ]
+            "ipv6": []
         }
     },
     "Maxiplace": {
@@ -4065,16 +4057,6 @@
                 "37.46.131.230"
             ],
             "ipv6": []
-        }
-    },
-    "Tver": {
-        "looking.house/point.php?id=696": {
-            "ipv4": [
-                "213.248.43.32"
-            ],
-            "ipv6": [
-                "2a00:1c48:10:4::1"
-            ]
         }
     },
     "ADMAN": {
@@ -4565,6 +4547,16 @@
                 "216.230.228.150"
             ],
             "ipv6": []
+        }
+    },
+    "Hetzner": {
+        "looking.house/point.php?id=95": {
+            "ipv4": [
+                "178.156.140.110"
+            ],
+            "ipv6": [
+                "2a01:4ff:f0:ac2c::1"
+            ]
         }
     },
     "SmartHost LLC": {
