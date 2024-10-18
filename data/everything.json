@@ -166,7 +166,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Harlesden, United Kingdom",
+                "92.223.59.1": "Neasden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -535,7 +535,7 @@
         },
         "lg-fort.fdcservers.net": {
             "ipv4": {
-                "50.7.3.4": "Estreito, Brazil"
+                "50.7.3.4": "Fortaleza, Brazil"
             },
             "ipv6": {}
         },
@@ -1461,7 +1461,7 @@
                 "45.91.92.191": "Zurich, Switzerland"
             },
             "ipv6": {
-                "2001:470:b5a1:5133:0000:0000:0000:0001": "Israel"
+                "2001:470:b5a1:5133:0000:0000:0000:0001": "Saudi Arabia"
             }
         },
         "http://waw.lg.webhorizon.in": {
@@ -5820,7 +5820,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Harlesden, United Kingdom"
+                "5.181.27.230": "Neasden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6492,7 +6492,7 @@
         "https://www.krypt.com/network/singapore-data-center-sin/": {
             "ipv4": {
                 "103.233.82.251": "Singapore, Singapore",
-                "43.252.120.130": "United States"
+                "43.252.120.130": "Thailand"
             },
             "ipv6": {}
         }
@@ -16724,7 +16724,7 @@
         },
         "looking.house/point.php?id=874": {
             "ipv4": {
-                "91.132.134.13": "Moldova"
+                "91.132.134.13": "Ljubljana, Slovenia"
             },
             "ipv6": {
                 "2a14:2d83:0:2::1": "Moldova"
@@ -16732,7 +16732,7 @@
         },
         "looking.house/point.php?id=883": {
             "ipv4": {
-                "91.132.133.7": "Galatsi, Greece"
+                "91.132.133.7": "Skopje, North Macedonia"
             },
             "ipv6": {
                 "2a14:2d84:0:1::1": "Moldova"
@@ -16740,7 +16740,7 @@
         },
         "looking.house/point.php?id=888": {
             "ipv4": {
-                "213.159.76.8": "Moldova"
+                "213.159.76.8": "Yerevan, Armenia"
             },
             "ipv6": {
                 "2a14:2d85:0:1::1": "Moldova"
@@ -16910,7 +16910,7 @@
         },
         "looking.house/point.php?id=521": {
             "ipv4": {
-                "5.181.27.126": "Harlesden, United Kingdom"
+                "5.181.27.126": "Neasden, United Kingdom"
             },
             "ipv6": {
                 "2a03:90c0:146::82a": "Luxembourg"
@@ -17208,7 +17208,7 @@
     "4vps": {
         "looking.house/point.php?id=671": {
             "ipv4": {
-                "81.19.140.42": "Toronto, Canada"
+                "81.19.140.42": "Ontario, Canada"
             },
             "ipv6": {
                 "2a05:541:105:11::1": "Toronto, Canada"
@@ -17280,7 +17280,7 @@
         },
         "looking.house/point.php?id=682": {
             "ipv4": {
-                "78.153.139.74": "Helsinki, Finland"
+                "78.153.139.74": "Uusimaa, Finland"
             },
             "ipv6": {
                 "2a05:541:108:11f::1": "Helsinki, Finland"
@@ -17288,7 +17288,7 @@
         },
         "looking.house/point.php?id=683": {
             "ipv4": {
-                "89.185.84.82": "London, United Kingdom"
+                "89.185.84.82": "United Kingdom"
             },
             "ipv6": {
                 "2a05:541:102:42::1": "London, United Kingdom"
@@ -17296,7 +17296,7 @@
         },
         "looking.house/point.php?id=684": {
             "ipv4": {
-                "45.95.233.44": "Paris, France"
+                "45.95.233.44": "Ile-de-France, France"
             },
             "ipv6": {
                 "2a05:541:104:21::1": "Paris, France"
@@ -17304,7 +17304,7 @@
         },
         "looking.house/point.php?id=685": {
             "ipv4": {
-                "88.151.192.174": "Vinnytsia, Ukraine"
+                "88.151.192.174": "Kyiv, Ukraine"
             },
             "ipv6": {
                 "2a05:541:106:30::1": "Vinnytsia, Ukraine"
@@ -17318,7 +17318,7 @@
         },
         "looking.house/point.php?id=687": {
             "ipv4": {
-                "185.247.184.112": "Milan, Italy"
+                "185.247.184.112": "Lombardy, Italy"
             },
             "ipv6": {
                 "2a05:541:110:41::1": "Milan, Italy"
@@ -17326,7 +17326,7 @@
         },
         "looking.house/point.php?id=688": {
             "ipv4": {
-                "141.98.234.13": "China"
+                "141.98.234.13": "Hong Kong, Hong Kong"
             },
             "ipv6": {
                 "2a05:541:111:27::1": "China"
@@ -17350,7 +17350,7 @@
         },
         "looking.house/point.php?id=691": {
             "ipv4": {
-                "45.82.13.40": "Stockholm, Sweden"
+                "45.82.13.40": "Sweden"
             },
             "ipv6": {
                 "2a05:541:114:13::1": "Stockholm, Sweden"
@@ -17374,7 +17374,7 @@
         },
         "looking.house/point.php?id=694": {
             "ipv4": {
-                "193.228.128.42": "Tallinn, Estonia"
+                "193.228.128.42": "Harjumaa, Estonia"
             },
             "ipv6": {
                 "2a05:541:129:29::1": "Tallinn, Estonia"
@@ -17458,10 +17458,10 @@
     "BlackHOST": {
         "looking.house/point.php?id=311": {
             "ipv4": {
-                "185.30.233.140": "Canary Wharf, United Kingdom"
+                "213.254.179.140": "United Kingdom"
             },
             "ipv6": {
-                "2a07:85c3:0:140::2": "Seychelles"
+                "2a01:e947:0:740::1": "Canada"
             }
         },
         "looking.house/point.php?id=312": {
@@ -18232,10 +18232,10 @@
         },
         "looking.house/point.php?id=565": {
             "ipv4": {
-                "194.147.85.59": "St Petersburg, Russia"
+                "176.32.39.33": "St Petersburg, Russia"
             },
             "ipv6": {
-                "2a00:b700:5::4:3a2": "Russia"
+                "2a00:b700:5::3ac": "Russia"
             }
         },
         "looking.house/point.php?id=697": {
@@ -19049,6 +19049,18 @@
         "looking.house/point.php?id=629": {
             "ipv4": {
                 "80.85.242.81": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=894": {
+            "ipv4": {
+                "194.58.41.27": "Czechia"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=895": {
+            "ipv4": {
+                "80.71.227.205": "Meppel, The Netherlands"
             },
             "ipv6": {}
         }
@@ -20480,19 +20492,19 @@
     "LetBox": {
         "looking.house/point.php?id=283": {
             "ipv4": {
-                "185.215.224.21": "United Kingdom"
+                "185.215.224.21": "United States"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=284": {
             "ipv4": {
-                "185.215.227.9": "United Kingdom"
+                "185.215.227.9": "United States"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=460": {
             "ipv4": {
-                "185.215.226.26": "United Kingdom"
+                "185.215.226.26": "United States"
             },
             "ipv6": {}
         }
@@ -20605,6 +20617,12 @@
                 "66.109.23.176": "Brooklyn, United States"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=761": {
+            "ipv4": {
+                "5.101.150.185": "London, United Kingdom"
+            },
+            "ipv6": {}
         }
     },
     "PloxHost": {
@@ -20630,16 +20648,6 @@
             },
             "ipv6": {
                 "2001:550:1703:5::2": "Philadelphia, United States"
-            }
-        }
-    },
-    "TeraSwitch Inc.": {
-        "looking.house/point.php?id=378": {
-            "ipv4": {
-                "74.118.138.64": "Pittsburgh, United States"
-            },
-            "ipv6": {
-                "2607:fdc0:5:9::179": "Pittsburgh, United States"
             }
         }
     },
@@ -20683,16 +20691,6 @@
                 "216.230.228.150": "Houston, United States"
             },
             "ipv6": {}
-        }
-    },
-    "Hetzner": {
-        "looking.house/point.php?id=95": {
-            "ipv4": {
-                "178.156.140.110": "Ashburn, United States"
-            },
-            "ipv6": {
-                "2a01:4ff:f0:ac2c::1": "Ashburn, United States"
-            }
         }
     },
     "SmartHost LLC": {

@@ -3369,6 +3369,8 @@
 * [looking.house/point.php?id=619](http://looking.house/point.php?id=619)
 ### SpaceCore
 * [looking.house/point.php?id=629](http://looking.house/point.php?id=629)
+* [looking.house/point.php?id=894](http://looking.house/point.php?id=894)
+* [looking.house/point.php?id=895](http://looking.house/point.php?id=895)
 ### Z-Tv
 * [looking.house/point.php?id=435](http://looking.house/point.php?id=435)
 * [looking.house/point.php?id=621](http://looking.house/point.php?id=621)
@@ -3683,13 +3685,12 @@
 * [looking.house/point.php?id=433](http://looking.house/point.php?id=433)
 ### SadeemRDP
 * [looking.house/point.php?id=760](http://looking.house/point.php?id=760)
+* [looking.house/point.php?id=761](http://looking.house/point.php?id=761)
 ### PloxHost
 * [looking.house/point.php?id=504](http://looking.house/point.php?id=504)
 * [looking.house/point.php?id=520](http://looking.house/point.php?id=520)
 ### LaunchVPS
 * [looking.house/point.php?id=205](http://looking.house/point.php?id=205)
-### TeraSwitch Inc.
-* [looking.house/point.php?id=378](http://looking.house/point.php?id=378)
 ### SSDBlaze
 * [looking.house/point.php?id=406](http://looking.house/point.php?id=406)
 ### Rad Web Hosting
@@ -3699,8 +3700,6 @@
 * [looking.house/point.php?id=657](http://looking.house/point.php?id=657)
 ### CharityHost
 * [looking.house/point.php?id=892](http://looking.house/point.php?id=892)
-### Hetzner
-* [looking.house/point.php?id=95](http://looking.house/point.php?id=95)
 ### SmartHost LLC
 * [looking.house/point.php?id=618](http://looking.house/point.php?id=618)
 ### TheHost
