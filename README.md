@@ -3436,6 +3436,7 @@
 ### Megahost
 * [looking.house/point.php?id=161](http://looking.house/point.php?id=161)
 * [looking.house/point.php?id=607](http://looking.house/point.php?id=607)
+* [looking.house/point.php?id=898](http://looking.house/point.php?id=898)
 ### PS
 * [looking.house/point.php?id=110](http://looking.house/point.php?id=110)
 ### Goodhost
@@ -3684,9 +3685,6 @@
 ### Misaka Network Inc
 * [looking.house/point.php?id=432](http://looking.house/point.php?id=432)
 * [looking.house/point.php?id=433](http://looking.house/point.php?id=433)
-### SadeemRDP
-* [looking.house/point.php?id=760](http://looking.house/point.php?id=760)
-* [looking.house/point.php?id=761](http://looking.house/point.php?id=761)
 ### PloxHost
 * [looking.house/point.php?id=504](http://looking.house/point.php?id=504)
 * [looking.house/point.php?id=520](http://looking.house/point.php?id=520)
@@ -3717,6 +3715,8 @@
 * [looking.house/point.php?id=382](http://looking.house/point.php?id=382)
 ### UAPEER H.S.
 * [looking.house/point.php?id=68](http://looking.house/point.php?id=68)
+### SadeemRDP
+* [looking.house/point.php?id=761](http://looking.house/point.php?id=761)
 ### HostGlobal
 * [looking.house/point.php?id=175](http://looking.house/point.php?id=175)
 ### UK Host4u
