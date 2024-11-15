@@ -2637,6 +2637,50 @@
             ]
         }
     },
+    "Hyper Hosting": {
+        "looking.house/point.php?id=900": {
+            "ipv4": [
+                "46.161.0.12"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=823": {
+            "ipv4": [
+                "146.185.233.10"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=795": {
+            "ipv4": [
+                "80.66.79.80"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=796": {
+            "ipv4": [
+                "80.66.84.15"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=899": {
+            "ipv4": [
+                "146.185.239.54"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=797": {
+            "ipv4": [
+                "5.8.18.11"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=794": {
+            "ipv4": [
+                "81.19.131.88"
+            ],
+            "ipv6": []
+        }
+    },
     "Virtua.Cloud": {
         "looking.house/point.php?id=376": {
             "ipv4": [
@@ -2817,38 +2861,6 @@
         "looking.house/point.php?id=887": {
             "ipv4": [
                 "109.176.229.59"
-            ],
-            "ipv6": []
-        }
-    },
-    "Hyper Hosting": {
-        "looking.house/point.php?id=823": {
-            "ipv4": [
-                "146.185.233.10"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=795": {
-            "ipv4": [
-                "80.66.79.80"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=796": {
-            "ipv4": [
-                "80.66.84.15"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=797": {
-            "ipv4": [
-                "5.8.18.11"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=794": {
-            "ipv4": [
-                "81.19.131.88"
             ],
             "ipv6": []
         }

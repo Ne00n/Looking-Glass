@@ -3315,6 +3315,14 @@
 * [looking.house/point.php?id=791](http://looking.house/point.php?id=791)
 * [looking.house/point.php?id=792](http://looking.house/point.php?id=792)
 * [looking.house/point.php?id=799](http://looking.house/point.php?id=799)
+### Hyper Hosting
+* [looking.house/point.php?id=794](http://looking.house/point.php?id=794)
+* [looking.house/point.php?id=795](http://looking.house/point.php?id=795)
+* [looking.house/point.php?id=796](http://looking.house/point.php?id=796)
+* [looking.house/point.php?id=797](http://looking.house/point.php?id=797)
+* [looking.house/point.php?id=823](http://looking.house/point.php?id=823)
+* [looking.house/point.php?id=899](http://looking.house/point.php?id=899)
+* [looking.house/point.php?id=900](http://looking.house/point.php?id=900)
 ### Virtua.Cloud
 * [looking.house/point.php?id=376](http://looking.house/point.php?id=376)
 * [looking.house/point.php?id=516](http://looking.house/point.php?id=516)
@@ -3350,12 +3358,6 @@
 * [looking.house/point.php?id=817](http://looking.house/point.php?id=817)
 * [looking.house/point.php?id=818](http://looking.house/point.php?id=818)
 * [looking.house/point.php?id=887](http://looking.house/point.php?id=887)
-### Hyper Hosting
-* [looking.house/point.php?id=794](http://looking.house/point.php?id=794)
-* [looking.house/point.php?id=795](http://looking.house/point.php?id=795)
-* [looking.house/point.php?id=796](http://looking.house/point.php?id=796)
-* [looking.house/point.php?id=797](http://looking.house/point.php?id=797)
-* [looking.house/point.php?id=823](http://looking.house/point.php?id=823)
 ### Virtarix
 * [looking.house/point.php?id=889](http://looking.house/point.php?id=889)
 * [looking.house/point.php?id=890](http://looking.house/point.php?id=890)
