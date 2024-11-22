@@ -166,7 +166,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Harlesden, United Kingdom",
+                "92.223.59.1": "Neasden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -2631,7 +2631,7 @@
                 "2604:6600:2002:4::1531:a1e7": "Ashburn, United States",
                 "2602:ffc8:4:4::2": "Dallas, United States",
                 "2602:ffc8:2:102::2": "Buffalo, United States",
-                "2606:6080:1001::1": "Canada",
+                "2606:6080:1001::1": "Toronto, Canada",
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States",
                 "2402:a7c0:8100:a015::1": "Singapore",
                 "2406:f400:8:32::1": "Singapore",
@@ -3304,7 +3304,7 @@
         },
         "lg-pl.vmium.com": {
             "ipv4": {
-                "176.105.253.100": "United States"
+                "176.105.253.100": "Warsaw, Poland"
             },
             "ipv6": {
                 "2a0d:c740:3c:1::00ad:3033": "United States"
@@ -4522,7 +4522,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -5820,7 +5820,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Harlesden, United Kingdom"
+                "5.181.27.230": "Neasden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6279,7 +6279,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -7320,7 +7320,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Houston, United States"
+                "216.230.224.34": "United States"
             },
             "ipv6": {}
         }
@@ -7403,7 +7403,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -9646,7 +9646,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -10015,7 +10015,7 @@
         },
         "http://lg-pl.simplevm.net/": {
             "ipv4": {
-                "176.105.253.100": "United States"
+                "176.105.253.100": "Warsaw, Poland"
             },
             "ipv6": {
                 "2a0d:c740:3c:1::00ad:3033": "United States"
@@ -12169,7 +12169,7 @@
     "gointec.com.br": {
         "https://lg.gointec.com.br": {
             "ipv4": {
-                "162.158.91.163": "Los Angeles, United States"
+                "162.158.91.163": "United States"
             },
             "ipv6": {}
         },
@@ -12792,7 +12792,7 @@
     "bgp4.pl": {
         "http://lg.bgp4.pl": {
             "ipv4": {
-                "195.245.104.4": "Suwaki, Poland"
+                "195.245.104.4": "Poland"
             },
             "ipv6": {}
         }
@@ -13155,7 +13155,7 @@
         },
         "https://lg-usa.fonira.net": {
             "ipv4": {
-                "62.151.178.60": "Spain"
+                "62.151.178.60": "United States"
             },
             "ipv6": {
                 "2607:f1c0:1801:2d::1": "United States"
@@ -14939,13 +14939,13 @@
     "netrouting.net": {
         "https://lg.netrouting.net/": {
             "ipv4": {
-                "162.158.91.18": "Los Angeles, United States"
+                "162.158.91.18": "United States"
             },
             "ipv6": {}
         },
         "lg.netrouting.net": {
             "ipv4": {
-                "162.158.91.116": "Los Angeles, United States"
+                "162.158.91.116": "United States"
             },
             "ipv6": {}
         }
@@ -16204,12 +16204,6 @@
             },
             "ipv6": {}
         },
-        "looking.house/point.php?id=833": {
-            "ipv4": {
-                "50.7.5.82": "Dublin, Ireland"
-            },
-            "ipv6": {}
-        },
         "looking.house/point.php?id=835": {
             "ipv4": {
                 "195.16.73.113": "Sandefjord, Norway"
@@ -16291,12 +16285,6 @@
         "looking.house/point.php?id=848": {
             "ipv4": {
                 "129.227.242.135": "Chennai, India"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=849": {
-            "ipv4": {
-                "216.250.255.95": "San Jose, United States"
             },
             "ipv6": {}
         },
@@ -16808,7 +16796,7 @@
         },
         "looking.house/point.php?id=521": {
             "ipv4": {
-                "5.181.27.126": "Harlesden, United Kingdom"
+                "5.181.27.126": "Neasden, United Kingdom"
             },
             "ipv6": {
                 "2a03:90c0:146::82a": "Luxembourg"
@@ -17957,7 +17945,7 @@
                 "89.28.236.16": "Nrre Aby, Denmark"
             },
             "ipv6": {
-                "2a0f:f01:200:11::": "Asperup, Denmark"
+                "2a0f:f01:200:11::": "Nrre Aby, Denmark"
             }
         }
     },
@@ -18858,14 +18846,6 @@
             },
             "ipv6": {
                 "2a02:29b8:dc01:1800::2": "Zurich, Switzerland"
-            }
-        },
-        "looking.house/point.php?id=757": {
-            "ipv4": {
-                "23.95.182.54": "Buffalo, United States"
-            },
-            "ipv6": {
-                "2a05:b40:0:652::3": "Amsterdam, The Netherlands"
             }
         },
         "looking.house/point.php?id=758": {
@@ -20266,7 +20246,7 @@
     "mCloud": {
         "looking.house/point.php?id=584": {
             "ipv4": {
-                "194.146.57.35": "Serbia"
+                "194.146.57.35": "Novi Sad, Serbia"
             },
             "ipv6": {}
         }
@@ -20633,6 +20613,20 @@
             "ipv6": {}
         }
     },
+    "SadeemRDP": {
+        "looking.house/point.php?id=760": {
+            "ipv4": {
+                "38.224.19.101": "Brooklyn, United States"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=761": {
+            "ipv4": {
+                "5.101.150.185": "London, United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
     "PloxHost": {
         "looking.house/point.php?id=504": {
             "ipv4": {
@@ -20767,14 +20761,6 @@
             "ipv6": {
                 "2a02:2658:1038::8": "United Kingdom"
             }
-        }
-    },
-    "SadeemRDP": {
-        "looking.house/point.php?id=761": {
-            "ipv4": {
-                "5.101.150.185": "London, United Kingdom"
-            },
-            "ipv6": {}
         }
     },
     "HostGlobal": {
