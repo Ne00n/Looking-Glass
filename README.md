@@ -2924,7 +2924,6 @@
 * [looking.house/point.php?id=827](http://looking.house/point.php?id=827)
 * [looking.house/point.php?id=828](http://looking.house/point.php?id=828)
 * [looking.house/point.php?id=829](http://looking.house/point.php?id=829)
-* [looking.house/point.php?id=830](http://looking.house/point.php?id=830)
 * [looking.house/point.php?id=831](http://looking.house/point.php?id=831)
 * [looking.house/point.php?id=835](http://looking.house/point.php?id=835)
 * [looking.house/point.php?id=836](http://looking.house/point.php?id=836)
@@ -3338,8 +3337,6 @@
 * [looking.house/point.php?id=725](http://looking.house/point.php?id=725)
 ### KeyWeb
 * [looking.house/point.php?id=163](http://looking.house/point.php?id=163)
-### Universal GG
-* [looking.house/point.php?id=821](http://looking.house/point.php?id=821)
 ### h2.nexus
 * [looking.house/point.php?id=750](http://looking.house/point.php?id=750)
 ### Leapswitch
@@ -3453,9 +3450,6 @@
 * [looking.house/point.php?id=113](http://looking.house/point.php?id=113)
 ### GB Network Solutions
 * [looking.house/point.php?id=333](http://looking.house/point.php?id=333)
-### Full VPS Server
-* [looking.house/point.php?id=255](http://looking.house/point.php?id=255)
-* [looking.house/point.php?id=257](http://looking.house/point.php?id=257)
 ### MangoHost
 * [looking.house/point.php?id=590](http://looking.house/point.php?id=590)
 ### AlexHost
@@ -3525,6 +3519,9 @@
 * [looking.house/point.php?id=864](http://looking.house/point.php?id=864)
 ### Hosting Now NZ
 * [looking.house/point.php?id=345](http://looking.house/point.php?id=345)
+### SiteHUB
+* [looking.house/point.php?id=896](http://looking.house/point.php?id=896)
+* [looking.house/point.php?id=901](http://looking.house/point.php?id=901)
 ### HostGier
 * [looking.house/point.php?id=801](http://looking.house/point.php?id=801)
 ### Host4biz
@@ -3616,6 +3613,8 @@
 * [looking.house/point.php?id=469](http://looking.house/point.php?id=469)
 ### Rackzar
 * [looking.house/point.php?id=870](http://looking.house/point.php?id=870)
+### Full VPS Server
+* [looking.house/point.php?id=257](http://looking.house/point.php?id=257)
 ### Sered
 * [looking.house/point.php?id=386](http://looking.house/point.php?id=386)
 ### GinerNet
@@ -3637,8 +3636,6 @@
 * [looking.house/point.php?id=408](http://looking.house/point.php?id=408)
 ### Charged IT Solutions
 * [looking.house/point.php?id=768](http://looking.house/point.php?id=768)
-### SiteHUB
-* [looking.house/point.php?id=896](http://looking.house/point.php?id=896)
 ### SolaDrive
 * [looking.house/point.php?id=262](http://looking.house/point.php?id=262)
 * [looking.house/point.php?id=263](http://looking.house/point.php?id=263)
@@ -3660,6 +3657,7 @@
 ### DediRock
 * [looking.house/point.php?id=776](http://looking.house/point.php?id=776)
 * [looking.house/point.php?id=777](http://looking.house/point.php?id=777)
+* [looking.house/point.php?id=902](http://looking.house/point.php?id=902)
 ### LetBox
 * [looking.house/point.php?id=283](http://looking.house/point.php?id=283)
 * [looking.house/point.php?id=284](http://looking.house/point.php?id=284)
@@ -3671,11 +3669,11 @@
 * [looking.house/point.php?id=428](http://looking.house/point.php?id=428)
 ### AquaNX
 * [looking.house/point.php?id=498](http://looking.house/point.php?id=498)
-### PlasmaRack
-* [looking.house/point.php?id=769](http://looking.house/point.php?id=769)
 ### Hostodo
 * [looking.house/point.php?id=229](http://looking.house/point.php?id=229)
 * [looking.house/point.php?id=230](http://looking.house/point.php?id=230)
+### PlasmaRack
+* [looking.house/point.php?id=769](http://looking.house/point.php?id=769)
 ### Catalyst Host LLC
 * [looking.house/point.php?id=227](http://looking.house/point.php?id=227)
 * [looking.house/point.php?id=451](http://looking.house/point.php?id=451)

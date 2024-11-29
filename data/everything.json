@@ -23,7 +23,7 @@
             "ipv4": {
                 "151.115.0.1": "Warsaw, Poland",
                 "163.172.208.1": "Amsterdam, The Netherlands",
-                "195.154.0.5": "Ivry-sur-Seine, France",
+                "195.154.0.5": "Paris, France",
                 "212.129.0.1": "France",
                 "212.47.224.7": "France",
                 "212.83.128.4": "France",
@@ -31,7 +31,7 @@
                 "51.15.0.1": "France",
                 "51.158.0.8": "Paris, France",
                 "51.158.128.1": "Paris, France",
-                "62.210.0.2": "Le Raincy, France",
+                "62.210.0.2": "Villeneuve-le-Roi, France",
                 "62.4.0.2": "France"
             },
             "ipv6": {}
@@ -161,7 +161,7 @@
                 "5.188.238.1": "Santana de Parnaiba, Brazil",
                 "5.188.33.1": "Hong Kong, Hong Kong",
                 "5.188.6.1": "Kyiv, Ukraine",
-                "5.188.71.1": "Shukugawara, Japan",
+                "5.188.71.1": "Tokyo, Japan",
                 "5.188.93.1": "Paris, France",
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
@@ -457,7 +457,7 @@
         },
         "lg.ikdc1.ikoula.com": {
             "ipv4": {
-                "178.170.68.42": "Esbly, France"
+                "178.170.68.42": "Viry-Chatillon, France"
             },
             "ipv6": {
                 "2a00:c70:1:178:170:68:42:1": "France"
@@ -601,7 +601,7 @@
         },
         "lg-mia.fdcservers.net": {
             "ipv4": {
-                "50.7.64.4": "Miami, United States"
+                "50.7.64.4": "United States"
             },
             "ipv6": {}
         },
@@ -613,7 +613,7 @@
         },
         "lg-nyc.fdcservers.net": {
             "ipv4": {
-                "198.255.20.4": "New York, United States"
+                "198.255.20.4": "United States"
             },
             "ipv6": {}
         },
@@ -1069,7 +1069,7 @@
         },
         "lgjp.nexusbytes.com": {
             "ipv4": {
-                "139.64.236.64": "Tokyo, Japan"
+                "139.64.236.64": "United States"
             },
             "ipv6": {
                 "2404:f780:000a:0006:0000:0000:0000:0002": "Australia"
@@ -1117,7 +1117,7 @@
         },
         "lgsg.nexusbytes.com": {
             "ipv4": {
-                "139.64.239.2": "Singapore, Singapore"
+                "139.64.239.2": "United States"
             },
             "ipv6": {
                 "2602:fed2:712e:005c:0000:0000:0000:0001": "Canada"
@@ -2152,13 +2152,13 @@
         },
         "lg.dc03.dedicontrol.com": {
             "ipv4": {
-                "91.132.1.132": "Germany"
+                "91.132.1.132": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "lg.dc07.dedicontrol.com": {
             "ipv4": {
-                "5.104.78.10": "Los Angeles, United States"
+                "5.104.78.10": "New York, United States"
             },
             "ipv6": {}
         },
@@ -4522,7 +4522,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Ogden, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -5231,14 +5231,14 @@
                 "212.224.70.16": "Germany",
                 "45.81.7.154": "Los Angeles, United States",
                 "45.9.15.195": "Cyprus",
-                "5.104.78.10": "Los Angeles, United States",
+                "5.104.78.10": "New York, United States",
                 "62.113.254.1": "Germany",
                 "69.25.116.107": "Phoenix, United States",
                 "69.25.117.188": "Seattle, United States",
                 "69.61.66.10": "Atlanta, United States",
                 "74.217.183.180": "San Jose, United States",
                 "84.200.17.1": "Germany",
-                "91.132.1.132": "Germany"
+                "91.132.1.132": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:cd40:100::235": "Amsterdam, The Netherlands",
@@ -6279,7 +6279,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Ogden, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -7320,7 +7320,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "United States"
+                "216.230.224.34": "Houston, United States"
             },
             "ipv6": {}
         }
@@ -7403,7 +7403,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Ogden, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -8523,7 +8523,7 @@
         },
         "http://lgsg.nexusbytes.com/": {
             "ipv4": {
-                "139.64.239.2": "Singapore, Singapore"
+                "139.64.239.2": "United States"
             },
             "ipv6": {
                 "2602:fed2:712e:005c:0000:0000:0000:0001": "Canada"
@@ -9646,7 +9646,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Ogden, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "South Bend, United States",
@@ -12792,7 +12792,7 @@
     "bgp4.pl": {
         "http://lg.bgp4.pl": {
             "ipv4": {
-                "195.245.104.4": "Poland"
+                "195.245.104.4": "Suwaki, Poland"
             },
             "ipv6": {}
         }
@@ -16192,12 +16192,6 @@
             },
             "ipv6": {}
         },
-        "looking.house/point.php?id=830": {
-            "ipv4": {
-                "51.68.195.17": "France"
-            },
-            "ipv6": {}
-        },
         "looking.house/point.php?id=831": {
             "ipv4": {
                 "185.137.138.73": "United States"
@@ -16679,7 +16673,7 @@
                 "89.221.224.6": "Hafnarfjordur, Iceland"
             },
             "ipv6": {
-                "2a13:6304:0:6::1": "United Kingdom"
+                "2a13:6304:0:6::1": "Iceland"
             }
         },
         "looking.house/point.php?id=763": {
@@ -17810,7 +17804,7 @@
     "IPhoster": {
         "looking.house/point.php?id=558": {
             "ipv4": {
-                "54.38.155.132": "France"
+                "31.24.253.58": "Limburg an der Lahn, Germany"
             },
             "ipv6": {}
         },
@@ -17834,7 +17828,7 @@
         },
         "looking.house/point.php?id=88": {
             "ipv4": {
-                "146.59.30.168": "France"
+                "86.110.56.52": "Warsaw, Poland"
             },
             "ipv6": {}
         }
@@ -18893,14 +18887,6 @@
             "ipv6": {}
         }
     },
-    "Universal GG": {
-        "looking.house/point.php?id=821": {
-            "ipv4": {
-                "163.5.120.108": "Madrid, Spain"
-            },
-            "ipv6": {}
-        }
-    },
     "h2.nexus": {
         "looking.house/point.php?id=750": {
             "ipv4": {
@@ -19046,13 +19032,17 @@
             "ipv4": {
                 "194.58.41.27": "Czechia"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2a13:7dc0:2000:3::1": "Armenia"
+            }
         },
         "looking.house/point.php?id=895": {
             "ipv4": {
                 "80.71.227.205": "Meppel, The Netherlands"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2a13:7dc0:1000:5::1": "Armenia"
+            }
         }
     },
     "Z-Tv": {
@@ -19254,7 +19244,7 @@
     "WebHOST1": {
         "looking.house/point.php?id=214": {
             "ipv4": {
-                "45.145.0.35": "United Arab Emirates"
+                "45.145.0.35": "Chisinau, Moldova"
             },
             "ipv6": {}
         },
@@ -19266,7 +19256,7 @@
         },
         "looking.house/point.php?id=317": {
             "ipv4": {
-                "195.246.110.27": "United Arab Emirates"
+                "195.246.110.27": "The Netherlands"
             },
             "ipv6": {}
         },
@@ -19493,20 +19483,6 @@
         "looking.house/point.php?id=333": {
             "ipv4": {
                 "103.72.162.91": "Cyberjaya, Malaysia"
-            },
-            "ipv6": {}
-        }
-    },
-    "Full VPS Server": {
-        "looking.house/point.php?id=255": {
-            "ipv4": {
-                "45.170.254.13": "Mexico"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=257": {
-            "ipv4": {
-                "103.140.45.195": "Seoul, South Korea"
             },
             "ipv6": {}
         }
@@ -19844,7 +19820,9 @@
             "ipv4": {
                 "23.160.56.2": "United States"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2602:294:0:c::f228:6d0f": "United States"
+            }
         },
         "looking.house/point.php?id=494": {
             "ipv4": {
@@ -19866,6 +19844,24 @@
             },
             "ipv6": {
                 "2404:ab00:7:1::f47f:f27a": "New Zealand"
+            }
+        }
+    },
+    "SiteHUB": {
+        "looking.house/point.php?id=896": {
+            "ipv4": {
+                "167.88.48.17": "Fremont, United States"
+            },
+            "ipv6": {
+                "2602:fed2:7198:8622::1": "Canada"
+            }
+        },
+        "looking.house/point.php?id=901": {
+            "ipv4": {
+                "167.88.51.253": "Lagos, Nigeria"
+            },
+            "ipv6": {
+                "2a01:e281:ac01:60a0::1": "United States"
             }
         }
     },
@@ -20246,7 +20242,7 @@
     "mCloud": {
         "looking.house/point.php?id=584": {
             "ipv4": {
-                "194.146.57.35": "Novi Sad, Serbia"
+                "194.146.57.35": "Serbia"
             },
             "ipv6": {}
         }
@@ -20271,6 +20267,14 @@
         "looking.house/point.php?id=870": {
             "ipv4": {
                 "102.222.22.159": "Cape Town, South Africa"
+            },
+            "ipv6": {}
+        }
+    },
+    "Full VPS Server": {
+        "looking.house/point.php?id=257": {
+            "ipv4": {
+                "103.140.45.195": "Seoul, South Korea"
             },
             "ipv6": {}
         }
@@ -20348,7 +20352,7 @@
     "HostingInside LTD": {
         "looking.house/point.php?id=224": {
             "ipv4": {
-                "2.58.243.103": "Taipei, Taiwan"
+                "103.150.37.223": "Taichung, Taiwan"
             },
             "ipv6": {}
         }
@@ -20370,16 +20374,6 @@
             },
             "ipv6": {
                 "2602:299:1:5::a": "Phoenix, United States"
-            }
-        }
-    },
-    "SiteHUB": {
-        "looking.house/point.php?id=896": {
-            "ipv4": {
-                "167.88.48.17": "Fremont, United States"
-            },
-            "ipv6": {
-                "2602:fed2:7198:8622::1": "Canada"
             }
         }
     },
@@ -20489,6 +20483,12 @@
                 "107.174.123.254": "Los Angeles, United States"
             },
             "ipv6": {}
+        },
+        "looking.house/point.php?id=902": {
+            "ipv4": {
+                "198.37.127.161": "Los Angeles, United States"
+            },
+            "ipv6": {}
         }
     },
     "LetBox": {
@@ -20545,16 +20545,6 @@
             "ipv6": {}
         }
     },
-    "PlasmaRack": {
-        "looking.house/point.php?id=769": {
-            "ipv4": {
-                "23.153.72.70": "Miami, United States"
-            },
-            "ipv6": {
-                "2602:2d4:f02:4::a": "Miami, United States"
-            }
-        }
-    },
     "Hostodo": {
         "looking.house/point.php?id=229": {
             "ipv4": {
@@ -20570,6 +20560,16 @@
             },
             "ipv6": {
                 "2604:4cc0:11:1a7::ac34": "Tampa, United States"
+            }
+        }
+    },
+    "PlasmaRack": {
+        "looking.house/point.php?id=769": {
+            "ipv4": {
+                "23.153.72.70": "Miami, United States"
+            },
+            "ipv6": {
+                "2602:2d4:f02:4::a": "Miami, United States"
             }
         }
     },
