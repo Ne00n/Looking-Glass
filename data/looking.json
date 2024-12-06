@@ -1674,13 +1674,13 @@
         },
         "looking.house/point.php?id=559": {
             "ipv4": [
-                "137.74.150.56"
+                "89.39.120.170"
             ],
             "ipv6": []
         },
         "looking.house/point.php?id=558": {
             "ipv4": [
-                "31.24.253.58"
+                "5.178.106.128"
             ],
             "ipv6": []
         },
@@ -1692,7 +1692,7 @@
         },
         "looking.house/point.php?id=560": {
             "ipv4": [
-                "51.195.249.116"
+                "91.199.32.145"
             ],
             "ipv6": []
         }
@@ -2955,7 +2955,7 @@
                 "185.74.254.165"
             ],
             "ipv6": [
-                "2a04:9641:0:9::"
+                "2a04:9641:0:9::2"
             ]
         },
         "looking.house/point.php?id=210": {
@@ -3457,20 +3457,6 @@
             "ipv6": []
         }
     },
-    "Eurobyte": {
-        "looking.house/point.php?id=86": {
-            "ipv4": [
-                "46.30.47.47"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=82": {
-            "ipv4": [
-                "95.142.42.64"
-            ],
-            "ipv6": []
-        }
-    },
     "ServTech": {
         "looking.house/point.php?id=206": {
             "ipv4": [
@@ -3893,6 +3879,14 @@
         "looking.house/point.php?id=76": {
             "ipv4": [
                 "45.128.148.25"
+            ],
+            "ipv6": []
+        }
+    },
+    "Eurobyte": {
+        "looking.house/point.php?id=82": {
+            "ipv4": [
+                "95.142.42.64"
             ],
             "ipv6": []
         }
@@ -4503,6 +4497,20 @@
         "looking.house/point.php?id=504": {
             "ipv4": [
                 "66.11.123.33"
+            ],
+            "ipv6": []
+        }
+    },
+    "LookingHouse.net": {
+        "looking.house/point.php?id=904": {
+            "ipv4": [
+                "167.71.169.50"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=903": {
+            "ipv4": [
+                "165.22.117.153"
             ],
             "ipv6": []
         }
