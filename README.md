@@ -3218,31 +3218,6 @@
 * [looking.house/point.php?id=360](http://looking.house/point.php?id=360)
 * [looking.house/point.php?id=361](http://looking.house/point.php?id=361)
 * [looking.house/point.php?id=362](http://looking.house/point.php?id=362)
-### JustHost
-* [looking.house/point.php?id=461](http://looking.house/point.php?id=461)
-* [looking.house/point.php?id=462](http://looking.house/point.php?id=462)
-* [looking.house/point.php?id=463](http://looking.house/point.php?id=463)
-* [looking.house/point.php?id=464](http://looking.house/point.php?id=464)
-* [looking.house/point.php?id=563](http://looking.house/point.php?id=563)
-* [looking.house/point.php?id=564](http://looking.house/point.php?id=564)
-* [looking.house/point.php?id=565](http://looking.house/point.php?id=565)
-* [looking.house/point.php?id=697](http://looking.house/point.php?id=697)
-* [looking.house/point.php?id=698](http://looking.house/point.php?id=698)
-* [looking.house/point.php?id=699](http://looking.house/point.php?id=699)
-* [looking.house/point.php?id=700](http://looking.house/point.php?id=700)
-* [looking.house/point.php?id=701](http://looking.house/point.php?id=701)
-* [looking.house/point.php?id=702](http://looking.house/point.php?id=702)
-* [looking.house/point.php?id=703](http://looking.house/point.php?id=703)
-* [looking.house/point.php?id=704](http://looking.house/point.php?id=704)
-* [looking.house/point.php?id=705](http://looking.house/point.php?id=705)
-* [looking.house/point.php?id=706](http://looking.house/point.php?id=706)
-* [looking.house/point.php?id=707](http://looking.house/point.php?id=707)
-* [looking.house/point.php?id=708](http://looking.house/point.php?id=708)
-* [looking.house/point.php?id=709](http://looking.house/point.php?id=709)
-* [looking.house/point.php?id=710](http://looking.house/point.php?id=710)
-* [looking.house/point.php?id=711](http://looking.house/point.php?id=711)
-* [looking.house/point.php?id=748](http://looking.house/point.php?id=748)
-* [looking.house/point.php?id=749](http://looking.house/point.php?id=749)
 ### Zappie Host
 * [looking.house/point.php?id=491](http://looking.house/point.php?id=491)
 * [looking.house/point.php?id=492](http://looking.house/point.php?id=492)
@@ -3327,7 +3302,6 @@
 ### HostiMan
 * [looking.house/point.php?id=52](http://looking.house/point.php?id=52)
 ### ThunderVM
-* [looking.house/point.php?id=755](http://looking.house/point.php?id=755)
 * [looking.house/point.php?id=756](http://looking.house/point.php?id=756)
 * [looking.house/point.php?id=758](http://looking.house/point.php?id=758)
 * [looking.house/point.php?id=770](http://looking.house/point.php?id=770)
@@ -3470,6 +3444,9 @@
 * [looking.house/point.php?id=203](http://looking.house/point.php?id=203)
 * [looking.house/point.php?id=38](http://looking.house/point.php?id=38)
 * [looking.house/point.php?id=512](http://looking.house/point.php?id=512)
+### Eurobyte
+* [looking.house/point.php?id=82](http://looking.house/point.php?id=82)
+* [looking.house/point.php?id=86](http://looking.house/point.php?id=86)
 ### ServTech
 * [looking.house/point.php?id=120](http://looking.house/point.php?id=120)
 * [looking.house/point.php?id=206](http://looking.house/point.php?id=206)
@@ -3554,8 +3531,6 @@
 ### ISPLevel
 * [looking.house/point.php?id=76](http://looking.house/point.php?id=76)
 * [looking.house/point.php?id=77](http://looking.house/point.php?id=77)
-### Eurobyte
-* [looking.house/point.php?id=82](http://looking.house/point.php?id=82)
 ### TEAM-HOST
 * [looking.house/point.php?id=85](http://looking.house/point.php?id=85)
 ### Datacheap
@@ -3633,8 +3608,6 @@
 * [looking.house/point.php?id=224](http://looking.house/point.php?id=224)
 ### Venois Hosting
 * [looking.house/point.php?id=408](http://looking.house/point.php?id=408)
-### Charged IT Solutions
-* [looking.house/point.php?id=768](http://looking.house/point.php?id=768)
 ### SolaDrive
 * [looking.house/point.php?id=262](http://looking.house/point.php?id=262)
 * [looking.house/point.php?id=263](http://looking.house/point.php?id=263)
