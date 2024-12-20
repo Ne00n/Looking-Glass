@@ -13892,7 +13892,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Barra Mansa, Brazil"
+                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
@@ -17154,7 +17154,7 @@
         },
         "looking.house/point.php?id=672": {
             "ipv4": {
-                "146.70.213.36": "Bucharest, Romania"
+                "146.70.213.36": "Budapest, Hungary"
             },
             "ipv6": {
                 "2a04:9dc0:0:a51::4b:1": "Bucharest, Romania"
@@ -17754,7 +17754,9 @@
             "ipv4": {
                 "5.135.81.19": "France"
             },
-            "ipv6": {}
+            "ipv6": {
+                "2001:41d0:203:78ed::1254": "France"
+            }
         },
         "looking.house/point.php?id=232": {
             "ipv4": {
@@ -18331,7 +18333,7 @@
             }
         }
     },
-    "VPS2day": {
+    "servinga Cloud": {
         "looking.house/point.php?id=779": {
             "ipv4": {
                 "91.241.93.121": "Frankfurt am Main, Germany"
@@ -19114,7 +19116,7 @@
         },
         "looking.house/point.php?id=624": {
             "ipv4": {
-                "109.205.214.58": "Amsterdam, The Netherlands"
+                "109.205.214.58": "Azerbaijan"
             },
             "ipv6": {
                 "2a0f:ca80:1100:11::a": "Amsterdam, The Netherlands"
@@ -19160,7 +19162,7 @@
         },
         "looking.house/point.php?id=766": {
             "ipv4": {
-                "109.205.214.93": "Amsterdam, The Netherlands"
+                "109.205.214.93": "Azerbaijan"
             },
             "ipv6": {
                 "2a0f:ca80:1100:8::a": "Amsterdam, The Netherlands"
@@ -19673,6 +19675,20 @@
             "ipv6": {
                 "2001:41b0:f13:2::47": "Poland"
             }
+        }
+    },
+    "VPSHive": {
+        "looking.house/point.php?id=906": {
+            "ipv4": {
+                "185.243.99.49": "Kyiv, Ukraine"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=907": {
+            "ipv4": {
+                "185.62.1.14": "Poland"
+            },
+            "ipv6": {}
         }
     },
     "Host4biz": {

@@ -3249,7 +3249,7 @@
 * [looking.house/point.php?id=314](http://looking.house/point.php?id=314)
 * [looking.house/point.php?id=36](http://looking.house/point.php?id=36)
 * [looking.house/point.php?id=493](http://looking.house/point.php?id=493)
-### VPS2day
+### servinga Cloud
 * [looking.house/point.php?id=779](http://looking.house/point.php?id=779)
 * [looking.house/point.php?id=780](http://looking.house/point.php?id=780)
 * [looking.house/point.php?id=781](http://looking.house/point.php?id=781)
@@ -3498,6 +3498,9 @@
 * [looking.house/point.php?id=901](http://looking.house/point.php?id=901)
 ### HostGier
 * [looking.house/point.php?id=801](http://looking.house/point.php?id=801)
+### VPSHive
+* [looking.house/point.php?id=906](http://looking.house/point.php?id=906)
+* [looking.house/point.php?id=907](http://looking.house/point.php?id=907)
 ### Host4biz
 * [looking.house/point.php?id=119](http://looking.house/point.php?id=119)
 ### HostWebis

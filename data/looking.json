@@ -1630,7 +1630,9 @@
             "ipv4": [
                 "5.135.81.19"
             ],
-            "ipv6": []
+            "ipv6": [
+                "2001:41d0:203:78ed::1254"
+            ]
         },
         "looking.house/point.php?id=616": {
             "ipv4": [
@@ -2195,7 +2197,7 @@
             ]
         }
     },
-    "VPS2day": {
+    "servinga Cloud": {
         "looking.house/point.php?id=781": {
             "ipv4": [
                 "80.77.25.148"
@@ -3537,6 +3539,20 @@
             "ipv6": [
                 "2001:41b0:f13:2::47"
             ]
+        }
+    },
+    "VPSHive": {
+        "looking.house/point.php?id=907": {
+            "ipv4": [
+                "185.62.1.14"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=906": {
+            "ipv4": [
+                "185.243.99.49"
+            ],
+            "ipv6": []
         }
     },
     "Host4biz": {
