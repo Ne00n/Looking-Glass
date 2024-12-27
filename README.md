@@ -3302,8 +3302,6 @@
 ### HostiMan
 * [looking.house/point.php?id=52](http://looking.house/point.php?id=52)
 ### ThunderVM
-* [looking.house/point.php?id=756](http://looking.house/point.php?id=756)
-* [looking.house/point.php?id=758](http://looking.house/point.php?id=758)
 * [looking.house/point.php?id=770](http://looking.house/point.php?id=770)
 * [looking.house/point.php?id=771](http://looking.house/point.php?id=771)
 * [looking.house/point.php?id=788](http://looking.house/point.php?id=788)

@@ -117,7 +117,7 @@
                 "2600:1f14:84a:b000::ec2": "Boardman, United States",
                 "2600:1f1f:6ea:3d00::ec2": "Los Angeles, United States",
                 "2406:da11:e6b:8100::ec2": "Cape Town, South Africa",
-                "2406:da1e:fca:1600::ec2": "United States",
+                "2406:da1e:fca:1600::ec2": "Hong Kong, Hong Kong",
                 "2406:da1b:354:a600::ec2": "Hyderabad, India",
                 "2406:da19:d6c:f600::ec2": "Jakarta, Indonesia",
                 "2406:da10:8bf5:4a00::ec2": "Kuala Lumpur, Malaysia",
@@ -2584,7 +2584,7 @@
     "losangelesvps.com": {
         "lg.losangelesvps.com": {
             "ipv4": {
-                "45.158.199.6": "The Netherlands"
+                "45.158.199.6": "Kennewick, United States"
             },
             "ipv6": {}
         }
@@ -2722,7 +2722,7 @@
         },
         "http://phx.lg.virmach.com/": {
             "ipv4": {
-                "31.222.200.166": "Phoenix, United States"
+                "31.222.200.166": "United Kingdom"
             },
             "ipv6": {}
         },
@@ -5626,7 +5626,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Seoul": {
             "ipv4": {
-                "103.212.222.1": "South Korea",
+                "103.212.222.1": "Gwangmyeong-si, South Korea",
                 "27.255.85.20": "South Korea",
                 "61.97.239.5": "South Korea"
             },
@@ -8857,7 +8857,7 @@
                 "5.255.63.2": "The Netherlands",
                 "51.161.209.74": "Canada",
                 "51.255.79.128": "France",
-                "51.83.236.173": "Valenciennes, France",
+                "51.83.236.173": "France",
                 "51.89.98.63": "London, United Kingdom"
             },
             "ipv6": {}
@@ -9218,7 +9218,7 @@
         },
         "rlz-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "45.150.108.2": "Russia"
+                "45.150.108.2": "Petah Tikva, Israel"
             },
             "ipv6": {}
         },
@@ -16314,7 +16314,7 @@
         },
         "looking.house/point.php?id=856": {
             "ipv4": {
-                "176.103.61.101": "Kharkiv, Ukraine"
+                "176.103.61.101": "Kyiv, Ukraine"
             },
             "ipv6": {}
         },
@@ -16710,7 +16710,7 @@
         },
         "looking.house/point.php?id=888": {
             "ipv4": {
-                "213.159.76.8": "Yerevan, Armenia"
+                "213.159.76.8": "Moldova"
             },
             "ipv6": {
                 "2a14:2d85:0:1::1": "Moldova"
@@ -17552,10 +17552,10 @@
         },
         "looking.house/point.php?id=716": {
             "ipv4": {
-                "176.103.54.191": "Kharkiv, Ukraine"
+                "176.103.54.191": "Kyiv, Ukraine"
             },
             "ipv6": {
-                "2a13:f580:1::ffff": "Kharkiv, Ukraine"
+                "2a13:f580:1::ffff": "Kyiv, Ukraine"
             }
         },
         "looking.house/point.php?id=717": {
@@ -18024,7 +18024,7 @@
         },
         "looking.house/point.php?id=394": {
             "ipv4": {
-                "45.150.108.156": "Russia"
+                "45.150.108.156": "Petah Tikva, Israel"
             },
             "ipv6": {
                 "2a01:8640:c::9d08:e3b6": "Tel Aviv, Israel"
@@ -18182,7 +18182,7 @@
     "Hosting International": {
         "looking.house/point.php?id=349": {
             "ipv4": {
-                "194.15.115.80": "Singapore, Singapore"
+                "194.15.115.80": "United Kingdom"
             },
             "ipv6": {}
         },
@@ -18636,22 +18636,6 @@
         }
     },
     "ThunderVM": {
-        "looking.house/point.php?id=756": {
-            "ipv4": {
-                "81.17.16.38": "Zurich, Switzerland"
-            },
-            "ipv6": {
-                "2a02:29b8:dc01:1800::2": "Zurich, Switzerland"
-            }
-        },
-        "looking.house/point.php?id=758": {
-            "ipv4": {
-                "87.121.45.41": "Bulgaria"
-            },
-            "ipv6": {
-                "2a05:b40:0:652::4": "Amsterdam, The Netherlands"
-            }
-        },
         "looking.house/point.php?id=770": {
             "ipv4": {
                 "185.65.205.154": "London, United Kingdom"
@@ -19186,7 +19170,7 @@
     "Megahost": {
         "looking.house/point.php?id=161": {
             "ipv4": {
-                "45.136.58.26": "Oral, Kazakhstan"
+                "45.136.56.103": "Oral, Kazakhstan"
             },
             "ipv6": {}
         },
@@ -20074,7 +20058,7 @@
     "Hosting022": {
         "looking.house/point.php?id=469": {
             "ipv4": {
-                "141.11.5.41": "France"
+                "82.214.95.159": "Serbia"
             },
             "ipv6": {}
         }
