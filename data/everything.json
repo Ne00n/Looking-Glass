@@ -2584,7 +2584,7 @@
     "losangelesvps.com": {
         "lg.losangelesvps.com": {
             "ipv4": {
-                "45.158.199.6": "Kennewick, United States"
+                "45.158.199.6": "The Netherlands"
             },
             "ipv6": {}
         }
@@ -2660,7 +2660,7 @@
         },
         "lgvn.greencloudvps.com": {
             "ipv4": {
-                "103.199.17.252": "Vietnam"
+                "103.199.17.252": "Hanoi, Vietnam"
             },
             "ipv6": {}
         }
@@ -4244,7 +4244,7 @@
         },
         "https://lg.albahost.net/": {
             "ipv4": {
-                "103.167.234.10": "Tirana, Albania"
+                "103.167.234.10": "Warsaw, Poland"
             },
             "ipv6": {}
         }
@@ -4525,7 +4525,7 @@
                 "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
-                "176.111.216.2": "South Bend, United States",
+                "176.111.216.2": "United States",
                 "176.111.219.2": "Port Edwards, United States",
                 "185.251.118.130": "Amsterdam, The Netherlands",
                 "192.199.242.2": "United States",
@@ -6282,7 +6282,7 @@
                 "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
-                "176.111.216.2": "South Bend, United States",
+                "176.111.216.2": "United States",
                 "176.111.219.2": "Port Edwards, United States",
                 "185.251.118.130": "Amsterdam, The Netherlands",
                 "192.199.242.2": "United States",
@@ -7406,7 +7406,7 @@
                 "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
-                "176.111.216.2": "South Bend, United States",
+                "176.111.216.2": "United States",
                 "176.111.219.2": "Port Edwards, United States",
                 "185.251.118.130": "Amsterdam, The Netherlands",
                 "192.199.242.2": "United States",
@@ -8748,7 +8748,7 @@
                 "103.255.236.23": "Ho Chi Minh City, Vietnam"
             },
             "ipv6": {
-                "2001:df3:5c00:552:f000::a:9999": "Ho Chi Minh City, Vietnam"
+                "2001:df3:5c00:552:f000::a:9999": "Vietnam"
             }
         }
     },
@@ -9649,7 +9649,7 @@
                 "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
-                "176.111.216.2": "South Bend, United States",
+                "176.111.216.2": "United States",
                 "176.111.219.2": "Port Edwards, United States",
                 "185.251.118.130": "Amsterdam, The Netherlands",
                 "192.199.242.2": "United States",
@@ -11793,7 +11793,7 @@
     "glosindo.net.id": {
         "http://lg.glosindo.net.id/": {
             "ipv4": {
-                "103.134.222.18": "Sleman, Indonesia"
+                "103.134.222.18": "Indonesia"
             },
             "ipv6": {}
         }
@@ -12744,7 +12744,7 @@
     "prisma.net.id": {
         "http://tool.prisma.net.id/lg/": {
             "ipv4": {
-                "103.148.3.254": "Tulungagung, Indonesia"
+                "103.148.3.254": "Indonesia"
             },
             "ipv6": {}
         }
@@ -16350,13 +16350,13 @@
         },
         "looking.house/point.php?id=875": {
             "ipv4": {
-                "190.103.176.48": "Avellaneda, Argentina"
+                "190.103.176.48": "Argentina"
             },
             "ipv6": {}
         },
         "looking.house/point.php?id=876": {
             "ipv4": {
-                "190.120.231.84": "Colombia"
+                "190.120.231.84": "Bogota, Colombia"
             },
             "ipv6": {}
         },
@@ -16386,7 +16386,7 @@
         },
         "looking.house/point.php?id=881": {
             "ipv4": {
-                "190.120.230.60": "Santiago, Chile"
+                "190.120.230.60": "Quilicura, Chile"
             },
             "ipv6": {}
         }
@@ -19193,7 +19193,7 @@
                 "185.4.180.200": "Almaty, Kazakhstan"
             },
             "ipv6": {
-                "2a00:5da0:1000:1::2": "Almaty, Kazakhstan"
+                "2a00:5da0:1000:1::2": "Kazakhstan"
             }
         }
     },
