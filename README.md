@@ -3057,6 +3057,14 @@
 * [looking.house/point.php?id=571](http://looking.house/point.php?id=571)
 * [looking.house/point.php?id=572](http://looking.house/point.php?id=572)
 * [looking.house/point.php?id=573](http://looking.house/point.php?id=573)
+### LookingCenter.net
+* [looking.house/point.php?id=908](http://looking.house/point.php?id=908)
+* [looking.house/point.php?id=909](http://looking.house/point.php?id=909)
+* [looking.house/point.php?id=910](http://looking.house/point.php?id=910)
+### LookingHouse.net
+* [looking.house/point.php?id=903](http://looking.house/point.php?id=903)
+* [looking.house/point.php?id=904](http://looking.house/point.php?id=904)
+* [looking.house/point.php?id=911](http://looking.house/point.php?id=911)
 ### Hosteroid
 * [looking.house/point.php?id=639](http://looking.house/point.php?id=639)
 * [looking.house/point.php?id=640](http://looking.house/point.php?id=640)
@@ -3661,9 +3669,6 @@
 ### PloxHost
 * [looking.house/point.php?id=504](http://looking.house/point.php?id=504)
 * [looking.house/point.php?id=520](http://looking.house/point.php?id=520)
-### LookingHouse.net
-* [looking.house/point.php?id=903](http://looking.house/point.php?id=903)
-* [looking.house/point.php?id=904](http://looking.house/point.php?id=904)
 ### LaunchVPS
 * [looking.house/point.php?id=205](http://looking.house/point.php?id=205)
 ### Rad Web Hosting

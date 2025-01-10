@@ -991,6 +991,46 @@
             ]
         }
     },
+    "LookingCenter.net": {
+        "looking.house/point.php?id=910": {
+            "ipv4": [
+                "209.38.87.145"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=908": {
+            "ipv4": [
+                "167.71.171.9"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=909": {
+            "ipv4": [
+                "206.189.25.184"
+            ],
+            "ipv6": []
+        }
+    },
+    "LookingHouse.net": {
+        "looking.house/point.php?id=911": {
+            "ipv4": [
+                "209.38.29.55"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=904": {
+            "ipv4": [
+                "167.71.169.50"
+            ],
+            "ipv6": []
+        },
+        "looking.house/point.php?id=903": {
+            "ipv4": [
+                "165.22.117.153"
+            ],
+            "ipv6": []
+        }
+    },
     "Hosteroid": {
         "looking.house/point.php?id=641": {
             "ipv4": [
@@ -4293,20 +4333,6 @@
         "looking.house/point.php?id=504": {
             "ipv4": [
                 "66.11.123.33"
-            ],
-            "ipv6": []
-        }
-    },
-    "LookingHouse.net": {
-        "looking.house/point.php?id=904": {
-            "ipv4": [
-                "167.71.169.50"
-            ],
-            "ipv6": []
-        },
-        "looking.house/point.php?id=903": {
-            "ipv4": [
-                "165.22.117.153"
             ],
             "ipv6": []
         }

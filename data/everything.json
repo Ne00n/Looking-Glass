@@ -92,11 +92,13 @@
                 "40.176.100.29": "Calgary, Canada",
                 "43.192.0.113": "Ningxia, China",
                 "43.196.0.253": "Beijing, China",
+                "43.208.90.158": "Bangkok, Thailand",
                 "43.216.149.220": "Kuala Lumpur, Malaysia",
                 "51.16.235.176": "Tel Aviv, Israel",
                 "64.187.131.1": "Miami, United States",
                 "68.66.113.112": "Boston, United States",
                 "72.41.10.180": "Houston, United States",
+                "78.12.118.87": "Queretaro City, Mexico",
                 "96.0.1.218": "Perth, Australia",
                 "96.0.144.147": "Manila, Philippines",
                 "96.0.17.141": "Lima region, Peru",
@@ -127,6 +129,7 @@
                 "2406:da12:128:d200::ec2": "Incheon, South Korea",
                 "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
                 "2406:da1c:16:9000::ec2": "Sydney, Australia",
+                "2406:da14:8793:7900::ec2": "Bangkok, Thailand",
                 "2406:da14:295:300::ec2": "Tokyo, Japan",
                 "2600:1f11:b15:2000::ec2": "Montreal, Canada",
                 "2600:1f1a:448e:2200::ec2": "Calgary, Canada",
@@ -138,6 +141,7 @@
                 "2a05:d011:553:1200::ec2": "Zaragoza, Spain",
                 "2a05:d016:35:4100::ec2": "Stockholm, Sweden",
                 "2a05:d019:334:6b00::ec2": "Zurich, Switzerland",
+                "2600:1f17:41e7:d200::ec2": "Queretaro City, Mexico",
                 "2a05:d01e:5f1:8a00::ec2": "Bahrain",
                 "2a05:d025:c4:1f00::ec2": "Tel Aviv, Israel",
                 "2406:da17:2b5:b900::ec2": "Dubai, United Arab Emirates",
@@ -4876,7 +4880,7 @@
             "ipv4": {
                 "104.237.1.114": "Seattle, United States",
                 "104.237.11.23": "Los Angeles, United States",
-                "104.237.8.8": "United States",
+                "104.237.8.8": "Piscataway, United States",
                 "107.155.108.46": "Dallas, United States",
                 "185.185.126.241": "Maidstone, United Kingdom",
                 "185.185.127.137": "Naaldwijk, The Netherlands"
@@ -12126,7 +12130,7 @@
                 "177.101.22.142": "Ponta Grossa, Brazil"
             },
             "ipv6": {
-                "2804:1f04:c000:282::142": "Ponta Grossa, Brazil"
+                "2804:1f04:c000:282::142": "Brazil"
             }
         }
     },
@@ -17127,10 +17131,50 @@
             }
         }
     },
+    "LookingCenter.net": {
+        "looking.house/point.php?id=908": {
+            "ipv4": {
+                "167.71.171.9": "Clifton, United States"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=909": {
+            "ipv4": {
+                "206.189.25.184": "Slough, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=910": {
+            "ipv4": {
+                "209.38.87.145": "Sydney, Australia"
+            },
+            "ipv6": {}
+        }
+    },
+    "LookingHouse.net": {
+        "looking.house/point.php?id=903": {
+            "ipv4": {
+                "165.22.117.153": "Slough, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=904": {
+            "ipv4": {
+                "167.71.169.50": "Clifton, United States"
+            },
+            "ipv6": {}
+        },
+        "looking.house/point.php?id=911": {
+            "ipv4": {
+                "209.38.29.55": "Sydney, Australia"
+            },
+            "ipv6": {}
+        }
+    },
     "Hosteroid": {
         "looking.house/point.php?id=639": {
             "ipv4": {
-                "185.75.240.231": "Cricklewood, United Kingdom"
+                "185.75.240.231": "London, United Kingdom"
             },
             "ipv6": {
                 "2a02:400:10:8::cba:1": "United Kingdom"
@@ -17138,7 +17182,7 @@
         },
         "looking.house/point.php?id=640": {
             "ipv4": {
-                "162.254.85.201": "United States"
+                "162.254.85.201": "Secaucus, United States"
             },
             "ipv6": {
                 "2001:1980:e00c::246:1": "United States"
@@ -17165,7 +17209,7 @@
                 "162.254.86.3": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a13:9401:0:1::77a4:1": "Romania"
+                "2a13:9401:0:1::77a4:1": "Vilnius, Lithuania"
             }
         },
         "looking.house/point.php?id=869": {
@@ -19950,7 +19994,7 @@
     "CloudX": {
         "looking.house/point.php?id=489": {
             "ipv4": {
-                "176.124.192.52": "Russia"
+                "176.124.192.52": "Moscow, Russia"
             },
             "ipv6": {}
         }
@@ -20431,20 +20475,6 @@
             "ipv6": {
                 "2602:ffc5:500::3": "United States"
             }
-        }
-    },
-    "LookingHouse.net": {
-        "looking.house/point.php?id=903": {
-            "ipv4": {
-                "165.22.117.153": "Slough, United Kingdom"
-            },
-            "ipv6": {}
-        },
-        "looking.house/point.php?id=904": {
-            "ipv4": {
-                "167.71.169.50": "Clifton, United States"
-            },
-            "ipv6": {}
         }
     },
     "LaunchVPS": {
