@@ -170,7 +170,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Harlesden, United Kingdom",
+                "92.223.59.1": "Neasden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -1172,7 +1172,7 @@
                 "88.198.69.215": "Falkenstein, Germany"
             },
             "ipv6": {
-                "2a01:4f8:140:5007::": "Germany"
+                "2a01:4f8:140:5007::": "Falkenstein, Germany"
             }
         },
         "lg-no-san.mrvm.net": {
@@ -2786,19 +2786,19 @@
     "ramnode.com": {
         "https://clientarea.ramnode.com/knowledgebase/17/Do-you-have-a-test-IP-I-can-ping.html": {
             "ipv4": {
-                "107.161.19.31": "United States",
-                "107.161.23.2": "United States",
+                "107.161.19.31": "Seattle, United States",
+                "107.161.23.2": "Atlanta, United States",
                 "107.191.99.2": "New York, United States",
-                "168.235.74.9": "United States",
-                "168.235.75.122": "United States",
-                "168.235.89.44": "United States",
-                "185.34.216.2": "The Netherlands"
+                "168.235.74.9": "Los Angeles, United States",
+                "168.235.75.122": "Los Angeles, United States",
+                "168.235.89.44": "New York, United States",
+                "185.34.216.2": "Alblasserdam, The Netherlands"
             },
             "ipv6": {}
         },
         "lg.atl.ramnode.com": {
             "ipv4": {
-                "107.191.101.180": "United States"
+                "107.191.101.180": "Atlanta, United States"
             },
             "ipv6": {
                 "2604:180::9b07:1d5b": "United States"
@@ -2806,7 +2806,7 @@
         },
         "lg.la.ramnode.com": {
             "ipv4": {
-                "168.235.72.22": "United States"
+                "168.235.72.22": "Los Angeles, United States"
             },
             "ipv6": {
                 "2604:180:3:1::f1": "United States"
@@ -2814,7 +2814,7 @@
         },
         "lg.nl.ramnode.com": {
             "ipv4": {
-                "176.56.238.3": "The Netherlands"
+                "176.56.238.3": "Alblasserdam, The Netherlands"
             },
             "ipv6": {
                 "2a00:d880:3:1::787:d6bd": "The Netherlands"
@@ -2822,7 +2822,7 @@
         },
         "lg.nyc.ramnode.com": {
             "ipv4": {
-                "107.191.96.26": "United States"
+                "107.191.96.26": "New York, United States"
             },
             "ipv6": {
                 "2604:180:2::d2a1:3da5": "United States"
@@ -2830,7 +2830,7 @@
         },
         "lg.sea.ramnode.com": {
             "ipv4": {
-                "23.226.229.4": "United States"
+                "23.226.229.4": "Seattle, United States"
             },
             "ipv6": {
                 "2604:180:1::bd5a:1cb3": "Seattle, United States"
@@ -5824,7 +5824,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Harlesden, United Kingdom"
+                "5.181.27.230": "Neasden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -12130,7 +12130,7 @@
                 "177.101.22.142": "Ponta Grossa, Brazil"
             },
             "ipv6": {
-                "2804:1f04:c000:282::142": "Brazil"
+                "2804:1f04:c000:282::142": "Ponta Grossa, Brazil"
             }
         }
     },
@@ -13167,7 +13167,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Reisenberg, Austria"
+                "178.251.64.167": "Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Vienna, Austria"
