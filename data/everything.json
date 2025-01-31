@@ -767,7 +767,7 @@
         },
         "lg-dal.ssdblaze.com": {
             "ipv4": {
-                "50.2.217.106": "Frankfurt am Main, Germany"
+                "50.2.217.106": "United States"
             },
             "ipv6": {
                 "2607:ff28:2:1d::240f:3de5": "United States"
@@ -2084,7 +2084,7 @@
         },
         "lg-chicago.serverhub.com": {
             "ipv4": {
-                "50.3.220.252": "Frankfurt am Main, Germany"
+                "50.3.220.252": "United States"
             },
             "ipv6": {}
         },
@@ -7351,7 +7351,7 @@
                 "103.121.209.209": "Tokyo, Japan"
             },
             "ipv6": {
-                "2403:71c0:1000::145f:879e": "United States"
+                "2403:71c0:1000::145f:879e": "Tokyo, Japan"
             }
         },
         "https://lg-ty2.sa.net/": {
@@ -9777,7 +9777,7 @@
         },
         "https://dedicated.com/seattle-datacenter": {
             "ipv4": {
-                "64.42.177.4": "Seattle, United States"
+                "64.42.177.4": "United States"
             },
             "ipv6": {}
         }
@@ -12130,7 +12130,7 @@
                 "177.101.22.142": "Ponta Grossa, Brazil"
             },
             "ipv6": {
-                "2804:1f04:c000:282::142": "Ponta Grossa, Brazil"
+                "2804:1f04:c000:282::142": "Brazil"
             }
         }
     },
@@ -13554,7 +13554,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Americana, Brazil"
+                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
@@ -14965,7 +14965,7 @@
     "indocyber.net.id": {
         "http://lg.indocyber.net.id": {
             "ipv4": {
-                "103.31.132.129": "Indonesia"
+                "103.31.132.129": "Pela Mampang, Indonesia"
             },
             "ipv6": {}
         }
