@@ -623,7 +623,7 @@
         },
         "lg-par2.fdcservers.net": {
             "ipv4": {
-                "50.7.200.42": "Velizy-Villacoublay, France"
+                "50.7.200.42": "United States"
             },
             "ipv6": {}
         },
@@ -1268,7 +1268,7 @@
         "https://lgde.alphavps.com/": {
             "ipv4": {},
             "ipv6": {
-                "2a01:4f8:d1:7231::49c8": "Germany"
+                "2a01:4f8:d1:7231::49c8": "Nuremberg, Germany"
             }
         },
         "https://lgla.alphavps.com/": {
@@ -1298,7 +1298,7 @@
                 "194.35.12.68": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4f8:d1:7231::4": "Germany"
+                "2a01:4f8:d1:7231::4": "Nuremberg, Germany"
             }
         },
         "lgla.alphavps.com": {
@@ -1753,7 +1753,7 @@
                 "194.35.12.68": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4f8:d1:7231::4": "Germany"
+                "2a01:4f8:d1:7231::4": "Nuremberg, Germany"
             }
         },
         "lguk.alphavps.bg": {
@@ -1777,7 +1777,7 @@
         "http://lgde.alphavps.bg/": {
             "ipv4": {},
             "ipv6": {
-                "2a01:4f8:d1:7231::49c8": "Germany"
+                "2a01:4f8:d1:7231::49c8": "Nuremberg, Germany"
             }
         }
     },
@@ -2664,7 +2664,7 @@
         },
         "lgvn.greencloudvps.com": {
             "ipv4": {
-                "103.199.17.252": "Hanoi, Vietnam"
+                "103.199.17.252": "Vietnam"
             },
             "ipv6": {}
         }
@@ -4778,7 +4778,7 @@
                 "91.90.193.6": "Geneva, Switzerland"
             },
             "ipv6": {
-                "2a0a:8c44::5": "Bulgaria"
+                "2a0a:8c44::5": "Geneva, Switzerland"
             }
         },
         "http://lg-cz.friendhosting.net/": {
@@ -4786,7 +4786,7 @@
                 "92.118.149.3": "Prague, Czechia"
             },
             "ipv6": {
-                "2a0a:8c41::2": "Bulgaria"
+                "2a0a:8c41::2": "Prague, Czechia"
             }
         },
         "http://lg-lv.friendhosting.net/": {
@@ -4794,7 +4794,7 @@
                 "92.118.148.6": "Riga, Latvia"
             },
             "ipv6": {
-                "2a0a:8c40::4": "Bulgaria"
+                "2a0a:8c40::4": "Riga, Latvia"
             }
         },
         "http://lg-nl.friendhosting.net/": {
@@ -4810,7 +4810,7 @@
                 "92.118.150.5": "Gdansk, Poland"
             },
             "ipv6": {
-                "2a0a:8c42::2": "Bulgaria"
+                "2a0a:8c42::2": "Gdansk, Poland"
             }
         },
         "http://lg-ua-kyiv.friendhosting.net/": {
@@ -4818,7 +4818,7 @@
                 "185.253.0.2": "Kyiv, Ukraine"
             },
             "ipv6": {
-                "2a0a:8c46::2": "Bulgaria"
+                "2a0a:8c46::2": "Kyiv, Ukraine"
             }
         },
         "http://lg-ua.friendhosting.net/": {
@@ -4826,7 +4826,7 @@
                 "195.28.182.106": "Kyiv, Ukraine"
             },
             "ipv6": {
-                "2001:67c:2f6c:2::ed": "Bulgaria"
+                "2001:67c:2f6c:2::ed": "Kyiv, Ukraine"
             }
         },
         "http://lg-us-la.friendhosting.net/": {
@@ -4834,7 +4834,7 @@
                 "91.90.195.175": "New York, United States"
             },
             "ipv6": {
-                "2a0a:8c43::50": "Bulgaria"
+                "2a0a:8c43::50": "Los Angeles, United States"
             }
         },
         "http://lg-us-mia.friendhosting.net/": {
@@ -4850,7 +4850,7 @@
                 "94.142.255.3": "Gdansk, Poland"
             },
             "ipv6": {
-                "2a0a:8c47::2": "Bulgaria"
+                "2a0a:8c47::2": "New York, United States"
             }
         }
     },
@@ -8006,7 +8006,7 @@
         },
         "http://ru-lg.serverum.com/": {
             "ipv4": {
-                "192.144.36.189": "St Petersburg, Russia"
+                "192.144.36.189": "Latvia"
             },
             "ipv6": {
                 "2a09:80:160:0:5054:ff:fec1:7f88": "Latvia"
@@ -8370,10 +8370,10 @@
     "comnet.com.tr": {
         "https://lg.comnet.com.tr/": {
             "ipv4": {
-                "185.17.114.50": "Turkiye"
+                "185.17.114.50": "United Kingdom"
             },
             "ipv6": {
-                "2a04:7c0:1:a::2": "Turkiye"
+                "2a04:7c0:1:a::2": "United Kingdom"
             }
         }
     },
@@ -12513,7 +12513,7 @@
     "ninjaserver.co.id": {
         "https://lg.ninjaserver.co.id/": {
             "ipv4": {
-                "103.143.170.165": "Jakarta, Indonesia"
+                "103.143.170.165": "Indonesia"
             },
             "ipv6": {}
         }
