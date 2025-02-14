@@ -31,7 +31,7 @@
                 "51.15.0.1": "France",
                 "51.158.0.8": "Paris, France",
                 "51.158.128.1": "Paris, France",
-                "62.210.0.2": "Villecresnes, France",
+                "62.210.0.2": "Orly, France",
                 "62.4.0.2": "France"
             },
             "ipv6": {}
@@ -426,15 +426,15 @@
                 "89.33.7.2": "London, United Kingdom"
             },
             "ipv6": {
-                "2a07:9944:2222:a::a": "Herndon, United States",
-                "2a07:9944:1111:a::a": "Los Angeles, United States",
+                "2a07:9944:2222:a::a": "United Kingdom",
+                "2a07:9944:1111:a::a": "United Kingdom",
                 "2a07:9940:3333:a::a": "Dallas, United States"
             }
         },
         "lg.iniz.com": {
             "ipv4": {
                 "107.161.173.2": "New York, United States",
-                "162.217.248.2": "Los Angeles, United States",
+                "162.217.248.2": "United Kingdom",
                 "185.53.130.2": "Amsterdam, The Netherlands",
                 "45.43.64.64": "London, United Kingdom"
             },
@@ -557,7 +557,7 @@
         },
         "lg-hkg.fdcservers.net": {
             "ipv4": {
-                "50.7.251.4": "Kai Yi Wan, Hong Kong"
+                "50.7.251.4": "Tsuen Wan, Hong Kong"
             },
             "ipv6": {}
         },
@@ -1081,7 +1081,7 @@
         },
         "lgla.nexusbytes.com": {
             "ipv4": {
-                "158.51.84.9": "United States"
+                "158.51.84.9": "Sterling Heights, United States"
             },
             "ipv6": {
                 "2602:fed2:7106:4818:0000:0000:0000:0002": "Canada"
@@ -1097,7 +1097,7 @@
         },
         "lgmi.nexusbytes.com": {
             "ipv4": {
-                "158.51.87.9": "United States"
+                "158.51.87.9": "Sterling Heights, United States"
             },
             "ipv6": {
                 "2a04:ff00:0500:0bb7:0000:0000:0000:0001": "United Kingdom"
@@ -1351,7 +1351,7 @@
     "tmthosting.net": {
         "lg-dal.tmthosting.net": {
             "ipv4": {
-                "45.34.12.147": "Dallas, United States"
+                "45.34.12.147": "United States"
             },
             "ipv6": {}
         },
@@ -2030,7 +2030,7 @@
         },
         "lg.texas.psychz.net": {
             "ipv4": {
-                "45.34.12.147": "Dallas, United States"
+                "45.34.12.147": "United States"
             },
             "ipv6": {
                 "2604:6600:2000:38::3": "Dallas, United States"
@@ -2615,7 +2615,7 @@
         "http://lgca.greencloudvps.com/": {
             "ipv4": {
                 "192.161.167.156": "Los Angeles, United States",
-                "198.55.111.5": "United States"
+                "198.55.111.5": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -2708,7 +2708,7 @@
         },
         "http://chi.lg.virmach.com/": {
             "ipv4": {
-                "47.87.162.134": "United States"
+                "47.87.162.134": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
@@ -2732,7 +2732,7 @@
         },
         "http://sea.lg.virmach.com/": {
             "ipv4": {
-                "47.87.188.223": "United States"
+                "47.87.188.223": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
@@ -4540,7 +4540,7 @@
                 "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
-                "45.35.132.2": "Dallas, United States",
+                "45.35.132.2": "United States",
                 "66.11.120.2": "Piscataway, United States"
             },
             "ipv6": {}
@@ -4891,7 +4891,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Neuss, Germany"
+                "194.45.36.120": "Duisburg, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5047,10 +5047,10 @@
         "https://crowncloud.net/datacenters.php": {
             "ipv4": {
                 "104.149.18.203": "Los Angeles, United States",
-                "104.223.90.5": "Atlanta, United States",
+                "104.223.90.5": "Los Angeles, United States",
                 "161.129.64.235": "United States",
                 "185.208.208.3": "The Netherlands",
-                "198.55.111.5": "United States",
+                "198.55.111.5": "Los Angeles, United States",
                 "212.224.70.16": "Germany",
                 "62.113.254.1": "Germany",
                 "69.61.66.10": "Atlanta, United States",
@@ -5114,7 +5114,7 @@
                 "104.218.101.31": "United States",
                 "162.249.170.22": "United States",
                 "192.169.46.33": "United States",
-                "198.55.108.131": "United States"
+                "198.55.108.131": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -5225,13 +5225,13 @@
         "https://visualwebtechnologies.com/datacenters.php": {
             "ipv4": {
                 "104.149.18.203": "Los Angeles, United States",
-                "104.223.90.5": "Atlanta, United States",
+                "104.223.90.5": "Los Angeles, United States",
                 "161.129.64.235": "United States",
                 "172.81.40.35": "Denver, United States",
                 "185.161.69.26": "Cyprus",
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
-                "198.55.111.5": "United States",
+                "198.55.111.5": "Los Angeles, United States",
                 "212.224.70.16": "Germany",
                 "45.81.7.154": "Los Angeles, United States",
                 "45.9.15.195": "Cyprus",
@@ -5571,14 +5571,14 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Los%20Angeles": {
             "ipv4": {
-                "198.55.111.5": "United States",
+                "198.55.111.5": "Los Angeles, United States",
                 "204.152.218.25": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Miami": {
             "ipv4": {
-                "173.44.32.10": "Miami, United States"
+                "173.44.32.10": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -5853,7 +5853,7 @@
                 "185.105.1.154": "Mumbai, India"
             },
             "ipv6": {
-                "2a03:90c0:285::2a": "Navi Mumbai, India"
+                "2a03:90c0:285::2a": "Mumbai, India"
             }
         },
         "http://lg-it1.hostry.com/": {
@@ -6297,7 +6297,7 @@
                 "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
-                "45.35.132.2": "Dallas, United States",
+                "45.35.132.2": "United States",
                 "66.11.120.2": "Piscataway, United States"
             },
             "ipv6": {}
@@ -6505,7 +6505,7 @@
     "tragicservers.com": {
         "http://dal.lg.tragicservers.com/": {
             "ipv4": {
-                "104.223.98.137": "Dallas, United States"
+                "104.223.98.137": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:daaa:c03::c265:4606": "Dallas, United States"
@@ -6513,7 +6513,7 @@
         },
         "http://lg.chi.tragicservers.com/": {
             "ipv4": {
-                "167.160.173.7": "Elk Grove Village, United States"
+                "167.160.173.7": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:bb80:900::ac3:f506": "Elk Grove Village, United States"
@@ -6633,7 +6633,7 @@
         },
         "https://quadranet.com/dallas-datacenter.php": {
             "ipv4": {
-                "96.44.142.2": "Dallas, United States"
+                "96.44.142.2": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:daaa:daaa:daaa:daaa:daaa:daaa": "Dallas, United States"
@@ -6641,7 +6641,7 @@
         },
         "https://quadranet.com/miami-datacenter.php": {
             "ipv4": {
-                "173.44.32.10": "Miami, United States"
+                "173.44.32.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:ff48:0:a:b:c:d:666": "Miami, United States"
@@ -6657,7 +6657,7 @@
         },
         "https://www.quadranet.com/atlanta-datacenter": {
             "ipv4": {
-                "104.223.90.5": "Atlanta, United States"
+                "104.223.90.5": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:aa80:500::2": "United States"
@@ -6665,7 +6665,7 @@
         },
         "https://www.quadranet.com/chicago-datacenter": {
             "ipv4": {
-                "104.129.31.245": "Elk Grove Village, United States"
+                "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:bb80:3000::2": "Elk Grove Village, United States"
@@ -6673,7 +6673,7 @@
         },
         "https://www.quadranet.com/cn/los-angeles-century-datacenter": {
             "ipv4": {
-                "198.55.111.5": "United States"
+                "198.55.111.5": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -6688,7 +6688,7 @@
         },
         "https://www.quadranet.com/new-jersey-datacenter": {
             "ipv4": {
-                "23.226.128.10": "Secaucus, United States"
+                "23.226.128.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
@@ -7421,7 +7421,7 @@
                 "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
-                "45.35.132.2": "Dallas, United States",
+                "45.35.132.2": "United States",
                 "66.11.120.2": "Piscataway, United States"
             },
             "ipv6": {}
@@ -8519,7 +8519,7 @@
     "NexusBytes.com": {
         "http://lgmi.nexusbytes.com/": {
             "ipv4": {
-                "158.51.87.9": "United States"
+                "158.51.87.9": "Sterling Heights, United States"
             },
             "ipv6": {
                 "2a04:ff00:0500:0bb7:0000:0000:0000:0001": "United Kingdom"
@@ -8669,7 +8669,7 @@
             "ipv4": {
                 "204.152.218.25": "Los Angeles, United States",
                 "208.100.4.54": "United States",
-                "96.44.142.5": "Dallas, United States"
+                "96.44.142.5": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -8781,7 +8781,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Holesov, Czechia"
+                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
             }
         }
     },
@@ -9559,7 +9559,7 @@
     "iozoom.com": {
         "https://www.iozoom.com/datacenter/atlanta-vps/": {
             "ipv4": {
-                "104.223.90.5": "Atlanta, United States"
+                "104.223.90.5": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:aa80:500::2": "United States"
@@ -9567,7 +9567,7 @@
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
             "ipv4": {
-                "104.129.31.245": "Elk Grove Village, United States"
+                "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:bb80:3000::2": "Elk Grove Village, United States"
@@ -9575,7 +9575,7 @@
         },
         "https://www.iozoom.com/datacenter/dallas-vps/": {
             "ipv4": {
-                "96.44.142.2": "Dallas, United States"
+                "96.44.142.2": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:da80:c00::3e8:1": "Dallas, United States"
@@ -9599,7 +9599,7 @@
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
             "ipv4": {
-                "198.55.111.5": "United States",
+                "198.55.111.5": "Los Angeles, United States",
                 "204.152.218.25": "Los Angeles, United States"
             },
             "ipv6": {
@@ -9608,7 +9608,7 @@
         },
         "https://www.iozoom.com/datacenter/miami-vps/": {
             "ipv4": {
-                "173.44.32.10": "Miami, United States"
+                "173.44.32.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:ff48:0:a:b:c:d:666": "Miami, United States"
@@ -9616,7 +9616,7 @@
         },
         "https://www.iozoom.com/datacenter/new-jersey-vps/": {
             "ipv4": {
-                "23.226.128.10": "Secaucus, United States"
+                "23.226.128.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
@@ -9664,7 +9664,7 @@
                 "38.242.7.129": "Boston, United States",
                 "45.14.112.20": "Wolverhampton, United Kingdom",
                 "45.14.113.2": "Chicago, United States",
-                "45.35.132.2": "Dallas, United States",
+                "45.35.132.2": "United States",
                 "66.11.120.2": "Piscataway, United States"
             },
             "ipv6": {}
@@ -9945,7 +9945,7 @@
     "deltahost.com": {
         "https://deltahost.com/datacenter.html": {
             "ipv4": {
-                "198.55.111.5": "United States"
+                "198.55.111.5": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:0:a::2": "Los Angeles, United States"
@@ -10272,7 +10272,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Freiburg im Breisgau, Germany"
+                "129.143.4.238": "Eisenbach, Germany"
             },
             "ipv6": {}
         }
@@ -10322,8 +10322,8 @@
                 "130.206.198.254": "Pamplona, Spain",
                 "130.206.201.254": "Pamplona, Spain",
                 "130.206.206.250": "Pamplona, Spain",
-                "130.206.211.254": "Arganda, Spain",
-                "130.206.212.254": "Arganda, Spain"
+                "130.206.211.254": "Madrid, Spain",
+                "130.206.212.254": "Madrid, Spain"
             },
             "ipv6": {}
         }
@@ -10377,7 +10377,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Darmstadt, Germany"
+                "82.195.94.248": "Geisenheim, Germany"
             },
             "ipv6": {}
         }
@@ -10401,7 +10401,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
+                "2001:4d48:feed:1::5": "Enfield, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -10772,7 +10772,7 @@
     "deltahost.ua": {
         "https://deltahost.ua/datacenter.html": {
             "ipv4": {
-                "198.55.111.5": "United States"
+                "198.55.111.5": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:0:a::2": "Los Angeles, United States"
@@ -11963,7 +11963,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Kobierzyce, Poland"
+                "185.56.208.2": "Domasaw, Poland"
             },
             "ipv6": {}
         }
@@ -13581,7 +13581,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Baden-Baden, Germany"
+                "185.171.47.121": "Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13975,7 +13975,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Sodertalje, Sweden"
+                "80.251.201.188": "Enskede-Arsta-Vantor, Sweden"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
@@ -14965,7 +14965,7 @@
     "indocyber.net.id": {
         "http://lg.indocyber.net.id": {
             "ipv4": {
-                "103.31.132.129": "Pela Mampang, Indonesia"
+                "103.31.132.129": "Indonesia"
             },
             "ipv6": {}
         }
