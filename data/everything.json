@@ -2999,7 +2999,7 @@
                 "212.24.110.207": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:d418:6ecf::1": "Lithuania"
+                "2a02:7b40:d418:6ecf::1": "Vilnius, Lithuania"
             }
         }
     },
@@ -4802,7 +4802,7 @@
                 "91.223.123.7": "Dronten, The Netherlands"
             },
             "ipv6": {
-                "2001:67c:2f5c:2::361": "Bulgaria"
+                "2001:67c:2f5c:2::361": "Dronten, The Netherlands"
             }
         },
         "http://lg-pl.friendhosting.net/": {
@@ -5189,7 +5189,7 @@
                 "109.235.69.33": "Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:6deb:4521::1": "Lithuania"
+                "2a02:7b40:6deb:4521::1": "Vilnius, Lithuania"
             }
         }
     },
@@ -13896,7 +13896,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+                "191.243.156.214": "Itapevi, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
@@ -14745,7 +14745,7 @@
     "verizon.com": {
         "https://enterprise.verizon.com/why-verizon/looking-glass/": {
             "ipv4": {
-                "12.25.232.1": "Murfreesboro, United States"
+                "12.25.232.1": "United States"
             },
             "ipv6": {
                 "2001:67c:7b0::": "Czechia",
@@ -16172,13 +16172,13 @@
         },
         "speedtestchn.blob.core.windows.net": {
             "ipv4": {
-                "52.239.251.164": "United States"
+                "52.239.251.164": "Zurich, Switzerland"
             },
             "ipv6": {}
         },
         "speedtestchw.blob.core.windows.net": {
             "ipv4": {
-                "52.239.250.4": "United States"
+                "52.239.250.4": "Geneva, Switzerland"
             },
             "ipv6": {}
         },
@@ -16286,7 +16286,7 @@
         },
         "speedtestsan.blob.core.windows.net": {
             "ipv4": {
-                "52.239.232.36": "United States"
+                "52.239.232.36": "Johannesburg, South Africa"
             },
             "ipv6": {}
         },
@@ -16304,7 +16304,7 @@
         },
         "speedtestuaen.blob.core.windows.net": {
             "ipv4": {
-                "52.239.233.228": "United States"
+                "52.239.233.228": "Dubai, United Arab Emirates"
             },
             "ipv6": {}
         },
@@ -16322,7 +16322,7 @@
         },
         "speedtestwe.blob.core.windows.net": {
             "ipv4": {
-                "52.239.213.4": "United States"
+                "52.239.213.4": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
