@@ -671,7 +671,7 @@
         },
         "lg-syd.fdcservers.net": {
             "ipv4": {
-                "67.159.27.4": "Sydney, Australia"
+                "67.159.27.4": "United States"
             },
             "ipv6": {
                 "2001:49f0:d119::4": "United States"
@@ -1140,7 +1140,7 @@
         "http://lg-us-sea.mrvm.net/": {
             "ipv4": {},
             "ipv6": {
-                "2a06:82c1:0:14:7c::1": "Austria"
+                "2a06:82c1:0:14:7c::1": "Seattle, United States"
             }
         },
         "lg-au-per.mrvm.net": {
@@ -2134,7 +2134,7 @@
     "as212647.net": {
         "tpa-lg.as212647.net": {
             "ipv4": {
-                "142.202.255.8": "Liberty Lake, United States"
+                "142.202.255.8": "Valletta, Malta"
             },
             "ipv6": {
                 "2602:fe54:2000:44cf::1": "United States"
@@ -3583,7 +3583,7 @@
                 "209.209.112.37": "Dallas, United States"
             },
             "ipv6": {
-                "2605:e440::5:5": "United States"
+                "2605:e440::5:5": "Dallas, United States"
             }
         },
         "lg-iqdata.justhost.ru": {
@@ -8143,7 +8143,7 @@
                 "104.194.219.3": "Dallas, United States"
             },
             "ipv6": {
-                "2604:9cc0:401::2": "United States"
+                "2604:9cc0:401::2": "Dallas, United States"
             }
         },
         "http://lg.sea.spartanhost.net/": {
@@ -8764,7 +8764,7 @@
                 "199.231.241.88": "Seattle, United States",
                 "216.144.236.177": "Los Angeles, United States",
                 "45.42.140.2": "Buffalo, United States",
-                "45.42.143.98": "Vatican City, Vatican City",
+                "45.42.143.98": "United States",
                 "66.248.240.55": "United States",
                 "66.248.241.2": "Buffalo, United States",
                 "66.248.243.2": "United States",
@@ -13896,7 +13896,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Itapevi, Brazil"
+                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
@@ -14745,7 +14745,7 @@
     "verizon.com": {
         "https://enterprise.verizon.com/why-verizon/looking-glass/": {
             "ipv4": {
-                "12.25.232.1": "United States"
+                "12.25.232.1": "Murfreesboro, United States"
             },
             "ipv6": {
                 "2001:67c:7b0::": "Czechia",
@@ -15364,19 +15364,19 @@
     "herzacloud.com": {
         "http://lg-cyber1.herzacloud.com": {
             "ipv4": {
-                "103.152.118.76": "Kuningan Barat, Indonesia"
+                "103.152.118.76": "Jakarta, Indonesia"
             },
             "ipv6": {}
         },
         "https://lg-ncix.herzacloud.com": {
             "ipv4": {
-                "103.168.146.146": "Kuningan Barat, Indonesia"
+                "103.168.146.146": "Jakarta, Indonesia"
             },
             "ipv6": {}
         },
         "https://lg-tifa.herzacloud.com": {
             "ipv4": {
-                "103.160.63.161": "Kuningan Barat, Indonesia"
+                "103.160.63.161": "Jakarta, Indonesia"
             },
             "ipv6": {}
         }
