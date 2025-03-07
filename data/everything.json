@@ -461,7 +461,7 @@
         },
         "lg.ikdc1.ikoula.com": {
             "ipv4": {
-                "178.170.68.42": "Nanterre, France"
+                "178.170.68.42": "France"
             },
             "ipv6": {
                 "2a00:c70:1:178:170:68:42:1": "France"
@@ -8881,7 +8881,7 @@
                 "163.5.150.1": "France"
             },
             "ipv6": {
-                "2001:678:90c::1": "United Kingdom"
+                "2001:678:90c::1": "Germany"
             }
         }
     },
@@ -10377,7 +10377,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Geisenheim, Germany"
+                "82.195.94.248": "Darmstadt, Germany"
             },
             "ipv6": {}
         }
@@ -12044,7 +12044,7 @@
     "as204003.net": {
         "https://lg.as204003.net": {
             "ipv4": {
-                "31.24.148.107": "Bremen, Germany"
+                "31.24.148.107": "Germany"
             },
             "ipv6": {
                 "2a06:e881:5806:42:4c0:deff:fe2e:5910": "Bremen, Germany"
@@ -13257,7 +13257,7 @@
     "plutex.de": {
         "https://lg.plutex.de/": {
             "ipv4": {
-                "31.24.146.69": "Bremen, Germany"
+                "31.24.146.69": "Germany"
             },
             "ipv6": {
                 "2a02:16d0:0:b::2": "Germany"
@@ -14102,7 +14102,7 @@
     "incx.net": {
         "http://lg.mi.incx.net/": {
             "ipv4": {
-                "38.146.4.164": "Utica, United States"
+                "38.146.4.164": "United States"
             },
             "ipv6": {}
         }
