@@ -170,7 +170,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Neasden, United Kingdom",
+                "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -1722,7 +1722,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Ogden, United States"
+                "64.140.171.145": "Layton, United States"
             },
             "ipv6": {}
         }
@@ -2200,7 +2200,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Dupnitsa, Bulgaria"
+                "78.128.92.20": "Blagoevgrad, Bulgaria"
             },
             "ipv6": {}
         },
@@ -3376,7 +3376,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "United States",
-                "192.173.144.38": "Innisfail, Canada"
+                "192.173.144.38": "Sylvan Lake, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -4891,7 +4891,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Duisburg, Germany"
+                "194.45.36.120": "Dusseldorf, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5824,7 +5824,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Neasden, United Kingdom"
+                "5.181.27.230": "Harlesden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6442,7 +6442,7 @@
     "krypt.com": {
         "https://www.krypt.com/network/hawaii-data-center-hnl/": {
             "ipv4": {
-                "107.6.255.2": "United States"
+                "107.6.255.2": "Honolulu, United States"
             },
             "ipv6": {}
         },
@@ -6488,7 +6488,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "United States",
+                "107.6.242.126": "Honolulu, United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -8781,7 +8781,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
+                "2a01:5e0:36:c034::1": "Holesov, Czechia"
             }
         }
     },
@@ -8823,7 +8823,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Syria"
+                "5.0.8.5": "Damascus, Syria"
             },
             "ipv6": {}
         }
@@ -10315,13 +10315,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Pamplona, Spain",
-                "130.206.195.254": "Pamplona, Spain",
-                "130.206.197.254": "Pamplona, Spain",
-                "130.206.198.125": "Pamplona, Spain",
-                "130.206.198.254": "Pamplona, Spain",
-                "130.206.201.254": "Pamplona, Spain",
-                "130.206.206.250": "Pamplona, Spain",
+                "130.206.194.254": "Orcoyen, Spain",
+                "130.206.195.254": "Orcoyen, Spain",
+                "130.206.197.254": "Orcoyen, Spain",
+                "130.206.198.125": "Orcoyen, Spain",
+                "130.206.198.254": "Orcoyen, Spain",
+                "130.206.201.254": "Orcoyen, Spain",
+                "130.206.206.250": "Orcoyen, Spain",
                 "130.206.211.254": "Madrid, Spain",
                 "130.206.212.254": "Madrid, Spain"
             },
@@ -10401,7 +10401,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Enfield, United Kingdom",
+                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -12700,7 +12700,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Jakarta, Indonesia",
+                "117.54.200.163": "Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13581,7 +13581,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Germany"
+                "185.171.47.121": "Kaarst, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13975,7 +13975,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Enskede-Arsta-Vantor, Sweden"
+                "80.251.201.188": "Solna, Sweden"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
