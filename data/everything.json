@@ -170,7 +170,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Harlesden, United Kingdom",
+                "92.223.59.1": "Neasden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -461,7 +461,7 @@
         },
         "lg.ikdc1.ikoula.com": {
             "ipv4": {
-                "178.170.68.42": "France"
+                "178.170.68.42": "Nanterre, France"
             },
             "ipv6": {
                 "2a00:c70:1:178:170:68:42:1": "France"
@@ -2714,7 +2714,7 @@
         },
         "http://dal.lg.virmach.com/": {
             "ipv4": {
-                "172.98.14.10": "United States"
+                "172.98.14.10": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -5824,7 +5824,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Harlesden, United Kingdom"
+                "5.181.27.230": "Neasden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -9008,7 +9008,7 @@
         },
         "http://lg.chi.madcityservers.com/": {
             "ipv4": {
-                "172.99.249.105": "Hanover Park, United States"
+                "172.99.249.105": "Los Angeles, United States"
             },
             "ipv6": {
                 "2602:ffc8:1:28:0000:0000:058b:2762": "Chicago, United States"
