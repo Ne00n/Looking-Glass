@@ -475,7 +475,7 @@
         },
         "lg.nl.ikoula.com": {
             "ipv4": {
-                "154.59.112.94": "Washington, United States"
+                "154.59.112.94": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
@@ -599,7 +599,7 @@
         },
         "lg-mad.fdcservers.net": {
             "ipv4": {
-                "50.7.80.4": "Madrid, Spain"
+                "50.7.80.4": "United States"
             },
             "ipv6": {}
         },
@@ -691,7 +691,7 @@
         },
         "lg-vie.fdcservers.net": {
             "ipv4": {
-                "50.7.37.26": "Vienna, Austria"
+                "50.7.37.26": "United States"
             },
             "ipv6": {}
         },
@@ -1369,7 +1369,7 @@
         },
         "tmthosting.net/seattle-datacenter": {
             "ipv4": {
-                "216.244.88.1": "United States"
+                "216.244.88.1": "Tukwila, United States"
             },
             "ipv6": {}
         }
@@ -5622,9 +5622,9 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Seattle": {
             "ipv4": {
-                "207.244.149.242": "United States",
-                "216.244.77.198": "United States",
-                "74.121.188.138": "United States"
+                "207.244.149.242": "Tukwila, United States",
+                "216.244.77.198": "Tukwila, United States",
+                "74.121.188.138": "Tukwila, United States"
             },
             "ipv6": {}
         },
@@ -10401,7 +10401,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
+                "2001:4d48:feed:1::5": "Enfield, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -14745,7 +14745,7 @@
     "verizon.com": {
         "https://enterprise.verizon.com/why-verizon/looking-glass/": {
             "ipv4": {
-                "12.25.232.1": "Murfreesboro, United States"
+                "12.25.232.1": "United States"
             },
             "ipv6": {
                 "2001:67c:7b0::": "Czechia",
