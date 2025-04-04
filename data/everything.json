@@ -420,8 +420,8 @@
     "iniz.com": {
         "https://iniz.com/network": {
             "ipv4": {
-                "107.161.164.164": "Los Angeles, United States",
-                "107.161.173.11": "New York, United States",
+                "107.161.164.164": "United States",
+                "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
                 "89.33.7.2": "London, United Kingdom"
             },
@@ -433,7 +433,7 @@
         },
         "lg.iniz.com": {
             "ipv4": {
-                "107.161.173.2": "New York, United States",
+                "107.161.173.2": "United States",
                 "162.217.248.2": "United Kingdom",
                 "185.53.130.2": "Amsterdam, The Netherlands",
                 "45.43.64.64": "London, United Kingdom"
@@ -441,7 +441,7 @@
             "ipv6": {
                 "2a07:9944:20:a::2": "Herndon, United States",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
-                "2a07:9944:40:1a::2": "Los Angeles, United States",
+                "2a07:9944:40:1a::2": "United States",
                 "2a05:9f44:2a05:1a::b36:db6": "London, United Kingdom"
             }
         },
@@ -461,7 +461,7 @@
         },
         "lg.ikdc1.ikoula.com": {
             "ipv4": {
-                "178.170.68.42": "Nanterre, France"
+                "178.170.68.42": "France"
             },
             "ipv6": {
                 "2a00:c70:1:178:170:68:42:1": "France"
@@ -2475,7 +2475,7 @@
                 "45.11.183.10": "Tallinn, Estonia"
             },
             "ipv6": {
-                "2a0b:7140:1:100:45:11:183:10": "Germany"
+                "2a0b:7140:1:100:45:11:183:10": "Tallinn, Estonia"
             }
         },
         "lg-ch.vps2day.com": {
@@ -2496,10 +2496,10 @@
         },
         "lg-nl.vps2day.com": {
             "ipv4": {
-                "193.242.211.135": "Naaldwijk, The Netherlands"
+                "193.242.211.135": "Rotterdam, The Netherlands"
             },
             "ipv6": {
-                "2001:67c:2ae8:108:193:242:211:135": "Naaldwijk, The Netherlands"
+                "2001:67c:2ae8:108:193:242:211:135": "Rotterdam, The Netherlands"
             }
         },
         "lg-ro.vps2day.com": {
@@ -4879,7 +4879,7 @@
         "https://vpsdime.com/looking-glass": {
             "ipv4": {
                 "104.237.1.114": "Seattle, United States",
-                "104.237.11.23": "Los Angeles, United States",
+                "104.237.11.23": "United States",
                 "104.237.8.8": "Piscataway, United States",
                 "107.155.108.46": "Dallas, United States",
                 "185.185.126.241": "Maidstone, United Kingdom",
@@ -9368,7 +9368,7 @@
                 "104.224.53.130": "Ashburn, United States"
             },
             "ipv6": {
-                "2602:fe69:201::1": "Seattle, United States"
+                "2602:fe69:201::1": "Tukwila, United States"
             }
         }
     },
