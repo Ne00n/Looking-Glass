@@ -1722,7 +1722,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Layton, United States"
+                "64.140.171.145": "Clearfield, United States"
             },
             "ipv6": {}
         }
@@ -3055,7 +3055,7 @@
                 "23.184.48.5": "Liberty Lake, United States"
             },
             "ipv6": {
-                "2602:fd92:509:93da:1:2:3:4": "Naaldwijk, The Netherlands"
+                "2602:fd92:509:93da:1:2:3:4": "Amsterdam, The Netherlands"
             }
         }
     },
@@ -4232,7 +4232,7 @@
     "as210630.net": {
         "https://lg-nl.as210630.net/": {
             "ipv4": {
-                "23.137.251.7": "Naaldwijk, The Netherlands"
+                "23.137.251.7": "Kansas City, United States"
             },
             "ipv6": {
                 "1776:08a5:5225:f4ee:1776": "n/a"
@@ -4891,7 +4891,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Dusseldorf, Germany"
+                "194.45.36.120": "Florsheim, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -4925,7 +4925,7 @@
         "https://dedicatserver.ro/looking-glass-ro/": {
             "ipv4": {
                 "188.241.194.19": "Romania",
-                "77.83.248.22": "Nicosia, Cyprus"
+                "77.83.248.22": "Dali, Cyprus"
             },
             "ipv6": {}
         }
@@ -4988,10 +4988,10 @@
         },
         "speedtest-nyc2.digitalocean.com": {
             "ipv4": {
-                "192.241.184.88": "New York, United States"
+                "192.241.184.88": "Secaucus, United States"
             },
             "ipv6": {
-                "2604:a880:0:1010::2b:a001": "New York, United States"
+                "2604:a880:0:1010::2b:a001": "Secaucus, United States"
             }
         },
         "speedtest-nyc3.digitalocean.com": {
@@ -5451,7 +5451,7 @@
         },
         "http://speedtest.c1.lon2.dediserve.com/": {
             "ipv4": {
-                "109.104.118.70": "United Kingdom"
+                "109.104.118.70": "South Petherton, United Kingdom"
             },
             "ipv6": {
                 "2001:9d8:1000:1a2e::50": "United Kingdom"
@@ -7324,7 +7324,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Bellaire, United States"
+                "216.230.224.34": "Spring, United States"
             },
             "ipv6": {}
         }
@@ -8781,7 +8781,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Holesov, Czechia"
+                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
             }
         }
     },
@@ -8823,7 +8823,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Damascus, Syria"
+                "5.0.8.5": "Hama, Syria"
             },
             "ipv6": {}
         }
@@ -9132,7 +9132,7 @@
     "bluevps.com": {
         "ams-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "46.249.49.253": "Ulft, The Netherlands"
+                "46.249.49.253": "Oldenzaal, The Netherlands"
             },
             "ipv6": {}
         },
@@ -10315,15 +10315,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Orcoyen, Spain",
-                "130.206.195.254": "Orcoyen, Spain",
-                "130.206.197.254": "Orcoyen, Spain",
-                "130.206.198.125": "Orcoyen, Spain",
-                "130.206.198.254": "Orcoyen, Spain",
-                "130.206.201.254": "Orcoyen, Spain",
-                "130.206.206.250": "Orcoyen, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
+                "130.206.211.254": "Pamplona, Spain",
+                "130.206.212.254": "Pamplona, Spain"
             },
             "ipv6": {}
         }
@@ -10373,11 +10373,11 @@
     "man-da.de": {
         "https://lg.man-da.de/prefix_detail/lg/ipv4?q=www.man-da.de": {
             "ipv4": {
-                "82.195.66.0": "Darmstadt, Germany",
-                "82.195.66.230": "Darmstadt, Germany",
-                "82.195.67.1": "Darmstadt, Germany",
-                "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Darmstadt, Germany"
+                "82.195.66.0": "Griesheim, Germany",
+                "82.195.66.230": "Griesheim, Germany",
+                "82.195.67.1": "Griesheim, Germany",
+                "82.195.67.32": "Griesheim, Germany",
+                "82.195.94.248": "Griesheim, Germany"
             },
             "ipv6": {}
         }
@@ -10401,7 +10401,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Enfield, United Kingdom",
+                "2001:4d48:feed:1::5": "Port Talbot, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -12700,7 +12700,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Indonesia",
+                "117.54.200.163": "Bandung, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13167,7 +13167,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Austria"
+                "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Vienna, Austria"
@@ -13567,7 +13567,7 @@
     "as10929.net": {
         "http://lg.as10929.net": {
             "ipv4": {
-                "67.212.77.62": "Montreal, Canada"
+                "67.212.77.62": "Canada"
             },
             "ipv6": {}
         }
@@ -13975,7 +13975,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Solna, Sweden"
+                "80.251.201.188": "Malmo, Sweden"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
@@ -15634,7 +15634,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Hall in Tirol, Austria"
+                "195.149.216.5": "Absam, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
@@ -15852,9 +15852,9 @@
             "ipv4": {
                 "91.218.184.13": "Norway",
                 "91.218.184.35": "Norway",
-                "91.90.105.241": "Oslo, Norway",
-                "91.90.105.249": "Oslo, Norway",
-                "91.90.109.129": "Oslo, Norway"
+                "91.90.105.241": "Norway",
+                "91.90.105.249": "Norway",
+                "91.90.109.129": "Norway"
             },
             "ipv6": {}
         }
