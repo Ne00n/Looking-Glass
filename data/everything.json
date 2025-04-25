@@ -4891,7 +4891,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Florsheim, Germany"
+                "194.45.36.120": "Nauheim, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -6361,10 +6361,10 @@
     "php-friends.de": {
         "https://lg.php-friends.de/": {
             "ipv4": {
-                "176.96.137.37": "Germany"
+                "176.96.137.37": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a0d:5940:8:6e::2": "Germany"
+                "2a0d:5940:8:6e::2": "Frankfurt am Main, Germany"
             }
         }
     },
@@ -8268,7 +8268,7 @@
     "harmony-solutions.de": {
         "https://lg.harmony-solutions.de/": {
             "ipv4": {
-                "185.254.99.222": "Germany"
+                "185.254.99.222": "Frankfurt am Main, Germany"
             },
             "ipv6": {
                 "2a0c:4ac0:1200:222::2": "Germany"
@@ -8859,7 +8859,7 @@
                 "46.20.1.80": "Bursa, Turkiye",
                 "46.45.169.111": "Turkiye",
                 "5.255.63.2": "The Netherlands",
-                "51.161.209.74": "Canada",
+                "51.161.209.74": "Melbourne, Australia",
                 "51.255.79.128": "France",
                 "51.83.236.173": "France",
                 "51.89.98.63": "London, United Kingdom"
@@ -9121,7 +9121,7 @@
                 "141.94.86.78": "France",
                 "145.239.236.104": "France",
                 "15.235.131.35": "Singapore",
-                "51.161.204.235": "Canada",
+                "51.161.204.235": "Melbourne, Australia",
                 "51.222.199.224": "Canada",
                 "51.38.93.96": "London, United Kingdom",
                 "51.89.36.200": "London, United Kingdom"
@@ -10315,15 +10315,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Pamplona, Spain",
-                "130.206.195.254": "Pamplona, Spain",
-                "130.206.197.254": "Pamplona, Spain",
-                "130.206.198.125": "Pamplona, Spain",
-                "130.206.198.254": "Pamplona, Spain",
-                "130.206.201.254": "Pamplona, Spain",
-                "130.206.206.250": "Pamplona, Spain",
-                "130.206.211.254": "Pamplona, Spain",
-                "130.206.212.254": "Pamplona, Spain"
+                "130.206.194.254": "Madrid, Spain",
+                "130.206.195.254": "Madrid, Spain",
+                "130.206.197.254": "Madrid, Spain",
+                "130.206.198.125": "Madrid, Spain",
+                "130.206.198.254": "Madrid, Spain",
+                "130.206.201.254": "Madrid, Spain",
+                "130.206.206.250": "Madrid, Spain",
+                "130.206.211.254": "Madrid, Spain",
+                "130.206.212.254": "Madrid, Spain"
             },
             "ipv6": {}
         }
@@ -12093,7 +12093,7 @@
                 "185.50.189.30": "Switzerland"
             },
             "ipv6": {
-                "2a04:c000:ed51:891:30::1": "Switzerland"
+                "2a04:c000:ed51:891:30::1": "n/a"
             }
         }
     },
