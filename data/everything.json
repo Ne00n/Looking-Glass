@@ -58,7 +58,7 @@
                 "15.181.98.141": "Kansas City, United States",
                 "15.184.0.253": "Bahrain",
                 "15.220.0.197": "Portland, United States",
-                "15.220.120.245": "Buenos Aires, Argentina",
+                "15.220.120.245": "Argentina",
                 "15.220.136.77": "Delhi, India",
                 "15.220.153.88": "Hamburg, Germany",
                 "15.220.16.151": "Las Vegas, United States",
@@ -86,11 +86,11 @@
                 "3.34.0.0": "Incheon, South Korea",
                 "3.6.0.0": "Mumbai, India",
                 "3.64.0.0": "Frankfurt am Main, Germany",
-                "3.8.0.0": "London, United Kingdom",
+                "3.8.0.0": "City of London, United Kingdom",
                 "3.80.0.0": "Ashburn, United States",
                 "3.96.0.0": "Montreal, Canada",
                 "40.176.100.29": "Calgary, Canada",
-                "43.192.0.113": "Ningxia, China",
+                "43.192.0.113": "China",
                 "43.196.0.253": "Beijing, China",
                 "43.208.90.158": "Bangkok, Thailand",
                 "43.216.149.220": "Kuala Lumpur, Malaysia",
@@ -101,7 +101,7 @@
                 "78.12.118.87": "Queretaro City, Mexico",
                 "96.0.1.218": "Perth, Australia",
                 "96.0.144.147": "Manila, Philippines",
-                "96.0.17.141": "Lima region, Peru",
+                "96.0.17.141": "Peru",
                 "96.0.25.211": "Copenhagen, Denmark",
                 "96.0.40.228": "Lagos, Nigeria",
                 "96.0.49.127": "Santiago, Chile",
@@ -135,7 +135,7 @@
                 "2600:1f1a:448e:2200::ec2": "Calgary, Canada",
                 "2a05:d014:4e3:5000::ec2": "Frankfurt am Main, Germany",
                 "2a05:d018:3c:6000::ec2": "Dublin, Ireland",
-                "2a05:d01c:810:8100::ec2": "London, United Kingdom",
+                "2a05:d01c:810:8100::ec2": "City of London, United Kingdom",
                 "2a05:d01a:c2d:7500::ec2": "Milan, Italy",
                 "2a05:d012:3:c000::ec2": "Paris, France",
                 "2a05:d011:553:1200::ec2": "Zaragoza, Spain",
@@ -147,7 +147,7 @@
                 "2406:da17:2b5:b900::ec2": "Dubai, United Arab Emirates",
                 "2600:1f1e:99e:9f00::ec2": "Sao Paulo, Brazil",
                 "2400:7fc0:8286:b300::ec2": "Beijing, China",
-                "2404:c2c0:8d06:1f00::ec2": "Ningxia, China"
+                "2404:c2c0:8d06:1f00::ec2": "China"
             }
         }
     },
@@ -423,7 +423,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "London, United Kingdom"
+                "89.33.7.2": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -436,19 +436,19 @@
                 "107.161.173.2": "United States",
                 "162.217.248.2": "United Kingdom",
                 "185.53.130.2": "Amsterdam, The Netherlands",
-                "45.43.64.64": "London, United Kingdom"
+                "45.43.64.64": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "Herndon, United States",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "London, United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "City of London, United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "London, United Kingdom"
+                "2a05:9f40:1f:ee::2": "City of London, United Kingdom"
             }
         }
     },
@@ -659,7 +659,7 @@
         },
         "lg-spb.fdcservers.net": {
             "ipv4": {
-                "50.7.35.4": "Sao Paulo, Brazil"
+                "50.7.35.4": "Brazil"
             },
             "ipv6": {}
         },
@@ -899,10 +899,10 @@
         },
         "lgmh.hostworld.uk": {
             "ipv4": {
-                "109.169.10.169": "London, United Kingdom"
+                "109.169.10.169": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2001:1b40:5000:2a::12": "London, United Kingdom"
+                "2001:1b40:5000:2a::12": "City of London, United Kingdom"
             }
         },
         "lgny.hostworld.uk": {
@@ -915,15 +915,15 @@
         },
         "lguk.hostworld.uk": {
             "ipv4": {
-                "5.181.124.254": "London, United Kingdom"
+                "5.181.124.254": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a01:a500:2766::71ba:0f43": "London, United Kingdom"
+                "2a01:a500:2766::71ba:0f43": "City of London, United Kingdom"
             }
         },
         "lguk2.hostworld.uk": {
             "ipv4": {
-                "51.195.168.65": "London, United Kingdom"
+                "51.195.168.65": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2001:41d0:0800:28c5::1d4a:d1df": "France"
@@ -977,10 +977,10 @@
         },
         "lg.london.prowhost.com": {
             "ipv4": {
-                "18.169.33.2": "London, United Kingdom"
+                "18.169.33.2": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a05:d01c:69f:2500:536c:f66a:41d5:eab0": "London, United Kingdom"
+                "2a05:d01c:69f:2500:536c:f66a:41d5:eab0": "City of London, United Kingdom"
             }
         },
         "lg.ohio.prowhost.com": {
@@ -1357,7 +1357,7 @@
         },
         "lg-lon.tmthosting.net": {
             "ipv4": {
-                "89.34.96.98": "London, United Kingdom"
+                "89.34.96.98": "City of London, United Kingdom"
             },
             "ipv6": {}
         },
@@ -1692,7 +1692,7 @@
         },
         "racknerd.com/london-datacenter": {
             "ipv4": {
-                "89.34.96.1": "London, United Kingdom"
+                "89.34.96.1": "City of London, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2001,7 +2001,7 @@
                 "172.107.207.219": "Sao Paulo, Brazil"
             },
             "ipv6": {
-                "2604:6600:fd00:84::b0b1:28cb": "Barueri, Brazil"
+                "2604:6600:fd00:84::b0b1:28cb": "Sao Paulo, Brazil"
             }
         },
         "lg.sin.psychz.net": {
@@ -2108,7 +2108,7 @@
         },
         "lg-miami.serverhub.com": {
             "ipv4": {
-                "107.158.148.252": "Miami, United States"
+                "107.158.148.252": "New York, United States"
             },
             "ipv6": {}
         },
@@ -2390,10 +2390,10 @@
         },
         "https://lon.lg.v.ps/": {
             "ipv4": {
-                "185.248.86.86": "London, United Kingdom"
+                "185.248.86.86": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a0b:89c1:2::16d": "London, United Kingdom"
+                "2a0b:89c1:2::16d": "City of London, United Kingdom"
             }
         },
         "https://nrt.lg.v.ps/": {
@@ -2401,7 +2401,7 @@
                 "103.201.131.131": "Tokyo, Japan"
             },
             "ipv6": {
-                "2a12:a301:1::1f4": "Ebina, Japan"
+                "2a12:a301:1::1f4": "Tokyo, Japan"
             }
         },
         "https://sea2.lg.v.ps/": {
@@ -2545,7 +2545,7 @@
                 "107.152.43.1": "United States"
             },
             "ipv6": {
-                "2607:9000:4000:0022:0000:0000:0000:0001": "Beckley, United States"
+                "2607:9000:4000:0022:0000:0000:0000:0001": "Raleigh, United States"
             }
         }
     },
@@ -2720,7 +2720,7 @@
         },
         "http://ffm.lg.virmach.com/": {
             "ipv4": {
-                "47.87.228.164": "United States"
+                "47.87.228.164": "Sydney, Australia"
             },
             "ipv6": {}
         },
@@ -2846,7 +2846,7 @@
         },
         "lg.ist.citynethost.com": {
             "ipv4": {
-                "185.65.204.169": "London, United Kingdom"
+                "185.65.204.169": "City of London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -3154,7 +3154,7 @@
         },
         "lg.sofia.profitserver.ru": {
             "ipv4": {
-                "195.123.228.158": "Sofia, Bulgaria"
+                "195.123.228.158": "Bulgaria"
             },
             "ipv6": {}
         }
@@ -3482,7 +3482,7 @@
             "ipv4": {
                 "185.14.30.7": "Meppel, The Netherlands",
                 "195.123.213.93": "Riga, Latvia",
-                "195.123.228.145": "Sofia, Bulgaria",
+                "195.123.228.145": "Bulgaria",
                 "195.123.233.112": "Secaucus, United States",
                 "195.123.242.113": "Los Angeles, United States",
                 "195.123.245.185": "Prague, Czechia",
@@ -3496,7 +3496,7 @@
             },
             "ipv6": {
                 "2a05:9403::12f": "Prague, Czechia",
-                "2a02:27aa::546": "Sofia, Bulgaria",
+                "2a02:27aa::546": "Bulgaria",
                 "2a05:9406::1b7": "Geneva, Switzerland",
                 "2a05:9404::7f": "Gdansk, Poland",
                 "2a05:9405::2de": "Miami, United States",
@@ -5564,8 +5564,8 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=London": {
             "ipv4": {
-                "5.226.136.28": "London, United Kingdom",
-                "89.34.97.1": "London, United Kingdom"
+                "5.226.136.28": "City of London, United Kingdom",
+                "89.34.97.1": "City of London, United Kingdom"
             },
             "ipv6": {}
         },
@@ -5734,7 +5734,7 @@
         },
         "http://lg-bg1.hostry.com/": {
             "ipv4": {
-                "185.82.219.125": "Sofia, Bulgaria"
+                "185.82.219.125": "Bulgaria"
             },
             "ipv6": {}
         },
@@ -5853,7 +5853,7 @@
                 "185.105.1.154": "Mumbai, India"
             },
             "ipv6": {
-                "2a03:90c0:285::2a": "Mumbai, India"
+                "2a03:90c0:285::2a": "Navi Mumbai, India"
             }
         },
         "http://lg-it1.hostry.com/": {
@@ -6044,7 +6044,7 @@
         "https://isplevel.com/en/lg.html": {
             "ipv4": {
                 "107.181.187.131": "United States",
-                "185.82.218.203": "Sofia, Bulgaria",
+                "185.82.218.203": "Bulgaria",
                 "195.123.213.21": "Riga, Latvia",
                 "195.123.233.46": "Secaucus, United States",
                 "195.123.237.66": "Singapore, Singapore",
@@ -6163,7 +6163,7 @@
         },
         "https://uk-lg.shockhosting.net/": {
             "ipv4": {
-                "45.155.39.3": "London, United Kingdom"
+                "45.155.39.3": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a0d:d8c0:0:1::7476": "United States"
@@ -6392,10 +6392,10 @@
         },
         "http://lg.lon.fognet.ch/": {
             "ipv4": {
-                "45.134.88.20": "London, United Kingdom"
+                "45.134.88.20": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a0c:9a40:1031::20": "London, United Kingdom"
+                "2a0c:9a40:1031::20": "City of London, United Kingdom"
             }
         },
         "http://lg.mci.fognet.ch/": {
@@ -7598,7 +7598,7 @@
                 "139.64.167.166": "Paris, France",
                 "142.202.48.166": "Newark, United States",
                 "142.202.49.166": "Ashburn, United States",
-                "142.202.51.166": "London, United Kingdom",
+                "142.202.51.166": "City of London, United Kingdom",
                 "158.51.120.166": "Montreal, Canada",
                 "158.51.122.166": "Vancouver, Canada",
                 "162.251.60.175": "Chicago, United States",
@@ -7646,7 +7646,7 @@
         "lg-lon.gthost.com": {
             "ipv4": {},
             "ipv6": {
-                "2604:86c0:f300::166": "London, United Kingdom"
+                "2604:86c0:f300::166": "City of London, United Kingdom"
             }
         }
     },
@@ -7712,7 +7712,7 @@
         },
         "http://uk.lg.mlnl.host/": {
             "ipv4": {
-                "139.28.207.1": "Lincolnshire, United Kingdom"
+                "139.28.207.1": "United Kingdom"
             },
             "ipv6": {}
         }
@@ -8724,10 +8724,10 @@
         },
         "https://vpsfast.net/bulgaria-vps": {
             "ipv4": {
-                "217.12.202.7": "Sofia, Bulgaria"
+                "217.12.202.7": "Bulgaria"
             },
             "ipv6": {
-                "2a02:27aa::7777": "Sofia, Bulgaria"
+                "2a02:27aa::7777": "Bulgaria"
             }
         }
     },
@@ -8768,7 +8768,7 @@
                 "66.248.240.55": "United States",
                 "66.248.241.2": "Buffalo, United States",
                 "66.248.243.2": "United States",
-                "78.157.209.195": "London, United Kingdom"
+                "78.157.209.195": "City of London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -8781,7 +8781,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
+                "2a01:5e0:36:c034::1": "Holesov, Czechia"
             }
         }
     },
@@ -9381,7 +9381,7 @@
                 "162.247.153.5": "Atlanta, United States",
                 "185.135.86.3": "Riga, Latvia",
                 "185.246.155.7": "Amsterdam, The Netherlands",
-                "195.238.126.3": "Vilnius, Lithuania",
+                "195.238.126.3": "Lithuania",
                 "213.183.63.91": "Sofia, Bulgaria",
                 "213.226.68.73": "Frankfurt am Main, Germany",
                 "217.30.10.3": "Warsaw, Poland",
@@ -9835,7 +9835,7 @@
                 "45.129.96.253": "Estonia"
             },
             "ipv6": {
-                "2a02:2d8:0:b000:232a::1": "United Kingdom",
+                "2a02:2d8:0:b000:232a::1": "Tallinn, Estonia",
                 "2a03:7720::14": "Ukraine"
             }
         }
@@ -10184,7 +10184,7 @@
                 "162.247.153.5": "Atlanta, United States",
                 "185.135.86.3": "Riga, Latvia",
                 "185.246.155.7": "Amsterdam, The Netherlands",
-                "195.238.126.3": "Vilnius, Lithuania",
+                "195.238.126.3": "Lithuania",
                 "213.183.49.158": "Madrid, Spain",
                 "213.183.50.82": "St Petersburg, Russia",
                 "213.183.63.91": "Sofia, Bulgaria",
@@ -11010,7 +11010,7 @@
     "binaryracks.com": {
         "http://lg.ldn.binaryracks.com": {
             "ipv4": {
-                "185.65.207.42": "London, United Kingdom"
+                "185.65.207.42": "City of London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -14570,7 +14570,7 @@
     "ines.ro": {
         "http://speed.ines.ro/lg": {
             "ipv4": {
-                "89.149.0.26": "Bucharest, Romania"
+                "89.149.0.26": "Romania"
             },
             "ipv6": {
                 "2a02:2a00::1a": "Romania"
