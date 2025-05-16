@@ -170,7 +170,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Neasden, United Kingdom",
+                "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -2108,7 +2108,7 @@
         },
         "lg-miami.serverhub.com": {
             "ipv4": {
-                "107.158.148.252": "New York, United States"
+                "107.158.148.252": "Seoul, South Korea"
             },
             "ipv6": {}
         },
@@ -5597,7 +5597,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
-                "45.199.226.132": "Taipei, Taiwan",
+                "45.199.226.132": "Frankfurt am Main, Germany",
                 "64.74.240.241": "United States"
             },
             "ipv6": {}
@@ -5824,7 +5824,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Neasden, United Kingdom"
+                "5.181.27.230": "Harlesden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6080,7 +6080,7 @@
     "edgevm.com": {
         "http://lg-sjc.edgevm.com/": {
             "ipv4": {
-                "136.0.16.3": "San Francisco, United States"
+                "136.0.16.3": "Orem, United States"
             },
             "ipv6": {
                 "2607:f358:1a:1::c0dc:84b2": "United States"
@@ -6221,7 +6221,7 @@
                 "209.222.4.183": "Piscataway, United States"
             },
             "ipv6": {
-                "2001:19f0:b:34::b872": "Piscataway, United States"
+                "2001:19f0:b:34::b872": "United States"
             }
         }
     },
@@ -8006,7 +8006,7 @@
         },
         "http://ru-lg.serverum.com/": {
             "ipv4": {
-                "192.144.36.189": "Latvia"
+                "192.144.36.189": "St Petersburg, Russia"
             },
             "ipv6": {
                 "2a09:80:160:0:5054:ff:fec1:7f88": "Latvia"
@@ -8703,7 +8703,7 @@
                 "91.205.175.173": "Munich, Germany"
             },
             "ipv6": {
-                "2001:19f0:1595:1403::1091": "Piscataway, United States",
+                "2001:19f0:1595:1403::1091": "United States",
                 "2a02:c205:2027:2831:c000::1": "Germany",
                 "2001:41d0:1000:c87:0160:6c3d:2b17:0001": "France",
                 "2001:41d0:604:33:0160:6c3d:2b17:0001": "France",
@@ -8781,7 +8781,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Holesov, Czechia"
+                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
             }
         }
     },
@@ -8891,7 +8891,7 @@
     "serversavior.com": {
         "http://serversavior.com/our-datacenter/": {
             "ipv4": {
-                "66.212.17.195": "Los Angeles, United States"
+                "66.212.17.195": "United States"
             },
             "ipv6": {}
         }
@@ -12578,7 +12578,7 @@
                 "155.138.160.218": "Atlanta, United States"
             },
             "ipv6": {
-                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "Atlanta, United States"
+                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "United States"
             }
         }
     },
