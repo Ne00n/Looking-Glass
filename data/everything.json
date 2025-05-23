@@ -23,7 +23,7 @@
             "ipv4": {
                 "151.115.0.1": "Warsaw, Poland",
                 "163.172.208.1": "Amsterdam, The Netherlands",
-                "195.154.0.5": "Ivry-sur-Seine, France",
+                "195.154.0.5": "Paris, France",
                 "212.129.0.1": "France",
                 "212.47.224.7": "France",
                 "212.83.128.4": "France",
@@ -170,7 +170,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Harlesden, United Kingdom",
+                "92.223.59.1": "Neasden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -551,7 +551,7 @@
         },
         "lg-hel.fdcservers.net": {
             "ipv4": {
-                "50.7.45.4": "Helsinki, Finland"
+                "50.7.45.4": "United States"
             },
             "ipv6": {}
         },
@@ -587,7 +587,7 @@
         },
         "lg-lis.fdcservers.net": {
             "ipv4": {
-                "50.7.43.4": "Lisbon, Portugal"
+                "50.7.43.4": "United States"
             },
             "ipv6": {}
         },
@@ -653,7 +653,7 @@
         },
         "lg-sof.fdcservers.net": {
             "ipv4": {
-                "50.7.47.4": "Sofia, Bulgaria"
+                "50.7.47.4": "United States"
             },
             "ipv6": {}
         },
@@ -703,7 +703,7 @@
         },
         "lg-zur.fdcservers.net": {
             "ipv4": {
-                "50.7.41.4": "Zurich, Switzerland"
+                "50.7.41.4": "United States"
             },
             "ipv6": {}
         },
@@ -1081,7 +1081,7 @@
         },
         "lgla.nexusbytes.com": {
             "ipv4": {
-                "158.51.84.9": "Sterling Heights, United States"
+                "158.51.84.9": "United States"
             },
             "ipv6": {
                 "2602:fed2:7106:4818:0000:0000:0000:0002": "Canada"
@@ -1097,7 +1097,7 @@
         },
         "lgmi.nexusbytes.com": {
             "ipv4": {
-                "158.51.87.9": "Sterling Heights, United States"
+                "158.51.87.9": "United States"
             },
             "ipv6": {
                 "2a04:ff00:0500:0bb7:0000:0000:0000:0001": "United Kingdom"
@@ -1722,7 +1722,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Clearfield, United States"
+                "64.140.171.145": "Ogden, United States"
             },
             "ipv6": {}
         }
@@ -4891,7 +4891,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Nauheim, Germany"
+                "194.45.36.120": "Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -4925,7 +4925,7 @@
         "https://dedicatserver.ro/looking-glass-ro/": {
             "ipv4": {
                 "188.241.194.19": "Romania",
-                "77.83.248.22": "Dali, Cyprus"
+                "77.83.248.22": "Nicosia, Cyprus"
             },
             "ipv6": {}
         }
@@ -5597,7 +5597,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
-                "45.199.226.132": "Frankfurt am Main, Germany",
+                "45.199.226.132": "Mauritius",
                 "64.74.240.241": "United States"
             },
             "ipv6": {}
@@ -5824,7 +5824,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Harlesden, United Kingdom"
+                "5.181.27.230": "Neasden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6221,7 +6221,7 @@
                 "209.222.4.183": "Piscataway, United States"
             },
             "ipv6": {
-                "2001:19f0:b:34::b872": "United States"
+                "2001:19f0:b:34::b872": "Piscataway, United States"
             }
         }
     },
@@ -6442,7 +6442,7 @@
     "krypt.com": {
         "https://www.krypt.com/network/hawaii-data-center-hnl/": {
             "ipv4": {
-                "107.6.255.2": "Honolulu, United States"
+                "107.6.255.2": "United States"
             },
             "ipv6": {}
         },
@@ -6488,7 +6488,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "Honolulu, United States",
+                "107.6.242.126": "United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -6633,7 +6633,7 @@
         },
         "https://quadranet.com/dallas-datacenter.php": {
             "ipv4": {
-                "96.44.142.2": "Los Angeles, United States"
+                "96.44.142.2": "United States"
             },
             "ipv6": {
                 "2607:fcd0:daaa:daaa:daaa:daaa:daaa:daaa": "Dallas, United States"
@@ -7695,7 +7695,7 @@
     "pacificrack.com": {
         "https://lg.pacificrack.com/": {
             "ipv4": {
-                "204.152.212.245": "Los Angeles, United States"
+                "204.152.212.245": "United States"
             },
             "ipv6": {}
         }
@@ -8519,7 +8519,7 @@
     "NexusBytes.com": {
         "http://lgmi.nexusbytes.com/": {
             "ipv4": {
-                "158.51.87.9": "Sterling Heights, United States"
+                "158.51.87.9": "United States"
             },
             "ipv6": {
                 "2a04:ff00:0500:0bb7:0000:0000:0000:0001": "United Kingdom"
@@ -8669,7 +8669,7 @@
             "ipv4": {
                 "204.152.218.25": "Los Angeles, United States",
                 "208.100.4.54": "United States",
-                "96.44.142.5": "Los Angeles, United States"
+                "96.44.142.5": "United States"
             },
             "ipv6": {}
         }
@@ -8703,7 +8703,7 @@
                 "91.205.175.173": "Munich, Germany"
             },
             "ipv6": {
-                "2001:19f0:1595:1403::1091": "United States",
+                "2001:19f0:1595:1403::1091": "Piscataway, United States",
                 "2a02:c205:2027:2831:c000::1": "Germany",
                 "2001:41d0:1000:c87:0160:6c3d:2b17:0001": "France",
                 "2001:41d0:604:33:0160:6c3d:2b17:0001": "France",
@@ -8823,7 +8823,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Hama, Syria"
+                "5.0.8.5": "Damascus, Syria"
             },
             "ipv6": {}
         }
@@ -9016,7 +9016,7 @@
         },
         "http://lg.la.madcityservers.com/": {
             "ipv4": {
-                "216.73.158.6": "Japan"
+                "216.73.158.6": "Tokyo, Japan"
             },
             "ipv6": {}
         },
@@ -9132,7 +9132,7 @@
     "bluevps.com": {
         "ams-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "46.249.49.253": "Oldenzaal, The Netherlands"
+                "46.249.49.253": "Ambt Delden, The Netherlands"
             },
             "ipv6": {}
         },
@@ -9575,7 +9575,7 @@
         },
         "https://www.iozoom.com/datacenter/dallas-vps/": {
             "ipv4": {
-                "96.44.142.2": "Los Angeles, United States"
+                "96.44.142.2": "United States"
             },
             "ipv6": {
                 "2607:fcd0:da80:c00::3e8:1": "Dallas, United States"
@@ -10272,7 +10272,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Eisenbach, Germany"
+                "129.143.4.238": "Schwetzingen, Germany"
             },
             "ipv6": {}
         }
@@ -10315,15 +10315,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Madrid, Spain",
-                "130.206.195.254": "Madrid, Spain",
-                "130.206.197.254": "Madrid, Spain",
-                "130.206.198.125": "Madrid, Spain",
-                "130.206.198.254": "Madrid, Spain",
-                "130.206.201.254": "Madrid, Spain",
-                "130.206.206.250": "Madrid, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.194.254": "Palma, Spain",
+                "130.206.195.254": "Palma, Spain",
+                "130.206.197.254": "Palma, Spain",
+                "130.206.198.125": "Palma, Spain",
+                "130.206.198.254": "Palma, Spain",
+                "130.206.201.254": "Palma, Spain",
+                "130.206.206.250": "Palma, Spain",
+                "130.206.211.254": "Palma, Spain",
+                "130.206.212.254": "Palma, Spain"
             },
             "ipv6": {}
         }
@@ -10373,11 +10373,11 @@
     "man-da.de": {
         "https://lg.man-da.de/prefix_detail/lg/ipv4?q=www.man-da.de": {
             "ipv4": {
-                "82.195.66.0": "Griesheim, Germany",
-                "82.195.66.230": "Griesheim, Germany",
-                "82.195.67.1": "Griesheim, Germany",
-                "82.195.67.32": "Griesheim, Germany",
-                "82.195.94.248": "Griesheim, Germany"
+                "82.195.66.0": "Darmstadt, Germany",
+                "82.195.66.230": "Darmstadt, Germany",
+                "82.195.67.1": "Darmstadt, Germany",
+                "82.195.67.32": "Darmstadt, Germany",
+                "82.195.94.248": "Darmstadt, Germany"
             },
             "ipv6": {}
         }
@@ -11963,7 +11963,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Domasaw, Poland"
+                "185.56.208.2": "Gniechowice, Poland"
             },
             "ipv6": {}
         }
@@ -12578,7 +12578,7 @@
                 "155.138.160.218": "Atlanta, United States"
             },
             "ipv6": {
-                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "United States"
+                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "Atlanta, United States"
             }
         }
     },
@@ -13335,7 +13335,7 @@
     "polineo.pl": {
         "http://lg.polineo.pl/": {
             "ipv4": {
-                "89.39.108.254": "Godziszka, Poland"
+                "89.39.108.254": "Knurow, Poland"
             },
             "ipv6": {}
         }
