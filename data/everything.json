@@ -5768,7 +5768,7 @@
         },
         "http://lg-cn2.hostry.com/": {
             "ipv4": {
-                "194.156.98.218": "United Arab Emirates"
+                "194.156.98.218": "Hong Kong, Hong Kong"
             },
             "ipv6": {
                 "2a09:7c45::2d7": "Hong Kong, Hong Kong"
@@ -5782,7 +5782,7 @@
         },
         "http://lg-cz2.hostry.com/": {
             "ipv4": {
-                "77.75.230.177": "Moldova"
+                "77.75.230.177": "Prague, Czechia"
             },
             "ipv6": {}
         },
@@ -9713,7 +9713,7 @@
     "nextarray.com": {
         "http://lg-dal.nextarray.com/": {
             "ipv4": {
-                "108.165.178.174": "Orem, United States"
+                "108.165.178.174": "United States"
             },
             "ipv6": {}
         },
@@ -15634,7 +15634,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Absam, Austria"
+                "195.149.216.5": "Hall in Tirol, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
