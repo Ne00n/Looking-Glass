@@ -205,7 +205,7 @@
     "cometvps.com": {
         "lg.buf1.cometvps.com": {
             "ipv4": {
-                "96.9.249.58": "Buffalo, United States"
+                "96.9.249.58": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -715,7 +715,7 @@
     "as20278.net": {
         "lg.buf1.as20278.net": {
             "ipv4": {
-                "96.9.249.58": "Buffalo, United States"
+                "96.9.249.58": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -733,7 +733,7 @@
     "nexeon.com": {
         "lg.buf1.nexeon.com": {
             "ipv4": {
-                "96.9.249.58": "Buffalo, United States"
+                "96.9.249.58": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -2702,7 +2702,7 @@
         },
         "http://atl.lg.virmach.com/": {
             "ipv4": {
-                "23.147.226.8": "Canada"
+                "23.147.226.8": "United States"
             },
             "ipv6": {}
         },
@@ -3253,7 +3253,7 @@
                 "103.25.56.1": "Adelaide, Australia"
             },
             "ipv6": {
-                "2406:d500:2::25e1:9baa": "Australia"
+                "2406:d500:2::25e1:9baa": "Adelaide, Australia"
             }
         },
         "sydney-lg.ransomit.com.au": {
@@ -3949,7 +3949,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Whitechapel, United Kingdom"
+                "108.61.196.101": "Tower Hamlets, United Kingdom"
             },
             "ipv6": {}
         },
@@ -6080,7 +6080,7 @@
     "edgevm.com": {
         "http://lg-sjc.edgevm.com/": {
             "ipv4": {
-                "136.0.16.3": "Orem, United States"
+                "136.0.16.3": "United States"
             },
             "ipv6": {
                 "2607:f358:1a:1::c0dc:84b2": "United States"
@@ -8859,7 +8859,7 @@
                 "46.20.1.80": "Bursa, Turkiye",
                 "46.45.169.111": "Turkiye",
                 "5.255.63.2": "The Netherlands",
-                "51.161.209.74": "Melbourne, Australia",
+                "51.161.209.74": "Canada",
                 "51.255.79.128": "France",
                 "51.83.236.173": "France",
                 "51.89.98.63": "London, United Kingdom"
@@ -9121,7 +9121,7 @@
                 "141.94.86.78": "France",
                 "145.239.236.104": "France",
                 "15.235.131.35": "Singapore",
-                "51.161.204.235": "Melbourne, Australia",
+                "51.161.204.235": "Canada",
                 "51.222.199.224": "Canada",
                 "51.38.93.96": "London, United Kingdom",
                 "51.89.36.200": "London, United Kingdom"
@@ -9280,7 +9280,7 @@
         "https://www.serverdeals.com/datacenter/": {
             "ipv4": {
                 "167.88.10.4": "Buffalo, United States",
-                "96.9.249.58": "Buffalo, United States"
+                "96.9.249.58": "Chicago, United States"
             },
             "ipv6": {}
         }
@@ -9713,7 +9713,7 @@
     "nextarray.com": {
         "http://lg-dal.nextarray.com/": {
             "ipv4": {
-                "108.165.178.174": "United States"
+                "108.165.178.174": "Sweden"
             },
             "ipv6": {}
         },
@@ -9900,7 +9900,7 @@
     "gigenet.com": {
         "https://www.gigenet.com/about/datacenter-locations/": {
             "ipv4": {
-                "199.168.117.38": "United States",
+                "199.168.117.38": "Ashburn, United States",
                 "66.55.82.4": "United States",
                 "66.55.88.26": "United States"
             },
@@ -10315,15 +10315,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Palma, Spain",
-                "130.206.195.254": "Palma, Spain",
-                "130.206.197.254": "Palma, Spain",
-                "130.206.198.125": "Palma, Spain",
-                "130.206.198.254": "Palma, Spain",
-                "130.206.201.254": "Palma, Spain",
-                "130.206.206.250": "Palma, Spain",
-                "130.206.211.254": "Palma, Spain",
-                "130.206.212.254": "Palma, Spain"
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
+                "130.206.211.254": "Pamplona, Spain",
+                "130.206.212.254": "Pamplona, Spain"
             },
             "ipv6": {}
         }
@@ -11746,7 +11746,7 @@
     "lexxadata.net.id": {
         "http://lg.lexxadata.net.id": {
             "ipv4": {
-                "103.144.147.150": "Tulungagung, Indonesia"
+                "103.144.147.150": "Kediri, Indonesia"
             },
             "ipv6": {}
         }
@@ -13335,7 +13335,7 @@
     "polineo.pl": {
         "http://lg.polineo.pl/": {
             "ipv4": {
-                "89.39.108.254": "Knurow, Poland"
+                "89.39.108.254": "Poland"
             },
             "ipv6": {}
         }
@@ -13581,7 +13581,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Kaarst, Germany"
+                "185.171.47.121": "Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13683,7 +13683,7 @@
     "undip.ac.id": {
         "http://lg.undip.ac.id/": {
             "ipv4": {
-                "182.255.0.112": "Semarang, Indonesia"
+                "182.255.0.112": "Indonesia"
             },
             "ipv6": {
                 "2001:df0:b5:27::2d": "Indonesia"
