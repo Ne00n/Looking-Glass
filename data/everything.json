@@ -93,6 +93,7 @@
                 "43.192.0.113": "Ningxia, China",
                 "43.196.0.253": "Beijing, China",
                 "43.208.90.158": "Bangkok, Thailand",
+                "43.213.3.242": "Taipei, Taiwan",
                 "43.216.149.220": "Kuala Lumpur, Malaysia",
                 "51.16.235.176": "Tel Aviv, Israel",
                 "64.187.131.1": "Miami, United States",
@@ -129,6 +130,7 @@
                 "2406:da12:128:d200::ec2": "Incheon, South Korea",
                 "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
                 "2406:da1c:16:9000::ec2": "Sydney, Australia",
+                "2406:da1c:871c:e600::ec2": "Taipei, Taiwan",
                 "2406:da14:8793:7900::ec2": "Bangkok, Thailand",
                 "2406:da14:295:300::ec2": "Tokyo, Japan",
                 "2600:1f11:b15:2000::ec2": "Montreal, Canada",
@@ -703,7 +705,7 @@
         },
         "lg-zur.fdcservers.net": {
             "ipv4": {
-                "50.7.41.4": "United States"
+                "50.7.41.4": "Halfweg, The Netherlands"
             },
             "ipv6": {}
         },
@@ -1465,7 +1467,7 @@
                 "45.91.92.191": "Zurich, Switzerland"
             },
             "ipv6": {
-                "2001:470:b5a1:5133:0000:0000:0000:0001": "Saudi Arabia"
+                "2001:470:b5a1:5133:0000:0000:0000:0001": "Russia"
             }
         },
         "http://waw.lg.webhorizon.in": {
@@ -1722,7 +1724,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Ogden, United States"
+                "64.140.171.145": "Hooper, United States"
             },
             "ipv6": {}
         }
@@ -2702,7 +2704,7 @@
         },
         "http://atl.lg.virmach.com/": {
             "ipv4": {
-                "23.147.226.8": "United States"
+                "23.147.226.8": "Canada"
             },
             "ipv6": {}
         },
@@ -2714,7 +2716,7 @@
         },
         "http://dal.lg.virmach.com/": {
             "ipv4": {
-                "172.98.14.10": "Los Angeles, United States"
+                "172.98.14.10": "United States"
             },
             "ipv6": {}
         },
@@ -3162,7 +3164,7 @@
     "vpscheap.net": {
         "lg.vpscheap.net": {
             "ipv4": {
-                "192.243.96.159": "United Kingdom"
+                "192.243.96.159": "Dallas, United States"
             },
             "ipv6": {}
         }
@@ -3376,7 +3378,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "United States",
-                "192.173.144.38": "Sylvan Lake, Canada"
+                "192.173.144.38": "Delburne, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -6080,7 +6082,7 @@
     "edgevm.com": {
         "http://lg-sjc.edgevm.com/": {
             "ipv4": {
-                "136.0.16.3": "United States"
+                "136.0.16.3": "Bogota, Colombia"
             },
             "ipv6": {
                 "2607:f358:1a:1::c0dc:84b2": "United States"
@@ -7324,7 +7326,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Spring, United States"
+                "216.230.224.34": "United States"
             },
             "ipv6": {}
         }
@@ -9063,7 +9065,7 @@
     "tmzvps.com": {
         "https://www.tmzvps.com/data-center/": {
             "ipv4": {
-                "192.243.96.159": "United Kingdom",
+                "192.243.96.159": "Dallas, United States",
                 "212.18.224.182": "United Kingdom"
             },
             "ipv6": {}
@@ -10377,7 +10379,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Darmstadt, Germany"
+                "82.195.94.248": "Geisenheim, Germany"
             },
             "ipv6": {}
         }
@@ -10401,7 +10403,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Port Talbot, United Kingdom",
+                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -11963,7 +11965,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Gniechowice, Poland"
+                "185.56.208.2": "Smolec, Poland"
             },
             "ipv6": {}
         }
@@ -12700,7 +12702,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Bandung, Indonesia",
+                "117.54.200.163": "Jakarta, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13683,7 +13685,7 @@
     "undip.ac.id": {
         "http://lg.undip.ac.id/": {
             "ipv4": {
-                "182.255.0.112": "Indonesia"
+                "182.255.0.112": "Semarang, Indonesia"
             },
             "ipv6": {
                 "2001:df0:b5:27::2d": "Indonesia"
@@ -13896,7 +13898,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+                "191.243.156.214": "Barra Mansa, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
@@ -13975,7 +13977,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Malmo, Sweden"
+                "80.251.201.188": "Denmark"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
