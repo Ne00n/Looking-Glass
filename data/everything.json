@@ -22,17 +22,17 @@
         "Online.net": {
             "ipv4": {
                 "151.115.0.1": "Warsaw, Poland",
-                "163.172.208.1": "Amsterdam, The Netherlands",
+                "163.172.208.1": "Haarlem, The Netherlands",
                 "195.154.0.5": "Paris, France",
-                "212.129.0.1": "France",
-                "212.47.224.7": "France",
-                "212.83.128.4": "France",
-                "212.83.160.3": "France",
-                "51.15.0.1": "France",
+                "212.129.0.1": "Paris, France",
+                "212.47.224.7": "Paris, France",
+                "212.83.128.4": "Paris, France",
+                "212.83.160.3": "Paris, France",
+                "51.15.0.1": "Haarlem, The Netherlands",
                 "51.158.0.8": "Paris, France",
-                "51.158.128.1": "Paris, France",
-                "62.210.0.2": "Orly, France",
-                "62.4.0.2": "France"
+                "51.158.128.1": "Haarlem, The Netherlands",
+                "62.210.0.2": "Paris, France",
+                "62.4.0.2": "Paris, France"
             },
             "ipv6": {}
         }
@@ -172,7 +172,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Neasden, United Kingdom",
+                "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -1486,12 +1486,12 @@
     "alwyzon.com": {
         "alwyzon.com/en/lg/vie": {
             "ipv4": {
-                "31.14.17.6": "Vienna, Austria",
-                "86.106.182.189": "Vienna, Austria"
+                "31.14.17.6": "Langenzersdorf, Austria",
+                "86.106.182.189": "Langenzersdorf, Austria"
             },
             "ipv6": {
                 "2a0d:f301::6": "Apeldoorn, The Netherlands",
-                "2a0d:f302:106::6": "Vienna, Austria"
+                "2a0d:f302:106::6": "Langenzersdorf, Austria"
             }
         },
         "https://lg.alwyzon.com": {
@@ -3078,7 +3078,7 @@
         },
         "lg.dronten.profitserver.ru": {
             "ipv4": {
-                "185.14.31.34": "Meppel, The Netherlands"
+                "185.14.31.34": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
@@ -3102,7 +3102,7 @@
         },
         "lg.kharkiv.profitserver.ru": {
             "ipv4": {
-                "217.12.199.165": "Kharkiv, Ukraine"
+                "217.12.199.165": "Kyiv, Ukraine"
             },
             "ipv6": {}
         },
@@ -3482,7 +3482,7 @@
         },
         "https://itldc.com/en/support/looking-glass/": {
             "ipv4": {
-                "185.14.30.7": "Meppel, The Netherlands",
+                "185.14.30.7": "Amsterdam, The Netherlands",
                 "195.123.213.93": "Riga, Latvia",
                 "195.123.228.145": "Sofia, Bulgaria",
                 "195.123.233.112": "Secaucus, United States",
@@ -3490,10 +3490,10 @@
                 "195.123.245.185": "Prague, Czechia",
                 "195.211.96.59": "Seattle, United States",
                 "195.211.98.33": "Chicago, United States",
-                "217.12.199.211": "Kharkiv, Ukraine",
+                "217.12.199.211": "Kyiv, Ukraine",
                 "45.90.58.203": "Geneva, Switzerland",
                 "82.117.253.84": "Miami, United States",
-                "82.118.18.197": "Kyiv, Ukraine",
+                "82.118.18.197": "Kharkiv, Ukraine",
                 "82.118.21.149": "Gdansk, Poland"
             },
             "ipv6": {
@@ -3503,21 +3503,21 @@
                 "2a05:9404::7f": "Gdansk, Poland",
                 "2a05:9405::2de": "Miami, United States",
                 "2a02:27a8:0:a::eb": "Kharkiv, Ukraine",
-                "2a12:6fc0::9": "United States",
+                "2a12:6fc0::9": "Seattle, United States",
                 "2a05:9400:0:acdc::5a": "Secaucus, United States",
-                "2a12:6fc1::9": "United States",
-                "2a02:27ab:0:2::5b": "Meppel, The Netherlands",
-                "2a02:27a8:feed::9": "Kharkiv, Ukraine",
+                "2a12:6fc1::9": "Chicago, United States",
+                "2a02:27ab:0:2::5b": "Amsterdam, The Netherlands",
+                "2a02:27a8:feed::9": "United States",
                 "2a02:27ac::34c": "Riga, Latvia",
-                "2607:f7a0:3:4:acdc:c0fe:0:3b4": "United States"
+                "2607:f7a0:3:4:acdc:c0fe:0:3b4": "Los Angeles, United States"
             }
         },
         "lg-nl.itldc.com": {
             "ipv4": {
-                "217.12.200.200": "Meppel, The Netherlands"
+                "217.12.200.200": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a00:1ca8:a7::200": "The Netherlands"
+                "2a00:1ca8:a7::200": "Amsterdam, The Netherlands"
             }
         },
         "lg-ua.itldc.com": {
@@ -3530,7 +3530,7 @@
         },
         "lg-us.itldc.com": {
             "ipv4": {
-                "107.181.161.131": "United States"
+                "107.181.161.131": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -5357,7 +5357,7 @@
         },
         "http://lg-pk.obhost.org/": {
             "ipv4": {
-                "103.148.162.20": "Pakistan"
+                "103.148.162.20": "Phoenix, United States"
             },
             "ipv6": {}
         },
@@ -5386,7 +5386,7 @@
                 "93.158.205.148": "The Netherlands"
             },
             "ipv6": {
-                "2a00:1ca8:26::40": "The Netherlands"
+                "2a00:1ca8:26::40": "Amsterdam, The Netherlands"
             }
         },
         "http://speedtest.c1.chg1.dediserve.com/": {
@@ -5826,7 +5826,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Neasden, United Kingdom"
+                "5.181.27.230": "Harlesden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -5910,10 +5910,10 @@
         },
         "http://lg-nl2.hostry.com/": {
             "ipv4": {
-                "185.14.28.215": "Meppel, The Netherlands"
+                "185.14.28.215": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a02:27ab:0:2::164": "Meppel, The Netherlands"
+                "2a02:27ab:0:2::164": "Amsterdam, The Netherlands"
             }
         },
         "http://lg-pl1.hostry.com/": {
@@ -5962,7 +5962,7 @@
         },
         "http://lg-ua1.hostry.com/": {
             "ipv4": {
-                "217.12.199.144": "Kharkiv, Ukraine"
+                "217.12.199.144": "Kyiv, Ukraine"
             },
             "ipv6": {}
         },
@@ -5985,7 +5985,7 @@
                 "195.123.240.162": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:f7a0:3:4:acdc:c0fe:0:e3": "United States"
+                "2607:f7a0:3:4:acdc:c0fe:0:e3": "Los Angeles, United States"
             }
         },
         "http://lg-us3.hostry.com/": {
@@ -6039,13 +6039,13 @@
     "isplevel.com": {
         "http://lg-nl.isplevel.com/": {
             "ipv4": {
-                "185.14.30.167": "Meppel, The Netherlands"
+                "185.14.30.167": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
         "https://isplevel.com/en/lg.html": {
             "ipv4": {
-                "107.181.187.131": "United States",
+                "107.181.187.131": "Los Angeles, United States",
                 "185.82.218.203": "Sofia, Bulgaria",
                 "195.123.213.21": "Riga, Latvia",
                 "195.123.233.46": "Secaucus, United States",
@@ -6082,7 +6082,7 @@
     "edgevm.com": {
         "http://lg-sjc.edgevm.com/": {
             "ipv4": {
-                "136.0.16.3": "Bogota, Colombia"
+                "136.0.16.3": "United States"
             },
             "ipv6": {
                 "2607:f358:1a:1::c0dc:84b2": "United States"
@@ -6603,7 +6603,7 @@
         },
         "http://lax.meanservers.com/lg": {
             "ipv4": {
-                "216.126.59.95": "Los Angeles, United States"
+                "216.126.59.95": "United States"
             },
             "ipv6": {
                 "2606:1880:1001:3::b798": "United States"
@@ -9715,7 +9715,7 @@
     "nextarray.com": {
         "http://lg-dal.nextarray.com/": {
             "ipv4": {
-                "108.165.178.174": "Sweden"
+                "108.165.178.174": "Stockholm, Sweden"
             },
             "ipv6": {}
         },
@@ -11748,7 +11748,7 @@
     "lexxadata.net.id": {
         "http://lg.lexxadata.net.id": {
             "ipv4": {
-                "103.144.147.150": "Kediri, Indonesia"
+                "103.144.147.150": "Indonesia"
             },
             "ipv6": {}
         }
