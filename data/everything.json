@@ -1155,7 +1155,7 @@
         },
         "lg-au-syd.mrvm.net": {
             "ipv4": {
-                "103.25.58.141": "Sydney, Australia"
+                "103.25.58.141": "Australia"
             },
             "ipv6": {
                 "2406:d500:6:beef:003d:9847:4691:0001": "Australia"
@@ -1190,7 +1190,7 @@
                 "103.216.223.11": "Singapore, Singapore"
             },
             "ipv6": {
-                "2406:d500:12:beef:60::1": "Singapore"
+                "2406:d500:12:beef:60::1": "Australia"
             }
         },
         "lg-us-bei.mrvm.net": {
@@ -3206,7 +3206,7 @@
     "ransomit.com.au": {
         "http://auckland-lg.ransomit.com.au/": {
             "ipv4": {
-                "163.47.21.11": "Auckland, New Zealand"
+                "163.47.21.11": "Australia"
             },
             "ipv6": {}
         },
@@ -3215,7 +3215,7 @@
                 "45.248.77.43": "Brisbane, Australia"
             },
             "ipv6": {
-                "2404:f780:4:805::b83:18a": "Australia"
+                "2404:f780:4:805::b83:18a": "Brisbane, Australia"
             }
         },
         "http://hongkong-lg.ransomit.com.au/": {
@@ -3231,7 +3231,7 @@
                 "144.48.37.201": "Melbourne, Australia"
             },
             "ipv6": {
-                "2406:d501:f:950::e6f0:9036": "Australia"
+                "2406:d501:f:950::e6f0:9036": "Melbourne, Australia"
             }
         },
         "http://singapore-lg.ransomit.com.au/": {
@@ -3239,7 +3239,7 @@
                 "103.216.223.62": "Singapore, Singapore"
             },
             "ipv6": {
-                "2406:d500:12:300::8c4:f6d9": "Singapore"
+                "2406:d500:12:300::8c4:f6d9": "Australia"
             }
         },
         "http://tokyo-lg.ransomit.com.au/": {
@@ -3247,7 +3247,7 @@
                 "180.149.230.11": "Tokyo, Japan"
             },
             "ipv6": {
-                "2406:d500:9::8a53:2806": "Australia"
+                "2406:d500:9::8a53:2806": "Tokyo, Japan"
             }
         },
         "lg.ransomit.com.au": {
@@ -3260,7 +3260,7 @@
         },
         "sydney-lg.ransomit.com.au": {
             "ipv4": {
-                "103.25.58.100": "Sydney, Australia"
+                "103.25.58.100": "Australia"
             },
             "ipv6": {
                 "2406:d501::7b2f:bf95": "Australia"
@@ -5574,7 +5574,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=Los%20Angeles": {
             "ipv4": {
                 "198.55.111.5": "Los Angeles, United States",
-                "204.152.218.25": "Los Angeles, United States"
+                "204.152.218.25": "United States"
             },
             "ipv6": {}
         },
@@ -6681,7 +6681,7 @@
         },
         "https://www.quadranet.com/los-angeles-century-datacenter": {
             "ipv4": {
-                "204.152.218.25": "Los Angeles, United States",
+                "204.152.218.25": "United States",
                 "69.12.66.26": "United States"
             },
             "ipv6": {
@@ -8669,7 +8669,7 @@
     "ikihost.com": {
         "https://www.ikihost.com/data-center-and-network/": {
             "ipv4": {
-                "204.152.218.25": "Los Angeles, United States",
+                "204.152.218.25": "United States",
                 "208.100.4.54": "United States",
                 "96.44.142.5": "United States"
             },
@@ -9602,7 +9602,7 @@
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
             "ipv4": {
                 "198.55.111.5": "Los Angeles, United States",
-                "204.152.218.25": "Los Angeles, United States"
+                "204.152.218.25": "United States"
             },
             "ipv6": {
                 "2607:fcd0:0:a::2": "Los Angeles, United States"
@@ -10881,7 +10881,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Jakarta, Indonesia"
+                "27.131.3.230": "Indonesia"
             },
             "ipv6": {}
         }
