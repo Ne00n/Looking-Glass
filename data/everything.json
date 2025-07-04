@@ -444,13 +444,13 @@
                 "2a07:9944:20:a::2": "Herndon, United States",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "London, United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "London, United Kingdom"
+                "2a05:9f40:1f:ee::2": "United Kingdom"
             }
         }
     },
@@ -625,7 +625,7 @@
         },
         "lg-par2.fdcservers.net": {
             "ipv4": {
-                "50.7.200.42": "United States"
+                "50.7.200.42": "Slough, United Kingdom"
             },
             "ipv6": {}
         },
@@ -1158,7 +1158,7 @@
                 "103.25.58.141": "Australia"
             },
             "ipv6": {
-                "2406:d500:6:beef:003d:9847:4691:0001": "Australia"
+                "2406:d500:6:beef:003d:9847:4691:0001": "Sydney, Australia"
             }
         },
         "lg-bg-sof.mrvm.net": {
@@ -1174,7 +1174,7 @@
                 "88.198.69.215": "Falkenstein, Germany"
             },
             "ipv6": {
-                "2a01:4f8:140:5007::": "Falkenstein, Germany"
+                "2a01:4f8:140:5007::": "Germany"
             }
         },
         "lg-no-san.mrvm.net": {
@@ -2110,7 +2110,7 @@
         },
         "lg-miami.serverhub.com": {
             "ipv4": {
-                "107.158.148.252": "Seoul, South Korea"
+                "107.158.148.252": "Santiago, Chile"
             },
             "ipv6": {}
         },
@@ -3001,7 +3001,7 @@
                 "212.24.110.207": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:d418:6ecf::1": "Vilnius, Lithuania"
+                "2a02:7b40:d418:6ecf::1": "Lithuania"
             }
         }
     },
@@ -3377,13 +3377,13 @@
         "lg.hugeserver.com": {
             "ipv4": {
                 "107.161.48.78": "United States",
-                "185.133.32.14": "United States",
+                "185.133.32.14": "n/a",
                 "192.173.144.38": "Delburne, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
                 "2605:8680:ffff::100": "United States",
-                "2a03:a3a0:0:1::100": "United States"
+                "2a03:a3a0:0:1::100": "n/a"
             }
         }
     },
@@ -4005,7 +4005,7 @@
         },
         "https://sto-se-ping.vultr.com/": {
             "ipv4": {
-                "70.34.194.86": "Spanga, Sweden"
+                "70.34.194.86": "Stockholm, Sweden"
             },
             "ipv6": {}
         },
@@ -5191,7 +5191,7 @@
                 "109.235.69.33": "Lithuania"
             },
             "ipv6": {
-                "2a02:7b40:6deb:4521::1": "Vilnius, Lithuania"
+                "2a02:7b40:6deb:4521::1": "Lithuania"
             }
         }
     },
@@ -5599,7 +5599,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
-                "45.199.226.132": "Mauritius",
+                "45.199.226.132": "Taipei, Taiwan",
                 "64.74.240.241": "United States"
             },
             "ipv6": {}
@@ -8490,7 +8490,7 @@
     "just.hosting": {
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
-                "104.166.127.78": "United States",
+                "104.166.127.78": "Paris, France",
                 "155.254.192.138": "Los Angeles, United States",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
@@ -8883,7 +8883,7 @@
                 "163.5.150.1": "France"
             },
             "ipv6": {
-                "2001:678:90c::1": "Germany"
+                "2001:678:90c::1": "United Kingdom"
             }
         }
     },
@@ -10403,7 +10403,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
+                "2001:4d48:feed:1::5": "United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -12145,7 +12145,7 @@
     "zitline.net.id": {
         "http://lg.zitline.net.id": {
             "ipv4": {
-                "103.87.228.9": "Bandar Lampung, Indonesia"
+                "103.87.228.9": "Indonesia"
             },
             "ipv6": {
                 "2400:d940:c000::2": "Indonesia"
@@ -13685,7 +13685,7 @@
     "undip.ac.id": {
         "http://lg.undip.ac.id/": {
             "ipv4": {
-                "182.255.0.112": "Semarang, Indonesia"
+                "182.255.0.112": "Indonesia"
             },
             "ipv6": {
                 "2001:df0:b5:27::2d": "Indonesia"
@@ -15939,7 +15939,7 @@
     "datacenter.eu": {
         "https://www.datacenter.eu/news/f5-networks-completes-volterra-acquisition/": {
             "ipv4": {
-                "80.92.83.42": "Bridel, Luxembourg"
+                "80.92.83.42": "Ettelbruck, Luxembourg"
             },
             "ipv6": {}
         },
