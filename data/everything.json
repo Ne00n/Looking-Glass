@@ -50,13 +50,13 @@
                 "15.220.161.219": "Muscat, Oman",
                 "15.228.0.0": "Sao Paulo, Brazil",
                 "15.253.0.254": "Los Angeles, United States",
+                "16.112.0.0": "Hyderabad, India",
                 "16.162.0.253": "Hong Kong",
                 "16.26.0.0": "Melbourne, Australia",
                 "16.62.132.214": "Zurich, Switzerland",
                 "16.78.0.0": "Jakarta, Indonesia",
                 "18.100.135.187": "Zaragoza, Spain",
                 "18.236.0.0": "Boardman, United States",
-                "18.60.8.120": "Hyderabad, India",
                 "3.0.0.9": "Singapore, Singapore",
                 "3.112.0.0": "Tokyo, Japan",
                 "3.12.0.0": "Columbus, United States",
@@ -142,7 +142,7 @@
                 "5.188.95.1": "Israel",
                 "89.43.111.1": "Chisinau, Moldova",
                 "89.44.197.1": "Sofia, Bulgaria",
-                "92.223.59.1": "Neasden, United Kingdom",
+                "92.223.59.1": "Harlesden, United Kingdom",
                 "92.223.66.1": "Miami, United States",
                 "92.223.73.1": "South Korea",
                 "92.223.85.1": "Singapore, Singapore",
@@ -376,7 +376,7 @@
         },
         "http://dallas.lg.ftpit.com/": {
             "ipv4": {
-                "192.175.23.110": "United States"
+                "192.175.23.110": "Atlanta, United States"
             },
             "ipv6": {
                 "2606:1780::1:864a:465e": "n/a"
@@ -384,7 +384,7 @@
         },
         "losangeles.lg.ftpit.com": {
             "ipv4": {
-                "198.52.245.10": "United States"
+                "198.52.245.10": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -863,7 +863,7 @@
         },
         "lgla.hostworld.uk": {
             "ipv4": {
-                "23.237.72.171": "Los Angeles, United States"
+                "23.237.72.171": "United States"
             },
             "ipv6": {
                 "2001:49f0:d08a:2::e4:6ab1": "United States"
@@ -4852,7 +4852,7 @@
             "ipv4": {
                 "104.237.1.114": "Seattle, United States",
                 "104.237.11.23": "United States",
-                "104.237.8.8": "Piscataway, United States",
+                "104.237.8.8": "United States",
                 "107.155.108.46": "Dallas, United States",
                 "185.185.126.241": "Maidstone, United Kingdom",
                 "185.185.127.137": "Naaldwijk, The Netherlands"
@@ -5796,7 +5796,7 @@
         },
         "http://lg-gb1.hostry.com/": {
             "ipv4": {
-                "5.181.27.230": "Neasden, United Kingdom"
+                "5.181.27.230": "Harlesden, United Kingdom"
             },
             "ipv6": {}
         },
@@ -12857,7 +12857,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Poland"
+                "91.188.97.174": "Kalej, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -13868,7 +13868,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Barra Mansa, Brazil"
+                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
