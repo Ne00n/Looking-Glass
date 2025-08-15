@@ -4220,7 +4220,7 @@
         },
         "https://lg.albahost.net/": {
             "ipv4": {
-                "103.167.234.10": "Tirana, Albania"
+                "103.167.234.10": "Warsaw, Poland"
             },
             "ipv6": {}
         }
@@ -4863,7 +4863,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Dalfsen, The Netherlands"
+                "194.45.36.120": "Waasmunster, Belgium"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -7648,7 +7648,7 @@
     "vpsaff.net": {
         "http://s11.vpsaff.net/lookingglass/": {
             "ipv4": {
-                "154.3.8.5": "Los Angeles, United States"
+                "154.3.8.5": "Washington, United States"
             },
             "ipv6": {}
         }
@@ -8753,7 +8753,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Holesov, Czechia"
+                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
             }
         }
     },
@@ -13142,7 +13142,7 @@
                 "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Graz, Austria"
+                "2a02:1748:f064:160::167": "Lieboch, Austria"
             }
         }
     },
@@ -13526,7 +13526,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
+                "186.193.193.35": "Americana, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
@@ -14351,7 +14351,7 @@
     "as1403.net": {
         "http://lg.as1403.net/": {
             "ipv4": {
-                "96.127.255.94": "Montreal, Canada"
+                "96.127.255.94": "Toronto, Canada"
             },
             "ipv6": {
                 "2606:6d00:0:99::b1b9": "Montreal, Canada"
@@ -14448,7 +14448,7 @@
     "datamossa.io": {
         "http://looking-glass.datamossa.io": {
             "ipv4": {
-                "103.126.53.66": "Australia"
+                "103.126.53.66": "Sydney, Australia"
             },
             "ipv6": {
                 "2404:5c0:153::13:8466:1": "Australia"
