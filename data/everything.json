@@ -2044,7 +2044,7 @@
         },
         "https://lg-toronto.serverhub.com/": {
             "ipv4": {
-                "104.206.8.253": "United States"
+                "104.206.8.253": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -4498,7 +4498,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -5550,7 +5550,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Miami": {
             "ipv4": {
-                "173.44.32.10": "Los Angeles, United States"
+                "173.44.32.10": "Mumbai, India"
             },
             "ipv6": {}
         },
@@ -6255,7 +6255,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6613,7 +6613,7 @@
         },
         "https://quadranet.com/miami-datacenter.php": {
             "ipv4": {
-                "173.44.32.10": "Los Angeles, United States"
+                "173.44.32.10": "Mumbai, India"
             },
             "ipv6": {
                 "2607:ff48:0:a:b:c:d:666": "Miami, United States"
@@ -7379,7 +7379,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8871,7 +8871,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Greenville, United States"
+                "4.2.6.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -9017,7 +9017,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Greenville, United States"
+                "4.2.5.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -9261,7 +9261,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Greenville, United States"
+                "4.2.3.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -9406,7 +9406,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -9580,7 +9580,7 @@
         },
         "https://www.iozoom.com/datacenter/miami-vps/": {
             "ipv4": {
-                "173.44.32.10": "Los Angeles, United States"
+                "173.44.32.10": "Mumbai, India"
             },
             "ipv6": {
                 "2607:ff48:0:a:b:c:d:666": "Miami, United States"
@@ -9622,7 +9622,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Ogden, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "Ashburn, United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -9886,7 +9886,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -9967,7 +9967,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Easley, United States"
             },
             "ipv6": {}
         }
@@ -10025,7 +10025,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Easley, United States"
             },
             "ipv6": {}
         }
