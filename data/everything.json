@@ -58,6 +58,7 @@
                 "18.100.135.187": "Zaragoza, Spain",
                 "18.236.0.0": "Boardman, United States",
                 "3.0.0.9": "Singapore, Singapore",
+                "3.102.141.118": "Auckland, New Zealand",
                 "3.112.0.0": "Tokyo, Japan",
                 "3.12.0.0": "Columbus, United States",
                 "3.24.0.0": "Sydney, Australia",
@@ -96,6 +97,7 @@
                 "2406:da10:8bf5:4a00::ec2": "Kuala Lumpur, Malaysia",
                 "2406:da1f:843:b900::ec2": "Melbourne, Australia",
                 "2406:da1a:ddd:7400::ec2": "Mumbai, India",
+                "2406:da12:8531:3400::ec2": "Auckland, New Zealand",
                 "2406:da16:730:7300::ec2": "Osaka, Japan",
                 "2406:da12:128:d200::ec2": "Incheon, South Korea",
                 "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
@@ -129,7 +131,7 @@
                 "146.185.220.1": "Luxembourg",
                 "146.185.236.1": "Sydney, Australia",
                 "185.105.1.1": "Mumbai, India",
-                "185.14.45.1": "Frankfurt am Main, Germany",
+                "185.14.45.1": "Eschborn, Germany",
                 "213.156.137.1": "Almaty, Kazakhstan",
                 "213.156.142.1": "Bucharest, Romania",
                 "5.188.108.1": "Warsaw, Poland",
@@ -2146,7 +2148,7 @@
         },
         "lg.den.dedicontrol.com": {
             "ipv4": {
-                "172.81.40.35": "n/a"
+                "172.81.40.35": "United States"
             },
             "ipv6": {}
         },
@@ -2674,7 +2676,7 @@
         },
         "http://atl.lg.virmach.com/": {
             "ipv4": {
-                "23.147.226.8": "n/a"
+                "23.147.226.8": "Canada"
             },
             "ipv6": {}
         },
@@ -3336,7 +3338,7 @@
     "hostmem.com": {
         "la-qn.lg.hostmem.com": {
             "ipv4": {
-                "64.188.14.190": "Los Angeles, United States"
+                "64.188.14.190": "Tsuen Wan, Hong Kong"
             },
             "ipv6": {
                 "2607:fcd0:fa80:2a11::1": "United States"
@@ -5199,7 +5201,7 @@
                 "104.149.18.203": "Los Angeles, United States",
                 "104.223.90.5": "Los Angeles, United States",
                 "161.129.64.235": "United States",
-                "172.81.40.35": "n/a",
+                "172.81.40.35": "United States",
                 "185.161.69.26": "Cyprus",
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
@@ -5760,7 +5762,7 @@
         },
         "http://lg-de1.hostry.com/": {
             "ipv4": {
-                "185.14.45.72": "Frankfurt am Main, Germany"
+                "185.14.45.72": "Eschborn, Germany"
             },
             "ipv6": {}
         },
@@ -8461,7 +8463,7 @@
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
                 "104.166.127.78": "Paris, France",
-                "155.254.192.138": "Mexico City, Mexico",
+                "155.254.192.138": "United States",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
@@ -8871,7 +8873,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Easley, United States"
+                "4.2.6.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9017,7 +9019,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Easley, United States"
+                "4.2.5.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9261,7 +9263,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Easley, United States"
+                "4.2.3.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9406,7 +9408,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Easley, United States"
+                "4.2.7.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9886,7 +9888,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Easley, United States"
+                "4.2.7.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -9967,7 +9969,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Easley, United States"
+                "4.2.7.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -10025,7 +10027,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Easley, United States"
+                "4.2.7.1": "Piedmont, United States"
             },
             "ipv6": {}
         }
@@ -12857,7 +12859,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Kalej, Poland"
+                "91.188.97.174": "Swierklaniec, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
