@@ -671,7 +671,7 @@
         },
         "lg-war.fdcservers.net": {
             "ipv4": {
-                "50.7.7.4": "Warsaw, Poland"
+                "50.7.7.4": "United States"
             },
             "ipv6": {}
         },
@@ -1146,7 +1146,7 @@
                 "88.198.69.215": "Falkenstein, Germany"
             },
             "ipv6": {
-                "2a01:4f8:140:5007::": "Falkenstein, Germany"
+                "2a01:4f8:140:5007::": "Germany"
             }
         },
         "lg-no-san.mrvm.net": {
@@ -5572,7 +5572,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
                 "45.199.226.132": "Taipei, Taiwan",
-                "64.74.240.241": "United States"
+                "64.74.240.241": "White Plains, United States"
             },
             "ipv6": {}
         },
@@ -6490,7 +6490,7 @@
                 "167.160.173.7": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:900::ac3:f506": "United States"
+                "2607:fcd0:bb80:900::ac3:f506": "Chicago, United States"
             }
         }
     },
@@ -6642,7 +6642,7 @@
                 "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:3000::2": "United States"
+                "2607:fcd0:bb80:3000::2": "Chicago, United States"
             }
         },
         "https://www.quadranet.com/cn/los-angeles-century-datacenter": {
@@ -8873,7 +8873,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Piedmont, United States"
+                "4.2.6.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9019,7 +9019,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Piedmont, United States"
+                "4.2.5.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9263,7 +9263,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Piedmont, United States"
+                "4.2.3.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9408,7 +9408,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Piedmont, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9544,7 +9544,7 @@
                 "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:3000::2": "United States"
+                "2607:fcd0:bb80:3000::2": "Chicago, United States"
             }
         },
         "https://www.iozoom.com/datacenter/dallas-vps/": {
@@ -9888,7 +9888,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Piedmont, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9969,7 +9969,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Piedmont, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10027,7 +10027,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Piedmont, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -13555,7 +13555,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Leverkusen, Germany"
+                "185.171.47.121": "Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13870,7 +13870,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+                "191.243.156.214": "Barra Mansa, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
