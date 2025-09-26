@@ -51,12 +51,12 @@
                 "15.228.0.0": "Sao Paulo, Brazil",
                 "15.253.0.254": "Los Angeles, United States",
                 "16.112.0.0": "Hyderabad, India",
+                "16.144.0.0": "Boardman, United States",
                 "16.162.0.253": "Hong Kong",
                 "16.26.0.0": "Melbourne, Australia",
                 "16.62.132.214": "Zurich, Switzerland",
                 "16.78.0.0": "Jakarta, Indonesia",
                 "18.100.135.187": "Zaragoza, Spain",
-                "18.236.0.0": "Boardman, United States",
                 "3.0.0.9": "Singapore, Singapore",
                 "3.102.141.118": "Auckland, New Zealand",
                 "3.112.0.0": "Tokyo, Japan",
@@ -2589,7 +2589,7 @@
         "http://lgca.greencloudvps.com/": {
             "ipv4": {
                 "192.161.167.156": "Los Angeles, United States",
-                "198.55.111.5": "Los Angeles, United States"
+                "198.55.111.5": "United States"
             },
             "ipv6": {}
         },
@@ -3554,7 +3554,7 @@
     "justhost.ru": {
         "https://lg-dcolo.justhost.ru/": {
             "ipv4": {
-                "209.209.112.37": "Sao Paulo, Brazil"
+                "209.209.112.37": "Dallas, United States"
             },
             "ipv6": {
                 "2605:e440::5:5": "Dallas, United States"
@@ -5024,7 +5024,7 @@
                 "104.223.90.5": "Los Angeles, United States",
                 "161.129.64.235": "United States",
                 "185.208.208.3": "The Netherlands",
-                "198.55.111.5": "Los Angeles, United States",
+                "198.55.111.5": "United States",
                 "212.224.70.16": "Germany",
                 "62.113.254.1": "Germany",
                 "69.61.66.10": "Atlanta, United States",
@@ -5088,7 +5088,7 @@
                 "104.218.101.31": "United States",
                 "162.249.170.22": "United States",
                 "192.169.46.33": "United States",
-                "198.55.108.131": "Los Angeles, United States"
+                "198.55.108.131": "United States"
             },
             "ipv6": {}
         }
@@ -5205,7 +5205,7 @@
                 "185.161.69.26": "Cyprus",
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
-                "198.55.111.5": "Los Angeles, United States",
+                "198.55.111.5": "United States",
                 "212.224.70.16": "Germany",
                 "45.81.7.154": "Los Angeles, United States",
                 "45.9.15.195": "Cyprus",
@@ -5545,7 +5545,7 @@
         },
         "https://oneilonline.com/ourdatacenter-status.php?city=Los%20Angeles": {
             "ipv4": {
-                "198.55.111.5": "Los Angeles, United States",
+                "198.55.111.5": "United States",
                 "204.152.218.25": "United States"
             },
             "ipv6": {}
@@ -6647,7 +6647,7 @@
         },
         "https://www.quadranet.com/cn/los-angeles-century-datacenter": {
             "ipv4": {
-                "198.55.111.5": "Los Angeles, United States"
+                "198.55.111.5": "United States"
             },
             "ipv6": {}
         },
@@ -8462,13 +8462,13 @@
     "just.hosting": {
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
-                "104.166.127.78": "Paris, France",
-                "155.254.192.138": "Bogota, Colombia",
+                "104.166.127.78": "United States",
+                "155.254.192.138": "United States",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
                 "194.87.68.192": "St Petersburg, Russia",
-                "209.209.112.37": "Sao Paulo, Brazil",
+                "209.209.112.37": "Dallas, United States",
                 "212.60.5.88": "Moscow, Russia",
                 "46.17.40.85": "Moscow, Russia",
                 "46.29.162.89": "Moscow, Russia",
@@ -9573,7 +9573,7 @@
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
             "ipv4": {
-                "198.55.111.5": "Los Angeles, United States",
+                "198.55.111.5": "United States",
                 "204.152.218.25": "United States"
             },
             "ipv6": {
@@ -9919,7 +9919,7 @@
     "deltahost.com": {
         "https://deltahost.com/datacenter.html": {
             "ipv4": {
-                "198.55.111.5": "Los Angeles, United States"
+                "198.55.111.5": "United States"
             },
             "ipv6": {
                 "2607:fcd0:0:a::2": "United States"
@@ -10437,7 +10437,7 @@
     "hkix.net": {
         "http://www.hkix.net/hkix/hkixlg.htm": {
             "ipv4": {
-                "123.255.88.1": "Thailand"
+                "123.255.88.1": "Hong Kong"
             },
             "ipv6": {}
         }
@@ -10746,7 +10746,7 @@
     "deltahost.ua": {
         "https://deltahost.ua/datacenter.html": {
             "ipv4": {
-                "198.55.111.5": "Los Angeles, United States"
+                "198.55.111.5": "United States"
             },
             "ipv6": {
                 "2607:fcd0:0:a::2": "United States"
