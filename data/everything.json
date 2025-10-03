@@ -561,7 +561,7 @@
         },
         "lg-lis.fdcservers.net": {
             "ipv4": {
-                "50.7.43.4": "United States"
+                "50.7.43.4": "Prior Velho, Portugal"
             },
             "ipv6": {}
         },
@@ -4177,7 +4177,7 @@
     "contabo.com": {
         "https://contabo.com/en/#how-can-i-check-the-current-status-of-your-data-centers-or-whether-there-are": {
             "ipv4": {
-                "194.163.181.75": "Dusseldorf, Germany"
+                "194.163.181.75": "Lauterbourg, France"
             },
             "ipv6": {}
         }
@@ -4206,7 +4206,7 @@
     "as210630.net": {
         "https://lg-nl.as210630.net/": {
             "ipv4": {
-                "23.137.251.7": "Kansas City, United States"
+                "23.137.251.7": "United States"
             },
             "ipv6": {
                 "1776:08a5:5225:f4ee:1776": "n/a"
@@ -5745,7 +5745,7 @@
                 "194.156.98.218": "Hong Kong, Hong Kong"
             },
             "ipv6": {
-                "2a09:7c45::2d7": "Hong Kong, Hong Kong"
+                "2a09:7c45::2d7": "Moldova"
             }
         },
         "http://lg-cz1.hostry.com/": {
@@ -5756,7 +5756,7 @@
         },
         "http://lg-cz2.hostry.com/": {
             "ipv4": {
-                "77.75.230.177": "Prague, Czechia"
+                "77.75.230.177": "Moldova"
             },
             "ipv6": {}
         },
@@ -5812,7 +5812,7 @@
         },
         "http://lg-hu1.hostry.com/": {
             "ipv4": {
-                "5.182.38.110": "Budapest, Hungary"
+                "5.182.38.110": "Russia"
             },
             "ipv6": {}
         },
@@ -8674,7 +8674,7 @@
                 "51.77.6.84": "France",
                 "54.38.49.227": "France",
                 "66.70.135.234": "Canada",
-                "91.205.175.173": "Munich, Germany"
+                "91.205.175.173": "Lauterbourg, France"
             },
             "ipv6": {
                 "2001:19f0:1595:1403::1091": "Piscataway, United States",
@@ -10375,7 +10375,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
+                "2001:4d48:feed:1::5": "United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
