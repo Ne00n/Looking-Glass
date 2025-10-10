@@ -3554,7 +3554,7 @@
     "justhost.ru": {
         "https://lg-dcolo.justhost.ru/": {
             "ipv4": {
-                "209.209.112.37": "Dallas, United States"
+                "209.209.112.37": "Sao Paulo, Brazil"
             },
             "ipv6": {
                 "2605:e440::5:5": "Dallas, United States"
@@ -4865,7 +4865,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Schmallenberg, Germany"
+                "194.45.36.120": "Essen, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5425,7 +5425,7 @@
         },
         "http://speedtest.c1.lon2.dediserve.com/": {
             "ipv4": {
-                "109.104.118.70": "Wareham, United Kingdom"
+                "109.104.118.70": "United Kingdom"
             },
             "ipv6": {
                 "2001:9d8:1000:1a2e::50": "United Kingdom"
@@ -6416,7 +6416,7 @@
     "krypt.com": {
         "https://www.krypt.com/network/hawaii-data-center-hnl/": {
             "ipv4": {
-                "107.6.255.2": "United States"
+                "107.6.255.2": "Honolulu, United States"
             },
             "ipv6": {}
         },
@@ -6462,7 +6462,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "United States",
+                "107.6.242.126": "Honolulu, United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -6490,7 +6490,7 @@
                 "167.160.173.7": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:900::ac3:f506": "Chicago, United States"
+                "2607:fcd0:bb80:900::ac3:f506": "United States"
             }
         }
     },
@@ -6642,7 +6642,7 @@
                 "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:3000::2": "Chicago, United States"
+                "2607:fcd0:bb80:3000::2": "United States"
             }
         },
         "https://www.quadranet.com/cn/los-angeles-century-datacenter": {
@@ -7298,7 +7298,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Houston, United States"
+                "216.230.224.34": "Bellaire, United States"
             },
             "ipv6": {}
         }
@@ -7589,7 +7589,7 @@
         },
         "lg-lax.gthost.com": {
             "ipv4": {
-                "38.75.136.10": "Los Angeles, United States"
+                "38.75.136.10": "Chicago, United States"
             },
             "ipv6": {}
         },
@@ -8462,13 +8462,13 @@
     "just.hosting": {
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
-                "104.166.127.78": "United States",
-                "155.254.192.138": "United States",
+                "104.166.127.78": "Paris, France",
+                "155.254.192.138": "Bogota, Colombia",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
                 "194.87.68.192": "St Petersburg, Russia",
-                "209.209.112.37": "Dallas, United States",
+                "209.209.112.37": "Sao Paulo, Brazil",
                 "212.60.5.88": "Moscow, Russia",
                 "46.17.40.85": "Moscow, Russia",
                 "46.29.162.89": "Moscow, Russia",
@@ -9428,7 +9428,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Hockenheim, Germany"
+                "91.21.31.3": "Ladenburg, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9544,7 +9544,7 @@
                 "104.129.31.245": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:bb80:3000::2": "Chicago, United States"
+                "2607:fcd0:bb80:3000::2": "United States"
             }
         },
         "https://www.iozoom.com/datacenter/dallas-vps/": {
@@ -10246,7 +10246,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Neckargemund, Germany"
+                "129.143.4.238": "Germersheim, Germany"
             },
             "ipv6": {}
         }
@@ -10289,15 +10289,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Spain",
-                "130.206.195.254": "Spain",
-                "130.206.197.254": "Spain",
-                "130.206.198.125": "Spain",
-                "130.206.198.254": "Spain",
-                "130.206.201.254": "Spain",
-                "130.206.206.250": "Spain",
-                "130.206.211.254": "Spain",
-                "130.206.212.254": "Spain"
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
+                "130.206.211.254": "Pamplona, Spain",
+                "130.206.212.254": "Pamplona, Spain"
             },
             "ipv6": {}
         }
@@ -10375,7 +10375,7 @@
         "http://lg.enta.net/": {
             "ipv4": {},
             "ipv6": {
-                "2001:4d48:feed:1::5": "United Kingdom",
+                "2001:4d48:feed:1::5": "Bristol, United Kingdom",
                 "86b8:2ff:fe7d:c8b1": "n/a"
             }
         },
@@ -12033,7 +12033,7 @@
     "as47692.net": {
         "http://lg.as47692.net/tools": {
             "ipv4": {
-                "146.255.61.34": "Vienna, Austria"
+                "146.255.61.34": "Tulln, Austria"
             },
             "ipv6": {}
         },
@@ -13144,7 +13144,7 @@
                 "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Leoben, Austria"
+                "2a02:1748:f064:160::167": "Weikersdorf am Steinfelde, Austria"
             }
         }
     },
@@ -13555,7 +13555,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Germany"
+                "185.171.47.121": "Neumarkt-Sankt Veit, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13949,7 +13949,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Stockholm, Sweden"
+                "80.251.201.188": "Denmark"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
