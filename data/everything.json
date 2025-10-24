@@ -1399,7 +1399,7 @@
                 "199.87.210.186": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:a680:1:1022:1671::1": "United States"
+                "2607:a680:1:1022:1671::1": "Los Angeles, United States"
             }
         },
         "nyc.lg.webhorizon.in": {
@@ -1407,7 +1407,7 @@
                 "107.161.50.42": "New York, United States"
             },
             "ipv6": {
-                "2607:a680:0:1004:4331::1": "United States"
+                "2607:a680:0:1004:4331::1": "New York, United States"
             }
         },
         "sgp-b.lg.webhorizon.in": {
@@ -3338,7 +3338,7 @@
     "hostmem.com": {
         "la-qn.lg.hostmem.com": {
             "ipv4": {
-                "64.188.14.190": "Tsuen Wan, Hong Kong"
+                "64.188.14.190": "Los Angeles, United States"
             },
             "ipv6": {
                 "2607:fcd0:fa80:2a11::1": "United States"
@@ -4865,7 +4865,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Essen, Germany"
+                "194.45.36.120": "Dortmund, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5021,7 +5021,7 @@
         "https://crowncloud.net/datacenters.php": {
             "ipv4": {
                 "104.149.18.203": "Los Angeles, United States",
-                "104.223.90.5": "Los Angeles, United States",
+                "104.223.90.5": "United States",
                 "161.129.64.235": "United States",
                 "185.208.208.3": "The Netherlands",
                 "198.55.111.5": "United States",
@@ -5199,7 +5199,7 @@
         "https://visualwebtechnologies.com/datacenters.php": {
             "ipv4": {
                 "104.149.18.203": "Los Angeles, United States",
-                "104.223.90.5": "Los Angeles, United States",
+                "104.223.90.5": "United States",
                 "161.129.64.235": "United States",
                 "172.81.40.35": "United States",
                 "185.161.69.26": "Cyprus",
@@ -5812,7 +5812,7 @@
         },
         "http://lg-hu1.hostry.com/": {
             "ipv4": {
-                "5.182.38.110": "Russia"
+                "5.182.38.110": "Budapest, Hungary"
             },
             "ipv6": {}
         },
@@ -6080,7 +6080,7 @@
                 "216.120.203.3": "Denver, United States"
             },
             "ipv6": {
-                "2607:a680:6:1::7476": "United States"
+                "2607:a680:6:1::7476": "Denver, United States"
             }
         },
         "https://fl-lg.shockhosting.net/": {
@@ -6088,7 +6088,7 @@
                 "104.225.131.3": "Jacksonville, United States"
             },
             "ipv6": {
-                "2607:a680:4:1::7476": "United States"
+                "2607:a680:4:1::7476": "Jacksonville, United States"
             }
         },
         "https://jp-lg.shockhosting.net/": {
@@ -6102,7 +6102,7 @@
                 "199.87.210.4": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:a680:1:9::7476": "United States"
+                "2607:a680:1:9::7476": "Los Angeles, United States"
             }
         },
         "https://nj-lg.shockhosting.net/": {
@@ -6110,7 +6110,7 @@
                 "107.161.50.3": "New York, United States"
             },
             "ipv6": {
-                "2607:a680:0:1::7476": "United States"
+                "2607:a680:0:1::7476": "New York, United States"
             }
         },
         "https://nl-lg.shockhosting.net/": {
@@ -6118,7 +6118,7 @@
                 "217.195.155.3": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a0d:9ec0:0:1::7476": "United States"
+                "2a0d:9ec0:0:1::7476": "Amsterdam, The Netherlands"
             }
         },
         "https://sg-lg.shockhosting.net/": {
@@ -6132,15 +6132,15 @@
                 "172.96.139.3": "Dallas, United States"
             },
             "ipv6": {
-                "2607:a680:3:1::7476": "United States"
+                "2607:a680:3:1::7476": "Dallas, United States"
             }
         },
         "https://uk-lg.shockhosting.net/": {
             "ipv4": {
-                "45.155.39.3": "City of London, United Kingdom"
+                "45.155.39.3": "Coventry, United Kingdom"
             },
             "ipv6": {
-                "2a0d:d8c0:0:1::7476": "United States"
+                "2a0d:d8c0:0:1::7476": "Coventry, United Kingdom"
             }
         },
         "https://wa-lg.shockhosting.net/": {
@@ -6148,27 +6148,27 @@
                 "209.182.227.3": "Seattle, United States"
             },
             "ipv6": {
-                "2607:a680:9:1::7476": "United States"
+                "2607:a680:9:1::7476": "Seattle, United States"
             }
         },
         "https://wc-lg.shockhosting.net/": {
             "ipv4": {
-                "104.36.231.3": "West Chicago, United States"
+                "104.36.231.3": "Chicago, United States"
             },
             "ipv6": {
-                "2607:a680:2:1::7476": "United States"
+                "2607:a680:2:1::7476": "Chicago, United States"
             }
         },
         "sg-lg.shockhosting.net": {
             "ipv4": {},
             "ipv6": {
-                "2406:cb40:0:1::7476": "Singapore"
+                "2406:cb40:0:1::7476": "Singapore, Singapore"
             }
         },
         "jp-lg.shockhosting.net": {
             "ipv4": {},
             "ipv6": {
-                "2406:cb42:0:1::7476": "United States"
+                "2406:cb42:0:1::7476": "Tokyo, Japan"
             }
         },
         "au-lg.shockhosting.net": {
@@ -6575,7 +6575,7 @@
         },
         "http://lax.meanservers.com/lg": {
             "ipv4": {
-                "216.126.59.95": "United States"
+                "216.126.59.95": "Mexico City, Mexico"
             },
             "ipv6": {
                 "2606:1880:1001:3::b798": "United States"
@@ -6631,7 +6631,7 @@
         },
         "https://www.quadranet.com/atlanta-datacenter": {
             "ipv4": {
-                "104.223.90.5": "Los Angeles, United States"
+                "104.223.90.5": "United States"
             },
             "ipv6": {
                 "2607:fcd0:aa80:500::2": "United States"
@@ -6908,7 +6908,7 @@
         },
         "pl.edis.at": {
             "ipv4": {
-                "37.235.48.250": "Warsaw, Poland"
+                "37.235.48.250": "Austria"
             },
             "ipv6": {
                 "2a03:f80:48:e3c6::1": "Warsaw, Poland"
@@ -9533,7 +9533,7 @@
     "iozoom.com": {
         "https://www.iozoom.com/datacenter/atlanta-vps/": {
             "ipv4": {
-                "104.223.90.5": "Los Angeles, United States"
+                "104.223.90.5": "United States"
             },
             "ipv6": {
                 "2607:fcd0:aa80:500::2": "United States"
@@ -10246,7 +10246,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Germersheim, Germany"
+                "129.143.4.238": "Kampfelbach, Germany"
             },
             "ipv6": {}
         }
@@ -12067,7 +12067,7 @@
                 "185.50.189.30": "Switzerland"
             },
             "ipv6": {
-                "2a04:c000:ed51:891:30::1": "n/a"
+                "2a04:c000:ed51:891:30::1": "Turkiye"
             }
         }
     },
@@ -12147,7 +12147,7 @@
     "gointec.com.br": {
         "https://lg.gointec.com.br": {
             "ipv4": {
-                "162.158.91.163": "United States"
+                "162.158.91.163": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
@@ -14917,13 +14917,13 @@
     "netrouting.net": {
         "https://lg.netrouting.net/": {
             "ipv4": {
-                "162.158.91.18": "United States"
+                "162.158.91.18": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
         "lg.netrouting.net": {
             "ipv4": {
-                "162.158.91.116": "United States"
+                "162.158.91.116": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         }
