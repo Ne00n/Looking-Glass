@@ -2762,11 +2762,11 @@
             "ipv4": {
                 "107.161.19.31": "Seattle, United States",
                 "107.161.23.2": "Atlanta, United States",
-                "107.191.99.2": "New York, United States",
+                "107.191.99.2": "Piscataway, United States",
                 "168.235.74.9": "Los Angeles, United States",
                 "168.235.75.122": "Los Angeles, United States",
-                "168.235.89.44": "New York, United States",
-                "185.34.216.2": "Alblasserdam, The Netherlands"
+                "168.235.89.44": "Piscataway, United States",
+                "185.34.216.2": "The Netherlands"
             },
             "ipv6": {}
         },
@@ -2775,7 +2775,7 @@
                 "107.191.101.180": "Atlanta, United States"
             },
             "ipv6": {
-                "2604:180::9b07:1d5b": "United States"
+                "2604:180::9b07:1d5b": "Atlanta, United States"
             }
         },
         "lg.la.ramnode.com": {
@@ -2783,12 +2783,12 @@
                 "168.235.72.22": "Los Angeles, United States"
             },
             "ipv6": {
-                "2604:180:3:1::f1": "United States"
+                "2604:180:3:1::f1": "Los Angeles, United States"
             }
         },
         "lg.nl.ramnode.com": {
             "ipv4": {
-                "176.56.238.3": "Alblasserdam, The Netherlands"
+                "176.56.238.3": "The Netherlands"
             },
             "ipv6": {
                 "2a00:d880:3:1::787:d6bd": "The Netherlands"
@@ -2796,10 +2796,10 @@
         },
         "lg.nyc.ramnode.com": {
             "ipv4": {
-                "107.191.96.26": "New York, United States"
+                "107.191.96.26": "Piscataway, United States"
             },
             "ipv6": {
-                "2604:180:2::d2a1:3da5": "United States"
+                "2604:180:2::d2a1:3da5": "Piscataway, United States"
             }
         },
         "lg.sea.ramnode.com": {
@@ -4441,7 +4441,7 @@
         "https://buyvm.net/luxembourg-datacenter/": {
             "ipv4": {},
             "ipv6": {
-                "2605:6400:30:fdd5::1": "Luxembourg, Luxembourg"
+                "2605:6400:30:fdd5::1": "Bern, Switzerland"
             }
         },
         "https://buyvm.net/new-jersey-datacenter/": {
@@ -4454,11 +4454,11 @@
         },
         "https://speedtest.lu.buyvm.net/": {
             "ipv4": {
-                "104.244.76.191": "Luxembourg, Luxembourg",
+                "104.244.76.191": "Switzerland",
                 "198.251.89.251": "Luxembourg, Luxembourg"
             },
             "ipv6": {
-                "2605:6400:0030:fdd5::1": "Luxembourg, Luxembourg"
+                "2605:6400:0030:fdd5::1": "Bern, Switzerland"
             }
         },
         "https://speedtest.lv.buyvm.net/": {
@@ -5722,7 +5722,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Toronto, Canada"
+                "91.194.11.43": "Waalwijk, The Netherlands"
             },
             "ipv6": {}
         },
@@ -5771,7 +5771,7 @@
                 "45.153.230.63": "Berlin, Germany"
             },
             "ipv6": {
-                "2a09:7c42::2ff": "Frankfurt am Main, Germany"
+                "2a09:7c42::2ff": "Moldova"
             }
         },
         "http://lg-es1.hostry.com/": {
@@ -5784,7 +5784,7 @@
         },
         "http://lg-fi1.hostry.com/": {
             "ipv4": {
-                "77.91.103.228": "Helsinki, Finland"
+                "77.91.103.228": "Montenegro"
             },
             "ipv6": {}
         },
@@ -5804,10 +5804,10 @@
         },
         "http://lg-gb2.hostry.com/": {
             "ipv4": {
-                "185.218.3.78": "Coventry, United Kingdom"
+                "185.218.3.78": "Moldova"
             },
             "ipv6": {
-                "2a11:3800::31a": "Coventry, United Kingdom"
+                "2a11:3800::31a": "London, United Kingdom"
             }
         },
         "http://lg-hu1.hostry.com/": {
@@ -5902,13 +5902,13 @@
         },
         "http://lg-rs1.hostry.com/": {
             "ipv4": {
-                "45.89.55.110": "Belgrade, Serbia"
+                "45.89.55.110": "Russia"
             },
             "ipv6": {}
         },
         "http://lg-se1.hostry.com/": {
             "ipv4": {
-                "45.8.147.219": "Stockholm, Sweden"
+                "45.8.147.219": "Russia"
             },
             "ipv6": {}
         },
@@ -5920,16 +5920,16 @@
         },
         "http://lg-sk1.hostry.com/": {
             "ipv4": {
-                "5.252.23.246": "Bratislava, Slovakia"
+                "5.252.23.246": "Russia"
             },
             "ipv6": {}
         },
         "http://lg-tr1.hostry.com/": {
             "ipv4": {
-                "94.131.108.160": "Izmir, Turkiye"
+                "94.131.108.160": "Moldova"
             },
             "ipv6": {
-                "2a11:3c02::1b1": "Izmir, Turkiye"
+                "2a11:3c02::1b1": "Moldova"
             }
         },
         "http://lg-ua1.hostry.com/": {
@@ -6908,7 +6908,7 @@
         },
         "pl.edis.at": {
             "ipv4": {
-                "37.235.48.250": "Austria"
+                "37.235.48.250": "Warsaw, Poland"
             },
             "ipv6": {
                 "2a03:f80:48:e3c6::1": "Warsaw, Poland"
@@ -7082,7 +7082,7 @@
             "ipv6": {
                 "2a01:4f8:192:3277::2": "Falkenstein, Germany",
                 "2001:41d0:0602:2f34::0": "France",
-                "2605:6400:30:fdd5::1": "Luxembourg, Luxembourg",
+                "2605:6400:30:fdd5::1": "Bern, Switzerland",
                 "2a01:4f9:2a:14e2::1": "Helsinki, Finland",
                 "2604:2dc0:100:16c::0": "United States",
                 "2a01:4f8:150:7155::0": "Falkenstein, Germany",
@@ -8463,7 +8463,7 @@
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
                 "104.166.127.78": "United States",
-                "155.254.192.138": "United States",
+                "155.254.192.138": "Bosa, Colombia",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
@@ -8832,7 +8832,7 @@
                 "15.235.14.118": "Canada",
                 "46.20.1.80": "Bursa, Turkiye",
                 "46.45.169.111": "Turkiye",
-                "5.255.63.2": "Turkiye",
+                "5.255.63.2": "Istanbul, Turkiye",
                 "51.161.209.74": "Canada",
                 "51.255.79.128": "France",
                 "51.83.236.173": "France",
@@ -12033,7 +12033,7 @@
     "as47692.net": {
         "http://lg.as47692.net/tools": {
             "ipv4": {
-                "146.255.61.34": "Tulln, Austria"
+                "146.255.61.34": "Vienna, Austria"
             },
             "ipv6": {}
         },
@@ -12153,7 +12153,7 @@
         },
         "lg.gointec.com.br": {
             "ipv4": {
-                "162.158.89.225": "Los Angeles, United States"
+                "162.158.89.225": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         }
