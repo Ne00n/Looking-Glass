@@ -336,7 +336,7 @@
         },
         "lg.ny.hosteons.com": {
             "ipv4": {
-                "45.128.73.2": "Los Angeles, United States"
+                "45.128.73.2": "Cyprus"
             },
             "ipv6": {
                 "2402:d0c0:3:1fd::1": "Singapore"
@@ -378,7 +378,7 @@
         },
         "http://dallas.lg.ftpit.com/": {
             "ipv4": {
-                "192.175.23.110": "United States"
+                "192.175.23.110": "Atlanta, United States"
             },
             "ipv6": {
                 "2606:1780::1:864a:465e": "n/a"
@@ -386,7 +386,7 @@
         },
         "losangeles.lg.ftpit.com": {
             "ipv4": {
-                "198.52.245.10": "United States"
+                "198.52.245.10": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -1902,7 +1902,7 @@
         },
         "lg.bcn.psychz.net": {
             "ipv4": {
-                "213.198.67.34": "Barcelona, Spain"
+                "213.198.67.34": "United Kingdom"
             },
             "ipv6": {
                 "2604:6600:fdc0:1::3175:ef64": "Barcelona, Spain"
@@ -2670,7 +2670,7 @@
         },
         "http://ams.lg.virmach.com/": {
             "ipv4": {
-                "47.87.237.134": "United States"
+                "47.87.237.134": "London, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2694,7 +2694,7 @@
         },
         "http://ffm.lg.virmach.com/": {
             "ipv4": {
-                "47.87.228.164": "Sydney, Australia"
+                "47.87.228.164": "Atlanta, United States"
             },
             "ipv6": {}
         },
@@ -3350,7 +3350,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "n/a",
-                "192.173.144.38": "Delburne, Canada"
+                "192.173.144.38": "Innisfail, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -3554,7 +3554,7 @@
     "justhost.ru": {
         "https://lg-dcolo.justhost.ru/": {
             "ipv4": {
-                "209.209.112.37": "Dallas, United States"
+                "209.209.112.37": "Sao Pedro, Brazil"
             },
             "ipv6": {
                 "2605:e440::5:5": "Dallas, United States"
@@ -4505,7 +4505,7 @@
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
                 "176.111.219.2": "United States",
-                "185.251.118.130": "Amsterdam, The Netherlands",
+                "185.251.118.130": "United States",
                 "192.199.242.2": "United States",
                 "194.62.165.2": "Berkeley Springs, United States",
                 "199.102.65.118": "United States",
@@ -5572,7 +5572,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
                 "45.199.226.132": "Taipei, Taiwan",
-                "64.74.240.241": "White Plains, United States"
+                "64.74.240.241": "United States"
             },
             "ipv6": {}
         },
@@ -5768,7 +5768,7 @@
         },
         "http://lg-de2.hostry.com/": {
             "ipv4": {
-                "45.153.230.63": "Berlin, Germany"
+                "45.153.230.63": "United Arab Emirates"
             },
             "ipv6": {
                 "2a09:7c42::2ff": "Moldova"
@@ -6262,7 +6262,7 @@
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
                 "176.111.219.2": "United States",
-                "185.251.118.130": "Amsterdam, The Netherlands",
+                "185.251.118.130": "United States",
                 "192.199.242.2": "United States",
                 "194.62.165.2": "Berkeley Springs, United States",
                 "199.102.65.118": "United States",
@@ -6662,7 +6662,7 @@
         },
         "https://www.quadranet.com/new-jersey-datacenter": {
             "ipv4": {
-                "23.226.128.10": "Los Angeles, United States"
+                "23.226.128.10": "Tsuen Wan, Hong Kong"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
@@ -6700,15 +6700,15 @@
         },
         "au.edis.at": {
             "ipv4": {
-                "194.14.208.10": "Sydney, Australia"
+                "194.14.208.10": "Sweden"
             },
             "ipv6": {
-                "2a03:f80:61:4e6e::1": "Sydney, Australia"
+                "2a03:f80:61:4e6e::1": "Austria"
             }
         },
         "be.edis.at": {
             "ipv4": {
-                "192.71.249.10": "Brussels, Belgium"
+                "192.71.249.10": "Sweden"
             },
             "ipv6": {
                 "2a03:f80:32:95f4::1": "Brussels, Belgium"
@@ -7386,7 +7386,7 @@
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
                 "176.111.219.2": "United States",
-                "185.251.118.130": "Amsterdam, The Netherlands",
+                "185.251.118.130": "United States",
                 "192.199.242.2": "United States",
                 "194.62.165.2": "Berkeley Springs, United States",
                 "199.102.65.118": "United States",
@@ -7589,7 +7589,7 @@
         },
         "lg-lax.gthost.com": {
             "ipv4": {
-                "38.75.136.10": "Chicago, United States"
+                "38.75.136.10": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -8462,13 +8462,13 @@
     "just.hosting": {
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
-                "104.166.127.78": "United States",
+                "104.166.127.78": "Les Paris, France",
                 "155.254.192.138": "Bosa, Colombia",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
                 "194.87.68.192": "St Petersburg, Russia",
-                "209.209.112.37": "Dallas, United States",
+                "209.209.112.37": "Sao Pedro, Brazil",
                 "212.60.5.88": "Moscow, Russia",
                 "46.17.40.85": "Moscow, Russia",
                 "46.29.162.89": "Moscow, Russia",
@@ -8690,7 +8690,7 @@
     "vpsfast.net": {
         "https://vpsfast.net/belgium-vps": {
             "ipv4": {
-                "192.71.249.10": "Brussels, Belgium"
+                "192.71.249.10": "Sweden"
             },
             "ipv6": {
                 "2a03:f80:32::1": "Brussels, Belgium"
@@ -9590,7 +9590,7 @@
         },
         "https://www.iozoom.com/datacenter/new-jersey-vps/": {
             "ipv4": {
-                "23.226.128.10": "Los Angeles, United States"
+                "23.226.128.10": "Tsuen Wan, Hong Kong"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
@@ -9629,7 +9629,7 @@
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
                 "176.111.219.2": "United States",
-                "185.251.118.130": "Amsterdam, The Netherlands",
+                "185.251.118.130": "United States",
                 "192.199.242.2": "United States",
                 "194.62.165.2": "Berkeley Springs, United States",
                 "199.102.65.118": "United States",
@@ -9809,7 +9809,7 @@
                 "45.129.96.253": "Estonia"
             },
             "ipv6": {
-                "2a02:2d8:0:b000:232a::1": "Tallinn, Estonia",
+                "2a02:2d8:0:b000:232a::1": "Estonia",
                 "2a03:7720::14": "Ukraine"
             }
         }
@@ -10246,7 +10246,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Kampfelbach, Germany"
+                "129.143.4.238": "Germersheim, Germany"
             },
             "ipv6": {}
         }
@@ -11937,7 +11937,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Bielany Wrocawskie, Poland"
+                "185.56.208.2": "Tyniec May, Poland"
             },
             "ipv6": {}
         }
@@ -12859,7 +12859,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Tarnowskie Gory, Poland"
+                "91.188.97.174": "Swierklaniec, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -14701,7 +14701,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Igarassu, Brazil"
+                "186.208.8.2": "Recife, Brazil"
             },
             "ipv6": {}
         }
