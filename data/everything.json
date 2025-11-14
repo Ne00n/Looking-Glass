@@ -3350,7 +3350,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "n/a",
-                "192.173.144.38": "Innisfail, Canada"
+                "192.173.144.38": "Delburne, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -3977,7 +3977,7 @@
         },
         "https://sto-se-ping.vultr.com/": {
             "ipv4": {
-                "70.34.194.86": "Stockholm, Sweden"
+                "70.34.194.86": "Spanga, Sweden"
             },
             "ipv6": {}
         },
@@ -4206,7 +4206,7 @@
     "as210630.net": {
         "https://lg-nl.as210630.net/": {
             "ipv4": {
-                "23.137.251.7": "United States"
+                "23.137.251.7": "Sofia, Bulgaria"
             },
             "ipv6": {
                 "1776:08a5:5225:f4ee:1776": "n/a"
@@ -4865,7 +4865,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Dortmund, Germany"
+                "194.45.36.120": "Sprockhovel, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -4878,7 +4878,7 @@
     "spearwarenetworks.com": {
         "https://spearwarenetworks.com/tampa-datacenter/": {
             "ipv4": {
-                "165.140.200.6": "Charlotte, United States"
+                "165.140.200.6": "Durham, United States"
             },
             "ipv6": {}
         }
@@ -5039,7 +5039,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
         }
     },
@@ -5227,7 +5227,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
         }
     },
@@ -5768,7 +5768,7 @@
         },
         "http://lg-de2.hostry.com/": {
             "ipv4": {
-                "45.153.230.63": "United Arab Emirates"
+                "45.153.230.63": "Bremen, Germany"
             },
             "ipv6": {
                 "2a09:7c42::2ff": "Moldova"
@@ -6487,7 +6487,7 @@
         },
         "http://lg.chi.tragicservers.com/": {
             "ipv4": {
-                "167.160.173.7": "Los Angeles, United States"
+                "167.160.173.7": "United States"
             },
             "ipv6": {
                 "2607:fcd0:bb80:900::ac3:f506": "United States"
@@ -6634,7 +6634,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
         },
         "https://www.quadranet.com/chicago-datacenter": {
@@ -6700,7 +6700,7 @@
         },
         "au.edis.at": {
             "ipv4": {
-                "194.14.208.10": "Sweden"
+                "194.14.208.10": "Sydney, Australia"
             },
             "ipv6": {
                 "2a03:f80:61:4e6e::1": "Austria"
@@ -7298,7 +7298,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Bellaire, United States"
+                "216.230.224.34": "Katy, United States"
             },
             "ipv6": {}
         }
@@ -8742,7 +8742,7 @@
                 "66.248.240.55": "United States",
                 "66.248.241.2": "Buffalo, United States",
                 "66.248.243.2": "United States",
-                "78.157.209.195": "City of London, United Kingdom"
+                "78.157.209.195": "London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -8755,7 +8755,7 @@
                 "93.99.104.115": "Ostrava, Czechia"
             },
             "ipv6": {
-                "2a01:5e0:36:c034::1": "Bystrice pod Hostynem, Czechia"
+                "2a01:5e0:36:c034::1": "Holesov, Czechia"
             }
         }
     },
@@ -9428,7 +9428,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Ladenburg, Germany"
+                "91.21.31.3": "Mannheim, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9536,7 +9536,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Atlanta, United States"
             }
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
@@ -10139,7 +10139,7 @@
         },
         "https://www.mvps.net/speedtest/uk": {
             "ipv4": {
-                "178.157.82.100": "Maidenhead, United Kingdom"
+                "178.157.82.100": "London, United Kingdom"
             },
             "ipv6": {}
         }
@@ -10246,7 +10246,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Germersheim, Germany"
+                "129.143.4.238": "Heidelberg, Germany"
             },
             "ipv6": {}
         }
@@ -10853,7 +10853,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Indonesia"
+                "27.131.3.230": "Bandung, Indonesia"
             },
             "ipv6": {}
         }
@@ -11937,7 +11937,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Tyniec May, Poland"
+                "185.56.208.2": "Krzyzowice, Poland"
             },
             "ipv6": {}
         }
@@ -12147,13 +12147,13 @@
     "gointec.com.br": {
         "https://lg.gointec.com.br": {
             "ipv4": {
-                "162.158.91.163": "Frankfurt am Main, Germany"
+                "162.158.91.163": "United States"
             },
             "ipv6": {}
         },
         "lg.gointec.com.br": {
             "ipv4": {
-                "162.158.89.225": "Frankfurt am Main, Germany"
+                "162.158.89.225": "United States"
             },
             "ipv6": {}
         }
@@ -12674,7 +12674,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Jakarta, Indonesia",
+                "117.54.200.163": "Rawa Barat, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -12745,7 +12745,7 @@
                 "94.136.22.133": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:ab8:4::100": "Austria"
+                "2a02:ab8:4::100": "Laxenburg, Austria"
             }
         }
     },
@@ -12859,7 +12859,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Swierklaniec, Poland"
+                "91.188.97.174": "Zabrze, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -14701,7 +14701,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Recife, Brazil"
+                "186.208.8.2": "Igarassu, Brazil"
             },
             "ipv6": {}
         }
@@ -14917,13 +14917,13 @@
     "netrouting.net": {
         "https://lg.netrouting.net/": {
             "ipv4": {
-                "162.158.91.18": "Frankfurt am Main, Germany"
+                "162.158.91.18": "United States"
             },
             "ipv6": {}
         },
         "lg.netrouting.net": {
             "ipv4": {
-                "162.158.91.116": "Frankfurt am Main, Germany"
+                "162.158.91.116": "United States"
             },
             "ipv6": {}
         }
@@ -16320,7 +16320,7 @@
         },
         "speedtestwus.blob.core.windows.net": {
             "ipv4": {
-                "52.239.228.228": "United States"
+                "52.239.228.228": "San Jose, United States"
             },
             "ipv6": {}
         }
