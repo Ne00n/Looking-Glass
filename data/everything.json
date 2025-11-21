@@ -5742,7 +5742,7 @@
         },
         "http://lg-cn2.hostry.com/": {
             "ipv4": {
-                "194.156.98.218": "Hong Kong, Hong Kong"
+                "194.156.98.218": "United Arab Emirates"
             },
             "ipv6": {
                 "2a09:7c45::2d7": "Moldova"
@@ -7542,16 +7542,16 @@
         },
         "https://lg.dal.hosterion.com/": {
             "ipv4": {
-                "74.117.153.23": "United States"
+                "74.117.153.23": "Romania"
             },
             "ipv6": {}
         },
         "https://lg.fre.hosterion.com/": {
             "ipv4": {
-                "184.75.247.119": "United States"
+                "184.75.247.119": "Romania"
             },
             "ipv6": {
-                "2604:a100:200:1::2": "United States"
+                "2604:a100:200:1::2": "Romania"
             }
         },
         "https://lg.lon.hosterion.com/": {
