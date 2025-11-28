@@ -5742,7 +5742,7 @@
         },
         "http://lg-cn2.hostry.com/": {
             "ipv4": {
-                "194.156.98.218": "United Arab Emirates"
+                "194.156.98.218": "Wan Chai, Hong Kong"
             },
             "ipv6": {
                 "2a09:7c45::2d7": "Moldova"
@@ -5807,7 +5807,7 @@
                 "185.218.3.78": "Moldova"
             },
             "ipv6": {
-                "2a11:3800::31a": "London, United Kingdom"
+                "2a11:3800::31a": "Moldova"
             }
         },
         "http://lg-hu1.hostry.com/": {
@@ -5818,7 +5818,7 @@
         },
         "http://lg-il1.hostry.com/": {
             "ipv4": {
-                "77.91.74.170": "Petah Tikva, Israel"
+                "77.91.74.170": "Georgia"
             },
             "ipv6": {}
         },
@@ -5856,7 +5856,7 @@
         },
         "http://lg-kz1.hostry.com/": {
             "ipv4": {
-                "45.159.250.52": "Russia"
+                "45.159.250.52": "Almaty, Kazakhstan"
             },
             "ipv6": {}
         },
@@ -7980,7 +7980,7 @@
         },
         "http://ru-lg.serverum.com/": {
             "ipv4": {
-                "192.144.36.189": "St Petersburg, Russia"
+                "192.144.36.189": "Latvia"
             },
             "ipv6": {
                 "2a09:80:160:0:5054:ff:fec1:7f88": "St Petersburg, Russia"
@@ -8873,7 +8873,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Greenville, United States"
+                "4.2.6.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
@@ -9019,7 +9019,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Greenville, United States"
+                "4.2.5.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
@@ -9408,7 +9408,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
@@ -9888,7 +9888,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
@@ -9969,7 +9969,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
@@ -10027,7 +10027,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Pittsburgh, United States"
             },
             "ipv6": {}
         }
