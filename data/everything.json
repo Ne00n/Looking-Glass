@@ -187,7 +187,7 @@
         },
         "lg.chi1.cometvps.com": {
             "ipv4": {
-                "167.88.10.4": "Buffalo, United States"
+                "167.88.10.4": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -697,7 +697,7 @@
         },
         "lg.chi1.as20278.net": {
             "ipv4": {
-                "167.88.10.4": "Buffalo, United States"
+                "167.88.10.4": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -715,7 +715,7 @@
         },
         "lg.chi1.nexeon.com": {
             "ipv4": {
-                "167.88.10.4": "Buffalo, United States"
+                "167.88.10.4": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:1::2": "Chicago, United States"
@@ -2433,7 +2433,7 @@
                 "192.207.62.38": "United States"
             },
             "ipv6": {
-                "2607:fcd0:100:8203::375a:8da3": "Long Beach, United States"
+                "2607:fcd0:100:8203::375a:8da3": "United States"
             }
         }
     },
@@ -4374,10 +4374,10 @@
     "server-factory.com": {
         "https://lg.nl.server-factory.com/": {
             "ipv4": {
-                "188.239.191.7": "Eygelshoven, The Netherlands"
+                "188.239.191.7": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a07:e040:1:7::1": "Eygelshoven, The Netherlands"
+                "2a07:e040:1:7::1": "Amsterdam, The Netherlands"
             }
         }
     },
@@ -5039,7 +5039,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Atlanta, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5152,7 +5152,7 @@
                 "69.12.87.19": "Los Angeles, United States"
             },
             "ipv6": {
-                "2607:fcd0:100:360d::978d:3ea7": "Long Beach, United States",
+                "2607:fcd0:100:360d::978d:3ea7": "United States",
                 "2001:41d0:1008:1d9f::f853:4f7d": "France"
             }
         }
@@ -5227,7 +5227,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Atlanta, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5475,7 +5475,7 @@
         },
         "http://speedtest.c1.tor1.dediserve.com/": {
             "ipv4": {
-                "104.145.239.50": "Toronto, Canada"
+                "104.145.239.50": "United States"
             },
             "ipv6": {
                 "2602:ffb0:12::50": "United States"
@@ -6634,7 +6634,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Atlanta, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.quadranet.com/chicago-datacenter": {
@@ -7899,7 +7899,7 @@
     "baehost.com": {
         "https://baehost.com/en-int/looking-glass/": {
             "ipv4": {
-                "131.255.4.1": "Argentina",
+                "131.255.4.1": "Colombia",
                 "131.255.7.1": "Argentina",
                 "170.78.72.1": "Argentina",
                 "170.78.75.1": "Argentina"
@@ -8752,7 +8752,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Ostrava, Czechia"
+                "93.99.104.115": "Uherske Hradiste, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -9253,7 +9253,7 @@
     "serverdeals.com": {
         "https://www.serverdeals.com/datacenter/": {
             "ipv4": {
-                "167.88.10.4": "Buffalo, United States",
+                "167.88.10.4": "Chicago, United States",
                 "96.9.249.58": "Chicago, United States"
             },
             "ipv6": {}
@@ -9536,7 +9536,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Atlanta, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
@@ -12147,7 +12147,7 @@
     "gointec.com.br": {
         "https://lg.gointec.com.br": {
             "ipv4": {
-                "162.158.91.163": "United States"
+                "162.158.91.163": "Los Angeles, United States"
             },
             "ipv6": {}
         },
@@ -14917,13 +14917,13 @@
     "netrouting.net": {
         "https://lg.netrouting.net/": {
             "ipv4": {
-                "162.158.91.18": "United States"
+                "162.158.91.18": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "lg.netrouting.net": {
             "ipv4": {
-                "162.158.91.116": "United States"
+                "162.158.91.116": "Los Angeles, United States"
             },
             "ipv6": {}
         }
@@ -15911,7 +15911,7 @@
     "datacenter.eu": {
         "https://www.datacenter.eu/news/f5-networks-completes-volterra-acquisition/": {
             "ipv4": {
-                "80.92.83.42": "Luxembourg, Luxembourg"
+                "80.92.83.42": "Bech, Luxembourg"
             },
             "ipv6": {}
         },
