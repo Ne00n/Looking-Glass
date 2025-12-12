@@ -50,13 +50,13 @@
                 "15.216.0.0": "Zaragoza, Spain",
                 "15.220.161.219": "Muscat, Oman",
                 "15.228.0.0": "Sao Paulo, Brazil",
+                "15.232.0.0": "Jakarta, Indonesia",
                 "15.253.0.254": "Los Angeles, United States",
                 "16.112.0.0": "Hyderabad, India",
                 "16.144.0.0": "Boardman, United States",
                 "16.162.0.253": "Hong Kong",
                 "16.26.0.0": "Melbourne, Australia",
                 "16.62.132.214": "Zurich, Switzerland",
-                "16.78.0.0": "Jakarta, Indonesia",
                 "3.0.0.9": "Singapore, Singapore",
                 "3.102.141.118": "Auckland, New Zealand",
                 "3.112.0.0": "Tokyo, Japan",
@@ -179,7 +179,7 @@
     "cometvps.com": {
         "lg.buf1.cometvps.com": {
             "ipv4": {
-                "96.9.249.58": "Chicago, United States"
+                "96.9.249.58": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -689,7 +689,7 @@
     "as20278.net": {
         "lg.buf1.as20278.net": {
             "ipv4": {
-                "96.9.249.58": "Chicago, United States"
+                "96.9.249.58": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -707,7 +707,7 @@
     "nexeon.com": {
         "lg.buf1.nexeon.com": {
             "ipv4": {
-                "96.9.249.58": "Chicago, United States"
+                "96.9.249.58": "Buffalo, United States"
             },
             "ipv6": {
                 "2602:ffc8:2:102::2": "Buffalo, United States"
@@ -4865,7 +4865,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Sprockhovel, Germany"
+                "194.45.36.120": "Herne, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5039,7 +5039,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Chicago, United States"
             }
         }
     },
@@ -5227,7 +5227,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Chicago, United States"
             }
         }
     },
@@ -6634,7 +6634,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Chicago, United States"
             }
         },
         "https://www.quadranet.com/chicago-datacenter": {
@@ -7298,7 +7298,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Katy, United States"
+                "216.230.224.34": "Bellaire, United States"
             },
             "ipv6": {}
         }
@@ -8344,7 +8344,7 @@
     "comnet.com.tr": {
         "https://lg.comnet.com.tr/": {
             "ipv4": {
-                "185.17.114.50": "United Kingdom"
+                "185.17.114.50": "Turkiye"
             },
             "ipv6": {
                 "2a04:7c0:1:a::2": "United Kingdom"
@@ -8873,7 +8873,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Pittsburgh, United States"
+                "4.2.6.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9019,7 +9019,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Pittsburgh, United States"
+                "4.2.5.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9136,7 +9136,7 @@
         },
         "fjr-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "5.42.206.138": "Al Fujairah City, United Arab Emirates"
+                "5.42.206.138": "Fujairah, United Arab Emirates"
             },
             "ipv6": {}
         },
@@ -9254,7 +9254,7 @@
         "https://www.serverdeals.com/datacenter/": {
             "ipv4": {
                 "167.88.10.4": "Chicago, United States",
-                "96.9.249.58": "Chicago, United States"
+                "96.9.249.58": "Buffalo, United States"
             },
             "ipv6": {}
         }
@@ -9362,7 +9362,7 @@
                 "5.188.181.8": "Madrid, Spain",
                 "88.210.37.5": "Los Angeles, United States",
                 "91.201.65.108": "Palermo, Italy",
-                "95.174.68.145": "Al Fujairah City, United Arab Emirates"
+                "95.174.68.145": "Fujairah, United Arab Emirates"
             },
             "ipv6": {}
         }
@@ -9408,7 +9408,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Pittsburgh, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9428,7 +9428,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Mannheim, Germany"
+                "91.21.31.3": "Ladenburg, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9536,7 +9536,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "United States"
+                "2607:fcd0:aa80:500::2": "Chicago, United States"
             }
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
@@ -9888,7 +9888,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Pittsburgh, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9969,7 +9969,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Pittsburgh, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10027,7 +10027,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Pittsburgh, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10167,7 +10167,7 @@
                 "5.188.181.8": "Madrid, Spain",
                 "88.210.37.5": "Los Angeles, United States",
                 "91.201.65.108": "Palermo, Italy",
-                "95.174.68.145": "Al Fujairah City, United Arab Emirates"
+                "95.174.68.145": "Fujairah, United Arab Emirates"
             },
             "ipv6": {}
         }
@@ -10246,7 +10246,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Heidelberg, Germany"
+                "129.143.4.238": "Edingen-Neckarhausen, Germany"
             },
             "ipv6": {}
         }
@@ -10289,15 +10289,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Pamplona, Spain",
-                "130.206.195.254": "Pamplona, Spain",
-                "130.206.197.254": "Pamplona, Spain",
-                "130.206.198.125": "Pamplona, Spain",
-                "130.206.198.254": "Pamplona, Spain",
-                "130.206.201.254": "Pamplona, Spain",
-                "130.206.206.250": "Pamplona, Spain",
-                "130.206.211.254": "Pamplona, Spain",
-                "130.206.212.254": "Pamplona, Spain"
+                "130.206.194.254": "Madrid, Spain",
+                "130.206.195.254": "Madrid, Spain",
+                "130.206.197.254": "Madrid, Spain",
+                "130.206.198.125": "Madrid, Spain",
+                "130.206.198.254": "Madrid, Spain",
+                "130.206.201.254": "Madrid, Spain",
+                "130.206.206.250": "Madrid, Spain",
+                "130.206.211.254": "Madrid, Spain",
+                "130.206.212.254": "Madrid, Spain"
             },
             "ipv6": {}
         }
@@ -10351,7 +10351,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Geisenheim, Germany"
+                "82.195.94.248": "Dreieich, Germany"
             },
             "ipv6": {}
         }
@@ -12674,7 +12674,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Rawa Barat, Indonesia",
+                "117.54.200.163": "Jakarta, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -12745,7 +12745,7 @@
                 "94.136.22.133": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:ab8:4::100": "Laxenburg, Austria"
+                "2a02:ab8:4::100": "Austria"
             }
         }
     },
@@ -12859,7 +12859,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Zabrze, Poland"
+                "91.188.97.174": "Orzech, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -13144,7 +13144,7 @@
                 "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Weikersdorf am Steinfelde, Austria"
+                "2a02:1748:f064:160::167": "Sankt Polten, Austria"
             }
         }
     },
@@ -14450,7 +14450,7 @@
     "datamossa.io": {
         "http://looking-glass.datamossa.io": {
             "ipv4": {
-                "103.126.53.66": "Sydney, Australia"
+                "103.126.53.66": "Galston, Australia"
             },
             "ipv6": {
                 "2404:5c0:153::13:8466:1": "Australia"
