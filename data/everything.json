@@ -1063,7 +1063,7 @@
         },
         "lgmel.nexusbytes.com": {
             "ipv4": {
-                "64.112.56.10": "Melbourne, Australia"
+                "64.112.56.10": "United States"
             },
             "ipv6": {
                 "2404:f780:000b:0351:0000:0000:0000:0002": "Australia"
@@ -1705,11 +1705,11 @@
         "lg.vmhaus.com": {
             "ipv4": {
                 "103.105.49.34": "Los Angeles, United States",
-                "185.214.69.46": "Poplar, United Kingdom"
+                "185.214.69.46": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2402:28c0:2:310::1": "n/a",
-                "2a06:82c2:0:88::1": "Poplar, United Kingdom"
+                "2a06:82c2:0:88::1": "Canary Wharf, United Kingdom"
             }
         }
     },
@@ -1964,10 +1964,10 @@
         },
         "lg.lon.psychz.net": {
             "ipv4": {
-                "172.107.96.75": "Poplar, United Kingdom"
+                "172.107.96.75": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
             }
         },
         "lg.sao.psychz.net": {
@@ -2268,7 +2268,7 @@
     "servermania.com": {
         "https://lg.lhr1.servermania.com/": {
             "ipv4": {
-                "23.236.147.242": "Poplar, United Kingdom"
+                "23.236.147.242": "Canary Wharf, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2391,7 +2391,7 @@
                 "104.245.12.12": "San Jose, United States"
             },
             "ipv6": {
-                "2604:a840:2::48": "San Jose, United States"
+                "2604:a840:2::48": "United States"
             }
         },
         "https://syd.lg.v.ps/": {
@@ -3923,7 +3923,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Poplar, United Kingdom"
+                "108.61.196.101": "Canary Wharf, United Kingdom"
             },
             "ipv6": {}
         },
@@ -4111,10 +4111,10 @@
         },
         "https://uk.lg.speedypage.com/": {
             "ipv4": {
-                "5.44.251.178": "Poplar, United Kingdom"
+                "5.44.251.178": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
-                "2a06:a005:16d0:5::a": "Poplar, United Kingdom"
+                "2a06:a005:16d0:5::a": "Canary Wharf, United Kingdom"
             }
         }
     },
@@ -4533,7 +4533,7 @@
         },
         "https://freerangecloud.com/lookingglass.php": {
             "ipv4": {
-                "23.154.81.1": "Canada",
+                "23.154.81.1": "Vancouver, Canada",
                 "23.191.80.33": "Halifax, Canada"
             },
             "ipv6": {
@@ -5494,7 +5494,7 @@
     "oneilonline.com": {
         "https://oneilonline.com/ourdatacenter-status.php?city=Amsterdam": {
             "ipv4": {
-                "185.115.32.148": "United Kingdom"
+                "185.115.32.148": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
@@ -5669,7 +5669,7 @@
         },
         "lon.speedtest.clouvider.net": {
             "ipv4": {
-                "5.180.211.133": "Poplar, United Kingdom"
+                "5.180.211.133": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2a0d:5082:0:4::2": "United Kingdom"
@@ -6703,12 +6703,12 @@
                 "194.14.208.10": "Sydney, Australia"
             },
             "ipv6": {
-                "2a03:f80:61:4e6e::1": "Austria"
+                "2a03:f80:61:4e6e::1": "Sydney, Australia"
             }
         },
         "be.edis.at": {
             "ipv4": {
-                "192.71.249.10": "Sweden"
+                "192.71.249.10": "Brussels, Belgium"
             },
             "ipv6": {
                 "2a03:f80:32:95f4::1": "Brussels, Belgium"
@@ -6716,10 +6716,10 @@
         },
         "bg.edis.at": {
             "ipv4": {
-                "194.68.225.10": "Sweden"
+                "194.68.225.10": "Bulgaria"
             },
             "ipv6": {
-                "2a03:f80:359:da98::1": "Austria"
+                "2a03:f80:359:da98::1": "Bulgaria"
             }
         },
         "ca.edis.at": {
@@ -6735,7 +6735,7 @@
                 "178.209.51.90": "Zurich, Switzerland"
             },
             "ipv6": {
-                "2a02:418:6a04:7d7f::1": "Switzerland"
+                "2a02:418:6a04:7d7f::1": "Zurich, Switzerland"
             }
         },
         "cl.edis.at": {
@@ -6828,7 +6828,7 @@
         },
         "im.edis.at": {
             "ipv4": {
-                "37.235.55.22": "London, United Kingdom"
+                "37.235.55.22": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a03:f80:44:d706::1": "Douglas, Isle of Man"
@@ -6860,10 +6860,10 @@
         },
         "lt.edis.at": {
             "ipv4": {
-                "192.36.61.10": "Lithuania"
+                "192.36.61.10": "Vilnius, Lithuania"
             },
             "ipv6": {
-                "2a03:f80:370:825c::1": "Austria"
+                "2a03:f80:370:825c::1": "Vilnius, Lithuania"
             }
         },
         "lv.edis.at": {
@@ -6871,7 +6871,7 @@
                 "192.36.41.10": "Riga, Latvia"
             },
             "ipv6": {
-                "2a03:f80:371:c918::1": "Austria"
+                "2a03:f80:371:c918::1": "Riga, Latvia"
             }
         },
         "md.edis.at": {
@@ -6892,7 +6892,7 @@
         },
         "nl.edis.at": {
             "ipv4": {
-                "151.236.14.100": "Austria"
+                "151.236.14.100": "Amsterdam, The Netherlands"
             },
             "ipv6": {
                 "2a00:1768:1003:2a4e::1": "The Netherlands"
@@ -6935,7 +6935,7 @@
                 "213.183.56.10": "Moscow, Russia"
             },
             "ipv6": {
-                "2a03:f80:7:f574::1": "Austria"
+                "2a03:f80:7:f574::1": "Moscow, Russia"
             }
         },
         "se.edis.at": {
@@ -8690,7 +8690,7 @@
     "vpsfast.net": {
         "https://vpsfast.net/belgium-vps": {
             "ipv4": {
-                "192.71.249.10": "Sweden"
+                "192.71.249.10": "Brussels, Belgium"
             },
             "ipv6": {
                 "2a03:f80:32::1": "Brussels, Belgium"
@@ -8974,7 +8974,7 @@
     "madcityservers.com": {
         "http://lg.buf.madcityservers.com/": {
             "ipv4": {
-                "158.51.113.4": "Canada"
+                "158.51.113.4": "Fremont, United States"
             },
             "ipv6": {
                 "2602:fed2:730e:6785:e322:6774:47f6:f288": "Canada"
@@ -9196,7 +9196,7 @@
         },
         "rlz-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "45.150.108.2": "Petah Tikva, Israel"
+                "45.150.108.2": "Tel Aviv, Israel"
             },
             "ipv6": {}
         },
@@ -9565,10 +9565,10 @@
         },
         "https://www.iozoom.com/datacenter/london-vps/": {
             "ipv4": {
-                "172.107.96.75": "Poplar, United Kingdom"
+                "172.107.96.75": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
             }
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
@@ -12980,10 +12980,10 @@
     "tecnocratica.net": {
         "https://lg1.tecnocratica.net": {
             "ipv4": {
-                "31.47.72.202": "Spain"
+                "31.47.72.202": "Madrid, Spain"
             },
             "ipv6": {
-                "2a01:a940:419:ca::1": "Spain"
+                "2a01:a940:419:ca::1": "Madrid, Spain"
             }
         }
     },
@@ -14450,10 +14450,10 @@
     "datamossa.io": {
         "http://looking-glass.datamossa.io": {
             "ipv4": {
-                "103.126.53.66": "Galston, Australia"
+                "103.126.53.66": "Thailand"
             },
             "ipv6": {
-                "2404:5c0:153::13:8466:1": "Australia"
+                "2404:5c0:153::13:8466:1": "Thailand"
             }
         }
     },
@@ -15911,7 +15911,7 @@
     "datacenter.eu": {
         "https://www.datacenter.eu/news/f5-networks-completes-volterra-acquisition/": {
             "ipv4": {
-                "80.92.83.42": "Bech, Luxembourg"
+                "80.92.83.42": "Luxembourg, Luxembourg"
             },
             "ipv6": {}
         },
