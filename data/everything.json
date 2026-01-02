@@ -1705,11 +1705,11 @@
         "lg.vmhaus.com": {
             "ipv4": {
                 "103.105.49.34": "Los Angeles, United States",
-                "185.214.69.46": "Canary Wharf, United Kingdom"
+                "185.214.69.46": "Poplar, United Kingdom"
             },
             "ipv6": {
                 "2402:28c0:2:310::1": "n/a",
-                "2a06:82c2:0:88::1": "Canary Wharf, United Kingdom"
+                "2a06:82c2:0:88::1": "Poplar, United Kingdom"
             }
         }
     },
@@ -1964,10 +1964,10 @@
         },
         "lg.lon.psychz.net": {
             "ipv4": {
-                "172.107.96.75": "Canary Wharf, United Kingdom"
+                "172.107.96.75": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
             }
         },
         "lg.sao.psychz.net": {
@@ -2268,7 +2268,7 @@
     "servermania.com": {
         "https://lg.lhr1.servermania.com/": {
             "ipv4": {
-                "23.236.147.242": "Canary Wharf, United Kingdom"
+                "23.236.147.242": "Poplar, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2391,7 +2391,7 @@
                 "104.245.12.12": "San Jose, United States"
             },
             "ipv6": {
-                "2604:a840:2::48": "United States"
+                "2604:a840:2::48": "San Jose, United States"
             }
         },
         "https://syd.lg.v.ps/": {
@@ -3923,7 +3923,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Canary Wharf, United Kingdom"
+                "108.61.196.101": "Poplar, United Kingdom"
             },
             "ipv6": {}
         },
@@ -4111,10 +4111,10 @@
         },
         "https://uk.lg.speedypage.com/": {
             "ipv4": {
-                "5.44.251.178": "Canary Wharf, United Kingdom"
+                "5.44.251.178": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2a06:a005:16d0:5::a": "Canary Wharf, United Kingdom"
+                "2a06:a005:16d0:5::a": "Poplar, United Kingdom"
             }
         }
     },
@@ -5669,7 +5669,7 @@
         },
         "lon.speedtest.clouvider.net": {
             "ipv4": {
-                "5.180.211.133": "Canary Wharf, United Kingdom"
+                "5.180.211.133": "Poplar, United Kingdom"
             },
             "ipv6": {
                 "2a0d:5082:0:4::2": "United Kingdom"
@@ -6227,7 +6227,7 @@
     "host4geeks.com": {
         "https://host4geeks.com/datacenters/": {
             "ipv4": {
-                "103.83.192.1": "United States",
+                "103.83.192.1": "Denpasar, Indonesia",
                 "172.93.123.1": "Los Angeles, United States",
                 "185.221.216.1": "London, United Kingdom",
                 "66.85.47.1": "United States"
@@ -9136,7 +9136,7 @@
         },
         "fjr-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "5.42.206.138": "Fujairah, United Arab Emirates"
+                "5.42.206.138": "United Arab Emirates"
             },
             "ipv6": {}
         },
@@ -9565,10 +9565,10 @@
         },
         "https://www.iozoom.com/datacenter/london-vps/": {
             "ipv4": {
-                "172.107.96.75": "Canary Wharf, United Kingdom"
+                "172.107.96.75": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
             }
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
@@ -11851,7 +11851,7 @@
                 "45.145.80.42": "Austria"
             },
             "ipv6": {
-                "2a0e:46c3:300::1": "Germany"
+                "2a0e:46c3:300::1": "Switzerland"
             }
         }
     },
