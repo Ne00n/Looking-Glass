@@ -77,6 +77,7 @@
                 "43.213.3.242": "Taipei, Taiwan",
                 "43.216.149.220": "Kuala Lumpur, Malaysia",
                 "51.16.235.176": "Tel Aviv, Israel",
+                "51.225.7.119": "Berlin, Germany",
                 "78.12.118.87": "Queretaro City, Mexico",
                 "96.0.40.228": "Lagos, Nigeria"
             },
@@ -121,7 +122,8 @@
                 "2406:da17:2b5:b900::ec2": "Dubai, United Arab Emirates",
                 "2600:1f1e:99e:9f00::ec2": "Sao Paulo, Brazil",
                 "2400:7fc0:8286:b300::ec2": "Beijing, China",
-                "2404:c2c0:8d06:1f00::ec2": "China"
+                "2404:c2c0:8d06:1f00::ec2": "China",
+                "2001:3fc1:8b2f:bd00::ec2": "Berlin, Germany"
             }
         }
     },
@@ -4865,7 +4867,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Herne, Germany"
+                "194.45.36.120": "Overath, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5039,7 +5041,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Chicago, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5227,7 +5229,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Chicago, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5722,7 +5724,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Waalwijk, The Netherlands"
+                "91.194.11.43": "Canada"
             },
             "ipv6": {}
         },
@@ -5784,7 +5786,7 @@
         },
         "http://lg-fi1.hostry.com/": {
             "ipv4": {
-                "77.91.103.228": "Montenegro"
+                "77.91.103.228": "Georgia"
             },
             "ipv6": {}
         },
@@ -6634,7 +6636,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Chicago, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.quadranet.com/chicago-datacenter": {
@@ -9136,7 +9138,7 @@
         },
         "fjr-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "5.42.206.138": "United Arab Emirates"
+                "5.42.206.138": "Fujairah, United Arab Emirates"
             },
             "ipv6": {}
         },
@@ -9536,7 +9538,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Chicago, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
@@ -10246,7 +10248,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Edingen-Neckarhausen, Germany"
+                "129.143.4.238": "Heidelberg, Germany"
             },
             "ipv6": {}
         }
@@ -11937,7 +11939,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Krzyzowice, Poland"
+                "185.56.208.2": "Bielany Wrocawskie, Poland"
             },
             "ipv6": {}
         }
@@ -13144,7 +13146,7 @@
                 "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Sankt Polten, Austria"
+                "2a02:1748:f064:160::167": "Langenzersdorf, Austria"
             }
         }
     },
@@ -15911,7 +15913,7 @@
     "datacenter.eu": {
         "https://www.datacenter.eu/news/f5-networks-completes-volterra-acquisition/": {
             "ipv4": {
-                "80.92.83.42": "Luxembourg, Luxembourg"
+                "80.92.83.42": "Bech, Luxembourg"
             },
             "ipv6": {}
         },
