@@ -4497,7 +4497,7 @@
         "https://www.smarthost.net/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Benedict, United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -4867,7 +4867,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Overath, Germany"
+                "194.45.36.120": "Duisburg, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -6254,7 +6254,7 @@
         "https://simplexhosts.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Benedict, United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -7378,7 +7378,7 @@
         "https://vapornode.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Benedict, United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -8381,7 +8381,7 @@
         },
         "https://usping.evoxt.com/": {
             "ipv4": {
-                "103.179.142.254": "Los Angeles, United States"
+                "103.179.142.254": "Malaysia"
             },
             "ipv6": {}
         }
@@ -9621,7 +9621,7 @@
         "https://jaxvps.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Benedict, United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -13530,7 +13530,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Americana, Brazil"
+                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
