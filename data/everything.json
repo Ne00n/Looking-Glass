@@ -4497,7 +4497,7 @@
         "https://www.smarthost.net/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "Benedict, United States",
+                "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -6254,7 +6254,7 @@
         "https://simplexhosts.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "Benedict, United States",
+                "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -7378,7 +7378,7 @@
         "https://vapornode.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "Benedict, United States",
+                "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -9162,7 +9162,7 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "85.239.41.247": "Secaucus, United States"
+                "85.239.41.247": "Moscow, Russia"
             },
             "ipv6": {}
         },
@@ -9621,7 +9621,7 @@
         "https://jaxvps.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "Benedict, United States",
+                "136.0.228.26": "United States",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -11163,7 +11163,7 @@
                 "189.91.156.9": "Sao Mateus, Brazil"
             },
             "ipv6": {
-                "2804:2050:5a8e:3e9::1": "Sao Mateus, Brazil"
+                "2804:2050:5a8e:3e9::1": "Brazil"
             }
         }
     },
@@ -13146,7 +13146,7 @@
                 "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Langenzersdorf, Austria"
+                "2a02:1748:f064:160::167": "Klein Sankt Paul, Austria"
             }
         }
     },
