@@ -241,7 +241,7 @@
         },
         "lg.my.controlvm.com": {
             "ipv4": {
-                "103.241.150.129": "Puchong Batu Dua Belas, Malaysia"
+                "103.241.150.129": "Puchong, Malaysia"
             },
             "ipv6": {}
         },
@@ -4867,7 +4867,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Duisburg, Germany"
+                "194.45.36.120": "Overath, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5634,7 +5634,7 @@
                 "45.250.25.133": "Ashburn, United States"
             },
             "ipv6": {
-                "2a0b:f304:2::2": "London, United Kingdom"
+                "2a0b:f304:2::2": "Ashburn, United States"
             }
         },
         "atl.speedtest.clouvider.net": {
@@ -5650,7 +5650,7 @@
                 "2.56.188.136": "Dallas, United States"
             },
             "ipv6": {
-                "2a0b:f302:2:2::2": "London, United Kingdom"
+                "2a0b:f302:2:2::2": "Dallas, United States"
             }
         },
         "fra.speedtest.clouvider.net": {
@@ -5674,7 +5674,7 @@
                 "5.180.211.133": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2a0d:5082:0:4::2": "United Kingdom"
+                "2a0d:5082:0:4::2": "Poplar, United Kingdom"
             }
         },
         "man.speedtest.clouvider.net": {
@@ -6798,10 +6798,10 @@
         },
         "hk.edis.at": {
             "ipv4": {
-                "158.255.208.12": "Ha Kwai Chung, Hong Kong"
+                "158.255.208.12": "Kwai Chung, Hong Kong"
             },
             "ipv6": {
-                "2a03:f80:852:b422::1": "Ha Kwai Chung, Hong Kong"
+                "2a03:f80:852:b422::1": "Kwai Chung, Hong Kong"
             }
         },
         "hr.edis.at": {
