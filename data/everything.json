@@ -22,15 +22,15 @@
         "Online.net": {
             "ipv4": {
                 "151.115.0.1": "Warsaw, Poland",
-                "163.172.208.1": "Haarlem, The Netherlands",
+                "163.172.208.1": "Haarlem, Netherlands",
                 "195.154.0.5": "Paris, France",
                 "212.129.0.1": "Paris, France",
                 "212.47.224.7": "Paris, France",
                 "212.83.128.4": "Paris, France",
                 "212.83.160.3": "Paris, France",
-                "51.15.0.1": "Haarlem, The Netherlands",
+                "51.15.0.1": "Haarlem, Netherlands",
                 "51.158.0.8": "Paris, France",
-                "51.158.128.1": "Haarlem, The Netherlands",
+                "51.158.128.1": "Haarlem, Netherlands",
                 "62.210.0.2": "Paris, France",
                 "62.4.0.2": "Paris, France"
             },
@@ -156,7 +156,7 @@
                 "92.38.171.1": "Madrid, Spain",
                 "92.38.177.1": "Chicago, United States",
                 "92.38.180.1": "Istanbul, Turkiye",
-                "92.38.186.1": "Amsterdam, The Netherlands"
+                "92.38.186.1": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -267,7 +267,7 @@
         },
         "lgnl.hostmayo.com": {
             "ipv4": {
-                "169.239.130.2": "Amsterdam, The Netherlands"
+                "169.239.130.2": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -302,7 +302,7 @@
         },
         "lg-nl-eu.bacloud.com": {
             "ipv4": {
-                "88.119.171.50": "Amsterdam, The Netherlands"
+                "88.119.171.50": "Amsterdam, Netherlands"
             },
             "ipv6": {
                 "2a04:2181:c011:1::693f:68b3": "Lithuania"
@@ -411,12 +411,12 @@
             "ipv4": {
                 "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
-                "185.53.130.2": "Amsterdam, The Netherlands",
+                "185.53.130.2": "Amsterdam, Netherlands",
                 "45.43.64.64": "Poplar, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
-                "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
+                "2a02:2ca0:64:ee::2": "Amsterdam, Netherlands",
                 "2a07:9944:40:1a::2": "United States",
                 "2a05:9f44:2a05:1a::b36:db6": "Poplar, United Kingdom"
             }
@@ -451,7 +451,7 @@
         },
         "lg.nl.ikoula.com": {
             "ipv4": {
-                "154.59.112.94": "Amsterdam, The Netherlands"
+                "154.59.112.94": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -473,7 +473,7 @@
         },
         "lg-ams.fdcservers.net": {
             "ipv4": {
-                "50.7.126.4": "Halfweg, The Netherlands"
+                "50.7.126.4": "Halfweg, Netherlands"
             },
             "ipv6": {}
         },
@@ -679,7 +679,7 @@
         },
         "lg-zur.fdcservers.net": {
             "ipv4": {
-                "50.7.41.4": "Halfweg, The Netherlands"
+                "50.7.41.4": "Halfweg, Netherlands"
             },
             "ipv6": {}
         },
@@ -1084,7 +1084,7 @@
                 "136.175.201.201": "United States"
             },
             "ipv6": {
-                "2602:fed2:7123:02b5:0000:0000:0000:0001": "Naaldwijk, The Netherlands"
+                "2602:fed2:7123:02b5:0000:0000:0000:0001": "Naaldwijk, Netherlands"
             }
         },
         "lgny.nexusbytes.com": {
@@ -1203,10 +1203,10 @@
     "liteserver.nl": {
         "lg-dro.liteserver.nl": {
             "ipv4": {
-                "185.31.172.235": "Dronten, The Netherlands"
+                "185.31.172.235": "Dronten, Netherlands"
             },
             "ipv6": {
-                "2a01:6340:1:20:3::10": "Dronten, The Netherlands"
+                "2a01:6340:1:20:3::10": "Dronten, Netherlands"
             }
         }
     },
@@ -1422,7 +1422,7 @@
         },
         "tyo.lg.webhorizon.in": {
             "ipv4": {
-                "41.216.180.13": "Doetinchem, The Netherlands"
+                "41.216.180.13": "Doetinchem, Netherlands"
             },
             "ipv6": {
                 "2a06:c3c0:3:117a:0000:0000:0000:0001": "Russia"
@@ -1476,7 +1476,7 @@
     "ultravps.eu": {
         "lg.ams.nl.ultravps.eu": {
             "ipv4": {
-                "185.45.112.15": "Haarlem, The Netherlands"
+                "185.45.112.15": "Haarlem, Netherlands"
             },
             "ipv6": {
                 "2a02:e00:fff0:c::1": "Germany"
@@ -1592,10 +1592,10 @@
     "hostio.solutions": {
         "lg.hostio.solutions": {
             "ipv4": {
-                "45.151.157.200": "The Netherlands"
+                "45.151.157.200": "Netherlands"
             },
             "ipv6": {
-                "2a0e:5540:11:200::1": "The Netherlands"
+                "2a0e:5540:11:200::1": "Netherlands"
             }
         }
     },
@@ -1608,7 +1608,7 @@
         },
         "lg-ams.racknerd.com": {
             "ipv4": {
-                "23.94.101.88": "Amsterdam, The Netherlands"
+                "23.94.101.88": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -1896,10 +1896,10 @@
     "psychz.net": {
         "lg.ams.psychz.net": {
             "ipv4": {
-                "172.107.95.154": "Amsterdam, The Netherlands"
+                "172.107.95.154": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2604:6600:2007:48:0:2:185f:e237": "Amsterdam, The Netherlands"
+                "2604:6600:2007:48:0:2:185f:e237": "Amsterdam, Netherlands"
             }
         },
         "lg.bcn.psychz.net": {
@@ -2176,7 +2176,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Blagoevgrad, Bulgaria"
+                "78.128.92.20": "Dupnitsa, Bulgaria"
             },
             "ipv6": {}
         },
@@ -2282,7 +2282,7 @@
         },
         "lg.ams1.servermania.com": {
             "ipv4": {
-                "104.227.248.134": "Amsterdam, The Netherlands"
+                "104.227.248.134": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -2326,10 +2326,10 @@
     "v.ps": {
         "ams.lg.v.ps": {
             "ipv4": {
-                "78.142.195.195": "Amsterdam, The Netherlands"
+                "78.142.195.195": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:12::10b": "Amsterdam, The Netherlands"
+                "2a0c:59c0:12::10b": "Amsterdam, Netherlands"
             }
         },
         "dus.lg.v.ps": {
@@ -2472,10 +2472,10 @@
         },
         "lg-nl.vps2day.com": {
             "ipv4": {
-                "193.242.211.135": "Rotterdam, The Netherlands"
+                "193.242.211.135": "Rotterdam, Netherlands"
             },
             "ipv6": {
-                "2001:67c:2ae8:108:193:242:211:135": "Rotterdam, The Netherlands"
+                "2001:67c:2ae8:108:193:242:211:135": "Rotterdam, Netherlands"
             }
         },
         "lg-ro.vps2day.com": {
@@ -2564,7 +2564,7 @@
     "losangelesvps.com": {
         "lg.losangelesvps.com": {
             "ipv4": {
-                "45.158.199.6": "The Netherlands"
+                "45.158.199.6": "Netherlands"
             },
             "ipv6": {}
         }
@@ -2631,11 +2631,11 @@
         },
         "lgnl.greencloudvps.com": {
             "ipv4": {
-                "185.214.10.103": "Amsterdam, The Netherlands",
-                "46.182.111.246": "Utrecht, The Netherlands"
+                "185.214.10.103": "Amsterdam, Netherlands",
+                "46.182.111.246": "Utrecht, Netherlands"
             },
             "ipv6": {
-                "2001:7f8:1::a505:8073:2": "The Netherlands"
+                "2001:7f8:1::a505:8073:2": "Netherlands"
             }
         },
         "lgvn.greencloudvps.com": {
@@ -2648,7 +2648,7 @@
     "virmach.com": {
         "ams.lg.virmach.com": {
             "ipv4": {
-                "192.210.175.4": "Amsterdam, The Netherlands"
+                "192.210.175.4": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -2768,7 +2768,7 @@
                 "168.235.74.9": "Los Angeles, United States",
                 "168.235.75.122": "Los Angeles, United States",
                 "168.235.89.44": "Piscataway, United States",
-                "185.34.216.2": "The Netherlands"
+                "185.34.216.2": "Netherlands"
             },
             "ipv6": {}
         },
@@ -2790,10 +2790,10 @@
         },
         "lg.nl.ramnode.com": {
             "ipv4": {
-                "176.56.238.3": "The Netherlands"
+                "176.56.238.3": "Netherlands"
             },
             "ipv6": {
-                "2a00:d880:3:1::787:d6bd": "The Netherlands"
+                "2a00:d880:3:1::787:d6bd": "Netherlands"
             }
         },
         "lg.nyc.ramnode.com": {
@@ -2830,10 +2830,10 @@
     "hostus.us": {
         "ams-lg.hostus.us": {
             "ipv4": {
-                "185.185.40.2": "Amsterdam, The Netherlands"
+                "185.185.40.2": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0b:7080:10::1:e22d": "The Netherlands"
+                "2a0b:7080:10::1:e22d": "Netherlands"
             }
         },
         "atl-lg.hostus.us": {
@@ -3052,7 +3052,7 @@
         },
         "lg.dronten.profitserver.ru": {
             "ipv4": {
-                "185.14.31.34": "Amsterdam, The Netherlands"
+                "185.14.31.34": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -3100,7 +3100,7 @@
         },
         "lg.netherlands.profitserver.ru": {
             "ipv4": {
-                "89.105.202.105": "Enschede, The Netherlands"
+                "89.105.202.105": "Enschede, Netherlands"
             },
             "ipv6": {}
         },
@@ -3258,7 +3258,7 @@
         },
         "lg-netherlands.prometeus.net": {
             "ipv4": {
-                "194.71.225.228": "Amsterdam, The Netherlands"
+                "194.71.225.228": "Amsterdam, Netherlands"
             },
             "ipv6": {
                 "2a00:dcc7:d3ff::2280": "Italy"
@@ -3456,7 +3456,7 @@
         },
         "https://itldc.com/en/support/looking-glass/": {
             "ipv4": {
-                "185.14.30.7": "Amsterdam, The Netherlands",
+                "185.14.30.7": "Amsterdam, Netherlands",
                 "195.123.213.93": "Riga, Latvia",
                 "195.123.228.145": "Sofia, Bulgaria",
                 "195.123.233.112": "Secaucus, United States",
@@ -3480,7 +3480,7 @@
                 "2a12:6fc0::9": "Seattle, United States",
                 "2a05:9400:0:acdc::5a": "Secaucus, United States",
                 "2a12:6fc1::9": "Chicago, United States",
-                "2a02:27ab:0:2::5b": "Amsterdam, The Netherlands",
+                "2a02:27ab:0:2::5b": "Amsterdam, Netherlands",
                 "2a02:27a8:feed::9": "United States",
                 "2a02:27ac::34c": "Riga, Latvia",
                 "2607:f7a0:3:4:acdc:c0fe:0:3b4": "Los Angeles, United States"
@@ -3488,10 +3488,10 @@
         },
         "lg-nl.itldc.com": {
             "ipv4": {
-                "217.12.200.200": "Amsterdam, The Netherlands"
+                "217.12.200.200": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a00:1ca8:a7::200": "Amsterdam, The Netherlands"
+                "2a00:1ca8:a7::200": "Amsterdam, Netherlands"
             }
         },
         "lg-ua.itldc.com": {
@@ -3512,10 +3512,10 @@
     "fozzy.com": {
         "lg.v.fozzy.com": {
             "ipv4": {
-                "88.85.89.86": "The Netherlands"
+                "88.85.89.86": "Netherlands"
             },
             "ipv6": {
-                "2a00:1178:1:43:8000:0:5c34:82c6": "The Netherlands"
+                "2a00:1178:1:43:8000:0:5c34:82c6": "Netherlands"
             }
         }
     },
@@ -3737,10 +3737,10 @@
         },
         "http://lg.ams.hosthatch.com/": {
             "ipv4": {
-                "83.138.53.15": "Amsterdam, The Netherlands"
+                "83.138.53.15": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a01:6f0:ffff:aa::beef": "Amsterdam, The Netherlands"
+                "2a01:6f0:ffff:aa::beef": "Amsterdam, Netherlands"
             }
         },
         "http://lg.hkg.hosthatch.com/": {
@@ -3859,7 +3859,7 @@
         },
         "https://ams-nl-ping.vultr.com/": {
             "ipv4": {
-                "108.61.198.102": "Amsterdam, The Netherlands"
+                "108.61.198.102": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -4021,18 +4021,18 @@
     "terrahost.com": {
         "https://lg.ams-nl.terrahost.com/": {
             "ipv4": {
-                "45.88.200.26": "Amsterdam, The Netherlands"
+                "45.88.200.26": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, The Netherlands"
+                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, Netherlands"
             }
         },
         "https://lg.kc-us.terrahost.com/": {
             "ipv4": {
-                "193.243.189.8": "Amsterdam, The Netherlands"
+                "193.243.189.8": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a03:94e1:ffff:193:243:189::8": "Amsterdam, The Netherlands"
+                "2a03:94e1:ffff:193:243:189::8": "Amsterdam, Netherlands"
             }
         },
         "https://lg.terrahost.com/": {
@@ -4366,7 +4366,7 @@
     "naranja.tech": {
         "https://lg.naranja.tech/": {
             "ipv4": {
-                "185.213.172.187": "Dronten, The Netherlands"
+                "185.213.172.187": "Dronten, Netherlands"
             },
             "ipv6": {
                 "2a0b:8bc0:1:119:0:0:0:10": "Spain"
@@ -4376,10 +4376,10 @@
     "server-factory.com": {
         "https://lg.nl.server-factory.com/": {
             "ipv4": {
-                "188.239.191.7": "Amsterdam, The Netherlands"
+                "188.239.191.7": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a07:e040:1:7::1": "Amsterdam, The Netherlands"
+                "2a07:e040:1:7::1": "Amsterdam, Netherlands"
             }
         }
     },
@@ -4423,10 +4423,10 @@
     "hostslim.nl": {
         "https://lg.hostslim.nl/": {
             "ipv4": {
-                "103.219.154.62": "The Netherlands"
+                "103.219.154.62": "Netherlands"
             },
             "ipv6": {
-                "2a06:5b80:1::b67b:cd74": "The Netherlands"
+                "2a06:5b80:1::b67b:cd74": "Netherlands"
             }
         }
     },
@@ -4527,7 +4527,7 @@
     "freerangecloud.com": {
         "https://ams01.lg.freerangecloud.com/": {
             "ipv4": {
-                "206.83.40.24": "Lelystad, The Netherlands"
+                "206.83.40.24": "Lelystad, Netherlands"
             },
             "ipv6": {
                 "2a0f:9400:fa0:15::1": "United Kingdom"
@@ -4775,10 +4775,10 @@
         },
         "http://lg-nl.friendhosting.net/": {
             "ipv4": {
-                "91.223.123.7": "Dronten, The Netherlands"
+                "91.223.123.7": "Dronten, Netherlands"
             },
             "ipv6": {
-                "2001:67c:2f5c:2::361": "Dronten, The Netherlands"
+                "2001:67c:2f5c:2::361": "Dronten, Netherlands"
             }
         },
         "http://lg-pl.friendhosting.net/": {
@@ -4859,7 +4859,7 @@
                 "104.237.8.8": "United States",
                 "107.155.108.46": "Dallas, United States",
                 "185.185.126.241": "Maidstone, United Kingdom",
-                "185.185.127.137": "Naaldwijk, The Netherlands"
+                "185.185.127.137": "Naaldwijk, Netherlands"
             },
             "ipv6": {}
         }
@@ -4867,7 +4867,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Overath, Germany"
+                "194.45.36.120": "Oer-Erkenschwick, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -4916,18 +4916,18 @@
     "digitalocean.com": {
         "speedtest-ams2.digitalocean.com": {
             "ipv4": {
-                "188.226.175.227": "Amsterdam, The Netherlands"
+                "188.226.175.227": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a03:b0c0:0:1010::91:d001": "Amsterdam, The Netherlands"
+                "2a03:b0c0:0:1010::91:d001": "Amsterdam, Netherlands"
             }
         },
         "speedtest-ams3.digitalocean.com": {
             "ipv4": {
-                "178.62.216.76": "Amsterdam, The Netherlands"
+                "178.62.216.76": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a03:b0c0:2:d0::85:e001": "Amsterdam, The Netherlands"
+                "2a03:b0c0:2:d0::85:e001": "Amsterdam, Netherlands"
             }
         },
         "speedtest-blr1.digitalocean.com": {
@@ -5025,7 +5025,7 @@
                 "104.149.18.203": "Los Angeles, United States",
                 "104.223.90.5": "United States",
                 "161.129.64.235": "United States",
-                "185.208.208.3": "The Netherlands",
+                "185.208.208.3": "Netherlands",
                 "198.55.111.5": "United States",
                 "212.224.70.16": "Germany",
                 "62.113.254.1": "Germany",
@@ -5034,7 +5034,7 @@
             },
             "ipv6": {
                 "2607:fcd0:cd40:100::235": "United States",
-                "2a0b:3c40:1:103::1": "The Netherlands",
+                "2a0b:3c40:1:103::1": "Netherlands",
                 "2a00:f48:102::1": "Germany",
                 "2607:fcd0:0:a::1": "United States",
                 "2602:ff75:1000::1": "United States",
@@ -5205,7 +5205,7 @@
                 "161.129.64.235": "United States",
                 "172.81.40.35": "United States",
                 "185.161.69.26": "Cyprus",
-                "185.208.208.3": "The Netherlands",
+                "185.208.208.3": "Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
                 "198.55.111.5": "United States",
                 "212.224.70.16": "Germany",
@@ -5222,7 +5222,7 @@
             },
             "ipv6": {
                 "2607:fcd0:cd40:100::235": "United States",
-                "2a0b:3c40:1:103::1": "The Netherlands",
+                "2a0b:3c40:1:103::1": "Netherlands",
                 "2a00:f48:102::1": "Germany",
                 "2607:fcd0:0:a::1": "United States",
                 "2602:ff75:1000::1": "United States",
@@ -5357,10 +5357,10 @@
     "dediserve.com": {
         "http://speedtest.c1.ams1.dediserve.com/": {
             "ipv4": {
-                "93.158.205.148": "The Netherlands"
+                "93.158.205.148": "Netherlands"
             },
             "ipv6": {
-                "2a00:1ca8:26::40": "Amsterdam, The Netherlands"
+                "2a00:1ca8:26::40": "Amsterdam, Netherlands"
             }
         },
         "http://speedtest.c1.chg1.dediserve.com/": {
@@ -5496,7 +5496,7 @@
     "oneilonline.com": {
         "https://oneilonline.com/ourdatacenter-status.php?city=Amsterdam": {
             "ipv4": {
-                "185.115.32.148": "Amsterdam, The Netherlands"
+                "185.115.32.148": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -5623,7 +5623,7 @@
     "clouvider.net": {
         "ams.speedtest.clouvider.net": {
             "ipv4": {
-                "194.127.172.176": "Amsterdam, The Netherlands"
+                "194.127.172.176": "Amsterdam, Netherlands"
             },
             "ipv6": {
                 "2a0f:93c0:0:8::2": "United Kingdom"
@@ -5878,16 +5878,16 @@
         },
         "http://lg-nl1.hostry.com/": {
             "ipv4": {
-                "185.186.244.123": "Amsterdam, The Netherlands"
+                "185.186.244.123": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
         "http://lg-nl2.hostry.com/": {
             "ipv4": {
-                "185.14.28.215": "Amsterdam, The Netherlands"
+                "185.14.28.215": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a02:27ab:0:2::164": "Amsterdam, The Netherlands"
+                "2a02:27ab:0:2::164": "Amsterdam, Netherlands"
             }
         },
         "http://lg-pl1.hostry.com/": {
@@ -6013,7 +6013,7 @@
     "isplevel.com": {
         "http://lg-nl.isplevel.com/": {
             "ipv4": {
-                "185.14.30.167": "Amsterdam, The Netherlands"
+                "185.14.30.167": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -6117,10 +6117,10 @@
         },
         "https://nl-lg.shockhosting.net/": {
             "ipv4": {
-                "217.195.155.3": "Amsterdam, The Netherlands"
+                "217.195.155.3": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0d:9ec0:0:1::7476": "Amsterdam, The Netherlands"
+                "2a0d:9ec0:0:1::7476": "Amsterdam, Netherlands"
             }
         },
         "https://sg-lg.shockhosting.net/": {
@@ -6305,7 +6305,7 @@
                 "103.27.184.7": "Tokyo, Japan",
                 "103.56.217.77": "Hong Kong",
                 "158.69.205.137": "Montreal, Canada",
-                "185.170.209.5": "The Netherlands",
+                "185.170.209.5": "Netherlands",
                 "210.92.18.1": "South Korea",
                 "23.236.74.3": "Los Angeles, United States"
             },
@@ -6352,10 +6352,10 @@
     "fognet.ch": {
         "http://lg.ams.fognet.ch/": {
             "ipv4": {
-                "193.148.248.20": "Amsterdam, The Netherlands"
+                "193.148.248.20": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0c:9a40:1070::20": "Amsterdam, The Netherlands"
+                "2a0c:9a40:1070::20": "Amsterdam, Netherlands"
             }
         },
         "http://lg.bcn.fognet.ch/": {
@@ -6894,10 +6894,10 @@
         },
         "nl.edis.at": {
             "ipv4": {
-                "151.236.14.100": "Amsterdam, The Netherlands"
+                "151.236.14.100": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a00:1768:1003:2a4e::1": "The Netherlands"
+                "2a00:1768:1003:2a4e::1": "Netherlands"
             }
         },
         "no.edis.at": {
@@ -6990,10 +6990,10 @@
     "leaseweb.net": {
         "mirror.ams1.nl.leaseweb.net": {
             "ipv4": {
-                "5.79.108.33": "The Netherlands"
+                "5.79.108.33": "Netherlands"
             },
             "ipv6": {
-                "2001:1af8:4700:b210::33": "The Netherlands"
+                "2001:1af8:4700:b210::33": "Netherlands"
             }
         },
         "mirror.fra10.de.leaseweb.net": {
@@ -7308,10 +7308,10 @@
     "sa.net": {
         "https://lg-am1.sa.net/": {
             "ipv4": {
-                "62.133.33.13": "Amsterdam, The Netherlands"
+                "62.133.33.13": "Amsterdam, Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:2::69b9:84cd": "Amsterdam, The Netherlands"
+                "2a0c:59c0:2::69b9:84cd": "Amsterdam, Netherlands"
             }
         },
         "https://lg-de1.sa.net/": {
@@ -7520,7 +7520,7 @@
     "hosterion.com": {
         "https://lg.ams.hosterion.com/": {
             "ipv4": {
-                "77.81.242.205": "Amsterdam, The Netherlands"
+                "77.81.242.205": "Amsterdam, Netherlands"
             },
             "ipv6": {
                 "2a06:cd40:300:1::85": "Romania"
@@ -7570,7 +7570,7 @@
         "https://gthost.com/looking-glass/": {
             "ipv4": {
                 "139.64.164.166": "Denver, United States",
-                "139.64.166.166": "Amsterdam, The Netherlands",
+                "139.64.166.166": "Amsterdam, Netherlands",
                 "139.64.167.166": "Paris, France",
                 "142.202.48.166": "Newark, United States",
                 "142.202.49.166": "Ashburn, United States",
@@ -7652,7 +7652,7 @@
     "vpsaff.net": {
         "http://s11.vpsaff.net/lookingglass/": {
             "ipv4": {
-                "154.3.8.5": "Washington, United States"
+                "154.3.8.5": "United States"
             },
             "ipv6": {}
         }
@@ -7660,7 +7660,7 @@
     "hostshield.net": {
         "http://lg-almere.hostshield.net/": {
             "ipv4": {
-                "193.142.59.82": "The Netherlands"
+                "193.142.59.82": "Netherlands"
             },
             "ipv6": {}
         }
@@ -8293,7 +8293,7 @@
         "https://lunarvps.com/datacenters.html": {
             "ipv4": {
                 "179.43.149.160": "Rumlang, Switzerland",
-                "94.102.53.95": "Amsterdam, The Netherlands"
+                "94.102.53.95": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -8362,10 +8362,10 @@
     "hybula.net": {
         "https://lg-nl-oum.hybula.net/": {
             "ipv4": {
-                "2.58.59.59": "The Netherlands"
+                "2.58.59.59": "Netherlands"
             },
             "ipv6": {
-                "2a09:e240:1:159::": "The Netherlands"
+                "2a09:e240:1:159::": "Netherlands"
             }
         }
     },
@@ -8476,7 +8476,7 @@
                 "46.29.162.89": "Moscow, Russia",
                 "91.149.202.91": "London, United Kingdom",
                 "91.149.223.204": "Frankfurt am Main, Germany",
-                "91.149.241.62": "Amsterdam, The Netherlands",
+                "91.149.241.62": "Amsterdam, Netherlands",
                 "91.149.242.38": "Madrid, Spain",
                 "91.149.253.58": "Warsaw, Poland",
                 "91.149.255.106": "Helsinki, Finland"
@@ -8604,7 +8604,7 @@
     "vpsgod.com": {
         "http://lgnl.vpsgod.com/": {
             "ipv4": {
-                "45.14.227.157": "Amsterdam, The Netherlands"
+                "45.14.227.157": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -8875,7 +8875,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "McKees Rocks, United States"
+                "4.2.6.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -8930,7 +8930,7 @@
         },
         "https://nl.lg.hosting-russia.ru/": {
             "ipv4": {
-                "194.147.115.216": "The Netherlands"
+                "194.147.115.216": "Netherlands"
             },
             "ipv6": {}
         }
@@ -9021,7 +9021,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "McKees Rocks, United States"
+                "4.2.5.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9075,7 +9075,7 @@
     "alibabahost.com": {
         "http://lg.nl.alibabahost.com/": {
             "ipv4": {
-                "94.102.53.76": "Amsterdam, The Netherlands"
+                "94.102.53.76": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -9108,7 +9108,7 @@
     "bluevps.com": {
         "ams-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "46.249.49.253": "Hengelo, The Netherlands"
+                "46.249.49.253": "Hengelo, Netherlands"
             },
             "ipv6": {}
         },
@@ -9298,7 +9298,7 @@
     "netshop-isp.com.cy": {
         "https://lg-ams03.netshop-isp.com.cy/": {
             "ipv4": {
-                "45.142.201.139": "Amsterdam, The Netherlands"
+                "45.142.201.139": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
@@ -9356,7 +9356,7 @@
                 "103.172.116.3": "Singapore, Singapore",
                 "162.247.153.5": "Atlanta, United States",
                 "185.135.86.3": "Riga, Latvia",
-                "185.246.155.7": "Amsterdam, The Netherlands",
+                "185.246.155.7": "Amsterdam, Netherlands",
                 "195.238.126.3": "Lithuania",
                 "213.183.63.91": "Sofia, Bulgaria",
                 "213.226.68.73": "Frankfurt am Main, Germany",
@@ -9397,10 +9397,10 @@
         },
         "https://lg-nl.hostfactor.eu/": {
             "ipv4": {
-                "185.31.172.235": "Dronten, The Netherlands"
+                "185.31.172.235": "Dronten, Netherlands"
             },
             "ipv6": {
-                "2a01:6340:1:20:3::10": "Dronten, The Netherlands"
+                "2a01:6340:1:20:3::10": "Dronten, Netherlands"
             }
         }
     },
@@ -9410,7 +9410,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "McKees Rocks, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9488,7 +9488,7 @@
         "https://www.greengeeks.com/about/data-center.php": {
             "ipv4": {
                 "184.107.41.68": "Canada",
-                "198.20.98.2": "Amsterdam, The Netherlands",
+                "198.20.98.2": "Amsterdam, Netherlands",
                 "216.104.36.130": "United States"
             },
             "ipv6": {}
@@ -9776,7 +9776,7 @@
                 "172.105.19.110": "Toronto, Canada",
                 "172.105.47.42": "Mumbai, India",
                 "173.255.235.72": "Cedar Knolls, United States",
-                "198.20.100.26": "Amsterdam, The Netherlands",
+                "198.20.100.26": "Amsterdam, Netherlands",
                 "45.33.57.174": "Fremont, United States",
                 "45.56.71.242": "Richardson, United States",
                 "85.90.245.58": "Frankfurt am Main, Germany"
@@ -9890,7 +9890,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "McKees Rocks, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9971,7 +9971,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "McKees Rocks, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10029,7 +10029,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "McKees Rocks, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10129,7 +10129,7 @@
         },
         "https://www.mvps.net/speedtest/snl": {
             "ipv4": {
-                "178.157.90.100": "Dronten, The Netherlands"
+                "178.157.90.100": "Dronten, Netherlands"
             },
             "ipv6": {}
         },
@@ -10159,7 +10159,7 @@
                 "103.172.116.3": "Singapore, Singapore",
                 "162.247.153.5": "Atlanta, United States",
                 "185.135.86.3": "Riga, Latvia",
-                "185.246.155.7": "Amsterdam, The Netherlands",
+                "185.246.155.7": "Amsterdam, Netherlands",
                 "195.238.126.3": "Lithuania",
                 "213.183.49.158": "Madrid, Spain",
                 "213.183.50.82": "St Petersburg, Russia",
@@ -10248,7 +10248,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Heidelberg, Germany"
+                "129.143.4.238": "Schwetzingen, Germany"
             },
             "ipv6": {}
         }
@@ -10291,15 +10291,15 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Madrid, Spain",
-                "130.206.195.254": "Madrid, Spain",
-                "130.206.197.254": "Madrid, Spain",
-                "130.206.198.125": "Madrid, Spain",
-                "130.206.198.254": "Madrid, Spain",
-                "130.206.201.254": "Madrid, Spain",
-                "130.206.206.250": "Madrid, Spain",
-                "130.206.211.254": "Madrid, Spain",
-                "130.206.212.254": "Madrid, Spain"
+                "130.206.194.254": "Villanueva de la Canada, Spain",
+                "130.206.195.254": "Villanueva de la Canada, Spain",
+                "130.206.197.254": "Villanueva de la Canada, Spain",
+                "130.206.198.125": "Villanueva de la Canada, Spain",
+                "130.206.198.254": "Villanueva de la Canada, Spain",
+                "130.206.201.254": "Villanueva de la Canada, Spain",
+                "130.206.206.250": "Villanueva de la Canada, Spain",
+                "130.206.211.254": "Villanueva de la Canada, Spain",
+                "130.206.212.254": "Villanueva de la Canada, Spain"
             },
             "ipv6": {}
         }
@@ -10740,7 +10740,7 @@
         },
         "http://lg.koddos.com/": {
             "ipv4": {
-                "31.220.40.10": "The Netherlands"
+                "31.220.40.10": "Netherlands"
             },
             "ipv6": {}
         }
@@ -10855,7 +10855,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Bandung, Indonesia"
+                "27.131.3.230": "Indonesia"
             },
             "ipv6": {}
         }
@@ -11783,10 +11783,10 @@
     "as207803.net": {
         "http://lg.as207803.net": {
             "ipv4": {
-                "185.224.145.66": "Delft, The Netherlands"
+                "185.224.145.66": "Delft, Netherlands"
             },
             "ipv6": {
-                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, The Netherlands"
+                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, Netherlands"
             }
         }
     },
@@ -12861,7 +12861,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Orzech, Poland"
+                "91.188.97.174": "Tarnowskie Gory, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -13143,10 +13143,10 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Vienna, Austria"
+                "178.251.64.167": "Austria"
             },
             "ipv6": {
-                "2a02:1748:f064:160::167": "Klein Sankt Paul, Austria"
+                "2a02:1748:f064:160::167": "Sankt Polten, Austria"
             }
         }
     },
@@ -13530,7 +13530,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
+                "186.193.193.35": "Americana, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
@@ -13872,7 +13872,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+                "191.243.156.214": "Barra Mansa, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
@@ -14507,7 +14507,7 @@
     "zgelettronica.com": {
         "http://lookingglass.zgelettronica.com": {
             "ipv4": {
-                "149.13.146.41": "Milan, Italy"
+                "149.13.146.41": "Schio, Italy"
             },
             "ipv6": {}
         }
@@ -15286,7 +15286,7 @@
                 "128.127.104.4": "Stockholm, Sweden",
                 "37.46.114.4": "Sofia, Bulgaria",
                 "37.46.115.115": "Belgrade, Serbia",
-                "79.142.67.67": "The Netherlands",
+                "79.142.67.67": "Netherlands",
                 "79.142.69.9": "Zurich, Switzerland"
             },
             "ipv6": {}
@@ -15703,7 +15703,7 @@
     "i4networks.nl": {
         "https://lg.i4networks.nl/": {
             "ipv4": {
-                "195.246.236.60": "Amsterdam, The Netherlands"
+                "195.246.236.60": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         }
@@ -16065,10 +16065,10 @@
     "AS207803.net": {
         "lg.AS207803.net": {
             "ipv4": {
-                "185.224.145.66": "Delft, The Netherlands"
+                "185.224.145.66": "Delft, Netherlands"
             },
             "ipv6": {
-                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, The Netherlands"
+                "2a0e:fd45:d30:185:20d:b9ff:fe48:59b6": "Delft, Netherlands"
             }
         }
     },
@@ -16298,7 +16298,7 @@
         },
         "speedtestwe.blob.core.windows.net": {
             "ipv4": {
-                "52.239.213.4": "Amsterdam, The Netherlands"
+                "52.239.213.4": "Amsterdam, Netherlands"
             },
             "ipv6": {}
         },
