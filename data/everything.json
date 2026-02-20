@@ -37,96 +37,7 @@
             "ipv6": {}
         }
     },
-    "aws": {
-        "http://ec2-reachability.amazonaws.com": {
-            "ipv4": {
-                "13.208.32.253": "Osaka, Japan",
-                "13.245.0.253": "Cape Town, South Africa",
-                "13.36.0.0": "Paris, France",
-                "13.48.0.0": "Stockholm, Sweden",
-                "13.52.0.0": "San Jose, United States",
-                "15.160.0.0": "Milan, Italy",
-                "15.184.0.253": "Bahrain",
-                "15.216.0.0": "Zaragoza, Spain",
-                "15.220.161.219": "Muscat, Oman",
-                "15.228.0.0": "Sao Paulo, Brazil",
-                "15.232.0.0": "Jakarta, Indonesia",
-                "15.253.0.254": "Los Angeles, United States",
-                "16.112.0.0": "Hyderabad, India",
-                "16.144.0.0": "Boardman, United States",
-                "16.162.0.253": "Hong Kong",
-                "16.26.0.0": "Melbourne, Australia",
-                "16.62.132.214": "Zurich, Switzerland",
-                "3.0.0.9": "Singapore, Singapore",
-                "3.102.141.118": "Auckland, New Zealand",
-                "3.112.0.0": "Tokyo, Japan",
-                "3.12.0.0": "Columbus, United States",
-                "3.24.0.0": "Sydney, Australia",
-                "3.248.0.0": "Dublin, Ireland",
-                "3.28.180.35": "Dubai, United Arab Emirates",
-                "3.34.0.0": "Incheon, South Korea",
-                "3.6.0.0": "Mumbai, India",
-                "3.64.0.0": "Frankfurt am Main, Germany",
-                "3.8.0.0": "City of London, United Kingdom",
-                "3.80.0.0": "Ashburn, United States",
-                "3.96.0.0": "Montreal, Canada",
-                "40.176.100.29": "Calgary, Canada",
-                "43.192.0.113": "China",
-                "43.196.0.253": "Beijing, China",
-                "43.208.90.158": "Bangkok, Thailand",
-                "43.213.3.242": "Taipei, Taiwan",
-                "43.216.149.220": "Kuala Lumpur, Malaysia",
-                "51.16.235.176": "Tel Aviv, Israel",
-                "51.225.7.119": "Berlin, Germany",
-                "78.12.118.87": "Queretaro City, Mexico",
-                "96.0.40.228": "Lagos, Nigeria"
-            },
-            "ipv6": {}
-        },
-        "http://ipv6.ec2-reachability.amazonaws.com/": {
-            "ipv4": {},
-            "ipv6": {
-                "2600:1f18:2fe:900::ec2": "Ashburn, United States",
-                "2600:1f16:c01:4000::ec2": "Columbus, United States",
-                "2600:1f1c:f64:3200::ec2": "San Jose, United States",
-                "2600:1f14:84a:b000::ec2": "Boardman, United States",
-                "2600:1f1f:6ea:3d00::ec2": "Los Angeles, United States",
-                "2406:da11:e6b:8100::ec2": "Cape Town, South Africa",
-                "2406:da1e:fca:1600::ec2": "Hong Kong, Hong Kong",
-                "2406:da1b:354:a600::ec2": "Hyderabad, India",
-                "2406:da19:d6c:f600::ec2": "Jakarta, Indonesia",
-                "2406:da10:8bf5:4a00::ec2": "Kuala Lumpur, Malaysia",
-                "2406:da1f:843:b900::ec2": "Melbourne, Australia",
-                "2406:da1a:ddd:7400::ec2": "Mumbai, India",
-                "2406:da12:8531:3400::ec2": "Auckland, New Zealand",
-                "2406:da16:730:7300::ec2": "Osaka, Japan",
-                "2406:da12:128:d200::ec2": "Incheon, South Korea",
-                "2406:da18:ec6:6400::ec2": "Singapore, Singapore",
-                "2406:da1c:16:9000::ec2": "Sydney, Australia",
-                "2406:da1c:871c:e600::ec2": "Taipei, Taiwan",
-                "2406:da14:8793:7900::ec2": "Bangkok, Thailand",
-                "2406:da14:295:300::ec2": "Tokyo, Japan",
-                "2600:1f11:b15:2000::ec2": "Montreal, Canada",
-                "2600:1f1a:448e:2200::ec2": "Calgary, Canada",
-                "2a05:d014:4e3:5000::ec2": "Frankfurt am Main, Germany",
-                "2a05:d018:3c:6000::ec2": "Dublin, Ireland",
-                "2a05:d01c:810:8100::ec2": "City of London, United Kingdom",
-                "2a05:d01a:c2d:7500::ec2": "Milan, Italy",
-                "2a05:d012:3:c000::ec2": "Paris, France",
-                "2a05:d011:553:1200::ec2": "Zaragoza, Spain",
-                "2a05:d016:35:4100::ec2": "Stockholm, Sweden",
-                "2a05:d019:334:6b00::ec2": "Zurich, Switzerland",
-                "2600:1f17:41e7:d200::ec2": "Queretaro City, Mexico",
-                "2a05:d01e:5f1:8a00::ec2": "Bahrain",
-                "2a05:d025:c4:1f00::ec2": "Tel Aviv, Israel",
-                "2406:da17:2b5:b900::ec2": "Dubai, United Arab Emirates",
-                "2600:1f1e:99e:9f00::ec2": "Sao Paulo, Brazil",
-                "2400:7fc0:8286:b300::ec2": "Beijing, China",
-                "2404:c2c0:8d06:1f00::ec2": "China",
-                "2001:3fc1:8b2f:bd00::ec2": "Berlin, Germany"
-            }
-        }
-    },
+    "aws": {},
     "gcore": {
         "https://lg.gcorelabs.com": {
             "ipv4": {
@@ -1116,7 +1027,7 @@
         "http://lg-us-sea.mrvm.net/": {
             "ipv4": {},
             "ipv6": {
-                "2a06:82c1:0:14:7c::1": "Seattle, United States"
+                "2a06:82c1:0:14:7c::1": "Austria"
             }
         },
         "lg-au-per.mrvm.net": {
@@ -9006,7 +8917,7 @@
         },
         "http://lg.ny.madcityservers.com//": {
             "ipv4": {
-                "134.202.120.10": "Piscataway, United States"
+                "134.202.120.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "7081:0000:0000:0000:5ec7:5ee6": "n/a"
@@ -10291,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Villanueva de la Canada, Spain",
-                "130.206.195.254": "Villanueva de la Canada, Spain",
-                "130.206.197.254": "Villanueva de la Canada, Spain",
-                "130.206.198.125": "Villanueva de la Canada, Spain",
-                "130.206.198.254": "Villanueva de la Canada, Spain",
-                "130.206.201.254": "Villanueva de la Canada, Spain",
-                "130.206.206.250": "Villanueva de la Canada, Spain",
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
@@ -13872,7 +13783,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Barra Mansa, Brazil"
+                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"

@@ -5,9 +5,6 @@
 * [OneProvider.com](http://OneProvider.com)
 ### Online.net
 * [Online.net](http://Online.net)
-### aws
-* [http://ec2-reachability.amazonaws.com](http://ec2-reachability.amazonaws.com)
-* [http://ipv6.ec2-reachability.amazonaws.com/](http://ipv6.ec2-reachability.amazonaws.com/)
 ### gcore
 * [https://lg.gcorelabs.com](https://lg.gcorelabs.com)
 ### ovh
