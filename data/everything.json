@@ -310,7 +310,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "Poplar, United Kingdom"
+                "89.33.7.2": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -323,19 +323,19 @@
                 "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, Netherlands",
-                "45.43.64.64": "Poplar, United Kingdom"
+                "45.43.64.64": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
                 "2a02:2ca0:64:ee::2": "Amsterdam, Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "Poplar, United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "Poplar, United Kingdom"
+                "2a05:9f40:1f:ee::2": "United Kingdom"
             }
         }
     },
@@ -5338,7 +5338,7 @@
         },
         "http://speedtest.c1.lon2.dediserve.com/": {
             "ipv4": {
-                "109.104.118.70": "United Kingdom"
+                "109.104.118.70": "Wareham, United Kingdom"
             },
             "ipv6": {
                 "2001:9d8:1000:1a2e::50": "United Kingdom"
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Canada"
+                "91.194.11.43": "Netherlands"
             },
             "ipv6": {}
         },
@@ -5731,7 +5731,7 @@
         },
         "http://lg-il1.hostry.com/": {
             "ipv4": {
-                "77.91.74.170": "Georgia"
+                "77.91.74.170": "Petah Tikva, Israel"
             },
             "ipv6": {}
         },
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Indonesia"
+                "27.131.3.230": "Bandung, Indonesia"
             },
             "ipv6": {}
         }
@@ -12658,7 +12658,7 @@
                 "94.136.22.133": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:ab8:4::100": "Austria"
+                "2a02:ab8:4::100": "Mistelbach, Austria"
             }
         }
     },
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Austria"
+                "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13783,7 +13783,7 @@
     "linkfull.com.br": {
         "http://lgv6.linkfull.com.br": {
             "ipv4": {
-                "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
+                "191.243.156.214": "Barra Mansa, Brazil"
             },
             "ipv6": {
                 "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
