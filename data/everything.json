@@ -456,7 +456,7 @@
         },
         "lg-kie.fdcservers.net": {
             "ipv4": {
-                "50.7.249.4": "Kyiv, Ukraine"
+                "50.7.249.4": "Warsaw, Poland"
             },
             "ipv6": {}
         },
@@ -6996,7 +6996,7 @@
                 "2a01:4f8:192:3277::2": "Falkenstein, Germany",
                 "2001:41d0:0602:2f34::0": "France",
                 "2605:6400:30:fdd5::1": "Bern, Switzerland",
-                "2a01:4f9:2a:14e2::1": "Helsinki, Finland",
+                "2a01:4f9:2a:14e2::1": "Germany",
                 "2604:2dc0:100:16c::0": "United States",
                 "2a01:4f8:150:7155::0": "Falkenstein, Germany",
                 "2402:1f00:8101:b2b::0": "Sydney, Australia",
@@ -8376,7 +8376,7 @@
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
                 "104.166.127.78": "Les Paris, France",
-                "155.254.192.138": "Bosa, Colombia",
+                "155.254.192.138": "Nieuw-Amsterdam, Netherlands",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "Paris, France",
                 "193.38.50.142": "Kyiv, Ukraine",
