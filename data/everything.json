@@ -438,7 +438,7 @@
         },
         "lg-hel.fdcservers.net": {
             "ipv4": {
-                "50.7.45.4": "United States"
+                "50.7.45.4": "Amsterdam, The Netherlands"
             },
             "ipv6": {}
         },
@@ -2475,7 +2475,7 @@
     "losangelesvps.com": {
         "lg.losangelesvps.com": {
             "ipv4": {
-                "45.158.199.6": "The Netherlands"
+                "45.158.199.6": "Seychelles"
             },
             "ipv6": {}
         }
@@ -3439,7 +3439,7 @@
     "alpinedc.ch": {
         "lg.alpinedc.ch": {
             "ipv4": {
-                "37.35.104.166": "Switzerland"
+                "37.35.104.166": "Lausanne, Switzerland"
             },
             "ipv6": {
                 "2a03:2040:0:5::166": "Switzerland"
@@ -11977,7 +11977,7 @@
     "edsi-tech.com": {
         "https://lg.edsi-tech.com": {
             "ipv4": {
-                "185.50.189.30": "Switzerland"
+                "185.50.189.30": "Lausanne, Switzerland"
             },
             "ipv6": {
                 "2a04:c000:ed51:891:30::1": "Turkiye"
