@@ -1040,7 +1040,7 @@
         },
         "lg-au-syd.mrvm.net": {
             "ipv4": {
-                "103.25.58.141": "Australia"
+                "103.25.58.141": "Sydney, Australia"
             },
             "ipv6": {
                 "2406:d500:6:beef:003d:9847:4691:0001": "Sydney, Australia"
@@ -1256,7 +1256,7 @@
         },
         "tmthosting.net/seattle-datacenter": {
             "ipv4": {
-                "216.244.88.1": "Tukwila, United States"
+                "216.244.88.1": "United States"
             },
             "ipv6": {}
         }
@@ -3091,7 +3091,7 @@
     "ransomit.com.au": {
         "http://auckland-lg.ransomit.com.au/": {
             "ipv4": {
-                "163.47.21.11": "Australia"
+                "163.47.21.11": "Auckland, New Zealand"
             },
             "ipv6": {}
         },
@@ -3108,7 +3108,7 @@
                 "103.216.221.10": "Singapore, Singapore"
             },
             "ipv6": {
-                "2406:d500:14:200::cbc8:d940": "Australia"
+                "2406:d500:14:200::cbc8:d940": "Auckland, New Zealand"
             }
         },
         "http://melbourne-lg.ransomit.com.au/": {
@@ -3145,7 +3145,7 @@
         },
         "sydney-lg.ransomit.com.au": {
             "ipv4": {
-                "103.25.58.100": "Australia"
+                "103.25.58.100": "Sydney, Australia"
             },
             "ipv6": {
                 "2406:d501::7b2f:bf95": "Australia"
@@ -5242,7 +5242,7 @@
         },
         "http://lg-pk.obhost.org/": {
             "ipv4": {
-                "103.148.162.20": "Phoenix, United States"
+                "103.148.162.20": "Pakistan"
             },
             "ipv6": {}
         },
@@ -5510,7 +5510,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=Seattle": {
             "ipv4": {
                 "207.244.149.242": "Tukwila, United States",
-                "216.244.77.198": "Tukwila, United States",
+                "216.244.77.198": "United States",
                 "74.121.188.138": "Tukwila, United States"
             },
             "ipv6": {}
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Bandung, Indonesia"
+                "27.131.3.230": "Indonesia"
             },
             "ipv6": {}
         }
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Smolec, Poland"
+                "185.56.208.2": "Bielany Wrocawskie, Poland"
             },
             "ipv6": {}
         }
