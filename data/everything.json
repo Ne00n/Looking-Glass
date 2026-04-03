@@ -5731,7 +5731,7 @@
         },
         "http://lg-il1.hostry.com/": {
             "ipv4": {
-                "77.91.74.170": "Petah Tikva, Israel"
+                "77.91.74.170": "Georgia"
             },
             "ipv6": {}
         },
@@ -5769,7 +5769,7 @@
         },
         "http://lg-kz1.hostry.com/": {
             "ipv4": {
-                "45.159.250.52": "Almaty, Kazakhstan"
+                "45.159.250.52": "Russia"
             },
             "ipv6": {}
         },
@@ -8917,7 +8917,7 @@
         },
         "http://lg.ny.madcityservers.com//": {
             "ipv4": {
-                "134.202.120.10": "Los Angeles, United States"
+                "134.202.120.10": "Reston, United States"
             },
             "ipv6": {
                 "7081:0000:0000:0000:5ec7:5ee6": "n/a"
@@ -9341,7 +9341,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Ladenburg, Germany"
+                "91.21.31.3": "Mannheim, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
