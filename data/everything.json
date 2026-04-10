@@ -1609,7 +1609,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Ogden, United States"
+                "64.140.171.145": "Tremonton, United States"
             },
             "ipv6": {}
         }
@@ -1995,7 +1995,7 @@
         },
         "lg-miami.serverhub.com": {
             "ipv4": {
-                "107.158.148.252": "Santiago, Chile"
+                "107.158.148.252": "Orlando, United States"
             },
             "ipv6": {}
         },
@@ -4234,7 +4234,7 @@
                 "139.162.65.37": "Tokyo, Japan"
             },
             "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Fussa, Japan"
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
             }
         },
         "speedtest.toronto1.linode.com": {
@@ -4778,7 +4778,7 @@
     "ip-projects.de": {
         "http://lg.ip-projects.de/": {
             "ipv4": {
-                "194.45.36.120": "Cologne, Germany"
+                "194.45.36.120": "Hurth, Germany"
             },
             "ipv6": {
                 "2a0a:51c1:0000:000b::3": "Germany"
@@ -5242,7 +5242,7 @@
         },
         "http://lg-pk.obhost.org/": {
             "ipv4": {
-                "103.148.162.20": "Pakistan"
+                "103.148.162.20": "Faisalabad, Pakistan"
             },
             "ipv6": {}
         },
@@ -5338,7 +5338,7 @@
         },
         "http://speedtest.c1.lon2.dediserve.com/": {
             "ipv4": {
-                "109.104.118.70": "Wareham, United Kingdom"
+                "109.104.118.70": "United Kingdom"
             },
             "ipv6": {
                 "2001:9d8:1000:1a2e::50": "United Kingdom"
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Canada"
+                "91.194.11.43": "Tbilisi, Georgia"
             },
             "ipv6": {}
         },
@@ -7211,7 +7211,7 @@
     "oplink.net": {
         "https://speedtest.oplink.net/": {
             "ipv4": {
-                "216.230.224.34": "Bellaire, United States"
+                "216.230.224.34": "Katy, United States"
             },
             "ipv6": {}
         }
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Weinheim, Germany"
+                "129.143.4.238": "Heidelberg, Germany"
             },
             "ipv6": {}
         }
@@ -10264,7 +10264,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Dreieich, Germany"
+                "82.195.94.248": "Darmstadt, Germany"
             },
             "ipv6": {}
         }
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Indonesia"
+                "27.131.3.230": "Bandung, Indonesia"
             },
             "ipv6": {}
         }
@@ -11946,7 +11946,7 @@
     "as47692.net": {
         "http://lg.as47692.net/tools": {
             "ipv4": {
-                "146.255.61.34": "Vienna, Austria"
+                "146.255.61.34": "Wiener Neudorf, Austria"
             },
             "ipv6": {}
         },
@@ -12658,7 +12658,7 @@
                 "94.136.22.133": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:ab8:4::100": "Mistelbach, Austria"
+                "2a02:ab8:4::100": "Austria"
             }
         }
     },
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Vienna, Austria"
+                "178.251.64.167": "Mautern, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13441,7 +13441,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
+                "186.193.193.35": "Americana, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
@@ -13468,7 +13468,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Germany"
+                "185.171.47.121": "Leipzig, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -14103,7 +14103,7 @@
     "imfnetwork.com.br": {
         "https://lg.imfnetwork.com.br": {
             "ipv4": {
-                "191.5.164.61": "Brazil"
+                "191.5.164.61": "Marilia, Brazil"
             },
             "ipv6": {
                 "2804:1398:1::164:61": "Brazil"
@@ -14266,7 +14266,7 @@
     "as1403.net": {
         "http://lg.as1403.net/": {
             "ipv4": {
-                "96.127.255.94": "Toronto, Canada"
+                "96.127.255.94": "Scarborough, Canada"
             },
             "ipv6": {
                 "2606:6d00:0:99::b1b9": "Montreal, Canada"
@@ -14614,7 +14614,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Igarassu, Brazil"
+                "186.208.8.2": "Recife, Brazil"
             },
             "ipv6": {}
         }
@@ -14632,7 +14632,7 @@
     "verizon.com": {
         "https://enterprise.verizon.com/why-verizon/looking-glass/": {
             "ipv4": {
-                "12.25.232.1": "United States"
+                "12.25.232.1": "Smyrna, United States"
             },
             "ipv6": {
                 "2001:67c:7b0::": "Czechia",
@@ -15521,7 +15521,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Absam, Austria"
+                "195.149.216.5": "Hall in Tirol, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
