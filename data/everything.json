@@ -110,7 +110,7 @@
     "cloudc.one": {
         "la.lg.cloudc.one": {
             "ipv4": {
-                "173.82.220.148": "United States"
+                "173.82.220.148": "Tel Aviv, Israel"
             },
             "ipv6": {
                 "2607:f130:0:ef::2": "Los Angeles, United States"
@@ -4791,7 +4791,7 @@
     "spearwarenetworks.com": {
         "https://spearwarenetworks.com/tampa-datacenter/": {
             "ipv4": {
-                "165.140.200.6": "Durham, United States"
+                "165.140.200.6": "Charlotte, United States"
             },
             "ipv6": {}
         }
@@ -6575,7 +6575,7 @@
         },
         "https://www.quadranet.com/new-jersey-datacenter": {
             "ipv4": {
-                "23.226.128.10": "Tsuen Wan, Hong Kong"
+                "23.226.128.10": "Hong Kong"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
@@ -8917,7 +8917,7 @@
         },
         "http://lg.ny.madcityservers.com//": {
             "ipv4": {
-                "134.202.120.10": "Reston, United States"
+                "134.202.120.10": "Los Angeles, United States"
             },
             "ipv6": {
                 "7081:0000:0000:0000:5ec7:5ee6": "n/a"
@@ -9073,7 +9073,7 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "85.239.41.247": "Moscow, Russia"
+                "85.239.41.247": "Secaucus, United States"
             },
             "ipv6": {}
         },
@@ -9503,7 +9503,7 @@
         },
         "https://www.iozoom.com/datacenter/new-jersey-vps/": {
             "ipv4": {
-                "23.226.128.10": "Tsuen Wan, Hong Kong"
+                "23.226.128.10": "Hong Kong"
             },
             "ipv6": {
                 "2607:fcd0:ccc0:1000::2": "Secaucus, United States"
