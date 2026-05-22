@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "West Jordan, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "West Jordan, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "West Jordan, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8895,7 +8895,7 @@
         },
         "http://lg.chi.madcityservers.com/": {
             "ipv4": {
-                "172.99.249.105": "Los Angeles, United States"
+                "172.99.249.105": "Chicago, United States"
             },
             "ipv6": {
                 "2602:ffc8:1:28:0000:0000:058b:2762": "Chicago, United States"
@@ -9252,7 +9252,7 @@
     "limewave.net": {
         "http://speedtest.seattle.wa.limewave.net/": {
             "ipv4": {
-                "104.224.53.130": "Ashburn, United States"
+                "104.224.53.130": "Canada"
             },
             "ipv6": {
                 "2602:fe69:201::1": "Canada"
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "West Jordan, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -12421,7 +12421,7 @@
     "bahialink.net.br": {
         "http://lg.bahialink.net.br": {
             "ipv4": {
-                "177.85.92.90": "Brazil"
+                "177.85.92.90": "Camacari, Brazil"
             },
             "ipv6": {}
         }
