@@ -310,7 +310,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "City of London, United Kingdom"
+                "89.33.7.2": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -323,19 +323,19 @@
                 "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
-                "45.43.64.64": "City of London, United Kingdom"
+                "45.43.64.64": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "Canary Wharf, United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "United Kingdom"
+                "2a05:9f40:1f:ee::2": "Canary Wharf, United Kingdom"
             }
         }
     },
@@ -4234,7 +4234,7 @@
                 "139.162.65.37": "Tokyo, Japan"
             },
             "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Fussa, Japan"
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
             }
         },
         "speedtest.toronto1.linode.com": {
@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "West Jordan, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "West Jordan, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "West Jordan, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -9239,7 +9239,7 @@
         },
         "https://lg-was01.netshop-isp.com.cy/": {
             "ipv4": {
-                "172.240.241.67": "United States"
+                "172.240.241.67": "Ashburn, United States"
             },
             "ipv6": {}
         }
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "West Jordan, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -10202,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Bilbao, Spain",
-                "130.206.195.254": "Bilbao, Spain",
-                "130.206.197.254": "Bilbao, Spain",
-                "130.206.198.125": "Bilbao, Spain",
-                "130.206.198.254": "Bilbao, Spain",
-                "130.206.201.254": "Bilbao, Spain",
-                "130.206.206.250": "Bilbao, Spain",
+                "130.206.194.254": "Villanueva de la Canada, Spain",
+                "130.206.195.254": "Villanueva de la Canada, Spain",
+                "130.206.197.254": "Villanueva de la Canada, Spain",
+                "130.206.198.125": "Villanueva de la Canada, Spain",
+                "130.206.198.254": "Villanueva de la Canada, Spain",
+                "130.206.201.254": "Villanueva de la Canada, Spain",
+                "130.206.206.250": "Villanueva de la Canada, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
