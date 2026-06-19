@@ -2237,7 +2237,7 @@
     "v.ps": {
         "ams.lg.v.ps": {
             "ipv4": {
-                "78.142.195.195": "The Netherlands"
+                "78.142.195.195": "Amsterdam, The Netherlands"
             },
             "ipv6": {
                 "2a0c:59c0:12::10b": "Amsterdam, The Netherlands"
@@ -10052,7 +10052,7 @@
         },
         "https://www.mvps.net/speedtest/uk": {
             "ipv4": {
-                "178.157.82.100": "London, United Kingdom"
+                "178.157.82.100": "Coventry, United Kingdom"
             },
             "ipv6": {}
         }
