@@ -2493,7 +2493,7 @@
     "netcetera.co.uk": {
         "lg.netcetera.co.uk": {
             "ipv4": {
-                "146.247.49.96": "United Kingdom"
+                "146.247.49.96": "Guernsey"
             },
             "ipv6": {}
         }
@@ -4234,7 +4234,7 @@
                 "139.162.65.37": "Tokyo, Japan"
             },
             "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Fussa, Japan"
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
             }
         },
         "speedtest.toronto1.linode.com": {
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Canada"
+                "91.194.11.43": "Gorinchem, The Netherlands"
             },
             "ipv6": {}
         },
@@ -8292,7 +8292,7 @@
         },
         "https://usping.evoxt.com/": {
             "ipv4": {
-                "103.179.142.254": "Malaysia"
+                "103.179.142.254": "Los Angeles, United States"
             },
             "ipv6": {}
         }
