@@ -110,7 +110,7 @@
     "cloudc.one": {
         "la.lg.cloudc.one": {
             "ipv4": {
-                "173.82.220.148": "Tel Aviv, Israel"
+                "173.82.220.148": "United States"
             },
             "ipv6": {
                 "2607:f130:0:ef::2": "Los Angeles, United States"
@@ -4234,7 +4234,7 @@
                 "139.162.65.37": "Tokyo, Japan"
             },
             "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
+                "2400:8902::f03c:91ff:fe16:ffaa": "Fussa, Japan"
             }
         },
         "speedtest.toronto1.linode.com": {
@@ -4408,7 +4408,7 @@
         "https://www.smarthost.net/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Gland, Switzerland",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -5310,10 +5310,10 @@
         },
         "http://speedtest.c1.hkg1.dediserve.com/": {
             "ipv4": {
-                "103.53.199.50": "Hong Kong, Hong Kong"
+                "103.53.199.50": "Australia"
             },
             "ipv6": {
-                "2402:2f80:8::3": "Hong Kong, Hong Kong"
+                "2402:2f80:8::3": "Australia"
             }
         },
         "http://speedtest.c1.jap1.dediserve.com/": {
@@ -6165,7 +6165,7 @@
         "https://simplexhosts.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Gland, Switzerland",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -7289,7 +7289,7 @@
         "https://vapornode.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Gland, Switzerland",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -9073,7 +9073,7 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "85.239.41.247": "Secaucus, United States"
+                "85.239.41.247": "Moscow, Russia"
             },
             "ipv6": {}
         },
@@ -9303,7 +9303,7 @@
                 "94.16.6.148": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a00:11c0:77:5:94:16:6:148": "Austria"
+                "2a00:11c0:77:5:94:16:6:148": "Nuremberg, Germany"
             }
         },
         "https://lg-nl.hostfactor.eu/": {
@@ -9532,7 +9532,7 @@
         "https://jaxvps.com/data-centers.php": {
             "ipv4": {
                 "107.173.81.2": "Buffalo, United States",
-                "136.0.228.26": "United States",
+                "136.0.228.26": "Gland, Switzerland",
                 "139.64.132.2": "Portland, United States",
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
@@ -12772,7 +12772,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Miasteczko Slaskie, Poland"
+                "91.188.97.174": "Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -15251,7 +15251,7 @@
     "herzacloud.com": {
         "http://lg-cyber1.herzacloud.com": {
             "ipv4": {
-                "103.152.118.76": "South Jakarta, Indonesia"
+                "103.152.118.76": "Indonesia"
             },
             "ipv6": {}
         },
