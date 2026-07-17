@@ -308,7 +308,7 @@
         "https://iniz.com/network": {
             "ipv4": {
                 "107.161.164.164": "United States",
-                "107.161.173.11": "United States",
+                "107.161.173.11": "United Kingdom",
                 "107.181.135.11": "Dallas, United States",
                 "89.33.7.2": "Canary Wharf, United Kingdom"
             },
@@ -320,7 +320,7 @@
         },
         "lg.iniz.com": {
             "ipv4": {
-                "107.161.173.2": "United States",
+                "107.161.173.2": "United Kingdom",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
                 "45.43.64.64": "Canary Wharf, United Kingdom"
@@ -971,7 +971,7 @@
                 "158.51.84.9": "United States"
             },
             "ipv6": {
-                "2602:fed2:7106:4818:0000:0000:0000:0002": "Canada"
+                "2602:fed2:7106:4818:0000:0000:0000:0002": "Zion, United States"
             }
         },
         "lgmel.nexusbytes.com": {
@@ -1609,7 +1609,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Tremonton, United States"
+                "64.140.171.145": "Ogden, United States"
             },
             "ipv6": {}
         }
@@ -2087,7 +2087,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Dupnitsa, Bulgaria"
+                "78.128.92.20": "Rila, Bulgaria"
             },
             "ipv6": {}
         },
@@ -4016,7 +4016,7 @@
         },
         "https://sg.lg.speedypage.com/": {
             "ipv4": {
-                "194.9.62.3": "Singapore"
+                "194.9.62.3": "Lisbon, Portugal"
             },
             "ipv6": {
                 "2001:df7:1d80:2::a": "Singapore, Singapore"
@@ -4234,7 +4234,7 @@
                 "139.162.65.37": "Tokyo, Japan"
             },
             "ipv6": {
-                "2400:8902::f03c:91ff:fe16:ffaa": "Fussa, Japan"
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
             }
         },
         "speedtest.toronto1.linode.com": {
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Gorinchem, The Netherlands"
+                "91.194.11.43": "Canada"
             },
             "ipv6": {}
         },
@@ -6100,7 +6100,7 @@
                 "31.7.187.138": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4a0:67:7::947e": "Germany"
+                "2a01:4a0:67:7::947e": "Erlangen, Germany"
             }
         },
         "https://afterburst.com/datacenters/": {
@@ -9252,7 +9252,7 @@
     "limewave.net": {
         "http://speedtest.seattle.wa.limewave.net/": {
             "ipv4": {
-                "104.224.53.130": "Canada"
+                "104.224.53.130": "London, United Kingdom"
             },
             "ipv6": {
                 "2602:fe69:201::1": "Canada"
@@ -9341,7 +9341,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Ketsch, Germany"
+                "91.21.31.3": "Ladenburg, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9742,7 +9742,7 @@
                 "31.7.177.131": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:54::2": "Germany"
+                "2a01:4a0:54::2": "Erlangen, Germany"
             }
         },
         "fra.lg.core-backbone.com": {
@@ -9750,7 +9750,7 @@
                 "31.7.184.196": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:53::2": "Germany"
+                "2a01:4a0:53::2": "Erlangen, Germany"
             }
         },
         "http://lg.core-backbone.com/": {
@@ -9758,7 +9758,7 @@
                 "83.142.85.226": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:36::2": "Germany"
+                "2a01:4a0:36::2": "Erlangen, Germany"
             }
         },
         "nyk.lg.core-backbone.com": {
@@ -9766,7 +9766,7 @@
                 "81.95.11.204": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:70::2": "Germany"
+                "2a01:4a0:70::2": "Erlangen, Germany"
             }
         },
         "sin.lg.core-backbone.com": {
@@ -9774,7 +9774,7 @@
                 "195.138.250.11": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:e:1::11": "Germany"
+                "2a01:4a0:e:1::11": "Erlangen, Germany"
             }
         }
     },
@@ -10028,7 +10028,7 @@
         },
         "https://www.mvps.net/speedtest/gr": {
             "ipv4": {
-                "185.234.52.100": "Greece"
+                "185.234.52.100": "Thessaloniki, Greece"
             },
             "ipv6": {}
         },
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Morlenbach, Germany"
+                "129.143.4.238": "Schwetzingen, Germany"
             },
             "ipv6": {}
         }
@@ -10202,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Pamplona, Spain",
-                "130.206.195.254": "Pamplona, Spain",
-                "130.206.197.254": "Pamplona, Spain",
-                "130.206.198.125": "Pamplona, Spain",
-                "130.206.198.254": "Pamplona, Spain",
-                "130.206.201.254": "Pamplona, Spain",
-                "130.206.206.250": "Pamplona, Spain",
+                "130.206.194.254": "Bilbao, Spain",
+                "130.206.195.254": "Bilbao, Spain",
+                "130.206.197.254": "Bilbao, Spain",
+                "130.206.198.125": "Bilbao, Spain",
+                "130.206.198.254": "Bilbao, Spain",
+                "130.206.201.254": "Bilbao, Spain",
+                "130.206.206.250": "Bilbao, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
@@ -10264,7 +10264,7 @@
                 "82.195.66.230": "Darmstadt, Germany",
                 "82.195.67.1": "Darmstadt, Germany",
                 "82.195.67.32": "Darmstadt, Germany",
-                "82.195.94.248": "Darmstadt, Germany"
+                "82.195.94.248": "Rudesheim am Rhein, Germany"
             },
             "ipv6": {}
         }
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Indonesia"
+                "27.131.3.230": "Depok, Indonesia"
             },
             "ipv6": {}
         }
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Wroclaw, Poland"
+                "185.56.208.2": "Bielany Wrocawskie, Poland"
             },
             "ipv6": {}
         }
@@ -12587,7 +12587,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Jakarta, Indonesia",
+                "117.54.200.163": "Karawang, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13468,7 +13468,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Leipzig, Germany"
+                "185.171.47.121": "Baden-Baden, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13862,7 +13862,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Odder, Denmark"
+                "80.251.201.188": "Bastad, Sweden"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
@@ -14614,7 +14614,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Recife, Brazil"
+                "186.208.8.2": "Igarassu, Brazil"
             },
             "ipv6": {}
         }
