@@ -310,7 +310,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United Kingdom",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "Canary Wharf, United Kingdom"
+                "89.33.7.2": "Poplar, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -323,19 +323,19 @@
                 "107.161.173.2": "United Kingdom",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
-                "45.43.64.64": "Canary Wharf, United Kingdom"
+                "45.43.64.64": "Poplar, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "Canary Wharf, United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "Poplar, United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "Canary Wharf, United Kingdom"
+                "2a05:9f40:1f:ee::2": "Poplar, United Kingdom"
             }
         }
     },
@@ -1880,7 +1880,7 @@
                 "172.107.96.75": "United States"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
             }
         },
         "lg.sao.psychz.net": {
@@ -2061,7 +2061,7 @@
         },
         "lg.den.dedicontrol.com": {
             "ipv4": {
-                "172.81.40.35": "United States"
+                "172.81.40.35": "n/a"
             },
             "ipv6": {}
         },
@@ -2087,7 +2087,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Rila, Bulgaria"
+                "78.128.92.20": "Dupnitsa, Bulgaria"
             },
             "ipv6": {}
         },
@@ -2181,7 +2181,7 @@
     "servermania.com": {
         "https://lg.lhr1.servermania.com/": {
             "ipv4": {
-                "23.236.147.242": "Canary Wharf, United Kingdom"
+                "23.236.147.242": "Poplar, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2589,7 +2589,7 @@
         },
         "http://atl.lg.virmach.com/": {
             "ipv4": {
-                "23.147.226.8": "Canada"
+                "23.147.226.8": "n/a"
             },
             "ipv6": {}
         },
@@ -3836,7 +3836,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Canary Wharf, United Kingdom"
+                "108.61.196.101": "Poplar, United Kingdom"
             },
             "ipv6": {}
         },
@@ -4024,10 +4024,10 @@
         },
         "https://uk.lg.speedypage.com/": {
             "ipv4": {
-                "5.44.251.178": "Canary Wharf, United Kingdom"
+                "5.44.251.178": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2a06:a005:16d0:5::a": "Canary Wharf, United Kingdom"
+                "2a06:a005:16d0:5::a": "Poplar, United Kingdom"
             }
         }
     },
@@ -5062,7 +5062,7 @@
             "ipv4": {
                 "129.227.218.229": "Mumbai, India",
                 "192.3.229.42": "Dallas, United States",
-                "69.12.87.19": "Los Angeles, United States"
+                "69.12.87.19": "United States"
             },
             "ipv6": {
                 "2607:fcd0:100:360d::978d:3ea7": "United States",
@@ -5114,7 +5114,7 @@
                 "104.149.18.203": "Los Angeles, United States",
                 "104.223.90.5": "United States",
                 "161.129.64.235": "United States",
-                "172.81.40.35": "United States",
+                "172.81.40.35": "n/a",
                 "185.161.69.26": "Cyprus",
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
@@ -5218,7 +5218,7 @@
         },
         "https://yourlasthost.com/datacenter-la.php": {
             "ipv4": {
-                "69.12.87.19": "Los Angeles, United States"
+                "69.12.87.19": "United States"
             },
             "ipv6": {}
         }
@@ -5582,10 +5582,10 @@
         },
         "lon.speedtest.clouvider.net": {
             "ipv4": {
-                "5.180.211.133": "Canary Wharf, United Kingdom"
+                "5.180.211.133": "Poplar, United Kingdom"
             },
             "ipv6": {
-                "2a0d:5082:0:4::2": "Canary Wharf, United Kingdom"
+                "2a0d:5082:0:4::2": "Poplar, United Kingdom"
             }
         },
         "man.speedtest.clouvider.net": {
@@ -5883,7 +5883,7 @@
         },
         "http://lg-us4.hostry.com/": {
             "ipv4": {
-                "5.188.0.82": "Secaucus, United States"
+                "5.188.0.82": "Luxembourg"
             },
             "ipv6": {
                 "2a03:90c0:176::70": "Secaucus, United States"
@@ -6140,7 +6140,7 @@
     "host4geeks.com": {
         "https://host4geeks.com/datacenters/": {
             "ipv4": {
-                "103.83.192.1": "Denpasar, Indonesia",
+                "103.83.192.1": "United States",
                 "172.93.123.1": "Los Angeles, United States",
                 "185.221.216.1": "London, United Kingdom",
                 "66.85.47.1": "United States"
@@ -8378,7 +8378,7 @@
                 "104.166.127.78": "Les Paris, France",
                 "155.254.192.138": "Rotterdam, The Netherlands",
                 "176.32.32.133": "Kazan', Russia",
-                "185.143.222.48": "Panama",
+                "185.143.222.48": "n/a",
                 "193.38.50.142": "Kyiv, Ukraine",
                 "194.87.68.192": "St Petersburg, Russia",
                 "209.209.112.37": "Sao Pedro, Brazil",
@@ -9481,7 +9481,7 @@
                 "172.107.96.75": "United States"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
             }
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
@@ -10202,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Bilbao, Spain",
-                "130.206.195.254": "Bilbao, Spain",
-                "130.206.197.254": "Bilbao, Spain",
-                "130.206.198.125": "Bilbao, Spain",
-                "130.206.198.254": "Bilbao, Spain",
-                "130.206.201.254": "Bilbao, Spain",
-                "130.206.206.250": "Bilbao, Spain",
+                "130.206.194.254": "Sondika, Spain",
+                "130.206.195.254": "Sondika, Spain",
+                "130.206.197.254": "Sondika, Spain",
+                "130.206.198.125": "Sondika, Spain",
+                "130.206.198.254": "Sondika, Spain",
+                "130.206.201.254": "Sondika, Spain",
+                "130.206.206.250": "Sondika, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
@@ -12587,7 +12587,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Karawang, Indonesia",
+                "117.54.200.163": "Jakarta, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13989,7 +13989,7 @@
     "incx.net": {
         "http://lg.mi.incx.net/": {
             "ipv4": {
-                "38.146.4.164": "Grosse Pointe, United States"
+                "38.146.4.164": "Grosse Pointe Park, United States"
             },
             "ipv6": {}
         }
