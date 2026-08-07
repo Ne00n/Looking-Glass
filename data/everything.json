@@ -2043,25 +2043,25 @@
         },
         "lg.dc03.dedicontrol.com": {
             "ipv4": {
-                "91.132.1.132": "Los Angeles, United States"
+                "91.132.1.132": "Germany"
             },
             "ipv6": {}
         },
         "lg.dc07.dedicontrol.com": {
             "ipv4": {
-                "5.104.78.10": "New York, United States"
+                "5.104.78.10": "Los Angeles, United States"
             },
             "ipv6": {}
         },
         "lg.dc08.dedicontrol.com": {
             "ipv4": {
-                "45.81.7.154": "Los Angeles, United States"
+                "45.81.7.154": "Germany"
             },
             "ipv6": {}
         },
         "lg.den.dedicontrol.com": {
             "ipv4": {
-                "172.81.40.35": "n/a"
+                "172.81.40.35": "United States"
             },
             "ipv6": {}
         },
@@ -2589,7 +2589,7 @@
         },
         "http://atl.lg.virmach.com/": {
             "ipv4": {
-                "23.147.226.8": "n/a"
+                "23.147.226.8": "Canada"
             },
             "ipv6": {}
         },
@@ -3310,7 +3310,7 @@
                 "176.123.0.17": "Chisinau, Moldova"
             },
             "ipv6": {
-                "2001:678:6d4:feed::17": "Moldova"
+                "2001:678:6d4:feed::17": "Chisinau, Moldova"
             }
         }
     },
@@ -4129,7 +4129,7 @@
     "albahost.net": {
         "https://lg.albahost.net": {
             "ipv4": {
-                "31.220.29.4": "Frankfurt am Main, Germany"
+                "31.220.29.4": "Germany"
             },
             "ipv6": {}
         },
@@ -5114,22 +5114,22 @@
                 "104.149.18.203": "Los Angeles, United States",
                 "104.223.90.5": "United States",
                 "161.129.64.235": "United States",
-                "172.81.40.35": "n/a",
+                "172.81.40.35": "United States",
                 "185.161.69.26": "Cyprus",
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
                 "198.55.111.5": "United States",
                 "212.224.70.16": "Neu-Isenburg, Germany",
-                "45.81.7.154": "Los Angeles, United States",
+                "45.81.7.154": "Germany",
                 "45.9.15.195": "Moscow, Russia",
-                "5.104.78.10": "New York, United States",
+                "5.104.78.10": "Los Angeles, United States",
                 "62.113.254.1": "Germany",
                 "69.25.116.107": "United States",
                 "69.25.117.188": "United States",
                 "69.61.66.10": "Atlanta, United States",
                 "74.217.183.180": "United States",
                 "84.200.17.1": "Germany",
-                "91.132.1.132": "Los Angeles, United States"
+                "91.132.1.132": "Germany"
             },
             "ipv6": {
                 "2607:fcd0:cd40:100::235": "United States",
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Canada"
+                "91.194.11.43": "Dongen, The Netherlands"
             },
             "ipv6": {}
         },
@@ -6100,7 +6100,7 @@
                 "31.7.187.138": "Nuremberg, Germany"
             },
             "ipv6": {
-                "2a01:4a0:67:7::947e": "Erlangen, Germany"
+                "2a01:4a0:67:7::947e": "Germany"
             }
         },
         "https://afterburst.com/datacenters/": {
@@ -6998,7 +6998,7 @@
                 "2605:6400:30:fdd5::1": "Bern, Switzerland",
                 "2a01:4f9:2a:14e2::1": "Germany",
                 "2604:2dc0:100:16c::0": "United States",
-                "2a01:4f8:150:7155::0": "Falkenstein, Germany",
+                "2a01:4f8:150:7155::0": "Germany",
                 "2402:1f00:8101:b2b::0": "Sydney, Australia",
                 "2607:5300:60:379f::0": "Canada",
                 "2402:1f00:8001:6cc::1": "Singapore, Singapore",
@@ -8710,7 +8710,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Damascus, Syria"
+                "5.0.8.5": "Syria"
             },
             "ipv6": {}
         }
@@ -8887,7 +8887,7 @@
     "madcityservers.com": {
         "http://lg.buf.madcityservers.com/": {
             "ipv4": {
-                "158.51.113.4": "Fremont, United States"
+                "158.51.113.4": "Canada"
             },
             "ipv6": {
                 "2602:fed2:730e:6785:e322:6774:47f6:f288": "Canada"
@@ -9606,7 +9606,7 @@
         },
         "http://lg-la.nextarray.com/": {
             "ipv4": {
-                "45.13.233.136": "New York, United States"
+                "45.13.233.136": "Secaucus, United States"
             },
             "ipv6": {}
         },
@@ -9742,7 +9742,7 @@
                 "31.7.177.131": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:54::2": "Erlangen, Germany"
+                "2a01:4a0:54::2": "Germany"
             }
         },
         "fra.lg.core-backbone.com": {
@@ -9750,7 +9750,7 @@
                 "31.7.184.196": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:53::2": "Erlangen, Germany"
+                "2a01:4a0:53::2": "Germany"
             }
         },
         "http://lg.core-backbone.com/": {
@@ -9758,7 +9758,7 @@
                 "83.142.85.226": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:36::2": "Erlangen, Germany"
+                "2a01:4a0:36::2": "Germany"
             }
         },
         "nyk.lg.core-backbone.com": {
@@ -9766,7 +9766,7 @@
                 "81.95.11.204": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:70::2": "Erlangen, Germany"
+                "2a01:4a0:70::2": "Germany"
             }
         },
         "sin.lg.core-backbone.com": {
@@ -9774,7 +9774,7 @@
                 "195.138.250.11": "Germany"
             },
             "ipv6": {
-                "2a01:4a0:e:1::11": "Erlangen, Germany"
+                "2a01:4a0:e:1::11": "Germany"
             }
         }
     },
@@ -13786,7 +13786,7 @@
                 "191.243.156.214": "Ferraz de Vasconcelos, Brazil"
             },
             "ipv6": {
-                "2804:908:300:806::156:218": "Rio de Janeiro, Brazil"
+                "2804:908:300:806::156:218": "Brazil"
             }
         }
     },
@@ -16101,7 +16101,7 @@
         },
         "speedtesteus.blob.core.windows.net": {
             "ipv4": {
-                "52.240.48.36": "Washington, United States"
+                "52.240.48.36": "Dulles, United States"
             },
             "ipv6": {}
         },
