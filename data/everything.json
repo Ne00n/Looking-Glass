@@ -2007,7 +2007,7 @@
         },
         "lg-phoenix.serverhub.com": {
             "ipv4": {
-                "104.140.1.38": "United States"
+                "104.140.1.38": "Ocean Shores, United States"
             },
             "ipv6": {}
         },
@@ -2493,7 +2493,7 @@
     "netcetera.co.uk": {
         "lg.netcetera.co.uk": {
             "ipv4": {
-                "146.247.49.96": "Guernsey"
+                "146.247.49.96": "Saint Helier, Jersey"
             },
             "ipv6": {}
         }
@@ -2516,7 +2516,7 @@
                 "2a01:a500:1717:1808::2:23": "Coventry, United Kingdom",
                 "2607:9000:8000:22::1": "San Jose, United States",
                 "2a04:9dc0:0:8d::1": "Bucharest, Romania",
-                "2607:ff48:0:a:b:c:d:666": "Miami, United States",
+                "2607:ff48:0:a:b:c:d:666": "United States",
                 "2607:f7a0:5:3::1:b65c": "Phoenix, United States",
                 "2602:ffc8:1::2": "Chicago, United States",
                 "2604:6600:2002:4::1531:a1e7": "Ashburn, United States",
@@ -5725,13 +5725,13 @@
         },
         "http://lg-hu1.hostry.com/": {
             "ipv4": {
-                "5.182.38.110": "Budapest, Hungary"
+                "5.182.38.110": "Russia"
             },
             "ipv6": {}
         },
         "http://lg-il1.hostry.com/": {
             "ipv4": {
-                "77.91.74.170": "Georgia"
+                "77.91.74.170": "Russia"
             },
             "ipv6": {}
         },
@@ -6329,7 +6329,7 @@
     "krypt.com": {
         "https://www.krypt.com/network/hawaii-data-center-hnl/": {
             "ipv4": {
-                "107.6.255.2": "Honolulu, United States"
+                "107.6.255.2": "'Ewa Beach, United States"
             },
             "ipv6": {}
         },
@@ -6375,7 +6375,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "Honolulu, United States",
+                "107.6.242.126": "'Ewa Beach, United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -6531,7 +6531,7 @@
                 "173.44.32.10": "Mumbai, India"
             },
             "ipv6": {
-                "2607:ff48:0:a:b:c:d:666": "Miami, United States"
+                "2607:ff48:0:a:b:c:d:666": "United States"
             }
         },
         "https://quadranet.com/seattle-datacenter": {
@@ -8665,7 +8665,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Ostrozska Nova Ves, Czechia"
+                "93.99.104.115": "Ceske Budejovice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -8710,7 +8710,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Syria"
+                "5.0.8.5": "Damascus, Syria"
             },
             "ipv6": {}
         }
@@ -9341,7 +9341,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Ladenburg, Germany"
+                "91.21.31.3": "Edingen-Neckarhausen, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9498,7 +9498,7 @@
                 "173.44.32.10": "Mumbai, India"
             },
             "ipv6": {
-                "2607:ff48:0:a:b:c:d:666": "Miami, United States"
+                "2607:ff48:0:a:b:c:d:666": "United States"
             }
         },
         "https://www.iozoom.com/datacenter/new-jersey-vps/": {
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Schwetzingen, Germany"
+                "129.143.4.238": "Neckargemund, Germany"
             },
             "ipv6": {}
         }
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Depok, Indonesia"
+                "27.131.3.230": "Bekasi, Indonesia"
             },
             "ipv6": {}
         }
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Bielany Wrocawskie, Poland"
+                "185.56.208.2": "Gniechowice, Poland"
             },
             "ipv6": {}
         }
@@ -12030,7 +12030,7 @@
     "zitline.net.id": {
         "http://lg.zitline.net.id": {
             "ipv4": {
-                "103.87.228.9": "Indonesia"
+                "103.87.228.9": "Bandar Lampung, Indonesia"
             },
             "ipv6": {
                 "2400:d940:c000::2": "Indonesia"
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Mautern, Austria"
+                "178.251.64.167": "Stockerau, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13198,7 +13198,7 @@
     "jettel.pl": {
         "http://lg.jettel.pl/": {
             "ipv4": {
-                "91.241.33.69": "Zabrzeg, Poland"
+                "91.241.33.69": "Jaworze, Poland"
             },
             "ipv6": {}
         }
@@ -14614,7 +14614,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Igarassu, Brazil"
+                "186.208.8.2": "Recife, Brazil"
             },
             "ipv6": {}
         }
@@ -15521,7 +15521,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Hall in Tirol, Austria"
+                "195.149.216.5": "Volders, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
