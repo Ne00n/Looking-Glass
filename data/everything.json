@@ -396,7 +396,7 @@
         },
         "lg-bai.fdcservers.net": {
             "ipv4": {
-                "66.90.73.4": "Buenos Aires, Argentina"
+                "66.90.73.4": "United States"
             },
             "ipv6": {}
         },
@@ -2087,7 +2087,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Dupnitsa, Bulgaria"
+                "78.128.92.20": "Bulgaria"
             },
             "ipv6": {}
         },
@@ -7969,7 +7969,7 @@
                 "103.230.157.80": "Brisbane, Australia"
             },
             "ipv6": {
-                "2404:9400:1:0:216:3eff:fef1:3a51": "Australia"
+                "2404:9400:1:0:216:3eff:fef1:3a51": "Brisbane, Australia"
             }
         },
         "https://per-lg.binarylane.cloud/": {
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Neckargemund, Germany"
+                "129.143.4.238": "Speyer, Germany"
             },
             "ipv6": {}
         }
