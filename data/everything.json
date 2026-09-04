@@ -3467,7 +3467,7 @@
     "justhost.ru": {
         "https://lg-dcolo.justhost.ru/": {
             "ipv4": {
-                "209.209.112.37": "Sao Pedro, Brazil"
+                "209.209.112.37": "n/a"
             },
             "ipv6": {
                 "2605:e440::5:5": "Dallas, United States"
@@ -3932,18 +3932,18 @@
     "terrahost.com": {
         "https://lg.ams-nl.terrahost.com/": {
             "ipv4": {
-                "45.88.200.26": "Amsterdam, The Netherlands"
+                "45.88.200.26": "Sandefjord, Norway"
             },
             "ipv6": {
-                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, The Netherlands"
+                "2a03:94e3:ffff:45:88:200::26": "Sandefjord, Norway"
             }
         },
         "https://lg.kc-us.terrahost.com/": {
             "ipv4": {
-                "193.243.189.8": "Amsterdam, The Netherlands"
+                "193.243.189.8": "Sandefjord, Norway"
             },
             "ipv6": {
-                "2a03:94e1:ffff:193:243:189::8": "Amsterdam, The Netherlands"
+                "2a03:94e1:ffff:193:243:189::8": "Sandefjord, Norway"
             }
         },
         "https://lg.terrahost.com/": {
@@ -4129,7 +4129,7 @@
     "albahost.net": {
         "https://lg.albahost.net": {
             "ipv4": {
-                "31.220.29.4": "Germany"
+                "31.220.29.4": "Frankfurt am Main, Germany"
             },
             "ipv6": {}
         },
@@ -5001,7 +5001,7 @@
                 "104.218.101.31": "United States",
                 "162.249.170.22": "United States",
                 "192.169.46.33": "United States",
-                "198.55.108.131": "United States"
+                "198.55.108.131": "San Jose, United States"
             },
             "ipv6": {}
         }
@@ -8375,13 +8375,13 @@
     "just.hosting": {
         "https://just.hosting/article/looking_glass": {
             "ipv4": {
-                "104.166.127.78": "Les Paris, France",
+                "104.166.127.78": "n/a",
                 "155.254.192.138": "Rotterdam, The Netherlands",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "n/a",
                 "193.38.50.142": "Kyiv, Ukraine",
                 "194.87.68.192": "St Petersburg, Russia",
-                "209.209.112.37": "Sao Pedro, Brazil",
+                "209.209.112.37": "n/a",
                 "212.60.5.88": "Moscow, Russia",
                 "46.17.40.85": "Moscow, Russia",
                 "46.29.162.89": "Moscow, Russia",
@@ -9073,7 +9073,7 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "85.239.41.247": "Moscow, Russia"
+                "85.239.41.247": "Secaucus, United States"
             },
             "ipv6": {}
         },
