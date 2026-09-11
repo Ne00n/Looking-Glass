@@ -308,7 +308,7 @@
         "https://iniz.com/network": {
             "ipv4": {
                 "107.161.164.164": "United States",
-                "107.161.173.11": "United Kingdom",
+                "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
                 "89.33.7.2": "Canary Wharf, United Kingdom"
             },
@@ -320,7 +320,7 @@
         },
         "lg.iniz.com": {
             "ipv4": {
-                "107.161.173.2": "United Kingdom",
+                "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
                 "45.43.64.64": "Canary Wharf, United Kingdom"
@@ -971,7 +971,7 @@
                 "158.51.84.9": "United States"
             },
             "ipv6": {
-                "2602:fed2:7106:4818:0000:0000:0000:0002": "Zion, United States"
+                "2602:fed2:7106:4818:0000:0000:0000:0002": "Canada"
             }
         },
         "lgmel.nexusbytes.com": {
@@ -1995,7 +1995,7 @@
         },
         "lg-miami.serverhub.com": {
             "ipv4": {
-                "107.158.148.252": "Orlando, United States"
+                "107.158.148.252": "Santiago, Chile"
             },
             "ipv6": {}
         },
@@ -2007,7 +2007,7 @@
         },
         "lg-phoenix.serverhub.com": {
             "ipv4": {
-                "104.140.1.38": "Ocean Shores, United States"
+                "104.140.1.38": "Spokane, United States"
             },
             "ipv6": {}
         },
@@ -3263,7 +3263,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "Turkiye",
-                "192.173.144.38": "Delburne, Canada"
+                "192.173.144.38": "Innisfail, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -5485,7 +5485,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
                 "45.199.226.132": "Taipei, Taiwan",
-                "64.74.240.241": "United States"
+                "64.74.240.241": "Jersey City, United States"
             },
             "ipv6": {}
         },
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "Dongen, The Netherlands"
+                "91.194.11.43": "United States"
             },
             "ipv6": {}
         },
@@ -5655,7 +5655,7 @@
         },
         "http://lg-cn2.hostry.com/": {
             "ipv4": {
-                "194.156.98.218": "Wan Chai, Hong Kong"
+                "194.156.98.218": "United Arab Emirates"
             },
             "ipv6": {
                 "2a09:7c45::2d7": "Moldova"
@@ -8665,7 +8665,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Ceske Budejovice, Czechia"
+                "93.99.104.115": "Moravska Nova Ves, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -9341,7 +9341,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Edingen-Neckarhausen, Germany"
+                "91.21.31.3": "Ladenburg, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Speyer, Germany"
+                "129.143.4.238": "Neckargemund, Germany"
             },
             "ipv6": {}
         }
@@ -10202,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Sondika, Spain",
-                "130.206.195.254": "Sondika, Spain",
-                "130.206.197.254": "Sondika, Spain",
-                "130.206.198.125": "Sondika, Spain",
-                "130.206.198.254": "Sondika, Spain",
-                "130.206.201.254": "Sondika, Spain",
-                "130.206.206.250": "Sondika, Spain",
+                "130.206.194.254": "Bilbao, Spain",
+                "130.206.195.254": "Bilbao, Spain",
+                "130.206.197.254": "Bilbao, Spain",
+                "130.206.198.125": "Bilbao, Spain",
+                "130.206.198.254": "Bilbao, Spain",
+                "130.206.201.254": "Bilbao, Spain",
+                "130.206.206.250": "Bilbao, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
@@ -10766,7 +10766,7 @@
     "sbp.net.id": {
         "http://lg.sbp.net.id": {
             "ipv4": {
-                "27.131.3.230": "Bekasi, Indonesia"
+                "27.131.3.230": "Bandung, Indonesia"
             },
             "ipv6": {}
         }
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Gniechowice, Poland"
+                "185.56.208.2": "Kobierzyce, Poland"
             },
             "ipv6": {}
         }
@@ -12587,7 +12587,7 @@
     "indo.net.id": {
         "http://lg.indo.net.id/": {
             "ipv4": {
-                "117.54.200.163": "Jakarta, Indonesia",
+                "117.54.200.163": "Bekasi, Indonesia",
                 "202.53.251.81": "Indonesia"
             },
             "ipv6": {}
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Stockerau, Austria"
+                "178.251.64.167": "Mattighofen, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13198,7 +13198,7 @@
     "jettel.pl": {
         "http://lg.jettel.pl/": {
             "ipv4": {
-                "91.241.33.69": "Jaworze, Poland"
+                "91.241.33.69": "Mazancowice, Poland"
             },
             "ipv6": {}
         }
@@ -13310,7 +13310,7 @@
     "redewt.net": {
         "https://lg.noc.redewt.net": {
             "ipv4": {
-                "185.240.251.126": "Portugal"
+                "185.240.251.126": "Braga, Portugal"
             },
             "ipv6": {
                 "2a03:6420:0:babe::1": "Portugal"
@@ -13468,7 +13468,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Baden-Baden, Germany"
+                "185.171.47.121": "Solden, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -14614,7 +14614,7 @@
         "https://vilanovanet.com/lg": {
             "ipv4": {
                 "179.48.14.60": "Recife, Brazil",
-                "186.208.8.2": "Recife, Brazil"
+                "186.208.8.2": "Igarassu, Brazil"
             },
             "ipv6": {}
         }
@@ -15521,7 +15521,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Volders, Austria"
+                "195.149.216.5": "Mils bei Solbad Hall, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
