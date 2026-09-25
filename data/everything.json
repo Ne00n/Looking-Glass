@@ -1989,7 +1989,7 @@
         },
         "lg-losangeles.serverhub.com": {
             "ipv4": {
-                "107.158.188.254": "United States"
+                "107.158.188.254": "New York, United States"
             },
             "ipv6": {}
         },
@@ -3263,7 +3263,7 @@
             "ipv4": {
                 "107.161.48.78": "United States",
                 "185.133.32.14": "Turkiye",
-                "192.173.144.38": "Innisfail, Canada"
+                "192.173.144.38": "Delburne, Canada"
             },
             "ipv6": {
                 "2605:8680:14:10::100": "United States",
@@ -3932,18 +3932,18 @@
     "terrahost.com": {
         "https://lg.ams-nl.terrahost.com/": {
             "ipv4": {
-                "45.88.200.26": "Sandefjord, Norway"
+                "45.88.200.26": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a03:94e3:ffff:45:88:200::26": "Sandefjord, Norway"
+                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, The Netherlands"
             }
         },
         "https://lg.kc-us.terrahost.com/": {
             "ipv4": {
-                "193.243.189.8": "Sandefjord, Norway"
+                "193.243.189.8": "Kansas City, United States"
             },
             "ipv6": {
-                "2a03:94e1:ffff:193:243:189::8": "Sandefjord, Norway"
+                "2a03:94e1:ffff:193:243:189::8": "Kansas City, United States"
             }
         },
         "https://lg.terrahost.com/": {
@@ -5635,7 +5635,7 @@
         },
         "http://lg-ca1.hostry.com/": {
             "ipv4": {
-                "91.194.11.43": "United States"
+                "91.194.11.43": "United Kingdom"
             },
             "ipv6": {}
         },
@@ -5934,7 +5934,7 @@
                 "185.82.218.203": "Sofia, Bulgaria",
                 "195.123.213.21": "Riga, Latvia",
                 "195.123.233.46": "Secaucus, United States",
-                "195.123.237.66": "Dusseldorf, Germany",
+                "195.123.237.66": "Vaduz, Liechtenstein",
                 "195.123.245.97": "Prague, Czechia",
                 "45.128.148.72": "Kyiv, Ukraine",
                 "45.90.57.70": "Geneva, Switzerland",
@@ -9019,7 +9019,7 @@
     "bluevps.com": {
         "ams-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "46.249.49.253": "Enschede, The Netherlands"
+                "46.249.49.253": "The Netherlands"
             },
             "ipv6": {}
         },
@@ -13198,7 +13198,7 @@
     "jettel.pl": {
         "http://lg.jettel.pl/": {
             "ipv4": {
-                "91.241.33.69": "Mazancowice, Poland"
+                "91.241.33.69": "Jaworze, Poland"
             },
             "ipv6": {}
         }
