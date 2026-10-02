@@ -3932,18 +3932,18 @@
     "terrahost.com": {
         "https://lg.ams-nl.terrahost.com/": {
             "ipv4": {
-                "45.88.200.26": "Amsterdam, The Netherlands"
+                "45.88.200.26": "Sandefjord, Norway"
             },
             "ipv6": {
-                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, The Netherlands"
+                "2a03:94e3:ffff:45:88:200::26": "Sandefjord, Norway"
             }
         },
         "https://lg.kc-us.terrahost.com/": {
             "ipv4": {
-                "193.243.189.8": "Kansas City, United States"
+                "193.243.189.8": "Sandefjord, Norway"
             },
             "ipv6": {
-                "2a03:94e1:ffff:193:243:189::8": "Kansas City, United States"
+                "2a03:94e1:ffff:193:243:189::8": "Sandefjord, Norway"
             }
         },
         "https://lg.terrahost.com/": {
@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8710,7 +8710,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Damascus, Syria"
+                "5.0.8.5": "Syria"
             },
             "ipv6": {}
         }
@@ -8786,7 +8786,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Greenville, United States"
+                "4.2.6.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -8932,7 +8932,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Greenville, United States"
+                "4.2.5.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -9176,7 +9176,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Greenville, United States"
+                "4.2.3.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -9321,7 +9321,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -9801,7 +9801,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -9882,7 +9882,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
@@ -9940,7 +9940,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Greenville, United States"
+                "4.2.7.1": "Huntersville, United States"
             },
             "ipv6": {}
         }
