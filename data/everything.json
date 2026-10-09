@@ -2987,7 +2987,7 @@
         },
         "lg.kharkiv.profitserver.ru": {
             "ipv4": {
-                "217.12.199.165": "Kyiv, Ukraine"
+                "217.12.199.165": "Gdansk, Poland"
             },
             "ipv6": {}
         },
@@ -3375,7 +3375,7 @@
                 "195.123.245.185": "Prague, Czechia",
                 "195.211.96.59": "Seattle, United States",
                 "195.211.98.33": "Chicago, United States",
-                "217.12.199.211": "Kyiv, Ukraine",
+                "217.12.199.211": "Gdansk, Poland",
                 "45.90.58.203": "Geneva, Switzerland",
                 "82.117.253.84": "Miami, United States",
                 "82.118.18.197": "Sofia, Bulgaria",
@@ -3554,7 +3554,7 @@
     "advancedserverdns.com": {
         "https://lg-bom2.advancedserverdns.com/": {
             "ipv4": {
-                "103.13.113.1": "India"
+                "103.13.113.1": "Panvel, India"
             },
             "ipv6": {}
         },
@@ -4938,7 +4938,7 @@
                 "161.129.64.235": "United States",
                 "185.208.208.3": "The Netherlands",
                 "198.55.111.5": "United States",
-                "212.224.70.16": "Neu-Isenburg, Germany",
+                "212.224.70.16": "Germany",
                 "62.113.254.1": "Germany",
                 "69.61.66.10": "Atlanta, United States",
                 "84.200.17.1": "Germany"
@@ -5119,7 +5119,7 @@
                 "185.208.208.3": "The Netherlands",
                 "194.180.179.242": "Tokyo, Japan",
                 "198.55.111.5": "United States",
-                "212.224.70.16": "Neu-Isenburg, Germany",
+                "212.224.70.16": "Germany",
                 "45.81.7.154": "Germany",
                 "45.9.15.195": "Moscow, Russia",
                 "5.104.78.10": "Los Angeles, United States",
@@ -5302,7 +5302,7 @@
         },
         "http://speedtest.c1.fra1.dediserve.com/": {
             "ipv4": {
-                "212.224.76.52": "Neu-Isenburg, Germany"
+                "212.224.76.52": "Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:240::9": "Germany"
@@ -5847,7 +5847,7 @@
         },
         "http://lg-ua1.hostry.com/": {
             "ipv4": {
-                "217.12.199.144": "Kyiv, Ukraine"
+                "217.12.199.144": "Gdansk, Poland"
             },
             "ipv6": {}
         },
@@ -6329,7 +6329,7 @@
     "krypt.com": {
         "https://www.krypt.com/network/hawaii-data-center-hnl/": {
             "ipv4": {
-                "107.6.255.2": "'Ewa Beach, United States"
+                "107.6.255.2": "Honolulu, United States"
             },
             "ipv6": {}
         },
@@ -6375,7 +6375,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "'Ewa Beach, United States",
+                "107.6.242.126": "Honolulu, United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -8118,7 +8118,7 @@
     "first-colo.net": {
         "https://lg.first-colo.net/": {
             "ipv4": {
-                "212.224.70.16": "Neu-Isenburg, Germany"
+                "212.224.70.16": "Germany"
             },
             "ipv6": {
                 "2a01:7e0::212:224:70:16": "Germany"
@@ -8786,7 +8786,7 @@
     "hostlogicx.com": {
         "https://www.hostlogicx.com/datacenter/": {
             "ipv4": {
-                "4.2.6.1": "Huntersville, United States"
+                "4.2.6.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -8932,7 +8932,7 @@
         "https://swiss-vps.com/network-datacenter/": {
             "ipv4": {
                 "179.43.160.219": "Rumlang, Switzerland",
-                "4.2.5.1": "Huntersville, United States"
+                "4.2.5.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9176,7 +9176,7 @@
     "prolimehost.com": {
         "https://www.prolimehost.com/los-angeles-datacenter/": {
             "ipv4": {
-                "4.2.3.1": "Huntersville, United States"
+                "4.2.3.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9321,7 +9321,7 @@
     "ubersmith.com": {
         "https://ubersmith.com/by-industry/data-center/": {
             "ipv4": {
-                "4.2.7.1": "Huntersville, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9341,7 +9341,7 @@
         },
         "https://lg.de.unixhost.pro/": {
             "ipv4": {
-                "91.21.31.3": "Ladenburg, Germany"
+                "91.21.31.3": "Mannheim, Germany"
             },
             "ipv6": {
                 "2a01:7e0:0:147::3": "Germany"
@@ -9801,7 +9801,7 @@
     "serverhosh.com": {
         "https://www.serverhosh.com/network-and-data-center/": {
             "ipv4": {
-                "4.2.7.1": "Huntersville, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9882,7 +9882,7 @@
     "nocser.net": {
         "https://www.nocser.net/nocser/our-data-centers/": {
             "ipv4": {
-                "4.2.7.1": "Huntersville, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -9940,7 +9940,7 @@
     "go2cloud.co.za": {
         "https://www.go2cloud.co.za/datacenter-selection-login-2/": {
             "ipv4": {
-                "4.2.7.1": "Huntersville, United States"
+                "4.2.7.1": "Greenville, United States"
             },
             "ipv6": {}
         }
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Neckargemund, Germany"
+                "129.143.4.238": "Neckarsteinach, Germany"
             },
             "ipv6": {}
         }
@@ -12658,7 +12658,7 @@
                 "94.136.22.133": "Vienna, Austria"
             },
             "ipv6": {
-                "2a02:ab8:4::100": "Austria"
+                "2a02:ab8:4::100": "Vienna, Austria"
             }
         }
     },
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Mattighofen, Austria"
+                "178.251.64.167": "Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13198,7 +13198,7 @@
     "jettel.pl": {
         "http://lg.jettel.pl/": {
             "ipv4": {
-                "91.241.33.69": "Jaworze, Poland"
+                "91.241.33.69": "Bielsko-Biala, Poland"
             },
             "ipv6": {}
         }
@@ -13862,7 +13862,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Bastad, Sweden"
+                "80.251.201.188": "Odder, Denmark"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
@@ -14103,7 +14103,7 @@
     "imfnetwork.com.br": {
         "https://lg.imfnetwork.com.br": {
             "ipv4": {
-                "191.5.164.61": "Marilia, Brazil"
+                "191.5.164.61": "Brazil"
             },
             "ipv6": {
                 "2804:1398:1::164:61": "Marilia, Brazil"
@@ -15365,7 +15365,7 @@
         },
         "lg.justg.com": {
             "ipv4": {
-                "102.223.74.212": "Johannesburg, South Africa"
+                "102.223.74.212": "Seychelles"
             },
             "ipv6": {
                 "2a0c:0640:0000:0001:0000:0000:363b:9b95": "Hong Kong"
@@ -15521,7 +15521,7 @@
     "citynet.at": {
         "https://lg.citynet.at/": {
             "ipv4": {
-                "195.149.216.5": "Mils bei Solbad Hall, Austria"
+                "195.149.216.5": "Hall in Tirol, Austria"
             },
             "ipv6": {
                 "2a02:28e8:3:2::21": "Austria"
