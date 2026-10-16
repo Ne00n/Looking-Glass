@@ -2007,7 +2007,7 @@
         },
         "lg-phoenix.serverhub.com": {
             "ipv4": {
-                "104.140.1.38": "Spokane, United States"
+                "104.140.1.38": "Bonney Lake, United States"
             },
             "ipv6": {}
         },
@@ -3491,7 +3491,7 @@
         },
         "lg-nskttk.justhost.ru": {
             "ipv4": {
-                "193.38.50.142": "Kyiv, Ukraine"
+                "193.38.50.142": "United Arab Emirates"
             },
             "ipv6": {
                 "2a00:b700:4::1:291": "Novosibirsk, Russia"
@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Orem, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Orem, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Orem, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8379,7 +8379,7 @@
                 "155.254.192.138": "Rotterdam, The Netherlands",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "n/a",
-                "193.38.50.142": "Kyiv, Ukraine",
+                "193.38.50.142": "United Arab Emirates",
                 "194.87.68.192": "St Petersburg, Russia",
                 "209.209.112.37": "n/a",
                 "212.60.5.88": "Moscow, Russia",
@@ -8665,7 +8665,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Moravska Nova Ves, Czechia"
+                "93.99.104.115": "Locenice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Orem, United States",
+                "166.70.34.35": "Brigham City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Kobierzyce, Poland"
+                "185.56.208.2": "Bielany Wrocawskie, Poland"
             },
             "ipv6": {}
         }
@@ -13054,7 +13054,7 @@
         },
         "https://lg.fonira.net": {
             "ipv4": {
-                "178.251.64.167": "Austria"
+                "178.251.64.167": "Vienna, Austria"
             },
             "ipv6": {
                 "2a02:1748:f064:160::167": "Sankt Polten, Austria"
@@ -13441,7 +13441,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Americana, Brazil"
+                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
