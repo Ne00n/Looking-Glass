@@ -291,7 +291,7 @@
         },
         "http://dallas.lg.ftpit.com/": {
             "ipv4": {
-                "192.175.23.110": "Atlanta, United States"
+                "192.175.23.110": "United States"
             },
             "ipv6": {
                 "2606:1780::1:864a:465e": "n/a"
@@ -299,7 +299,7 @@
         },
         "losangeles.lg.ftpit.com": {
             "ipv4": {
-                "198.52.245.10": "Los Angeles, United States"
+                "198.52.245.10": "United States"
             },
             "ipv6": {}
         }
@@ -310,7 +310,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "Canary Wharf, United Kingdom"
+                "89.33.7.2": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -323,19 +323,19 @@
                 "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
-                "45.43.64.64": "Canary Wharf, United Kingdom"
+                "45.43.64.64": "City of London, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "Canary Wharf, United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "Canary Wharf, United Kingdom"
+                "2a05:9f40:1f:ee::2": "United Kingdom"
             }
         }
     },
@@ -2087,7 +2087,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Bulgaria"
+                "78.128.92.20": "Dupnitsa, Bulgaria"
             },
             "ipv6": {}
         },
@@ -3491,7 +3491,7 @@
         },
         "lg-nskttk.justhost.ru": {
             "ipv4": {
-                "193.38.50.142": "United Arab Emirates"
+                "193.38.50.142": "Rossosh, Russia"
             },
             "ipv6": {
                 "2a00:b700:4::1:291": "Novosibirsk, Russia"
@@ -4129,7 +4129,7 @@
     "albahost.net": {
         "https://lg.albahost.net": {
             "ipv4": {
-                "31.220.29.4": "Frankfurt am Main, Germany"
+                "31.220.29.4": "Germany"
             },
             "ipv6": {}
         },
@@ -5407,7 +5407,7 @@
     "oneilonline.com": {
         "https://oneilonline.com/ourdatacenter-status.php?city=Amsterdam": {
             "ipv4": {
-                "185.115.32.148": "Amsterdam, The Netherlands"
+                "185.115.32.148": "Dronten, The Netherlands"
             },
             "ipv6": {}
         },
@@ -7273,7 +7273,7 @@
                 "193.105.134.3": "Stockholm, Sweden"
             },
             "ipv6": {
-                "2a0b:c040:1:2::3": "United Kingdom"
+                "2a0b:c040:1:2::3": "Ukraine"
             }
         }
     },
@@ -8379,7 +8379,7 @@
                 "155.254.192.138": "Rotterdam, The Netherlands",
                 "176.32.32.133": "Kazan', Russia",
                 "185.143.222.48": "n/a",
-                "193.38.50.142": "United Arab Emirates",
+                "193.38.50.142": "Rossosh, Russia",
                 "194.87.68.192": "St Petersburg, Russia",
                 "209.209.112.37": "n/a",
                 "212.60.5.88": "Moscow, Russia",
@@ -8580,7 +8580,7 @@
     "obhost.net": {
         "https://obhost.net/datacenter.php": {
             "ipv4": {
-                "103.86.135.177": "Pakistan",
+                "103.86.135.177": "Multan, Pakistan",
                 "108.61.5.91": "Piscataway, United States",
                 "113.203.235.105": "Pakistan",
                 "152.89.245.245": "Frankfurt am Main, Germany",
@@ -8665,7 +8665,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Locenice, Czechia"
+                "93.99.104.115": "Moravska Nova Ves, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Bielany Wrocawskie, Poland"
+                "185.56.208.2": "Kobierzyce, Poland"
             },
             "ipv6": {}
         }
@@ -12030,7 +12030,7 @@
     "zitline.net.id": {
         "http://lg.zitline.net.id": {
             "ipv4": {
-                "103.87.228.9": "Bandar Lampung, Indonesia"
+                "103.87.228.9": "Indonesia"
             },
             "ipv6": {
                 "2400:d940:c000::2": "Indonesia"
