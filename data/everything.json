@@ -1880,7 +1880,7 @@
                 "172.107.96.75": "United States"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
             }
         },
         "lg.sao.psychz.net": {
@@ -2181,7 +2181,7 @@
     "servermania.com": {
         "https://lg.lhr1.servermania.com/": {
             "ipv4": {
-                "23.236.147.242": "Poplar, United Kingdom"
+                "23.236.147.242": "Canary Wharf, United Kingdom"
             },
             "ipv6": {}
         },
@@ -2240,7 +2240,7 @@
                 "78.142.195.195": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:12::10b": "Amsterdam, The Netherlands"
+                "2a0c:59c0:12::10b": "Germany"
             }
         },
         "dus.lg.v.ps": {
@@ -2280,7 +2280,7 @@
                 "185.248.86.86": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a0b:89c1:2::16d": "City of London, United Kingdom"
+                "2a0b:89c1:2::16d": "Germany"
             }
         },
         "https://nrt.lg.v.ps/": {
@@ -3836,7 +3836,7 @@
         },
         "https://lon-gb-ping.vultr.com/": {
             "ipv4": {
-                "108.61.196.101": "Poplar, United Kingdom"
+                "108.61.196.101": "Canary Wharf, United Kingdom"
             },
             "ipv6": {}
         },
@@ -4024,10 +4024,10 @@
         },
         "https://uk.lg.speedypage.com/": {
             "ipv4": {
-                "5.44.251.178": "Poplar, United Kingdom"
+                "5.44.251.178": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
-                "2a06:a005:16d0:5::a": "Poplar, United Kingdom"
+                "2a06:a005:16d0:5::a": "Canary Wharf, United Kingdom"
             }
         }
     },
@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -4612,13 +4612,13 @@
     "de-cix.net": {
         "https://de-cix.net/en/services/looking-glass": {
             "ipv4": {
-                "80.81.193.66": "Germany"
+                "80.81.193.66": "Israel"
             },
             "ipv6": {}
         },
         "https://lg.de-cix.net/api/v1/routeservers/rs1_fra_ipv4/status": {
             "ipv4": {
-                "80.81.192.157": "Germany"
+                "80.81.192.157": "Israel"
             },
             "ipv6": {}
         },
@@ -5582,10 +5582,10 @@
         },
         "lon.speedtest.clouvider.net": {
             "ipv4": {
-                "5.180.211.133": "Poplar, United Kingdom"
+                "5.180.211.133": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
-                "2a0d:5082:0:4::2": "Poplar, United Kingdom"
+                "2a0d:5082:0:4::2": "Canary Wharf, United Kingdom"
             }
         },
         "man.speedtest.clouvider.net": {
@@ -5936,7 +5936,7 @@
                 "195.123.233.46": "Secaucus, United States",
                 "195.123.237.66": "Vaduz, Liechtenstein",
                 "195.123.245.97": "Prague, Czechia",
-                "45.128.148.72": "Kyiv, Ukraine",
+                "45.128.148.72": "Ukraine",
                 "45.90.57.70": "Geneva, Switzerland",
                 "5.101.88.6": "Russia",
                 "5.34.178.139": "Miami, United States",
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -7222,7 +7222,7 @@
                 "62.133.33.13": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:2::69b9:84cd": "Amsterdam, The Netherlands"
+                "2a0c:59c0:2::69b9:84cd": "Germany"
             }
         },
         "https://lg-de1.sa.net/": {
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8665,7 +8665,7 @@
     "finalhosting.cz": {
         "https://lg.finalhosting.cz/": {
             "ipv4": {
-                "93.99.104.115": "Moravska Nova Ves, Czechia"
+                "93.99.104.115": "Locenice, Czechia"
             },
             "ipv6": {
                 "2a01:5e0:36:c034::1": "Holesov, Czechia"
@@ -8895,7 +8895,7 @@
         },
         "http://lg.chi.madcityservers.com/": {
             "ipv4": {
-                "172.99.249.105": "Chicago, United States"
+                "172.99.249.105": "United States"
             },
             "ipv6": {
                 "2602:ffc8:1:28:0000:0000:058b:2762": "Chicago, United States"
@@ -9073,7 +9073,7 @@
         },
         "lms-speedtest.lg.bluevps.com": {
             "ipv4": {
-                "85.239.41.247": "Secaucus, United States"
+                "85.239.41.247": "Russia"
             },
             "ipv6": {}
         },
@@ -9481,7 +9481,7 @@
                 "172.107.96.75": "United States"
             },
             "ipv6": {
-                "2604:6600:2008:1::a5f1:38f2": "Poplar, United Kingdom"
+                "2604:6600:2008:1::a5f1:38f2": "Canary Wharf, United Kingdom"
             }
         },
         "https://www.iozoom.com/datacenter/los-angeles-vps/": {
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Orem, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Kobierzyce, Poland"
+                "185.56.208.2": "Bielany Wrocawskie, Poland"
             },
             "ipv6": {}
         }
@@ -13310,7 +13310,7 @@
     "redewt.net": {
         "https://lg.noc.redewt.net": {
             "ipv4": {
-                "185.240.251.126": "Braga, Portugal"
+                "185.240.251.126": "Portugal"
             },
             "ipv6": {
                 "2a03:6420:0:babe::1": "Portugal"
@@ -13468,7 +13468,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Solden, Germany"
+                "185.171.47.121": "Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
