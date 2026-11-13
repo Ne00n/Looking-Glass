@@ -310,7 +310,7 @@
                 "107.161.164.164": "United States",
                 "107.161.173.11": "United States",
                 "107.181.135.11": "Dallas, United States",
-                "89.33.7.2": "City of London, United Kingdom"
+                "89.33.7.2": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:2222:a::a": "United Kingdom",
@@ -323,19 +323,19 @@
                 "107.161.173.2": "United States",
                 "162.217.248.2": "New York, United States",
                 "185.53.130.2": "Amsterdam, The Netherlands",
-                "45.43.64.64": "City of London, United Kingdom"
+                "45.43.64.64": "Canary Wharf, United Kingdom"
             },
             "ipv6": {
                 "2a07:9944:20:a::2": "United Kingdom",
                 "2a02:2ca0:64:ee::2": "Amsterdam, The Netherlands",
                 "2a07:9944:40:1a::2": "United States",
-                "2a05:9f44:2a05:1a::b36:db6": "United Kingdom"
+                "2a05:9f44:2a05:1a::b36:db6": "Canary Wharf, United Kingdom"
             }
         },
         "https://lon.lg.iniz.com": {
             "ipv4": {},
             "ipv6": {
-                "2a05:9f40:1f:ee::2": "United Kingdom"
+                "2a05:9f40:1f:ee::2": "Canary Wharf, United Kingdom"
             }
         }
     },
@@ -2055,7 +2055,7 @@
         },
         "lg.dc08.dedicontrol.com": {
             "ipv4": {
-                "45.81.7.154": "Germany"
+                "45.81.7.154": "Lauterbourg, France"
             },
             "ipv6": {}
         },
@@ -2087,7 +2087,7 @@
     "cheapwindowsvps.com": {
         "bg.lg.cheapwindowsvps.com": {
             "ipv4": {
-                "78.128.92.20": "Dupnitsa, Bulgaria"
+                "78.128.92.20": "Blagoevgrad, Bulgaria"
             },
             "ipv6": {}
         },
@@ -2240,7 +2240,7 @@
                 "78.142.195.195": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:12::10b": "Germany"
+                "2a0c:59c0:12::10b": "Amsterdam, The Netherlands"
             }
         },
         "dus.lg.v.ps": {
@@ -2280,7 +2280,7 @@
                 "185.248.86.86": "City of London, United Kingdom"
             },
             "ipv6": {
-                "2a0b:89c1:2::16d": "Germany"
+                "2a0b:89c1:2::16d": "City of London, United Kingdom"
             }
         },
         "https://nrt.lg.v.ps/": {
@@ -5120,7 +5120,7 @@
                 "194.180.179.242": "Germany",
                 "198.55.111.5": "United States",
                 "212.224.70.16": "Germany",
-                "45.81.7.154": "Germany",
+                "45.81.7.154": "Lauterbourg, France",
                 "45.9.15.195": "Moscow, Russia",
                 "5.104.78.10": "Los Angeles, United States",
                 "62.113.254.1": "Germany",
@@ -7222,7 +7222,7 @@
                 "62.133.33.13": "Amsterdam, The Netherlands"
             },
             "ipv6": {
-                "2a0c:59c0:2::69b9:84cd": "Germany"
+                "2a0c:59c0:2::69b9:84cd": "Amsterdam, The Netherlands"
             }
         },
         "https://lg-de1.sa.net/": {
@@ -7893,7 +7893,7 @@
         },
         "http://ru-lg.serverum.com/": {
             "ipv4": {
-                "192.144.36.189": "Latvia"
+                "192.144.36.189": "Russia"
             },
             "ipv6": {
                 "2a09:80:160:0:5054:ff:fec1:7f88": "St Petersburg, Russia"
@@ -8710,7 +8710,7 @@
     "lan-servers.com": {
         "https://www.lan-servers.com/?language=bulgarian": {
             "ipv4": {
-                "5.0.8.5": "Syria"
+                "5.0.8.5": "Damascus, Syria"
             },
             "ipv6": {}
         }
@@ -8917,7 +8917,7 @@
         },
         "http://lg.ny.madcityservers.com//": {
             "ipv4": {
-                "134.202.120.10": "Los Angeles, United States"
+                "134.202.120.10": "Reston, United States"
             },
             "ipv6": {
                 "7081:0000:0000:0000:5ec7:5ee6": "n/a"
@@ -9606,7 +9606,7 @@
         },
         "http://lg-la.nextarray.com/": {
             "ipv4": {
-                "45.13.233.136": "Secaucus, United States"
+                "45.13.233.136": "Lauterbourg, France"
             },
             "ipv6": {}
         },
@@ -10159,7 +10159,7 @@
     "belwue.de": {
         "belwue.de/tools/speedtest.html": {
             "ipv4": {
-                "129.143.4.238": "Neckarsteinach, Germany"
+                "129.143.4.238": "Heidelberg, Germany"
             },
             "ipv6": {}
         }
@@ -11850,7 +11850,7 @@
     "greenlan.pl": {
         "http://lg.greenlan.pl/": {
             "ipv4": {
-                "185.56.208.2": "Bielany Wrocawskie, Poland"
+                "185.56.208.2": "Smolec, Poland"
             },
             "ipv6": {}
         }
@@ -12772,7 +12772,7 @@
     "sitel.net.pl": {
         "http://lg.sitel.net.pl/": {
             "ipv4": {
-                "91.188.97.174": "Poland"
+                "91.188.97.174": "Molna, Poland"
             },
             "ipv6": {
                 "2a02:2430:1:5::2": "Poland"
@@ -13441,7 +13441,7 @@
     "byteweb.com.br": {
         "http://lg.byteweb.com.br": {
             "ipv4": {
-                "186.193.193.35": "Santa Barbara d'Oeste, Brazil"
+                "186.193.193.35": "Americana, Brazil"
             },
             "ipv6": {
                 "2804:338:0:10::5": "n/a"
@@ -13468,7 +13468,7 @@
     "companycloud.network": {
         "https://lg.companycloud.network": {
             "ipv4": {
-                "185.171.47.121": "Germany"
+                "185.171.47.121": "Baden-Baden, Germany"
             },
             "ipv6": {
                 "2a0d:1f80:1:122::121": "Germany"
@@ -13862,7 +13862,7 @@
     "tre.se": {
         "http://lg.tre.se": {
             "ipv4": {
-                "80.251.201.188": "Odder, Denmark"
+                "80.251.201.188": "Stenlse, Denmark"
             },
             "ipv6": {
                 "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
