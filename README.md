@@ -2730,6 +2730,9 @@
 * [https://www.altushost.com/europe-data-centers/](https://www.altushost.com/europe-data-centers/)
 ### 0l.de
 * [lg.0l.de](http://lg.0l.de)
+### darkvps.pro
+* [Website — darkvps.pro](https://darkvps.pro/)
+* [Looking Glass — lg.darkvps.pro](https://lg.darkvps.pro/)
 ### online.net.br
 * [lg.online.net.br](http://lg.online.net.br)
 ### mbix.ca
