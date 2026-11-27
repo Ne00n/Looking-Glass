@@ -1609,7 +1609,7 @@
         },
         "racknerd.com/utah-datacenter": {
             "ipv4": {
-                "64.140.171.145": "Ogden, United States"
+                "64.140.171.145": "United States"
             },
             "ipv6": {}
         }
@@ -2007,7 +2007,7 @@
         },
         "lg-phoenix.serverhub.com": {
             "ipv4": {
-                "104.140.1.38": "Bonney Lake, United States"
+                "104.140.1.38": "United States"
             },
             "ipv6": {}
         },
@@ -3678,7 +3678,7 @@
         },
         "http://lg.waw.hosthatch.com/": {
             "ipv4": {
-                "45.132.75.75": "Singapore, Singapore"
+                "45.132.75.75": "Sweden"
             },
             "ipv6": {
                 "2a0e:dc0:7:10::2": "Zurich, Switzerland"
@@ -4413,7 +4413,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Salt Lake City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -4507,7 +4507,7 @@
                 "23.133.64.25": "Calgary, Canada"
             },
             "ipv6": {
-                "2602:fed2:fe0:269::1": "Canada"
+                "2602:fed2:fe0:269::1": "Calgary, Canada"
             }
         },
         "https://yyz01.lg.freerangecloud.com/": {
@@ -4952,7 +4952,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Dothan, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5140,7 +5140,7 @@
                 "2a01:7e0::212:224:70:16": "Germany",
                 "2604:6600:0:c::2": "United States",
                 "2a0a:51c0:0:1f::1": "Germany",
-                "2607:fcd0:aa80:500::2": "Dothan, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         }
     },
@@ -5485,7 +5485,7 @@
         "https://oneilonline.com/ourdatacenter-status.php?city=New%20York": {
             "ipv4": {
                 "45.199.226.132": "Taipei, Taiwan",
-                "64.74.240.241": "Jersey City, United States"
+                "64.74.240.241": "United States"
             },
             "ipv6": {}
         },
@@ -6170,7 +6170,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Salt Lake City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -6375,7 +6375,7 @@
         },
         "https://www.krypt.com/network/san-jose-ca-data-center-sjc7/": {
             "ipv4": {
-                "107.6.242.126": "Honolulu, United States",
+                "107.6.242.126": "United States",
                 "174.139.126.166": "United States"
             },
             "ipv6": {}
@@ -6547,7 +6547,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Dothan, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.quadranet.com/chicago-datacenter": {
@@ -6797,10 +6797,10 @@
         },
         "mk.edis.at": {
             "ipv4": {
-                "46.183.185.10": "Skopje, North Macedonia"
+                "46.183.185.10": "North Macedonia"
             },
             "ipv6": {
-                "2a03:f80:389:d190::1": "Skopje, North Macedonia"
+                "2a03:f80:389:d190::1": "North Macedonia"
             }
         },
         "nl.edis.at": {
@@ -7294,7 +7294,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Salt Lake City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -8286,7 +8286,7 @@
     "evoxt.com": {
         "https://ukping.evoxt.com/": {
             "ipv4": {
-                "193.247.144.253": "London, United Kingdom"
+                "193.247.144.253": "Exeter, United Kingdom"
             },
             "ipv6": {}
         },
@@ -9449,7 +9449,7 @@
                 "104.223.90.5": "United States"
             },
             "ipv6": {
-                "2607:fcd0:aa80:500::2": "Dothan, United States"
+                "2607:fcd0:aa80:500::2": "United States"
             }
         },
         "https://www.iozoom.com/datacenter/chicago-vps/": {
@@ -9537,7 +9537,7 @@
                 "139.64.133.2": "Kansas City, United States",
                 "147.189.140.2": "Flint, United States",
                 "162.210.250.241": "United States",
-                "166.70.34.35": "Brigham City, United States",
+                "166.70.34.35": "Salt Lake City, United States",
                 "172.106.106.2": "United States",
                 "174.138.168.10": "Phoenix, United States",
                 "176.111.216.2": "United States",
@@ -10202,13 +10202,13 @@
     "rediris.es": {
         "https://www.rediris.es/red/lg/": {
             "ipv4": {
-                "130.206.194.254": "Bilbao, Spain",
-                "130.206.195.254": "Bilbao, Spain",
-                "130.206.197.254": "Bilbao, Spain",
-                "130.206.198.125": "Bilbao, Spain",
-                "130.206.198.254": "Bilbao, Spain",
-                "130.206.201.254": "Bilbao, Spain",
-                "130.206.206.250": "Bilbao, Spain",
+                "130.206.194.254": "Pamplona, Spain",
+                "130.206.195.254": "Pamplona, Spain",
+                "130.206.197.254": "Pamplona, Spain",
+                "130.206.198.125": "Pamplona, Spain",
+                "130.206.198.254": "Pamplona, Spain",
+                "130.206.201.254": "Pamplona, Spain",
+                "130.206.206.250": "Pamplona, Spain",
                 "130.206.211.254": "Villanueva de la Canada, Spain",
                 "130.206.212.254": "Villanueva de la Canada, Spain"
             },
@@ -10350,7 +10350,7 @@
     "hkix.net": {
         "http://www.hkix.net/hkix/hkixlg.htm": {
             "ipv4": {
-                "123.255.88.1": "Hong Kong"
+                "123.255.88.1": "Hong Kong, Hong Kong"
             },
             "ipv6": {}
         }
